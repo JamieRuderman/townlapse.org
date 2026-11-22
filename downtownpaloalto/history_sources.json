@@ -20621,5 +20621,3130 @@
 "Bell's Books|37.4441,-122.1623": 2025,
 "Graduate by Hilton Palo Alto|37.448,-122.1592": 2025,
 "Nick The Greek|37.4462,-122.161": 2025
+},
+"news": [
+{
+"url": "https://www.paloaltoonline.com/palo-alto/2024/08/20/heres-why-former-stanford-and-nfl-quarterback-andrew-luck-is-investing-in-a-palo-alto-sports-bar/",
+"name": "The Pro",
+"address": "541 Ramona St",
+"event": "opening_soon",
+"date": "2024-08-20",
+"previous_tenant": "The Old Pro",
+"kind": "sports bar"
+},
+{
+"url": "https://www.paloaltoonline.com/palo-alto/2024/08/20/heres-why-former-stanford-and-nfl-quarterback-andrew-luck-is-investing-in-a-palo-alto-sports-bar/",
+"name": "The Old Pro",
+"address": "541 Ramona St",
+"event": "opened",
+"date": "1964",
+"previous_tenant": "",
+"kind": "sports bar"
+},
+{
+"url": "https://www.paloaltoonline.com/palo-alto/2024/08/20/heres-why-former-stanford-and-nfl-quarterback-andrew-luck-is-investing-in-a-palo-alto-sports-bar/",
+"name": "The Old Pro",
+"address": "541 Ramona St",
+"event": "closed",
+"date": "2022",
+"previous_tenant": "",
+"kind": "sports bar"
+},
+{
+"url": "https://www.paloaltoonline.com/palo-alto/2024/08/21/tane-vegan-izakaya-brings-plant-based-sushi-to-downtown-palo-alto/",
+"name": "Tane Vegan Izakaya",
+"address": "461 Emerson St",
+"event": "opened",
+"date": "2024-08-13",
+"previous_tenant": "Zadna Bowl",
+"kind": "vegan sushi restaurant"
+},
+{
+"url": "https://www.paloaltoonline.com/palo-alto/2024/09/04/khazana-a-modern-indian-restaurant-from-celebrity-chef-sanjeev-kapoor-will-soft-open-in-palo-alto-on-sept-9/",
+"name": "Khazana",
+"address": "339 University Ave",
+"event": "opening_soon",
+"date": "2024-09-04",
+"previous_tenant": "Joya Restaurant and Lounge",
+"kind": "modern Indian restaurant"
+},
+{
+"url": "https://www.paloaltoonline.com/palo-alto/2024/09/27/the-palo-alto-fine-dining-scene-takes-a-hit-with-bird-dogs-closure-but-expect-to-see-new-projects-from-chef-owner-robbie-wilson/",
+"name": "Bird Dog",
+"address": "",
+"event": "closed",
+"date": "2024-09-27",
+"previous_tenant": "",
+"kind": "fine-dining restaurant"
+},
+{
+"url": "https://www.paloaltoonline.com/palo-alto/2024/09/27/the-palo-alto-fine-dining-scene-takes-a-hit-with-bird-dogs-closure-but-expect-to-see-new-projects-from-chef-owner-robbie-wilson/",
+"name": "Bird Dog",
+"address": "",
+"event": "opened",
+"date": "2015",
+"previous_tenant": "Mandarin Gourmet",
+"kind": "fine-dining restaurant"
+},
+{
+"url": "https://www.paloaltoonline.com/palo-alto/2024/10/25/stanford-alumni-open-grab-and-go-concept-proper-food-in-downtown-palo-alto/",
+"name": "Proper Food",
+"address": "525 University Ave",
+"event": "opened",
+"date": "2024-10-29",
+"previous_tenant": "",
+"kind": "grab-and-go eatery"
+},
+{
+"url": "https://www.paloaltoonline.com/palo-alto/2024/10/29/matcha-cafe-maruwu-seicha-opens-in-downtown-palo-alto/",
+"name": "Maruwu Seicha",
+"address": "250 University Ave",
+"event": "opened",
+"date": "2024-10-20",
+"previous_tenant": "Peninsula Beauty",
+"kind": "matcha cafe"
+},
+{
+"url": "https://www.paloaltoonline.com/palo-alto/2024/12/26/macarena-to-serve-tapas-paella-in-palo-altos-former-bird-dog-space/",
+"name": "Macarena",
+"address": "420 Ramona St",
+"event": "opening_soon",
+"date": "2025-02",
+"previous_tenant": "Bird Dog",
+"kind": "Spanish tapas restaurant"
+},
+{
+"url": "https://www.paloaltoonline.com/palo-alto/2025/01/08/teleferic-barcelona-sues-soon-to-open-palo-alto-spanish-restaurant-macarena-over-allegations-of-stolen-confidential-information-and-recipes/",
+"name": "Macarena",
+"address": "",
+"event": "opening_soon",
+"date": "2025-02",
+"previous_tenant": "Bird Dog",
+"kind": "Spanish tapas restaurant"
+},
+{
+"url": "https://www.paloaltoonline.com/palo-alto/2025/04/30/teleferic-is-suing-macarena-over-allegations-of-stolen-recipes-but-does-the-food-taste-anything-alike/",
+"name": "Macarena",
+"address": "420 Ramona St",
+"event": "opened",
+"date": "2025-02",
+"previous_tenant": "",
+"kind": "Spanish tapas restaurant"
+},
+{
+"url": "https://www.paloaltoonline.com/palo-alto/2025/05/13/nick-the-greek-to-open-thursday-in-downtown-palo-alto/",
+"name": "Nick the Greek",
+"address": "322 University Ave",
+"event": "opening_soon",
+"date": "2025-05-15",
+"previous_tenant": "Maum",
+"kind": "fast-casual Greek restaurant"
+},
+{
+"url": "https://www.paloaltoonline.com/palo-alto/2025/06/11/this-30-year-old-burrito-joint-is-opening-its-fifth-location-in-downtown-palo-alto/",
+"name": "La Corneta Taqueria",
+"address": "324 University Ave",
+"event": "opening_soon",
+"date": "2025-09",
+"previous_tenant": "SliderBar",
+"kind": "Mexican taqueria"
+},
+{
+"url": "https://www.paloaltoonline.com/palo-alto/2025/09/09/korean-rice-bowl-chain-expands-to-palo-alto-ceo-hopes-to-run-store-with-humanoid-robots/",
+"name": "Simmer & Steamer",
+"address": "444 University Ave",
+"event": "opened",
+"date": "2025-09",
+"previous_tenant": "Shekoh Confections",
+"kind": "Korean rice bowls"
+},
+{
+"url": "https://www.paloaltoonline.com/palo-alto/2025/11/03/goodthing-coffee-introduces-its-einspanners-and-cheesecakes-to-downtown-palo-alto/",
+"name": "Goodthing Coffee",
+"address": "532 Ramona St",
+"event": "opened",
+"date": "2025-10-28",
+"previous_tenant": "Wood Oven Pizza",
+"kind": "cafe and bakery"
+},
+{
+"url": "https://www.paloaltoonline.com/palo-alto/2025/11/11/get-your-matcha-fix-from-a-robot-barista-in-palo-alto/",
+"name": "Yummy Future",
+"address": "170 University Ave",
+"event": "opened",
+"date": "2025-10",
+"previous_tenant": "American Apparel",
+"kind": "robot barista cafe"
+},
+{
+"url": "https://www.paloaltoonline.com/palo-alto/2025/12/09/this-notable-ramen-chain-is-coming-to-downtown-palo-alto/",
+"name": "Marufuku Ramen",
+"address": "374 University Ave",
+"event": "opening_soon",
+"date": "2026",
+"previous_tenant": "Starbucks",
+"kind": "ramen restaurant"
+},
+{
+"url": "https://www.paloaltoonline.com/palo-alto/2025/12/09/this-notable-ramen-chain-is-coming-to-downtown-palo-alto/",
+"name": "Ramen Nagi",
+"address": "",
+"event": "opened",
+"date": "2018",
+"previous_tenant": "",
+"kind": "ramen restaurant"
+},
+{
+"url": "https://www.paloaltoonline.com/palo-alto/2026/01/13/review-meyhouse-owners-debut-all-you-can-eat-kebab-restaurant-in-downtown-palo-alto/",
+"name": "Meze Kebab",
+"address": "632 Emerson St",
+"event": "opened",
+"date": "2026-01-10",
+"previous_tenant": "Tacolicious",
+"kind": "all-you-can-eat kebab restaurant"
+},
+{
+"url": "https://www.paloaltoonline.com/palo-alto/2026/01/13/the-end-of-an-era-after-36-years-in-palo-alto-il-fornaio-prepares-to-close/",
+"name": "Il Fornaio",
+"address": "520 Cowper St",
+"event": "closed",
+"date": "2026-01-18",
+"previous_tenant": "",
+"kind": "Italian restaurant"
+},
+{
+"url": "https://www.paloaltoonline.com/palo-alto/2026/01/13/the-end-of-an-era-after-36-years-in-palo-alto-il-fornaio-prepares-to-close/",
+"name": "Il Fornaio",
+"address": "520 Cowper St",
+"event": "opened",
+"date": "1990",
+"previous_tenant": "",
+"kind": "Italian restaurant"
+},
+{
+"url": "https://www.paloaltoonline.com/palo-alto/2026/01/28/the-pro-opens-in-downtown-palo-alto-carrying-on-a-58-year-legacy/",
+"name": "The Pro",
+"address": "541 Ramona St",
+"event": "opened",
+"date": "2026-01-26",
+"previous_tenant": "The Old Pro",
+"kind": "sports bar restaurant"
+},
+{
+"url": "https://www.paloaltoonline.com/palo-alto/2026/01/28/the-pro-opens-in-downtown-palo-alto-carrying-on-a-58-year-legacy/",
+"name": "The Old Pro",
+"address": "541 Ramona St",
+"event": "closed",
+"date": "2022",
+"previous_tenant": "",
+"kind": "sports bar"
+},
+{
+"url": "https://www.paloaltoonline.com/palo-alto/2026/01/28/the-pro-opens-in-downtown-palo-alto-carrying-on-a-58-year-legacy/",
+"name": "The Old Pro",
+"address": "541 Ramona St",
+"event": "opened",
+"date": "1964",
+"previous_tenant": "",
+"kind": "sports bar"
+},
+{
+"url": "https://www.paloaltoonline.com/palo-alto/2026/02/09/team-behind-los-altos-omakase-restaurant-to-debut-matcha-cafe-in-downtown-palo-alto/",
+"name": "Rikyu",
+"address": "121 Lytton Ave",
+"event": "opening_soon",
+"date": "2026-02",
+"previous_tenant": "TOMO Tea House",
+"kind": "Japanese matcha cafe"
+},
+{
+"url": "https://www.paloaltoonline.com/palo-alto/2026/02/25/chinese-tea-chain-plans-bay-area-debut-in-downtown-palo-alto/",
+"name": "Auntea Jenny",
+"address": "328 University Ave",
+"event": "opening_soon",
+"date": "2026",
+"previous_tenant": "",
+"kind": "Chinese tea shop"
+},
+{
+"url": "https://www.paloaltoonline.com/palo-alto/2026/02/25/chinese-tea-chain-plans-bay-area-debut-in-downtown-palo-alto/",
+"name": "La Corneta Taqueria",
+"address": "",
+"event": "opening_soon",
+"date": "2026",
+"previous_tenant": "",
+"kind": "Mexican taqueria"
+},
+{
+"url": "https://www.paloaltoonline.com/palo-alto/2026/04/21/these-8-new-eateries-are-coming-to-downtown-palo-alto/",
+"name": "Bistro Demiya",
+"address": "407 Lytton Ave",
+"event": "opening_soon",
+"date": "2026",
+"previous_tenant": "Poke One",
+"kind": "Japanese yoshoku bistro"
+},
+{
+"url": "https://www.paloaltoonline.com/palo-alto/2026/04/21/these-8-new-eateries-are-coming-to-downtown-palo-alto/",
+"name": "La Corneta Taqueria",
+"address": "324 University Ave",
+"event": "opening_soon",
+"date": "2026-05",
+"previous_tenant": "SliderBar",
+"kind": "Mexican taqueria"
+},
+{
+"url": "https://www.paloaltoonline.com/palo-alto/2026/04/21/these-8-new-eateries-are-coming-to-downtown-palo-alto/",
+"name": "Mints & Honey",
+"address": "728 Emerson St",
+"event": "opening_soon",
+"date": "2026",
+"previous_tenant": "",
+"kind": "brunch cafe"
+},
+{
+"url": "https://www.paloaltoonline.com/palo-alto/2026/04/21/these-8-new-eateries-are-coming-to-downtown-palo-alto/",
+"name": "Peng's Kitchen",
+"address": "535 Bryant St",
+"event": "opening_soon",
+"date": "2026",
+"previous_tenant": "Son & Garden",
+"kind": "Chinese restaurant"
+},
+{
+"url": "https://www.paloaltoonline.com/palo-alto/2026/04/21/these-8-new-eateries-are-coming-to-downtown-palo-alto/",
+"name": "Son & Garden",
+"address": "535 Bryant St",
+"event": "closed",
+"date": "2026",
+"previous_tenant": "",
+"kind": "restaurant"
+},
+{
+"url": "https://www.paloaltoonline.com/palo-alto/2026/04/21/these-8-new-eateries-are-coming-to-downtown-palo-alto/",
+"name": "Rikyu",
+"address": "121 Lytton Ave",
+"event": "opening_soon",
+"date": "2026-05",
+"previous_tenant": "TOMO Tea House",
+"kind": "Japanese matcha cafe"
+},
+{
+"url": "https://www.paloaltoonline.com/palo-alto/2026/04/21/these-8-new-eateries-are-coming-to-downtown-palo-alto/",
+"name": "Taste of Anatolia",
+"address": "263 University Ave",
+"event": "opening_soon",
+"date": "2026",
+"previous_tenant": "Round Table Pizza",
+"kind": "Turkish cafe"
+},
+{
+"url": "https://www.paloaltoonline.com/palo-alto/2026/04/21/these-8-new-eateries-are-coming-to-downtown-palo-alto/",
+"name": "Urban Momo",
+"address": "448 University Ave",
+"event": "opening_soon",
+"date": "2026-04",
+"previous_tenant": "Sushirrito",
+"kind": "Nepalese restaurant"
+},
+{
+"url": "https://www.paloaltoonline.com/palo-alto/2026/04/21/these-8-new-eateries-are-coming-to-downtown-palo-alto/",
+"name": "Sushirrito",
+"address": "448 University Ave",
+"event": "closed",
+"date": "2026",
+"previous_tenant": "",
+"kind": "sushi burrito restaurant"
+},
+{
+"url": "https://www.paloaltoonline.com/palo-alto/2026/04/21/these-8-new-eateries-are-coming-to-downtown-palo-alto/",
+"name": "Zingster's",
+"address": "220B University Ave",
+"event": "opening_soon",
+"date": "2026-04-24",
+"previous_tenant": "Cafe 220",
+"kind": "hot chicken burgers"
+},
+{
+"url": "https://www.paloaltoonline.com/palo-alto/2026/08/26/avenidas-and-la-comida-to-host-foodie-fundraiser-to-support-older-adults/",
+"name": "La Comida",
+"address": "429 Bryant St",
+"event": "opened",
+"date": "2026",
+"previous_tenant": "",
+"kind": "senior meal nonprofit"
+},
+{
+"url": "https://www.paloaltoonline.com/palo-alto/2026/08/26/avenidas-and-la-comida-to-host-foodie-fundraiser-to-support-older-adults/",
+"name": "La Comida",
+"address": "450 Bryant St",
+"event": "moved_out",
+"date": "",
+"previous_tenant": "",
+"kind": "senior meal nonprofit"
+},
+{
+"url": "https://www.paloaltoonline.com/palo-alto/2026/08/26/avenidas-and-la-comida-to-host-foodie-fundraiser-to-support-older-adults/",
+"name": "La Comida",
+"address": "",
+"event": "moved_out",
+"date": "2026",
+"previous_tenant": "",
+"kind": "senior meal nonprofit"
+},
+{
+"url": "https://www.paloaltoonline.com/palo-alto/2026/11/04/new-palo-alto-froyo-spot-draws-long-lines/",
+"name": "Yiaya Greek Yogurt",
+"address": "520 Bryant St",
+"event": "opened",
+"date": "2026",
+"previous_tenant": "Blue Bin Vintage",
+"kind": "frozen yogurt shop"
+},
+{
+"url": "https://www.paloaltoonline.com/palo-alto/2026/11/04/new-palo-alto-froyo-spot-draws-long-lines/",
+"name": "Fraiche",
+"address": "",
+"event": "closed",
+"date": "2019",
+"previous_tenant": "",
+"kind": "frozen yogurt shop"
+},
+{
+"url": "https://www.paloaltoonline.com/palo-alto/2026/11/04/new-palo-alto-froyo-spot-draws-long-lines/",
+"name": "Yogurtland",
+"address": "",
+"event": "closed",
+"date": "2018",
+"previous_tenant": "",
+"kind": "frozen yogurt shop"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2013/10/08/update-sams-chowder-house/",
+"name": "Sam's Chowder House",
+"address": "185 University Ave",
+"event": "opening_soon",
+"date": "2013-11",
+"previous_tenant": "Campo 185",
+"kind": "seafood restaurant"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2013/10/08/update-sams-chowder-house/",
+"name": "Campo 185",
+"address": "185 University Ave",
+"event": "closed",
+"date": "2013",
+"previous_tenant": "",
+"kind": "pizza restaurant"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2013/10/09/palo-alto-to-get-a-blue-bottle-coffee/",
+"name": "Blue Bottle Coffee",
+"address": "101 Lytton Ave",
+"event": "opening_soon",
+"date": "2013-10-09",
+"previous_tenant": "",
+"kind": "coffee shop"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2013/10/21/food-fight-palo-alto-vs-san-francisco/",
+"name": "Scoop Microcreamery",
+"address": "",
+"event": "opened",
+"date": "2013-10",
+"previous_tenant": "",
+"kind": "ice cream shop"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2013/10/31/the-early-word-on-pizzeria-delfina-in-palo-alto/",
+"name": "Pizzeria Delfina",
+"address": "651 Emerson St",
+"event": "opening_soon",
+"date": "2014-02",
+"previous_tenant": "Empire Grill and Tap Room",
+"kind": "pizza restaurant"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2013/10/31/the-early-word-on-pizzeria-delfina-in-palo-alto/",
+"name": "Empire Grill and Tap Room",
+"address": "651 Emerson St",
+"event": "closed",
+"date": "2013",
+"previous_tenant": "",
+"kind": "bar and grill"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2013/11/08/sams-chowder-house-opening-monday-in-palo-alto/",
+"name": "Sam's Chowder House",
+"address": "185 University Ave",
+"event": "opening_soon",
+"date": "2013-11-11",
+"previous_tenant": "Campo 185",
+"kind": "seafood restaurant"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2013/11/08/sams-chowder-house-opening-monday-in-palo-alto/",
+"name": "Campo 185",
+"address": "185 University Ave",
+"event": "closed",
+"date": "2013",
+"previous_tenant": "",
+"kind": "pizza restaurant"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2014/01/15/workshop-burger-in-palo-alto-looks-to-be-shuttered/",
+"name": "The Workshop Burger Bar & Grill",
+"address": "233 University Ave",
+"event": "closed",
+"date": "2014-01",
+"previous_tenant": "",
+"kind": "burger restaurant"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2014/01/15/workshop-burger-in-palo-alto-looks-to-be-shuttered/",
+"name": "The Workshop Burger Bar & Grill",
+"address": "233 University Ave",
+"event": "opened",
+"date": "2011-02",
+"previous_tenant": "",
+"kind": "burger restaurant"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2014/03/03/marchs-guillaume-bienaim-to-open-downtown-palo-alto-restaurant/",
+"name": "Zola",
+"address": "565 Bryant St",
+"event": "opening_soon",
+"date": "2014-05",
+"previous_tenant": "Roast Shop",
+"kind": "French bistro"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2014/03/07/downtown-palo-alto-gets-its-first-juice-shop/",
+"name": "Project Juice",
+"address": "575 High St",
+"event": "opening_soon",
+"date": "2014-04",
+"previous_tenant": "",
+"kind": "cold-pressed juice shop"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2014/03/16/lure-till-opens-in-downtown-palo-alto/",
+"name": "Epiphany Hotel",
+"address": "180 Hamilton Ave",
+"event": "opened",
+"date": "2014-03-10",
+"previous_tenant": "Casa Olga",
+"kind": "boutique hotel"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2014/03/16/lure-till-opens-in-downtown-palo-alto/",
+"name": "Lure + Till",
+"address": "180 Hamilton Ave",
+"event": "opened",
+"date": "2014-03-15",
+"previous_tenant": "",
+"kind": "farm-to-table restaurant"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2014/03/20/update-lure-till-opens-in-downtown-palo-alto/",
+"name": "Epiphany Hotel",
+"address": "180 Hamilton Ave",
+"event": "opened",
+"date": "2014-03-10",
+"previous_tenant": "",
+"kind": "boutique hotel"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2014/03/20/update-lure-till-opens-in-downtown-palo-alto/",
+"name": "Lure + Till",
+"address": "180 Hamilton Ave",
+"event": "opened",
+"date": "2014-03-15",
+"previous_tenant": "",
+"kind": "farm-to-table restaurant"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2014/04/03/downtown-palo-altos-sabrosa-taqueria-shutters/",
+"name": "Sabrosa Taqueria",
+"address": "448 University Ave",
+"event": "closed",
+"date": "2014-04",
+"previous_tenant": "",
+"kind": "taqueria"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2014/04/03/downtown-palo-altos-sabrosa-taqueria-shutters/",
+"name": "Thyme to Eat",
+"address": "448 University Ave",
+"event": "opened",
+"date": "2012-10",
+"previous_tenant": "",
+"kind": "restaurant"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2014/04/03/downtown-palo-altos-sabrosa-taqueria-shutters/",
+"name": "Robaii Falafel and Persian",
+"address": "",
+"event": "opened",
+"date": "1998",
+"previous_tenant": "",
+"kind": "Persian restaurant"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2014/04/03/downtown-palo-altos-sabrosa-taqueria-shutters/",
+"name": "Robaii Falafel and Persian",
+"address": "",
+"event": "closed",
+"date": "2010",
+"previous_tenant": "",
+"kind": "Persian restaurant"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2014/04/03/downtown-palo-altos-sabrosa-taqueria-shutters/",
+"name": "Sushirrito",
+"address": "448 University Ave",
+"event": "opening_soon",
+"date": "2014",
+"previous_tenant": "Sabrosa Taqueria",
+"kind": "sushi burrito restaurant"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2014/04/04/opening-alert-project-juice-in-downtown-palo-alto/",
+"name": "Project Juice",
+"address": "575 High St",
+"event": "opened",
+"date": "2014-04-04",
+"previous_tenant": "",
+"kind": "cold-pressed juice shop"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2014/04/09/pizzeria-delfina-palo-alto-to-open-this-weekend/",
+"name": "Pizzeria Delfina",
+"address": "651 Emerson St",
+"event": "opened",
+"date": "2014-04",
+"previous_tenant": "Empire Tap Room",
+"kind": "Italian pizzeria"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2014/04/09/pizzeria-delfina-palo-alto-to-open-this-weekend/",
+"name": "Empire Tap Room",
+"address": "651 Emerson St",
+"event": "closed",
+"date": "2013-04",
+"previous_tenant": "",
+"kind": "bar restaurant"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2014/05/13/figo-shutters-in-downtown-palo-alto/",
+"name": "Figo",
+"address": "326 University Ave",
+"event": "closed",
+"date": "2014-05",
+"previous_tenant": "",
+"kind": "Italian restaurant"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2014/05/13/figo-shutters-in-downtown-palo-alto/",
+"name": "Figo",
+"address": "326 University Ave",
+"event": "opened",
+"date": "2013-01",
+"previous_tenant": "Pasta Q",
+"kind": "Italian restaurant"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2014/05/13/figo-shutters-in-downtown-palo-alto/",
+"name": "Pasta Q",
+"address": "326 University Ave",
+"event": "opened",
+"date": "1998",
+"previous_tenant": "",
+"kind": "Italian pasta restaurant"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2014/05/13/figo-shutters-in-downtown-palo-alto/",
+"name": "Pasta Q",
+"address": "326 University Ave",
+"event": "closed",
+"date": "2012",
+"previous_tenant": "",
+"kind": "Italian pasta restaurant"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2014/07/14/gelato-shop-to-open-in-lytton-gateway/",
+"name": "Gelataio",
+"address": "121 Lytton Ave",
+"event": "opening_soon",
+"date": "2014-08",
+"previous_tenant": "",
+"kind": "gelato shop"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2014/07/15/blue-bottle-coffee-taps-out-of-lytton-gateway/",
+"name": "Gelataio",
+"address": "",
+"event": "opening_soon",
+"date": "2014-07-15",
+"previous_tenant": "",
+"kind": "gelato shop"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2014/07/18/handmade-truffle-shop-opening-today-in-downtown-palo-alto/",
+"name": "Timothy Adams Chocolates",
+"address": "539 Bryant St",
+"event": "opened",
+"date": "2014-07-18",
+"previous_tenant": "Monique's Chocolate",
+"kind": "artisan chocolate shop"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2014/07/18/handmade-truffle-shop-opening-today-in-downtown-palo-alto/",
+"name": "Monique's Chocolate",
+"address": "539 Bryant St",
+"event": "moved_out",
+"date": "2014",
+"previous_tenant": "",
+"kind": "artisan chocolate shop"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2014/07/25/acai-bowls-headed-to-downtown-palo-alto/",
+"name": "Bare Bowls",
+"address": "530 Emerson St",
+"event": "opening_soon",
+"date": "2014-07-25",
+"previous_tenant": "",
+"kind": "acai bowl shop"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2014/08/04/three-seasons-launches-banh-mi-cart-in-downtown-palo-alto/",
+"name": "Three Seasons banh mi cart",
+"address": "518 Bryant St",
+"event": "opened",
+"date": "2014-07-28",
+"previous_tenant": "",
+"kind": "banh mi cart"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2014/08/04/three-seasons-launches-banh-mi-cart-in-downtown-palo-alto/",
+"name": "Three Seasons",
+"address": "518 Bryant St",
+"event": "opened",
+"date": "2003",
+"previous_tenant": "",
+"kind": "Vietnamese restaurant"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2014/08/23/davids-tea-now-open-in-downtown-palo-alto/",
+"name": "David's Tea",
+"address": "318 University Ave",
+"event": "opened",
+"date": "2014-08-23",
+"previous_tenant": "The Sports Gallery",
+"kind": "loose-leaf tea shop"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2014/08/23/davids-tea-now-open-in-downtown-palo-alto/",
+"name": "The Sports Gallery",
+"address": "318 University Ave",
+"event": "closed",
+"date": "2014",
+"previous_tenant": "",
+"kind": "sports memorabilia store"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2014/08/23/davids-tea-now-open-in-downtown-palo-alto/",
+"name": "The Sports Gallery",
+"address": "318 University Ave",
+"event": "opened",
+"date": "1999",
+"previous_tenant": "",
+"kind": "sports memorabilia store"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2014/09/23/opening-alert-zola-in-downtown-palo-alto/",
+"name": "Zola",
+"address": "565 Bryant St",
+"event": "opening_soon",
+"date": "2014-09-24",
+"previous_tenant": "Roast Shop",
+"kind": "French bistro"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2014/11/10/palo-altos-foodanthropy-restaurant-alkymists-shutters-after-less-than-two-months/",
+"name": "alkymists",
+"address": "140 University Ave",
+"event": "opened",
+"date": "2014-09",
+"previous_tenant": "Palo Alto Grill",
+"kind": "world-fusion restaurant"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2014/11/10/palo-altos-foodanthropy-restaurant-alkymists-shutters-after-less-than-two-months/",
+"name": "alkymists",
+"address": "140 University Ave",
+"event": "closed",
+"date": "2014-11",
+"previous_tenant": "",
+"kind": "world-fusion restaurant"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2014/11/13/handcrafted-acai-bowls-now-available-in-downtown-palo-alto/",
+"name": "Bare Bowls",
+"address": "530 Emerson St",
+"event": "opened",
+"date": "2014-11-10",
+"previous_tenant": "",
+"kind": "acai bowl bar"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2015/01/05/johns-cafe-closes-after-three-years-in-downtown-palo-alto/",
+"name": "John's Cafe",
+"address": "401 Lytton Ave",
+"event": "opened",
+"date": "2011",
+"previous_tenant": "",
+"kind": "panini cafe"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2015/01/05/johns-cafe-closes-after-three-years-in-downtown-palo-alto/",
+"name": "John's Cafe",
+"address": "401 Lytton Ave",
+"event": "closed",
+"date": "2014-12-30",
+"previous_tenant": "",
+"kind": "panini cafe"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2015/01/06/another-milk-tea-chain-setting-up-shop-in-palo-alto/",
+"name": "Gong Cha",
+"address": "439 Waverley St",
+"event": "opening_soon",
+"date": "2015-01",
+"previous_tenant": "",
+"kind": "milk tea shop"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2015/01/06/another-milk-tea-chain-setting-up-shop-in-palo-alto/",
+"name": "T4",
+"address": "165 University Ave",
+"event": "opened",
+"date": "2014-10",
+"previous_tenant": "Loving Hut",
+"kind": "milk tea shop"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2015/01/14/sushirrito-to-open-in-downtown-palo-alto-this-weekend/",
+"name": "Sushirrito",
+"address": "448 University Ave",
+"event": "opening_soon",
+"date": "2015-01-17",
+"previous_tenant": "Sabrosa Taqueria",
+"kind": "sushi burrito restaurant"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2015/01/14/sushirrito-to-open-in-downtown-palo-alto-this-weekend/",
+"name": "Sabrosa Taqueria",
+"address": "448 University Ave",
+"event": "closed",
+"date": "2014-04",
+"previous_tenant": "",
+"kind": "taqueria"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2015/01/15/santa-barbara-restauranteurs-take-leap-to-palo-alto/",
+"name": "B+B",
+"address": "420 Ramona St",
+"event": "opening_soon",
+"date": "2015",
+"previous_tenant": "Mandarin Gourmet",
+"kind": "seasonal restaurant"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2015/01/15/santa-barbara-restauranteurs-take-leap-to-palo-alto/",
+"name": "Mandarin Gourmet",
+"address": "420 Ramona St",
+"event": "closed",
+"date": "2014-10",
+"previous_tenant": "",
+"kind": "Chinese restaurant"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2015/02/23/opening-alert-gong-cha-in-palo-alto/",
+"name": "Gong Cha",
+"address": "429 Waverley St",
+"event": "opened",
+"date": "2015-02",
+"previous_tenant": "",
+"kind": "milk-tea shop"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2015/02/23/opening-alert-gong-cha-in-palo-alto/",
+"name": "T4",
+"address": "165 University Ave",
+"event": "opened",
+"date": "2014-11",
+"previous_tenant": "",
+"kind": "milk-tea shop"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2015/04/28/opening-alert-opa-in-palo-alto/",
+"name": "Opa!",
+"address": "140 University Ave",
+"event": "opened",
+"date": "2015-04-27",
+"previous_tenant": "alkymists",
+"kind": "Greek restaurant"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2015/04/28/opening-alert-opa-in-palo-alto/",
+"name": "alkymists",
+"address": "140 University Ave",
+"event": "closed",
+"date": "2014-11",
+"previous_tenant": "",
+"kind": "restaurant"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2015/04/28/opening-alert-opa-in-palo-alto/",
+"name": "alkymists",
+"address": "140 University Ave",
+"event": "opened",
+"date": "2014",
+"previous_tenant": "Palo Alto Grill",
+"kind": "restaurant"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2015/04/28/opening-alert-opa-in-palo-alto/",
+"name": "Palo Alto Grill",
+"address": "140 University Ave",
+"event": "closed",
+"date": "2014",
+"previous_tenant": "",
+"kind": "restaurant"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2015/06/13/ikes-place-to-open-in-palo-alto/",
+"name": "Ike's Place",
+"address": "401 Lytton Ave",
+"event": "opening_soon",
+"date": "2015-08",
+"previous_tenant": "John's Cafe",
+"kind": "sandwich shop"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2015/06/13/ikes-place-to-open-in-palo-alto/",
+"name": "John's Cafe",
+"address": "401 Lytton Ave",
+"event": "closed",
+"date": "2015-01",
+"previous_tenant": "",
+"kind": "cafe"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2015/06/13/ikes-place-to-open-in-palo-alto/",
+"name": "John's Cafe",
+"address": "401 Lytton Ave",
+"event": "opened",
+"date": "2012",
+"previous_tenant": "",
+"kind": "cafe"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2015/06/17/la-boulange-palo-alto-to-close/",
+"name": "La Boulange",
+"address": "151 University Ave",
+"event": "opened",
+"date": "2012",
+"previous_tenant": "",
+"kind": "French bakery cafe"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2015/06/17/la-boulange-palo-alto-to-close/",
+"name": "La Boulange",
+"address": "151 University Ave",
+"event": "closed",
+"date": "2015-09-25",
+"previous_tenant": "",
+"kind": "French bakery cafe"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2015/07/16/japanese-restaurant-chain-to-move-into-o-sushi-space/",
+"name": "Yayoi",
+"address": "403 University Ave",
+"event": "opening_soon",
+"date": "2015-07",
+"previous_tenant": "O Sushi",
+"kind": "Japanese teishoku restaurant"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2015/07/16/japanese-restaurant-chain-to-move-into-o-sushi-space/",
+"name": "O Sushi",
+"address": "403 University Ave",
+"event": "closed",
+"date": "2015-04",
+"previous_tenant": "",
+"kind": "sushi restaurant"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2015/07/20/palo-altos-bare-bowls-expands-to-burlingame/",
+"name": "Bare Bowls",
+"address": "530 Emerson St",
+"event": "opened",
+"date": "2014-11",
+"previous_tenant": "",
+"kind": "acai bowl shop"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2015/07/30/madame-tam-asian-bistro-shutters-in-downtown-palo-alto/",
+"name": "Madame Tam Asian Bistro",
+"address": "320 University Ave",
+"event": "opened",
+"date": "2010",
+"previous_tenant": "",
+"kind": "Asian-fusion restaurant"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2015/07/30/madame-tam-asian-bistro-shutters-in-downtown-palo-alto/",
+"name": "Madame Tam Asian Bistro",
+"address": "320 University Ave",
+"event": "closed",
+"date": "2015-06",
+"previous_tenant": "",
+"kind": "Asian-fusion restaurant"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2015/07/31/palo-alto-standby-osteria-sold-to-new-owners/",
+"name": "Osteria",
+"address": "247 Hamilton Ave",
+"event": "opened",
+"date": "1986",
+"previous_tenant": "",
+"kind": "Italian restaurant"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2015/08/03/zola-launches-high-end-pop-up-dinners-in-palo-alto/",
+"name": "Zola",
+"address": "565 Bryant St",
+"event": "opened",
+"date": "2014-09",
+"previous_tenant": "",
+"kind": "French restaurant"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2015/08/06/cafe-taxim-shutters-in-palo-alto-crawfish-fusion-moves-in/",
+"name": "Cafe Taxim",
+"address": "423 University Ave",
+"event": "opened",
+"date": "2011",
+"previous_tenant": "",
+"kind": "Turkish restaurant"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2015/08/06/cafe-taxim-shutters-in-palo-alto-crawfish-fusion-moves-in/",
+"name": "Cafe Taxim",
+"address": "423 University Ave",
+"event": "closed",
+"date": "2015-08",
+"previous_tenant": "",
+"kind": "Turkish restaurant"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2015/08/06/cafe-taxim-shutters-in-palo-alto-crawfish-fusion-moves-in/",
+"name": "Crawfish Fusion",
+"address": "423 University Ave",
+"event": "opening_soon",
+"date": "2015-08",
+"previous_tenant": "Cafe Taxim",
+"kind": "Cajun fusion restaurant"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2015/08/27/la-boulange-palo-alto-to-close-for-good-sept-3/",
+"name": "La Boulange",
+"address": "151 University Ave",
+"event": "closed",
+"date": "2015-09-03",
+"previous_tenant": "",
+"kind": "bakery cafe"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2015/09/03/thaiphoon-owner-to-open-second-thai-restaurant-in-palo-alto/",
+"name": "Thaiphoon",
+"address": "543 Emerson St",
+"event": "opened",
+"date": "2005",
+"previous_tenant": "",
+"kind": "Thai restaurant"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2015/09/03/thaiphoon-owner-to-open-second-thai-restaurant-in-palo-alto/",
+"name": "Madame Tam Asian Bistro",
+"address": "320 University Ave",
+"event": "closed",
+"date": "2015-06",
+"previous_tenant": "",
+"kind": "Vietnamese restaurant"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2015/09/03/thaiphoon-owner-to-open-second-thai-restaurant-in-palo-alto/",
+"name": "Aroy Thai Bistro",
+"address": "320 University Ave",
+"event": "opening_soon",
+"date": "2015-09",
+"previous_tenant": "Madame Tam Asian Bistro",
+"kind": "Thai restaurant"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2015/11/03/opening-tonight-bird-dog-in-palo-alto/",
+"name": "Bird Dog",
+"address": "420 Ramona St",
+"event": "opened",
+"date": "2015-11-03",
+"previous_tenant": "Mandarin Gourmet",
+"kind": "New American restaurant"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2015/11/04/shoji-sushi-replaces-sushi-tomo-in-downtown-palo-alto/",
+"name": "Shoji Sushi",
+"address": "201 University Ave",
+"event": "opened",
+"date": "2015-10-27",
+"previous_tenant": "Sushi Tomo",
+"kind": "sushi restaurant"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2015/11/04/shoji-sushi-replaces-sushi-tomo-in-downtown-palo-alto/",
+"name": "Sushi Tomo",
+"address": "201 University Ave",
+"event": "closed",
+"date": "2015-10",
+"previous_tenant": "",
+"kind": "sushi restaurant"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2015/11/04/shoji-sushi-replaces-sushi-tomo-in-downtown-palo-alto/",
+"name": "Sushi Tomo",
+"address": "201 University Ave",
+"event": "opened",
+"date": "2006",
+"previous_tenant": "",
+"kind": "sushi restaurant"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2015/11/04/shoji-sushi-replaces-sushi-tomo-in-downtown-palo-alto/",
+"name": "O Sushi",
+"address": "",
+"event": "closed",
+"date": "2015-04",
+"previous_tenant": "",
+"kind": "sushi restaurant"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2015/11/05/more-boba-on-its-way-to-palo-alto/",
+"name": "Share Tea",
+"address": "540 Bryant St",
+"event": "opening_soon",
+"date": "2015-11",
+"previous_tenant": "",
+"kind": "boba tea shop"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2015/11/24/siam-orchid-shutters-in-palo-alto/",
+"name": "Siam Orchid",
+"address": "496 Hamilton Ave",
+"event": "closed",
+"date": "2015-10",
+"previous_tenant": "",
+"kind": "Thai restaurant"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2015/11/24/siam-orchid-shutters-in-palo-alto/",
+"name": "Siam Orchid",
+"address": "496 Hamilton Ave",
+"event": "opened",
+"date": "2009-06",
+"previous_tenant": "",
+"kind": "Thai restaurant"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2015/11/24/siam-orchid-shutters-in-palo-alto/",
+"name": "Thyme",
+"address": "496 Hamilton Ave",
+"event": "opening_soon",
+"date": "2015-11",
+"previous_tenant": "Siam Orchid",
+"kind": "restaurant"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2015/12/07/chinese-restaurant-to-open-at-edgewood-plaza-in-palo-alto/",
+"name": "House of Bagels",
+"address": "",
+"event": "moved_out",
+"date": "2015",
+"previous_tenant": "",
+"kind": "bagel shop"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2016/01/22/now-open-crawfish-fusion-in-palo-alto/",
+"name": "Crawfish Fusion",
+"address": "423 University Ave",
+"event": "opened",
+"date": "2016-01-09",
+"previous_tenant": "Cafe Taxim",
+"kind": "Cajun seafood restaurant"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2016/01/25/palo-alto-brewing-company-to-open-tasting-room-restaurant/",
+"name": "The Tap Room",
+"address": "233 University Ave",
+"event": "opened",
+"date": "2016-02-03",
+"previous_tenant": "BHuman",
+"kind": "brewery tap room"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2016/01/25/palo-alto-brewing-company-to-open-tasting-room-restaurant/",
+"name": "BHuman",
+"address": "233 University Ave",
+"event": "opened",
+"date": "2015",
+"previous_tenant": "Workshop Burger",
+"kind": "innovation center"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2016/01/25/palo-alto-brewing-company-to-open-tasting-room-restaurant/",
+"name": "BHuman",
+"address": "233 University Ave",
+"event": "closed",
+"date": "2015",
+"previous_tenant": "",
+"kind": "innovation center"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2016/01/26/now-open-second-coupa-cafe-in-palo-alto/",
+"name": "Coupa Cafe",
+"address": "111 Lytton Ave",
+"event": "opened",
+"date": "2016-01",
+"previous_tenant": "",
+"kind": "cafe"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2016/01/26/now-open-second-coupa-cafe-in-palo-alto/",
+"name": "Coupa Cafe",
+"address": "Ramona St",
+"event": "opened",
+"date": "2004",
+"previous_tenant": "",
+"kind": "cafe"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2016/02/05/ikes-place-makes-another-go-at-stanford-palo-alto-outpost-stalls/",
+"name": "Ike's Place",
+"address": "401 Lytton Ave",
+"event": "opening_soon",
+"date": "2016-02",
+"previous_tenant": "John's Cafe",
+"kind": "sandwich shop"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2016/03/24/palo-alto-gordon-biersch-reopens-as-dan-gordons/",
+"name": "Gordon Biersch",
+"address": "640 Emerson St",
+"event": "opened",
+"date": "1988",
+"previous_tenant": "",
+"kind": "brewery restaurant"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2016/03/24/palo-alto-gordon-biersch-reopens-as-dan-gordons/",
+"name": "Gordon Biersch",
+"address": "640 Emerson St",
+"event": "closed",
+"date": "2015-09",
+"previous_tenant": "",
+"kind": "brewery restaurant"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2016/03/24/palo-alto-gordon-biersch-reopens-as-dan-gordons/",
+"name": "Dan Gordon's",
+"address": "640 Emerson St",
+"event": "opened",
+"date": "2016-03-14",
+"previous_tenant": "Gordon Biersch",
+"kind": "brewpub barbecue restaurant"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2016/04/06/palo-alto-gets-another-nitrogen-ice-cream-shop/",
+"name": "Creamistry",
+"address": "164 University Ave",
+"event": "opening_soon",
+"date": "2016",
+"previous_tenant": "Selix Formal Wear",
+"kind": "nitrogen ice cream shop"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2016/04/28/opening-alert-aroy-thai-bistro-in-palo-alto/",
+"name": "Aroy Thai Bistro",
+"address": "320 University Ave",
+"event": "opened",
+"date": "2016-04",
+"previous_tenant": "Madame Tam Asian Bistro",
+"kind": "Thai restaurant"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2016/04/28/opening-alert-aroy-thai-bistro-in-palo-alto/",
+"name": "Madame Tam Asian Bistro",
+"address": "320 University Ave",
+"event": "closed",
+"date": "2015-06",
+"previous_tenant": "",
+"kind": "Asian restaurant"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2016/04/28/opening-alert-aroy-thai-bistro-in-palo-alto/",
+"name": "Thaiphoon",
+"address": "543 Emerson St",
+"event": "opened",
+"date": "2005",
+"previous_tenant": "",
+"kind": "Thai restaurant"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2016/05/12/opening-alert-sweetgreen-in-downtown-palo-alto/",
+"name": "Sweetgreen",
+"address": "581 Ramona St",
+"event": "opening_soon",
+"date": "2016-05-17",
+"previous_tenant": "University Art",
+"kind": "salad chain restaurant"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2016/06/20/lemonade-to-open-in-palo-alto-june-24/",
+"name": "Lemonade",
+"address": "151 University Ave",
+"event": "opening_soon",
+"date": "2016-06-24",
+"previous_tenant": "La Boulange",
+"kind": "fast-casual restaurant"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2016/08/03/menlo-parks-mademoiselle-colette-to-expand-to-palo-alto/",
+"name": "Mademoiselle Colette",
+"address": "499 Lytton Ave",
+"event": "opening_soon",
+"date": "2016-12",
+"previous_tenant": "Fran's Market",
+"kind": "French bakery"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2016/09/13/opening-alert-creamistry-in-downtown-palo-alto/",
+"name": "Creamistry",
+"address": "164 University Ave",
+"event": "opened",
+"date": "2016-09-13",
+"previous_tenant": "Selix Formal Wear",
+"kind": "liquid-nitrogen ice cream shop"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2016/09/13/opening-alert-creamistry-in-downtown-palo-alto/",
+"name": "Selix Formal Wear",
+"address": "164 University Ave",
+"event": "closed",
+"date": "2015",
+"previous_tenant": "",
+"kind": "formal wear store"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2016/10/20/palo-alto-crawfish-fusion-becomes-les-bizous/",
+"name": "Crawfish Fusion",
+"address": "423 University Ave",
+"event": "closed",
+"date": "2016-10",
+"previous_tenant": "",
+"kind": "Cajun restaurant"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2016/10/20/palo-alto-crawfish-fusion-becomes-les-bizous/",
+"name": "Les Bizous",
+"address": "423 University Ave",
+"event": "opened",
+"date": "2016-10",
+"previous_tenant": "Crawfish Fusion",
+"kind": "French restaurant"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2016/10/20/palo-alto-crawfish-fusion-becomes-les-bizous/",
+"name": "Crawfish Fusion",
+"address": "423 University Ave",
+"event": "opened",
+"date": "2016",
+"previous_tenant": "Cafe Taxim",
+"kind": "Cajun restaurant"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2016/11/01/blue-bottle-coffee-founder-to-give-talk-in-palo-alto/",
+"name": "Blue Bottle Coffee",
+"address": "",
+"event": "opened",
+"date": "2015",
+"previous_tenant": "",
+"kind": "coffee cafe"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2016/11/01/blue-bottle-coffee-founder-to-give-talk-in-palo-alto/",
+"name": "HanaHaus",
+"address": "",
+"event": "opened",
+"date": "2015-03",
+"previous_tenant": "",
+"kind": "community coworking space"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2016/11/28/nobu-confirmed-to-open-in-palo-alto/",
+"name": "Nobu",
+"address": "180 Hamilton Ave",
+"event": "opening_soon",
+"date": "2017-06",
+"previous_tenant": "Lure + Till",
+"kind": "upscale Japanese restaurant"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2016/11/28/nobu-confirmed-to-open-in-palo-alto/",
+"name": "Lure + Till",
+"address": "180 Hamilton Ave",
+"event": "closed",
+"date": "2017-01-02",
+"previous_tenant": "",
+"kind": "hotel restaurant"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2016/11/28/nobu-confirmed-to-open-in-palo-alto/",
+"name": "Lure + Till",
+"address": "180 Hamilton Ave",
+"event": "opened",
+"date": "2014-03",
+"previous_tenant": "",
+"kind": "hotel restaurant"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2016/12/02/sams-chowder-house-palo-alto-to-become-burger-chain/",
+"name": "Sam's Chowder House",
+"address": "185 University Ave",
+"event": "closed",
+"date": "2016-12-11",
+"previous_tenant": "",
+"kind": "seafood restaurant"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2016/12/02/sams-chowder-house-palo-alto-to-become-burger-chain/",
+"name": "Sam's Chowder House",
+"address": "185 University Ave",
+"event": "opened",
+"date": "2013-11",
+"previous_tenant": "Campo 185",
+"kind": "seafood restaurant"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2016/12/02/sams-chowder-house-palo-alto-to-become-burger-chain/",
+"name": "Wahlburgers",
+"address": "185 University Ave",
+"event": "opening_soon",
+"date": "2017",
+"previous_tenant": "Sam's Chowder House",
+"kind": "burger chain restaurant"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2016/12/05/maum-restaurant-presses-pause-in-palo-alto/",
+"name": "Apple Store",
+"address": "451 University Ave",
+"event": "closed",
+"date": "2012",
+"previous_tenant": "",
+"kind": "electronics retail store"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2016/12/05/maum-restaurant-presses-pause-in-palo-alto/",
+"name": "Maum",
+"address": "451 University Ave",
+"event": "opening_soon",
+"date": "2016-12",
+"previous_tenant": "Apple Store",
+"kind": "contemporary Korean restaurant"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2017/05/17/palo-alto-bon-vivant-to-be-replaced-by-bakery/",
+"name": "Bon Vivant",
+"address": "535 Bryant St",
+"event": "closed",
+"date": "2017-05",
+"previous_tenant": "",
+"kind": "French restaurant"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2017/05/17/palo-alto-bon-vivant-to-be-replaced-by-bakery/",
+"name": "Bon Vivant",
+"address": "535 Bryant St",
+"event": "opened",
+"date": "2011",
+"previous_tenant": "",
+"kind": "French restaurant"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2017/05/17/palo-alto-bon-vivant-to-be-replaced-by-bakery/",
+"name": "Tuts Bakery & Cafe",
+"address": "535 Bryant St",
+"event": "opening_soon",
+"date": "2017-05-17",
+"previous_tenant": "Bon Vivant",
+"kind": "bakery cafe"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2017/06/29/restaurant-brings-high-end-private-dining-to-palo-alto/",
+"name": "Maum",
+"address": "322 University Ave",
+"event": "opened",
+"date": "2017-06",
+"previous_tenant": "Madame Tam",
+"kind": "private Korean restaurant"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2017/06/29/restaurant-brings-high-end-private-dining-to-palo-alto/",
+"name": "Madame Tam",
+"address": "322 University Ave",
+"event": "closed",
+"date": "2015",
+"previous_tenant": "",
+"kind": "restaurant"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2017/07/05/blue-bottle-adds-coffee-cocktails-in-palo-alto/",
+"name": "Blue Bottle Coffee",
+"address": "",
+"event": "opened",
+"date": "2015",
+"previous_tenant": "",
+"kind": "coffee shop"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2017/07/07/nobu-opens-in-palo-alto/",
+"name": "Nobu",
+"address": "180 Hamilton Ave",
+"event": "opened",
+"date": "2017-07-07",
+"previous_tenant": "Lure + Till",
+"kind": "Japanese restaurant"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2017/07/07/nobu-opens-in-palo-alto/",
+"name": "Lure + Till",
+"address": "180 Hamilton Ave",
+"event": "closed",
+"date": "2017-01",
+"previous_tenant": "",
+"kind": "hotel restaurant"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2017/07/10/palo-alto-bird-dog-adds-lunch-service/",
+"name": "Bird Dog",
+"address": "420 Ramona St",
+"event": "opened",
+"date": "2015",
+"previous_tenant": "",
+"kind": "New American restaurant"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2017/08/03/joe-the-juice-is-headed-to-palo-alto/",
+"name": "Joe & The Juice",
+"address": "University Ave",
+"event": "opening_soon",
+"date": "2017-08-03",
+"previous_tenant": "",
+"kind": "juice and coffee bar"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2017/08/18/tokyo-ramen-shop-to-open-first-us-outpost-in-palo-alto/",
+"name": "Ramen Nagi",
+"address": "541 Bryant St",
+"event": "opening_soon",
+"date": "2017-08-18",
+"previous_tenant": "",
+"kind": "ramen restaurant"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2017/08/18/tokyo-ramen-shop-to-open-first-us-outpost-in-palo-alto/",
+"name": "Ichimi Ramen & Rolls",
+"address": "University Ave",
+"event": "opened",
+"date": "2017",
+"previous_tenant": "",
+"kind": "ramen restaurant"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2017/07/27/nobu-hospitality-to-manage-palo-altos-epiphany-hotel/",
+"name": "Nobu Palo Alto",
+"address": "Hamilton Ave",
+"event": "opened",
+"date": "2017-07-07",
+"previous_tenant": "",
+"kind": "Japanese restaurant"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2017/10/05/opening-alert-tuts-bakery-cafe-in-palo-alto/",
+"name": "Tuts Bakery & Cafe",
+"address": "535 Bryant St",
+"event": "opened",
+"date": "2017-10-02",
+"previous_tenant": "Bon Vivant",
+"kind": "bakery cafe"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2017/10/10/mademoiselle-colette-opens-second-location-in-palo-alto/",
+"name": "Mademoiselle Colette",
+"address": "499 Lytton Ave",
+"event": "opened",
+"date": "2017-10-06",
+"previous_tenant": "Fran's Market",
+"kind": "French patisserie"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2017/10/17/nobu-palo-alto-eyes-next-door-expansion/",
+"name": "Nobu",
+"address": "180 Hamilton Ave",
+"event": "opened",
+"date": "2017",
+"previous_tenant": "",
+"kind": "Japanese restaurant"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2017/10/17/nobu-palo-alto-eyes-next-door-expansion/",
+"name": "Nobu (expansion)",
+"address": "620 Emerson St",
+"event": "opening_soon",
+"date": "2017-10",
+"previous_tenant": "Stanford Florists",
+"kind": "Japanese restaurant"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2017/11/09/rocket-fizz-to-shutter-in-palo-alto/",
+"name": "Rocket Fizz",
+"address": "250 University Ave",
+"event": "closed",
+"date": "2017-11-22",
+"previous_tenant": "",
+"kind": "candy store"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2017/11/09/rocket-fizz-to-shutter-in-palo-alto/",
+"name": "Rocket Fizz",
+"address": "250 University Ave",
+"event": "opened",
+"date": "2012",
+"previous_tenant": "",
+"kind": "candy store"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2017/11/10/spot-a-pizza-place-closes-in-palo-alto/",
+"name": "Spot A Pizza Place",
+"address": "115 Hamilton Ave",
+"event": "closed",
+"date": "2017-11",
+"previous_tenant": "",
+"kind": "pizzeria"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2017/11/13/wahlburgers-opens-in-palo-alto/",
+"name": "Wahlburgers",
+"address": "185 University Ave",
+"event": "opened",
+"date": "2017-11-12",
+"previous_tenant": "Sam's Chowder House",
+"kind": "burger restaurant"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2017/12/19/szechuan-restaurant-replaces-les-bizous-in-palo-alto/",
+"name": "Taste",
+"address": "423 University Ave",
+"event": "opened",
+"date": "2017-12-08",
+"previous_tenant": "Les Bizous",
+"kind": "Szechuan restaurant"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2017/12/19/szechuan-restaurant-replaces-les-bizous-in-palo-alto/",
+"name": "Les Bizous",
+"address": "423 University Ave",
+"event": "closed",
+"date": "2017",
+"previous_tenant": "",
+"kind": "French restaurant"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2017/12/19/szechuan-restaurant-replaces-les-bizous-in-palo-alto/",
+"name": "Les Bizous",
+"address": "423 University Ave",
+"event": "opened",
+"date": "2016",
+"previous_tenant": "Crawfish Fusion",
+"kind": "French restaurant"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2017/12/19/szechuan-restaurant-replaces-les-bizous-in-palo-alto/",
+"name": "Crawfish Fusion",
+"address": "423 University Ave",
+"event": "closed",
+"date": "2016",
+"previous_tenant": "",
+"kind": "Cajun restaurant"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2017/12/19/szechuan-restaurant-replaces-les-bizous-in-palo-alto/",
+"name": "Crawfish Fusion",
+"address": "423 University Ave",
+"event": "opened",
+"date": "2016",
+"previous_tenant": "Cafe Taxim",
+"kind": "Cajun restaurant"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2017/12/19/szechuan-restaurant-replaces-les-bizous-in-palo-alto/",
+"name": "Cafe Taxim",
+"address": "423 University Ave",
+"event": "closed",
+"date": "2016",
+"previous_tenant": "",
+"kind": "Turkish restaurant"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2017/12/20/palo-altos-longtime-la-morenita-to-shutter/",
+"name": "La Morenita",
+"address": "800 Emerson St",
+"event": "closed",
+"date": "2017-12-29",
+"previous_tenant": "",
+"kind": "Mexican restaurant"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2017/12/20/palo-altos-longtime-la-morenita-to-shutter/",
+"name": "La Morenita",
+"address": "800 Emerson St",
+"event": "opened",
+"date": "1994-05-25",
+"previous_tenant": "",
+"kind": "Mexican restaurant"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2017/12/20/palo-altos-longtime-la-morenita-to-shutter/",
+"name": "Taverna",
+"address": "800 Emerson St",
+"event": "opening_soon",
+"date": "2017-12",
+"previous_tenant": "La Morenita",
+"kind": "Mediterranean restaurant"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2017/12/20/teaquation-expanding-to-palo-alto/",
+"name": "Teaquation",
+"address": "115 Hamilton Ave",
+"event": "opening_soon",
+"date": "2018",
+"previous_tenant": "Spot A Pizza Place",
+"kind": "tea cafe and bar"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2017/12/20/teaquation-expanding-to-palo-alto/",
+"name": "Spot A Pizza Place",
+"address": "115 Hamilton Ave",
+"event": "closed",
+"date": "2017-11",
+"previous_tenant": "",
+"kind": "pizzeria"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2017/12/21/verve-coffee-to-open-in-palo-alto/",
+"name": "Verve Coffee Roasters",
+"address": "162 University Ave",
+"event": "opening_soon",
+"date": "2018",
+"previous_tenant": "Black Diamond Sports",
+"kind": "coffee shop"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2018/01/25/palo-altos-cafe-venetia-to-open-wine-bar/",
+"name": "Enoteca Venetia",
+"address": "417 University Ave",
+"event": "opening_soon",
+"date": "2018",
+"previous_tenant": "",
+"kind": "Italian wine bar"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2018/01/25/palo-altos-cafe-venetia-to-open-wine-bar/",
+"name": "Cafe Venetia",
+"address": "419 University Ave",
+"event": "opened",
+"date": "2006",
+"previous_tenant": "",
+"kind": "Italian cafe"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2018/02/12/opening-alert-bevri-in-palo-alto/",
+"name": "Bevri",
+"address": "530 Bryant St",
+"event": "opened",
+"date": "2018-02",
+"previous_tenant": "Vero Ristorante",
+"kind": "Georgian restaurant"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2018/03/05/nobu-palo-alto-names-new-chef-gm/",
+"name": "Nobu",
+"address": "180 Hamilton Ave",
+"event": "opened",
+"date": "2017",
+"previous_tenant": "",
+"kind": "Japanese restaurant"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2018/03/12/opa-closes-in-palo-alto/",
+"name": "Opa Authentic Greek Cuisine",
+"address": "140 University Ave",
+"event": "closed",
+"date": "2018-03",
+"previous_tenant": "",
+"kind": "Greek restaurant"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2018/03/12/opa-closes-in-palo-alto/",
+"name": "Opa Authentic Greek Cuisine",
+"address": "140 University Ave",
+"event": "opened",
+"date": "2015-04",
+"previous_tenant": "alkymists",
+"kind": "Greek restaurant"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2018/03/23/onigilly-to-open-in-palo-alto/",
+"name": "Onigilly",
+"address": "164 University Ave",
+"event": "opening_soon",
+"date": "2018-04",
+"previous_tenant": "Creamistry",
+"kind": "Japanese onigiri eatery"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2018/03/23/onigilly-to-open-in-palo-alto/",
+"name": "Creamistry",
+"address": "164 University Ave",
+"event": "closed",
+"date": "2018",
+"previous_tenant": "",
+"kind": "ice cream shop"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2018/04/09/cheesecake-factory-palo-alto-to-close/",
+"name": "The Cheesecake Factory",
+"address": "375 University Ave",
+"event": "closed",
+"date": "2018-05-26",
+"previous_tenant": "",
+"kind": "chain restaurant"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2018/04/09/cheesecake-factory-palo-alto-to-close/",
+"name": "The Cheesecake Factory",
+"address": "375 University Ave",
+"event": "opened",
+"date": "2003",
+"previous_tenant": "",
+"kind": "chain restaurant"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2018/04/19/greek-restaurant-taverna-opening-in-palo-alto/",
+"name": "Taverna",
+"address": "800 Emerson St",
+"event": "opened",
+"date": "2018-04-23",
+"previous_tenant": "",
+"kind": "Greek restaurant"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2018/06/04/portland-ice-cream-shop-salt-straw-coming-to-palo-alto/",
+"name": "Salt & Straw",
+"address": "250 University Ave",
+"event": "opening_soon",
+"date": "2018",
+"previous_tenant": "Rocket Fizz",
+"kind": "ice cream shop"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2018/06/04/portland-ice-cream-shop-salt-straw-coming-to-palo-alto/",
+"name": "Rocket Fizz",
+"address": "250 University Ave",
+"event": "closed",
+"date": "2018",
+"previous_tenant": "",
+"kind": "candy shop"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2018/06/04/portland-ice-cream-shop-salt-straw-coming-to-palo-alto/",
+"name": "Creamistry",
+"address": "",
+"event": "opened",
+"date": "2016",
+"previous_tenant": "",
+"kind": "ice cream shop"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2018/06/04/portland-ice-cream-shop-salt-straw-coming-to-palo-alto/",
+"name": "Creamistry",
+"address": "",
+"event": "closed",
+"date": "2018",
+"previous_tenant": "",
+"kind": "ice cream shop"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2018/06/11/onigilly-opens-in-downtown-palo-alto/",
+"name": "Onigilly",
+"address": "164 University Ave",
+"event": "opened",
+"date": "2018-06-11",
+"previous_tenant": "",
+"kind": "Japanese onigiri eatery"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2018/06/13/fine-dining-korean-restaurant-to-open-in-palo-alto/",
+"name": "Maum",
+"address": "322 University Ave",
+"event": "opened",
+"date": "2017",
+"previous_tenant": "",
+"kind": "private Korean dining"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2018/06/13/fine-dining-korean-restaurant-to-open-in-palo-alto/",
+"name": "Maum",
+"address": "322 University Ave",
+"event": "opening_soon",
+"date": "2018-07-12",
+"previous_tenant": "",
+"kind": "fine-dining Korean restaurant"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2018/06/15/ramen-nagi-to-land-in-palo-alto-june-25/",
+"name": "Ramen Nagi",
+"address": "541 Bryant St",
+"event": "opening_soon",
+"date": "2018-06-25",
+"previous_tenant": "",
+"kind": "ramen restaurant"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2018/06/19/joe-the-juice-to-open-third-palo-alto-location/",
+"name": "Joe & the Juice",
+"address": "508 University Ave",
+"event": "opening_soon",
+"date": "2018",
+"previous_tenant": "",
+"kind": "juice bar cafe"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2018/06/19/joe-the-juice-to-open-third-palo-alto-location/",
+"name": "Joe & the Juice",
+"address": "240 Hamilton Ave",
+"event": "opening_soon",
+"date": "2018",
+"previous_tenant": "",
+"kind": "juice bar cafe"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2018/06/27/teaquation-tonic-opens-in-palo-alto/",
+"name": "Teaquation Tonic",
+"address": "115 Hamilton Ave",
+"event": "opened",
+"date": "2018-06",
+"previous_tenant": "",
+"kind": "tea cafe"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2018/07/02/joe-the-juice-opens-first-palo-alto-location/",
+"name": "Joe & The Juice",
+"address": "508 University Ave",
+"event": "opened",
+"date": "2018-06-30",
+"previous_tenant": "",
+"kind": "juice bar cafe"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2018/07/02/joe-the-juice-opens-first-palo-alto-location/",
+"name": "Joe & The Juice",
+"address": "240 Hamilton Ave",
+"event": "opening_soon",
+"date": "2018",
+"previous_tenant": "",
+"kind": "juice bar cafe"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2018/07/30/after-22-years-in-palo-alto-china-delight-to-close/",
+"name": "China Delight",
+"address": "461 Emerson St",
+"event": "closed",
+"date": "2018-07-31",
+"previous_tenant": "",
+"kind": "Chinese restaurant"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2018/07/30/after-22-years-in-palo-alto-china-delight-to-close/",
+"name": "China Delight",
+"address": "461 Emerson St",
+"event": "opened",
+"date": "1996",
+"previous_tenant": "",
+"kind": "Chinese restaurant"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2018/08/06/tacolicious-expands-chicken-concept-to-palo-alto/",
+"name": "MF Chicken",
+"address": "632 Emerson St",
+"event": "opened",
+"date": "2018-08-06",
+"previous_tenant": "",
+"kind": "rotisserie chicken delivery"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2018/08/16/lyfe-kitchen-closes-in-palo-alto/",
+"name": "LYFE Kitchen",
+"address": "167 Hamilton Ave",
+"event": "closed",
+"date": "2018-08-14",
+"previous_tenant": "",
+"kind": "healthy fast-casual restaurant"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2018/08/16/lyfe-kitchen-closes-in-palo-alto/",
+"name": "LYFE Kitchen",
+"address": "167 Hamilton Ave",
+"event": "opened",
+"date": "2011",
+"previous_tenant": "",
+"kind": "healthy fast-casual restaurant"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2018/08/27/mendocino-farms-to-replace-lyfe-kitchen-in-palo-alto/",
+"name": "Mendocino Farms",
+"address": "167 Hamilton Ave",
+"event": "opening_soon",
+"date": "2019",
+"previous_tenant": "LYFE Kitchen",
+"kind": "sandwich chain"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2018/11/16/salt-straw-palo-alto-to-open-nov-23/",
+"name": "Salt & Straw",
+"address": "250 University Ave",
+"event": "opening_soon",
+"date": "2018-11-23",
+"previous_tenant": "",
+"kind": "ice cream shop"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2018/11/27/the-wait-is-over-ikes-place-opens-in-palo-alto/",
+"name": "Ike's Place",
+"address": "401 Lytton Ave",
+"event": "opened",
+"date": "2018-11-27",
+"previous_tenant": "John's Cafe",
+"kind": "sandwich shop"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2018/11/27/the-wait-is-over-ikes-place-opens-in-palo-alto/",
+"name": "John's Cafe",
+"address": "401 Lytton Ave",
+"event": "closed",
+"date": "2015",
+"previous_tenant": "",
+"kind": "cafe"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2018/12/21/longtime-indian-restaurant-janta-to-close-in-palo-alto/",
+"name": "Janta",
+"address": "369 Lytton Ave",
+"event": "closed",
+"date": "2018-12-24",
+"previous_tenant": "",
+"kind": "Indian restaurant"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2018/12/21/longtime-indian-restaurant-janta-to-close-in-palo-alto/",
+"name": "Janta",
+"address": "369 Lytton Ave",
+"event": "opened",
+"date": "1993",
+"previous_tenant": "",
+"kind": "Indian restaurant"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2019/01/07/asian-box-ceo-departs-to-open-new-palo-alto-eatery/",
+"name": "Roost House",
+"address": "461 Emerson St",
+"event": "opening_soon",
+"date": "2019-01",
+"previous_tenant": "China Delight",
+"kind": "chicken restaurant"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2019/01/07/asian-box-ceo-departs-to-open-new-palo-alto-eatery/",
+"name": "China Delight",
+"address": "461 Emerson St",
+"event": "closed",
+"date": "2018-07",
+"previous_tenant": "",
+"kind": "Chinese restaurant"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2019/01/14/tuba-replaces-tuts-bakery-cafe-in-palo-alto/",
+"name": "Tuts Bakery & Cafe",
+"address": "535 Bryant St",
+"event": "closed",
+"date": "2018-12",
+"previous_tenant": "",
+"kind": "bakery cafe"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2019/01/14/tuba-replaces-tuts-bakery-cafe-in-palo-alto/",
+"name": "Tuts Bakery & Cafe",
+"address": "535 Bryant St",
+"event": "opened",
+"date": "2017",
+"previous_tenant": "",
+"kind": "bakery cafe"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2019/01/14/tuba-replaces-tuts-bakery-cafe-in-palo-alto/",
+"name": "Tuba Palo Alto",
+"address": "535 Bryant St",
+"event": "opened",
+"date": "2018-12",
+"previous_tenant": "Tuts Bakery & Cafe",
+"kind": "Turkish restaurant"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2019/03/01/orens-hummus-coming-to-town-country-village-in-palo-alto/",
+"name": "Oren's Hummus",
+"address": "",
+"event": "opened",
+"date": "2011",
+"previous_tenant": "",
+"kind": "Israeli restaurant"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2019/03/15/palo-altos-aroy-thai-bistro-shutters-expansion-is-not-always-a-good-thing/",
+"name": "Aroy Thai Bistro",
+"address": "320 University Ave",
+"event": "closed",
+"date": "2019-03",
+"previous_tenant": "",
+"kind": "Thai restaurant"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2019/03/15/palo-altos-aroy-thai-bistro-shutters-expansion-is-not-always-a-good-thing/",
+"name": "Aroy Thai Bistro",
+"address": "320 University Ave",
+"event": "opened",
+"date": "2016",
+"previous_tenant": "",
+"kind": "Thai restaurant"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2019/03/15/palo-altos-aroy-thai-bistro-shutters-expansion-is-not-always-a-good-thing/",
+"name": "Curry Pizza House",
+"address": "320 University Ave",
+"event": "opening_soon",
+"date": "2019-03",
+"previous_tenant": "Aroy Thai Bistro",
+"kind": "Indian fusion pizza"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2019/03/15/palo-altos-aroy-thai-bistro-shutters-expansion-is-not-always-a-good-thing/",
+"name": "Thaiphoon",
+"address": "543 Emerson St",
+"event": "opened",
+"date": "2005",
+"previous_tenant": "",
+"kind": "Thai restaurant"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2019/03/18/downtown-palo-alto-gets-new-vietnamese-eatery/",
+"name": "Pho Banh Mi",
+"address": "405 University Ave",
+"event": "opened",
+"date": "2019-03",
+"previous_tenant": "Cafe Epi",
+"kind": "Vietnamese restaurant"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2019/04/05/superfoods-and-lower-prices-palo-altos-amber-dhara-becomes-new-casual-concept/",
+"name": "Gup Shup",
+"address": "150 University Ave",
+"event": "opened",
+"date": "2019-04-05",
+"previous_tenant": "Amber Dhara",
+"kind": "casual Indian restaurant"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2019/04/05/superfoods-and-lower-prices-palo-altos-amber-dhara-becomes-new-casual-concept/",
+"name": "Amber Dhara",
+"address": "150 University Ave",
+"event": "closed",
+"date": "2019-04",
+"previous_tenant": "",
+"kind": "Indian restaurant"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2019/04/05/superfoods-and-lower-prices-palo-altos-amber-dhara-becomes-new-casual-concept/",
+"name": "Amber Dhara",
+"address": "150 University Ave",
+"event": "opened",
+"date": "2011",
+"previous_tenant": "",
+"kind": "Indian restaurant"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2019/04/29/mendocino-farms-brings-its-sandwiches-to-palo-alto/",
+"name": "Mendocino Farms",
+"address": "167 Hamilton Ave",
+"event": "opening_soon",
+"date": "2019-05-02",
+"previous_tenant": "LYFE Kitchen",
+"kind": "sandwich chain restaurant"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2019/04/29/mendocino-farms-brings-its-sandwiches-to-palo-alto/",
+"name": "LYFE Kitchen",
+"address": "167 Hamilton Ave",
+"event": "closed",
+"date": "2018",
+"previous_tenant": "",
+"kind": "fast-casual restaurant"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2019/05/06/palo-alto-to-get-its-first-natural-wine-bar/",
+"name": "Salvaje",
+"address": "369 Lytton Ave",
+"event": "opening_soon",
+"date": "2019",
+"previous_tenant": "Janta",
+"kind": "natural wine bar"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2019/05/06/palo-alto-to-get-its-first-natural-wine-bar/",
+"name": "Janta",
+"address": "369 Lytton Ave",
+"event": "closed",
+"date": "2019",
+"previous_tenant": "",
+"kind": "Indian restaurant"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2019/05/21/palo-altos-taverna-to-expand-next-door/",
+"name": "Taverna",
+"address": "806 Emerson St",
+"event": "opened",
+"date": "2019-06-14",
+"previous_tenant": "The Annex at St. Michael's Alley",
+"kind": "Greek restaurant expansion"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2019/05/21/palo-altos-taverna-to-expand-next-door/",
+"name": "The Annex at St. Michael's Alley",
+"address": "806 Emerson St",
+"event": "closed",
+"date": "2019-05",
+"previous_tenant": "",
+"kind": "restaurant annex"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2019/05/21/palo-altos-taverna-to-expand-next-door/",
+"name": "Taverna",
+"address": "800 Emerson St",
+"event": "opened",
+"date": "2018-04",
+"previous_tenant": "",
+"kind": "Greek restaurant"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2019/06/03/palo-alto-korean-restaurant-maum-snags-first-michelin-star/",
+"name": "Maum",
+"address": "322 University Ave",
+"event": "opened",
+"date": "2018-07",
+"previous_tenant": "",
+"kind": "high-end Korean restaurant"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2019/06/11/nationally-renowned-indian-restaurant-expanding-to-palo-alto/",
+"name": "Rooh",
+"address": "473 University Ave",
+"event": "opening_soon",
+"date": "2019",
+"previous_tenant": "Arte Ristorante",
+"kind": "modern Indian restaurant"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2019/06/11/nationally-renowned-indian-restaurant-expanding-to-palo-alto/",
+"name": "Arte Ristorante",
+"address": "473 University Ave",
+"event": "closed",
+"date": "2019-01",
+"previous_tenant": "",
+"kind": "Italian restaurant"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2019/06/13/natural-wine-bar-salvaje-opens-in-palo-alto/",
+"name": "Salvaje",
+"address": "369 Lytton Ave",
+"event": "opened",
+"date": "2019-06-13",
+"previous_tenant": "Janta",
+"kind": "natural wine bar"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2019/06/13/natural-wine-bar-salvaje-opens-in-palo-alto/",
+"name": "Janta",
+"address": "369 Lytton Ave",
+"event": "closed",
+"date": "2018-12",
+"previous_tenant": "",
+"kind": "Indian restaurant"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2019/06/18/verve-coffee-to-start-brewing-in-palo-alto-this-friday/",
+"name": "Verve Coffee Roasters",
+"address": "162 University Ave",
+"event": "opening_soon",
+"date": "2019-06-21",
+"previous_tenant": "",
+"kind": "coffee cafe"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2019/07/03/morseys-farmhouse-kitchen-to-open-buffalo-milk-creamery-in-palo-alto/",
+"name": "Morsey's Farmhouse Kitchen",
+"address": "125 University Ave",
+"event": "opening_soon",
+"date": "2019-07",
+"previous_tenant": "",
+"kind": "buffalo-milk gelato creamery"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2019/07/17/contemporary-indian-restaurant-ettan-headed-to-palo-alto/",
+"name": "Ettan",
+"address": "518 Bryant St",
+"event": "opening_soon",
+"date": "2019",
+"previous_tenant": "Three Seasons Restaurant",
+"kind": "contemporary Indian restaurant"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2019/07/17/contemporary-indian-restaurant-ettan-headed-to-palo-alto/",
+"name": "Three Seasons Restaurant",
+"address": "518 Bryant St",
+"event": "closed",
+"date": "2018",
+"previous_tenant": "",
+"kind": "Vietnamese restaurant"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2019/07/17/contemporary-indian-restaurant-ettan-headed-to-palo-alto/",
+"name": "Rooh",
+"address": "",
+"event": "opening_soon",
+"date": "2019",
+"previous_tenant": "",
+"kind": "modern Indian restaurant"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2019/07/19/owners-of-palo-altos-tamarine-plot-casual-vietnamese-spin-off/",
+"name": "Tam Tam",
+"address": "140 University Ave",
+"event": "opening_soon",
+"date": "2019-09",
+"previous_tenant": "Opa Authentic Greek Cuisine",
+"kind": "casual Vietnamese restaurant"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2019/07/29/singapores-oldest-cafe-to-bring-imported-coffee-kaya-toast-to-palo-alto/",
+"name": "Killiney Kopitiam",
+"address": "552 Waverley St",
+"event": "opening_soon",
+"date": "2019-09",
+"previous_tenant": "Congdon and Crome",
+"kind": "Singaporean cafe"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2019/08/05/fusion-restaurant-brings-indian-pizza-to-palo-alto/",
+"name": "Curry Pizza House",
+"address": "320 University Ave",
+"event": "opened",
+"date": "2019-08",
+"previous_tenant": "",
+"kind": "Indian pizza restaurant"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2019/08/14/after-39-years-of-cakes-and-pastries-palo-alto-institution-prolific-oven-to-close/",
+"name": "The Prolific Oven",
+"address": "550 Waverley St",
+"event": "closed",
+"date": "2019-08-31",
+"previous_tenant": "",
+"kind": "bakery cafe"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2019/08/14/after-39-years-of-cakes-and-pastries-palo-alto-institution-prolific-oven-to-close/",
+"name": "The Prolific Oven",
+"address": "550 Waverley St",
+"event": "opened",
+"date": "1980",
+"previous_tenant": "",
+"kind": "bakery cafe"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2019/08/19/morseys-creamery-brings-buffalo-milk-gelato-to-downtown-palo-alto/",
+"name": "Morsey's Creamery",
+"address": "125 University Ave",
+"event": "opened",
+"date": "2019-08-17",
+"previous_tenant": "",
+"kind": "buffalo-milk gelato shop"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2019/08/23/round-table-pizza-bites-the-dust-in-downtown-palo-alto/",
+"name": "Round Table Pizza",
+"address": "263 University Ave",
+"event": "closed",
+"date": "2019-08-19",
+"previous_tenant": "",
+"kind": "pizza restaurant"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2019/09/23/tamarines-casual-spinoff-opens-tonight-in-palo-alto/",
+"name": "Tam Tam",
+"address": "140 University Ave",
+"event": "opened",
+"date": "2019-09-23",
+"previous_tenant": "",
+"kind": "Vietnamese restaurant"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2019/09/23/tamarines-casual-spinoff-opens-tonight-in-palo-alto/",
+"name": "Tamarine",
+"address": "",
+"event": "opened",
+"date": "2002",
+"previous_tenant": "",
+"kind": "upscale Vietnamese restaurant"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2019/11/18/peets-cafes-in-palo-alto-menlo-park-los-altos-to-close-nov-24/",
+"name": "Peet's Coffee & Tea",
+"address": "436 University Ave",
+"event": "closed",
+"date": "2019-11-24",
+"previous_tenant": "",
+"kind": "coffee shop chain"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2019/11/18/peets-cafes-in-palo-alto-menlo-park-los-altos-to-close-nov-24/",
+"name": "Peet's Coffee & Tea",
+"address": "436 University Ave",
+"event": "opened",
+"date": "2007",
+"previous_tenant": "",
+"kind": "coffee shop chain"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2019/11/18/peets-cafes-in-palo-alto-menlo-park-los-altos-to-close-nov-24/",
+"name": "Peet's Coffee & Tea",
+"address": "153 Homer Ave",
+"event": "opening_soon",
+"date": "2019-11-22",
+"previous_tenant": "",
+"kind": "coffee shop chain"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2019/11/21/starting-a-restaurant-was-far-more-difficult-than-starting-a-tech-company-palo-altos-teaquation-cafe-to-close/",
+"name": "Teaquation",
+"address": "115 Hamilton Ave",
+"event": "closed",
+"date": "2019-11-30",
+"previous_tenant": "",
+"kind": "tea cafe"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2019/11/21/starting-a-restaurant-was-far-more-difficult-than-starting-a-tech-company-palo-altos-teaquation-cafe-to-close/",
+"name": "Teaquation",
+"address": "115 Hamilton Ave",
+"event": "opened",
+"date": "2018",
+"previous_tenant": "",
+"kind": "tea cafe"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2019/12/04/palo-alto-indian-restaurant-ettan-partners-with-michelin-starred-san-francisco-chef/",
+"name": "Ettan",
+"address": "518 Bryant St",
+"event": "opening_soon",
+"date": "2020-01",
+"previous_tenant": "",
+"kind": "contemporary Indian restaurant"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2019/12/13/san-franciscos-sweet-maple-to-bring-brunch-korean-fare-to-palo-alto/",
+"name": "Sweet Maple",
+"address": "150 University Ave",
+"event": "opening_soon",
+"date": "2020-08",
+"previous_tenant": "Amber Dhara",
+"kind": "brunch and Korean restaurant"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2019/12/13/san-franciscos-sweet-maple-to-bring-brunch-korean-fare-to-palo-alto/",
+"name": "Amber Dhara",
+"address": "150 University Ave",
+"event": "closed",
+"date": "2019-12-24",
+"previous_tenant": "",
+"kind": "Indian restaurant"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2019/12/18/palo-alto-frozen-yogurt-shop-fraiche-closes-but-will-reopen-in-new-location/",
+"name": "Fraiche",
+"address": "200 Hamilton Ave",
+"event": "closed",
+"date": "2019-12-10",
+"previous_tenant": "",
+"kind": "frozen yogurt shop"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2019/12/18/palo-alto-frozen-yogurt-shop-fraiche-closes-but-will-reopen-in-new-location/",
+"name": "Fraiche",
+"address": "",
+"event": "opened",
+"date": "2007",
+"previous_tenant": "",
+"kind": "frozen yogurt shop"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2020/01/09/the-sisters-behind-palo-altos-tamarine-are-opening-a-vietnamese-fast-casual-restaurant-in-mountain-view/",
+"name": "Tam Tam",
+"address": "",
+"event": "opened",
+"date": "2019-09",
+"previous_tenant": "",
+"kind": "Vietnamese restaurant"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2020/01/10/french-laundry-chez-tj-alum-to-give-new-life-to-prolific-oven-space-in-palo-alto/",
+"name": "Ethel's Fancy",
+"address": "550 Waverley St",
+"event": "opening_soon",
+"date": "2020",
+"previous_tenant": "The Prolific Oven",
+"kind": "Japanese-French-California restaurant"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2020/01/10/french-laundry-chez-tj-alum-to-give-new-life-to-prolific-oven-space-in-palo-alto/",
+"name": "The Prolific Oven",
+"address": "550 Waverley St",
+"event": "closed",
+"date": "2019-08",
+"previous_tenant": "",
+"kind": "bakery"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2020/01/10/french-laundry-chez-tj-alum-to-give-new-life-to-prolific-oven-space-in-palo-alto/",
+"name": "The Prolific Oven",
+"address": "550 Waverley St",
+"event": "opened",
+"date": "1980",
+"previous_tenant": "",
+"kind": "bakery"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2020/01/15/plutos-appears-to-close-after-more-than-two-decades-in-downtown-palo-alto/",
+"name": "Pluto's",
+"address": "482 University Ave",
+"event": "closed",
+"date": "2020-01",
+"previous_tenant": "",
+"kind": "salad and sandwich eatery"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2020/01/23/from-the-owner-of-lv-mar-and-la-viga-a-palo-alto-restaurant-inspired-by-mexico-city/",
+"name": "San Agus",
+"address": "115 Hamilton Ave",
+"event": "opening_soon",
+"date": "2020-04",
+"previous_tenant": "Teaquation & Tonic",
+"kind": "Mexican street food restaurant"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2020/01/23/from-the-owner-of-lv-mar-and-la-viga-a-palo-alto-restaurant-inspired-by-mexico-city/",
+"name": "Teaquation & Tonic",
+"address": "115 Hamilton Ave",
+"event": "closed",
+"date": "2019-11",
+"previous_tenant": "",
+"kind": "tea bar"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2020/02/13/umami-burger-calls-it-quits-in-downtown-palo-alto/",
+"name": "Umami Burger",
+"address": "452 University Ave",
+"event": "closed",
+"date": "2020-02-07",
+"previous_tenant": "",
+"kind": "burger restaurant"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2020/02/13/umami-burger-calls-it-quits-in-downtown-palo-alto/",
+"name": "Umami Burger",
+"address": "452 University Ave",
+"event": "opened",
+"date": "2013-03",
+"previous_tenant": "",
+"kind": "burger restaurant"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2020/02/13/umami-burger-calls-it-quits-in-downtown-palo-alto/",
+"name": "Wahlburgers",
+"address": "",
+"event": "opened",
+"date": "2017",
+"previous_tenant": "",
+"kind": "burger restaurant"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2020/02/19/are-they-ready-for-fully-innovative-indian-food-ettan-arrives-in-palo-alto-with-chaat-caviar-and-a-secret-menu/",
+"name": "Ettan",
+"address": "518 Bryant St",
+"event": "opening_soon",
+"date": "2020-02-21",
+"previous_tenant": "Three Seasons",
+"kind": "contemporary Indian restaurant"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2020/02/19/are-they-ready-for-fully-innovative-indian-food-ettan-arrives-in-palo-alto-with-chaat-caviar-and-a-secret-menu/",
+"name": "Three Seasons",
+"address": "518 Bryant St",
+"event": "closed",
+"date": "2018",
+"previous_tenant": "",
+"kind": "Vietnamese restaurant"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2020/02/19/are-they-ready-for-fully-innovative-indian-food-ettan-arrives-in-palo-alto-with-chaat-caviar-and-a-secret-menu/",
+"name": "Rooh",
+"address": "",
+"event": "opened",
+"date": "2020-01",
+"previous_tenant": "",
+"kind": "contemporary Indian restaurant"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2020/03/10/nobody-is-dining-out-palo-alto-chinese-restaurant-taste-is-on-the-brink-of-permanently-shutting-down-amidst-coronavirus-spread/",
+"name": "Taste",
+"address": "423 University Ave",
+"event": "opened",
+"date": "2017",
+"previous_tenant": "",
+"kind": "Sichuan restaurant"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2020/04/08/singapores-oldest-cafe-was-about-to-open-in-palo-alto-then-the-coronavirus-hit/",
+"name": "Killiney Kopitiam",
+"address": "552 Waverley St",
+"event": "opening_soon",
+"date": "2020-04",
+"previous_tenant": "",
+"kind": "Singaporean cafe"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2020/04/13/theyre-all-scared-beyond-belief-palo-altos-dan-gordons-closes-as-local-restaurants-face-uncertain-future/",
+"name": "Dan Gordon's",
+"address": "640 Emerson St",
+"event": "closed",
+"date": "2020-03",
+"previous_tenant": "",
+"kind": "barbecue brewpub restaurant"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2020/04/13/theyre-all-scared-beyond-belief-palo-altos-dan-gordons-closes-as-local-restaurants-face-uncertain-future/",
+"name": "Dan Gordon's",
+"address": "640 Emerson St",
+"event": "opened",
+"date": "2016",
+"previous_tenant": "Gordon Biersch",
+"kind": "barbecue brewpub restaurant"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2020/04/13/theyre-all-scared-beyond-belief-palo-altos-dan-gordons-closes-as-local-restaurants-face-uncertain-future/",
+"name": "Gordon Biersch",
+"address": "640 Emerson St",
+"event": "opened",
+"date": "1988",
+"previous_tenant": "",
+"kind": "brewery restaurant"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2020/05/01/palo-altos-beloved-prolific-oven-is-back-with-home-baking-kits/",
+"name": "The Prolific Oven",
+"address": "550 Waverley St",
+"event": "closed",
+"date": "2019-08",
+"previous_tenant": "",
+"kind": "bakery"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2020/05/01/palo-altos-beloved-prolific-oven-is-back-with-home-baking-kits/",
+"name": "The Prolific Oven",
+"address": "550 Waverley St",
+"event": "opened",
+"date": "1980",
+"previous_tenant": "",
+"kind": "bakery"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2020/05/22/san-agus-opens-in-palo-alto-with-mexico-city-street-food-for-takeout-only/",
+"name": "San Agus Cocina Urbana & Cocktails",
+"address": "115 Hamilton Ave",
+"event": "opened",
+"date": "2020-05-22",
+"previous_tenant": "",
+"kind": "Mexican street food restaurant"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2020/05/27/john-shelstas-popular-pastry-pop-up-finds-a-new-home-at-zola-in-palo-alto/",
+"name": "Love for Butter (at Zola)",
+"address": "",
+"event": "opening_soon",
+"date": "2020-06",
+"previous_tenant": "",
+"kind": "pastry pop-up"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2020/06/15/a-premature-ending-palo-altos-maum-to-reinvent-itself-with-meal-kits-online-market/",
+"name": "Maum",
+"address": "322 University Ave",
+"event": "opened",
+"date": "2018",
+"previous_tenant": "",
+"kind": "Korean tasting-menu restaurant"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2020/06/15/a-premature-ending-palo-altos-maum-to-reinvent-itself-with-meal-kits-online-market/",
+"name": "Maum",
+"address": "322 University Ave",
+"event": "closed",
+"date": "2020-06",
+"previous_tenant": "",
+"kind": "Korean tasting-menu restaurant"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2020/06/15/a-premature-ending-palo-altos-maum-to-reinvent-itself-with-meal-kits-online-market/",
+"name": "Maum",
+"address": "322 University Ave",
+"event": "opening_soon",
+"date": "2020-07",
+"previous_tenant": "",
+"kind": "Asian pantry market"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2020/06/23/coffee-pop-up-opens-at-palo-alto-wine-bar-salvaje/",
+"name": "Tono Coffee Project",
+"address": "369 Lytton Ave",
+"event": "opened",
+"date": "2020-06",
+"previous_tenant": "",
+"kind": "coffee pop-up"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2020/08/05/fighting-an-uphill-battle-palo-altos-longtime-macarthur-park-to-close-until-2021/",
+"name": "MacArthur Park",
+"address": "27 University Ave",
+"event": "opened",
+"date": "1981",
+"previous_tenant": "",
+"kind": "American restaurant"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2020/08/05/fighting-an-uphill-battle-palo-altos-longtime-macarthur-park-to-close-until-2021/",
+"name": "MacArthur Park",
+"address": "27 University Ave",
+"event": "closed",
+"date": "2020-08-08",
+"previous_tenant": "",
+"kind": "American restaurant"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2020/08/17/following-outpouring-from-customers-palo-altos-macarthur-park-reopens-for-takeout/",
+"name": "MacArthur Park",
+"address": "27 University Ave",
+"event": "opened",
+"date": "1981",
+"previous_tenant": "",
+"kind": "American restaurant"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2020/08/17/following-outpouring-from-customers-palo-altos-macarthur-park-reopens-for-takeout/",
+"name": "MacArthur Park",
+"address": "27 University Ave",
+"event": "opened",
+"date": "2020-08",
+"previous_tenant": "",
+"kind": "American restaurant"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2020/08/17/maums-michelin-starred-chefs-part-ways-with-owners-adding-uncertainty-to-future-of-palo-alto-korean-restaurant/",
+"name": "Maum",
+"address": "",
+"event": "opened",
+"date": "2018",
+"previous_tenant": "",
+"kind": "Korean fine-dining restaurant"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2020/09/02/not-farewell-but-see-you-soon-palo-altos-maum-closes-until-further-notice/",
+"name": "Maum",
+"address": "322 University Ave",
+"event": "closed",
+"date": "2020-09-02",
+"previous_tenant": "",
+"kind": "Korean fine-dining restaurant"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2020/09/28/singapores-killiney-kopitiam-opens-in-palo-alto-to-long-lines-and-much-excitement/",
+"name": "Killiney Kopitiam",
+"address": "552 Waverley St",
+"event": "opened",
+"date": "2020-09-24",
+"previous_tenant": "",
+"kind": "Singaporean cafe"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2020/10/07/redwood-citys-zadna-opens-fast-casual-spinoff-in-palo-alto/",
+"name": "Zadna Bowl",
+"address": "461 Emerson St",
+"event": "opened",
+"date": "2020-10",
+"previous_tenant": "Roost House",
+"kind": "fast-casual Mediterranean eatery"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2020/11/13/palo-altos-tam-tam-to-close-but-owners-hope-to-reopen-elsewhere/",
+"name": "Tam Tam",
+"address": "140 University Ave",
+"event": "opened",
+"date": "2019-09",
+"previous_tenant": "Opa Authentic Greek Cuisine",
+"kind": "casual Vietnamese restaurant"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2020/11/13/palo-altos-tam-tam-to-close-but-owners-hope-to-reopen-elsewhere/",
+"name": "Tam Tam",
+"address": "140 University Ave",
+"event": "closed",
+"date": "2020-11-15",
+"previous_tenant": "",
+"kind": "casual Vietnamese restaurant"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2021/03/26/palo-alto-wine-bar-vino-locale-changes-hands-to-customer-turned-owner/",
+"name": "Vino Locale",
+"address": "",
+"event": "opened",
+"date": "2005",
+"previous_tenant": "",
+"kind": "wine bar"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2021/09/09/two-sister-restaurants-under-one-roof-koma-and-kanpai-sushi-merge-operations-in-palo-alto/",
+"name": "Koma Sushi (now part of Kanpai Sushi)",
+"address": "330 Lytton Ave",
+"event": "opened",
+"date": "2021-09",
+"previous_tenant": "",
+"kind": "sushi restaurant"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2021/10/21/home-brews-to-home-base-brewing-with-brothas-aims-to-open-east-palo-alto-taproom/",
+"name": "The Tap Room",
+"address": "",
+"event": "closed",
+"date": "",
+"previous_tenant": "",
+"kind": "craft beer bar"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2022/02/09/sweet-maple-brings-its-millionaires-bacon-and-other-brunch-hits-to-downtown-palo-alto/",
+"name": "Sweet Maple",
+"address": "150 University Ave",
+"event": "opened",
+"date": "2022-02",
+"previous_tenant": "",
+"kind": "brunch restaurant"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2022/02/22/sisters-go-from-backyard-to-business-with-wood-oven-pizza-in-palo-alto/",
+"name": "Wood Oven Pizza",
+"address": "532 Ramona St",
+"event": "opened",
+"date": "2022-02",
+"previous_tenant": "",
+"kind": "wood-fired pizza restaurant"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2022/04/13/feast-and-florals-cheese-boards-and-flower-bouquets-are-coming-to-palo-altos-salvaje/",
+"name": "Feast and Floral",
+"address": "369 Lytton Ave",
+"event": "opening_soon",
+"date": "2022-06",
+"previous_tenant": "",
+"kind": "cheese board shop"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2022/04/20/cocoa-butter-turns-to-the-community-for-help-in-bringing-its-french-ptisserie-and-cafe-to-downtown-palo-alto/",
+"name": "Cocoa & Butter",
+"address": "383 University Ave",
+"event": "opened",
+"date": "2022-04",
+"previous_tenant": "Paris Baguette",
+"kind": "French bakery cafe"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2022/08/09/arya-steakhouse-a-standby-for-steaks-and-persian-cuisine-moves-to-downtown-palo-alto/",
+"name": "Arya Steakhouse",
+"address": "140 University Ave",
+"event": "opened",
+"date": "2022-08-09",
+"previous_tenant": "Tam Tam Restaurant",
+"kind": "Persian steakhouse"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2022/08/24/how-a-palo-alto-restaurateur-cooked-his-way-to-10k-on-food-network/",
+"name": "Zola",
+"address": "565 Bryant St",
+"event": "opened",
+"date": "2014",
+"previous_tenant": "",
+"kind": "French restaurant"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2022/08/24/how-a-palo-alto-restaurateur-cooked-his-way-to-10k-on-food-network/",
+"name": "BarZola",
+"address": "565 Bryant St",
+"event": "opened",
+"date": "2021",
+"previous_tenant": "",
+"kind": "bar"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2022/08/31/ethels-fancy-opening-in-palo-alto-over-labor-day-weekend/",
+"name": "Ethel's Fancy",
+"address": "550 Waverley St",
+"event": "opening_soon",
+"date": "2022-09-03",
+"previous_tenant": "The Prolific Oven",
+"kind": "casual restaurant"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2022/09/29/a-restaurant-tucked-away-in-a-downtown-palo-alto-nonprofit-is-reopening-for-the-first-time-since-covid/",
+"name": "The Redwood by Chef Julien",
+"address": "450 Bryant St",
+"event": "opening_soon",
+"date": "2022-10-03",
+"previous_tenant": "",
+"kind": "French cafe"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2022/10/04/peruvian-restaurant-lima-ruby-debuts-in-downtown-palo-alto/",
+"name": "Lima Ruby",
+"address": "326 University Ave",
+"event": "opened",
+"date": "2022-09-12",
+"previous_tenant": "Burma Ruby",
+"kind": "Peruvian restaurant"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2022/10/04/peruvian-restaurant-lima-ruby-debuts-in-downtown-palo-alto/",
+"name": "Burma Ruby",
+"address": "326 University Ave",
+"event": "closed",
+"date": "2022",
+"previous_tenant": "",
+"kind": "Burmese restaurant"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2022/11/11/revamped-former-president-hotel-in-palo-alto-to-offer-rooftop-bar-and-cafe/",
+"name": "Graduate Palo Alto",
+"address": "488 University Ave",
+"event": "opening_soon",
+"date": "2022-12",
+"previous_tenant": "President Hotel",
+"kind": "boutique hotel"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2022/11/11/revamped-former-president-hotel-in-palo-alto-to-offer-rooftop-bar-and-cafe/",
+"name": "Lou & Herbert's",
+"address": "488 University Ave",
+"event": "opening_soon",
+"date": "2022-12",
+"previous_tenant": "",
+"kind": "all-day cafe"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2022/11/11/revamped-former-president-hotel-in-palo-alto-to-offer-rooftop-bar-and-cafe/",
+"name": "President's Terrace",
+"address": "488 University Ave",
+"event": "opening_soon",
+"date": "2022-12",
+"previous_tenant": "",
+"kind": "rooftop bar"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2022/11/18/cocoa-butter-closing-its-doors-months-after-opening-on-university-avenue/",
+"name": "Cocoa & Butter",
+"address": "383 University Ave",
+"event": "closed",
+"date": "2022-11-16",
+"previous_tenant": "",
+"kind": "French bakery patisserie"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2022/11/18/cocoa-butter-closing-its-doors-months-after-opening-on-university-avenue/",
+"name": "Cocoa & Butter",
+"address": "383 University Ave",
+"event": "opened",
+"date": "2022-04",
+"previous_tenant": "",
+"kind": "French bakery patisserie"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2022/11/29/vietnamese-restaurant-that-may-offer-special-menu-for-canine-customers-coming-to-former-wahlburgers-site-in-palo-alto/",
+"name": "Pho Hà Noi",
+"address": "185 University Ave",
+"event": "opening_soon",
+"date": "2023",
+"previous_tenant": "Wahlburgers",
+"kind": "Vietnamese pho restaurant"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2022/11/29/vietnamese-restaurant-that-may-offer-special-menu-for-canine-customers-coming-to-former-wahlburgers-site-in-palo-alto/",
+"name": "Wahlburgers",
+"address": "185 University Ave",
+"event": "closed",
+"date": "2022",
+"previous_tenant": "",
+"kind": "burger chain restaurant"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2022/11/29/vietnamese-restaurant-that-may-offer-special-menu-for-canine-customers-coming-to-former-wahlburgers-site-in-palo-alto/",
+"name": "Wahlburgers",
+"address": "185 University Ave",
+"event": "opened",
+"date": "2017-11",
+"previous_tenant": "Sam's Chowder House",
+"kind": "burger chain restaurant"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2022/11/29/vietnamese-restaurant-that-may-offer-special-menu-for-canine-customers-coming-to-former-wahlburgers-site-in-palo-alto/",
+"name": "Sam's Chowder House",
+"address": "185 University Ave",
+"event": "closed",
+"date": "2016",
+"previous_tenant": "",
+"kind": "seafood restaurant"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2023/02/06/the-west-coasts-viral-spiral-croissant-maker-is-coming-to-palo-alto/",
+"name": "Marvel Cake",
+"address": "250 University Ave",
+"event": "opening_soon",
+"date": "2023-03",
+"previous_tenant": "",
+"kind": "bakery"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2023/03/09/the-old-pro-is-making-a-comeback-zola-owner-to-bring-new-offerings-to-historic-palo-alto-sports-bar/",
+"name": "The Old Pro",
+"address": "541 Ramona St",
+"event": "closed",
+"date": "2022-06",
+"previous_tenant": "",
+"kind": "sports bar"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2023/03/09/the-old-pro-is-making-a-comeback-zola-owner-to-bring-new-offerings-to-historic-palo-alto-sports-bar/",
+"name": "The Old Pro",
+"address": "541 Ramona St",
+"event": "opening_soon",
+"date": "2023-03-09",
+"previous_tenant": "The Old Pro",
+"kind": "sports bar steakhouse"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2023/06/22/palo-alto-chocolatier-expanding-with-new-downtown-cafe/",
+"name": "Shekoh Confections Cafe",
+"address": "444 University Ave",
+"event": "opening_soon",
+"date": "2023-06-22",
+"previous_tenant": "Chantal Guillon",
+"kind": "chocolate cafe"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2023/06/22/palo-alto-chocolatier-expanding-with-new-downtown-cafe/",
+"name": "Chantal Guillon",
+"address": "444 University Ave",
+"event": "moved_out",
+"date": "2023-06",
+"previous_tenant": "",
+"kind": "French macaron bakery"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2023/06/22/palo-alto-chocolatier-expanding-with-new-downtown-cafe/",
+"name": "Shokolaat",
+"address": "",
+"event": "closed",
+"date": "2012",
+"previous_tenant": "",
+"kind": "French restaurant patisserie"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2023/07/06/turkish-pastries-coffee-offerings-and-20-varieties-of-baklava-oklava-and-kenz-coffee-bar-debut-in-palo-alto/",
+"name": "Oklava",
+"address": "205 University Ave",
+"event": "opened",
+"date": "2023-06-13",
+"previous_tenant": "",
+"kind": "Turkish cafe"
+},
+{
+"url": "https://www.paloaltoonline.com/peninsula-foodist/2023/07/06/turkish-pastries-coffee-offerings-and-20-varieties-of-baklava-oklava-and-kenz-coffee-bar-debut-in-palo-alto/",
+"name": "Kenz Coffee Bar",
+"address": "205 University Ave",
+"event": "opened",
+"date": "2023-06-13",
+"previous_tenant": "",
+"kind": "coffee bar"
+},
+{
+"url": "https://www.paloaltoonline.com/san-carlos/2024/08/05/team-behind-palo-altos-terun-and-italico-debuts-impasto-in-san-carlos/",
+"name": "Pasta?",
+"address": "",
+"event": "closed",
+"date": "",
+"previous_tenant": "",
+"kind": "Italian restaurant"
 }
+]
 }

@@ -206,14 +206,19 @@ if os.path.exists(HS):
     # ---- News: openings/closings reported by Palo Alto Online's Peninsula Foodist (most precise source for 2014+)
     def yr(dt):
         m = re.match(r"(\d{4})", str(dt or "")); return int(m.group(1)) if m else None
+    def num_street(a):
+        m = re.match(r"(\d+)\s+(.+)", a or ""); return (int(m.group(1)), norm(m.group(2))) if m else (None, norm(a or ""))
+    def same_bldg(a, b):
+        (n1, s1), (n2, s2) = num_street(a), num_street(b)
+        return bool(n1 and n2 and s1 == s2 and abs(n1 - n2) <= 4)
     groups = {}
     for e in hs.get("news", []):
-        k = norm(e["name"]); g = groups.setdefault(k, {"name": e["name"], "addrs": [], "open": [], "close": [], "soon": [], "kind": e.get("kind", ""), "url": e.get("url", ""), "seen": []})
+        k = norm(e["name"]); g = groups.setdefault(k, {"name": e["name"], "addrs": [], "open": [], "close": [], "soon": [], "kind": e.get("kind", ""), "url": e.get("url", ""), "seen": []}); g.pop("prev_only", None)
         if e.get("address"): g["addrs"].append(e["address"])
         y = yr(e.get("date"))
         if y: g[{"opened": "open", "closed": "close", "opening_soon": "soon", "moved_out": "close"}.get(e.get("event"), "open")].append(y)
         if e.get("previous_tenant") and e.get("address") and y and e.get("event") in ("opened", "opening_soon"):
-            pk = norm(e["previous_tenant"]); pg = groups.setdefault(pk, {"name": e["previous_tenant"], "addrs": [], "open": [], "close": [], "soon": [], "kind": "", "url": e.get("url", ""), "seen": []})
+            pk = norm(e["previous_tenant"]); pg = groups.setdefault(pk, {"name": e["previous_tenant"], "addrs": [], "open": [], "close": [], "soon": [], "kind": "", "url": e.get("url", ""), "seen": [], "prev_only": True})
             pg["addrs"].append(e["address"]); pg["close"].append(y)
     news_fixed = news_added = 0
     for k, g in groups.items():
@@ -222,7 +227,7 @@ if os.path.exists(HS):
         c = max(g["close"]) if g["close"] else None
         if c and o and c < o: o = None
         hits = [x for x in out if (norm(x["name"]) == k or (wset(x["name"]) and wset(x["name"]) == wset(g["name"])))
-                and (not addr or norm(x["address"]) == norm(addr) or x["address"] == "address not listed")]
+                and (not addr or norm(x["address"]) == norm(addr) or same_bldg(x["address"], addr) or x["address"] == "address not listed")]
         hits = [x for x in hits if not (c and x["start"] > c + 1) and not (o and x.get("end") and x["end"] < o - 1)]
         src = f"Palo Alto Online's Peninsula Foodist reported it {'opening in ' + str(o) if o else ''}{' and ' if o and c else ''}{'closing in ' + str(c) if c else ''}."
         if hits:
@@ -233,10 +238,14 @@ if os.path.exists(HS):
                 if "Peninsula Foodist" not in x["note"]: x["note"] = (x["note"] + " " + src).strip()
                 news_fixed += 1
             continue
-        if not addr or not (o or c): continue
+        if not addr or not (o or c) or g.get("prev_only"): continue
+        if not c and o:   # ended when the column next reported something opening in the same building
+            nxt = [min(h["open"] or h["soon"]) for h2, h in groups.items() if h2 != k and (h["open"] or h["soon"]) and h["addrs"]
+                   and same_bldg(max(set(h["addrs"]), key=h["addrs"].count), addr) and min(h["open"] or h["soon"]) > o]
+            if nxt: c = min(nxt)
         ll = geocode(addr)
         if not ll or not in_area(*ll): continue
-        start = o or c; end = c if c else (None if o and o >= CUR - 2 else o)
+        start = o or c; end = c if c else (None if o and o >= CUR - 3 else o)
         cat = "food"
         out.append({"name": g["name"], "address": addr, "start": start, "end": end, "category": cat, "approx": not (o and (c or end is None)),
                     "source": "news", "lat": ll[0], "lng": ll[1],
