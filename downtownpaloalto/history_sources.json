@@ -281,16 +281,6 @@
 "note": "Bakery. Listed in Palo Alto city directories and phone books (1924–1925); actual years open may be longer."
 },
 {
-"name": "Kappas Bakery",
-"address": "543 Emerson St",
-"start": 1924,
-"end": 1924,
-"category": "food",
-"approx": true,
-"source": "directory",
-"note": "Bakery. Listed in Palo Alto city directories and phone books (1924); actual years open may be longer."
-},
-{
 "name": "Polly-Ann Bakery",
 "address": "356 University Ave",
 "start": 1924,
@@ -4211,16 +4201,6 @@
 "note": "Laundry. Listed in Palo Alto city directories and phone books (1951); actual years open may be longer."
 },
 {
-"name": "Women's Exchange",
-"address": "522 Bryant St",
-"start": 1939,
-"end": 1953,
-"category": "retail",
-"approx": true,
-"source": "directory",
-"note": "Consignment shop. Listed in Palo Alto city directories and phone books (1939–1953); actual years open may be longer."
-},
-{
 "name": "The Wool Shop",
 "address": "419 Florence St",
 "start": 1941,
@@ -4289,16 +4269,6 @@
 "approx": true,
 "source": "directory",
 "note": "Auto dealer. Listed in Palo Alto city directories and phone books (1951); actual years open may be longer."
-},
-{
-"name": "J. C. Penney Co.",
-"address": "300 University Ave",
-"start": 1940,
-"end": 1959,
-"category": "retail",
-"approx": true,
-"source": "directory",
-"note": "Department store. Listed in Palo Alto city directories and phone books (1940–1959); actual years open may be longer."
 },
 {
 "name": "Union Service Station",
@@ -4761,16 +4731,6 @@
 "note": "Dry cleaners. Listed in Palo Alto city directories and phone books (1947–1962); actual years open may be longer."
 },
 {
-"name": "Exclusive French Laundry",
-"address": "865 High St",
-"start": 1944,
-"end": 1957,
-"category": "services",
-"approx": true,
-"source": "directory",
-"note": "Laundry. Listed in Palo Alto city directories and phone books (1944–1957); actual years open may be longer."
-},
-{
 "name": "Lois Fowler",
 "address": "436 University Ave",
 "start": 1952,
@@ -4879,16 +4839,6 @@
 "approx": true,
 "source": "directory",
 "note": "Jewelry store. Listed in Palo Alto city directories and phone books (1947–1959); actual years open may be longer."
-},
-{
-"name": "The Homeware Store",
-"address": "541 Ramona St",
-"start": 1929,
-"end": 1955,
-"category": "retail",
-"approx": true,
-"source": "directory",
-"note": "Housewares store. Listed in Palo Alto city directories and phone books (1929–1955); actual years open may be longer."
 },
 {
 "name": "John Barnes Restaurant",
@@ -5821,16 +5771,6 @@
 "note": "Print shop. Listed in Palo Alto city directories and phone books (1947); actual years open may be longer."
 },
 {
-"name": "Bourquin Printing Studio",
-"address": "540 Emerson St",
-"start": 1946,
-"end": 1947,
-"category": "services",
-"approx": true,
-"source": "directory",
-"note": "Print shop. Listed in Palo Alto city directories and phone books (1946–1947); actual years open may be longer."
-},
-{
 "name": "Nancy Bray Antiques",
 "address": "418 Ramona St",
 "start": 1947,
@@ -5879,16 +5819,6 @@
 "approx": true,
 "source": "directory",
 "note": "Mattress store. Listed in Palo Alto city directories and phone books (1947); actual years open may be longer."
-},
-{
-"name": "Jack Butler Auto Repairs",
-"address": "734 Ramona St",
-"start": 1946,
-"end": 1947,
-"category": "services",
-"approx": true,
-"source": "directory",
-"note": "Auto repair garage. Listed in Palo Alto city directories and phone books (1946–1947); actual years open may be longer."
 },
 {
 "name": "California Shoe Repairing",
@@ -6251,16 +6181,6 @@
 "note": "Beauty shop. Listed in Palo Alto city directories and phone books (1940–1954); actual years open may be longer."
 },
 {
-"name": "Hage's Stanford Music Shop",
-"address": "367 University Ave",
-"start": 1945,
-"end": 1954,
-"category": "retail",
-"approx": true,
-"source": "directory",
-"note": "Music store. Listed in Palo Alto city directories and phone books (1945–1954); actual years open may be longer."
-},
-{
 "name": "Hansen's Furniture Store",
 "address": "519 Emerson St",
 "start": 1941,
@@ -6449,16 +6369,6 @@
 "approx": true,
 "source": "directory",
 "note": "Beauty salon. Listed in Palo Alto city directories and phone books (1944–1947); actual years open may be longer."
-},
-{
-"name": "Warren May Auto Repair",
-"address": "734 Ramona St",
-"start": 1947,
-"end": 1947,
-"category": "services",
-"approx": true,
-"source": "directory",
-"note": "Auto repair garage. Listed in Palo Alto city directories and phone books (1947); actual years open may be longer."
 },
 {
 "name": "McCosh Draperies",
@@ -6759,16 +6669,6 @@
 "approx": true,
 "source": "directory",
 "note": "Gift shop. Listed in Palo Alto city directories and phone books (1947); actual years open may be longer."
-},
-{
-"name": "Roller & Hapgood",
-"address": "481 University Ave",
-"start": 1929,
-"end": 1947,
-"category": "services",
-"approx": true,
-"source": "directory",
-"note": "Funeral home. Listed in Palo Alto city directories and phone books (1929–1947); actual years open may be longer."
 },
 {
 "name": "Rotary Club of Palo Alto",
@@ -7751,16 +7651,6 @@
 "note": "Jewelry store. Listed in Palo Alto city directories and phone books (1955–1963); actual years open may be longer."
 },
 {
-"name": "D. A. Hanley Meats",
-"address": "520 Bryant St",
-"start": 1957,
-"end": 1962,
-"category": "food",
-"approx": true,
-"source": "directory",
-"note": "Meat market. Listed in Palo Alto city directories and phone books (1957–1962); actual years open may be longer."
-},
-{
 "name": "Henry's Dye Shop",
 "address": "714 Ramona St",
 "start": 1956,
@@ -7889,16 +7779,6 @@
 "approx": true,
 "source": "directory",
 "note": "Jewelry store. Listed in Palo Alto city directories and phone books (1954–1959); actual years open may be longer."
-},
-{
-"name": "Rapp's Shoe Store",
-"address": "367 University Ave",
-"start": 1956,
-"end": 1961,
-"category": "retail",
-"approx": true,
-"source": "directory",
-"note": "Shoe store. Listed in Palo Alto city directories and phone books (1956–1961); actual years open may be longer."
 },
 {
 "name": "Rucker's Uniform Shop",
@@ -8541,16 +8421,6 @@
 "note": "Food market. Listed in Palo Alto city directories and phone books (1955–1958); actual years open may be longer."
 },
 {
-"name": "Shaver Center",
-"address": "524 Bryant St",
-"start": 1957,
-"end": 1958,
-"category": "retail",
-"approx": true,
-"source": "directory",
-"note": "Electric shaver shop. Listed in Palo Alto city directories and phone books (1957–1958); actual years open may be longer."
-},
-{
 "name": "Victorian Caterers",
 "address": "340 University Ave",
 "start": 1958,
@@ -8681,16 +8551,6 @@
 "note": "Music store. Listed in Palo Alto city directories and phone books (1956–1958); actual years open may be longer."
 },
 {
-"name": "Jasmin Studios",
-"address": "624 Emerson St",
-"start": 1958,
-"end": 1958,
-"category": "services",
-"approx": true,
-"source": "directory",
-"note": "Photography studio. Listed in Palo Alto city directories and phone books (1958); actual years open may be longer."
-},
-{
 "name": "Bonell Refrigeration & Appliances",
 "address": "383 University Ave",
 "start": 1958,
@@ -8809,16 +8669,6 @@
 "approx": true,
 "source": "directory",
 "note": "Housewares store. Listed in Palo Alto city directories and phone books (1954–1957); actual years open may be longer."
-},
-{
-"name": "Mann's Women's Apparel",
-"address": "271 University Ave",
-"start": 1957,
-"end": 1957,
-"category": "retail",
-"approx": true,
-"source": "directory",
-"note": "Women's clothing store. Listed in Palo Alto city directories and phone books (1957); actual years open may be longer."
 },
 {
 "name": "Alice Mendenhall Books",
@@ -9489,16 +9339,6 @@
 "approx": true,
 "source": "directory",
 "note": "Jewelry store. Listed in Palo Alto city directories and phone books (1956); actual years open may be longer."
-},
-{
-"name": "The Colony Shop",
-"address": "271 University Ave",
-"start": 1953,
-"end": 1953,
-"category": "retail",
-"approx": true,
-"source": "directory",
-"note": "Apparel shop. Listed in Palo Alto city directories and phone books (1953); actual years open may be longer."
 },
 {
 "name": "Swain's House of Music",
@@ -12061,16 +11901,6 @@
 "note": "Tailor shop. Listed in Palo Alto city directories and phone books (1929); actual years open may be longer."
 },
 {
-"name": "Mandarin Grill",
-"address": "544 Emerson St",
-"start": 1929,
-"end": 1943,
-"category": "food",
-"approx": true,
-"source": "directory",
-"note": "Chinese restaurant. Listed in Palo Alto city directories and phone books (1929–1943); actual years open may be longer."
-},
-{
 "name": "Marinello Shop",
 "address": "210 University Ave",
 "start": 1929,
@@ -12841,16 +12671,6 @@
 "note": "Car rental. Listed in Palo Alto city directories and phone books (1929); actual years open may be longer."
 },
 {
-"name": "Ellis Wilson Hardware Co.",
-"address": "423 University Ave",
-"start": 1929,
-"end": 1929,
-"category": "retail",
-"approx": true,
-"source": "directory",
-"note": "Hardware store. Listed in Palo Alto city directories and phone books (1929); actual years open may be longer."
-},
-{
 "name": "Maude Jay Wilson Photo Studio",
 "address": "524 Ramona St",
 "start": 1929,
@@ -13109,16 +12929,6 @@
 "approx": true,
 "source": "directory",
 "note": "Veterinary hospital. Listed in Palo Alto city directories and phone books (1929); actual years open may be longer."
-},
-{
-"name": "Creamery",
-"address": "367 University Ave",
-"start": 1929,
-"end": 1929,
-"category": "food",
-"approx": true,
-"source": "directory",
-"note": "Creamery. Listed in Palo Alto city directories and phone books (1929); actual years open may be longer."
 },
 {
 "name": "The Volunteer",
@@ -13561,16 +13371,6 @@
 "note": "Paint store. Listed in Palo Alto city directories and phone books (1939–1941); actual years open may be longer."
 },
 {
-"name": "Carter's Beauty Salon",
-"address": "271 University Ave",
-"start": 1939,
-"end": 1940,
-"category": "services",
-"approx": true,
-"source": "directory",
-"note": "Beauty salon. Listed in Palo Alto city directories and phone books (1939–1940); actual years open may be longer."
-},
-{
 "name": "Colonial Beauty Shoppe",
 "address": "261 University Ave",
 "start": 1939,
@@ -13909,16 +13709,6 @@
 "approx": true,
 "source": "directory",
 "note": "Furniture store. Listed in Palo Alto city directories and phone books (1939–1944); actual years open may be longer."
-},
-{
-"name": "Joseph Magnin Co.",
-"address": "271 University Ave",
-"start": 1939,
-"end": 1946,
-"category": "retail",
-"approx": true,
-"source": "directory",
-"note": "Clothing store. Listed in Palo Alto city directories and phone books (1939–1946); actual years open may be longer."
 },
 {
 "name": "Robert's Beauty Salon",
@@ -15589,6 +15379,2156 @@
 "approx": true,
 "source": "directory",
 "note": "Print shop. Listed in Palo Alto city directories and phone books (1946); actual years open may be longer."
+},
+{
+"name": "Palo Alto Hardware Co.",
+"address": "522 Bryant St",
+"start": 1929,
+"end": 1929,
+"category": "retail",
+"approx": true,
+"source": "report",
+"note": "Hardware store warehouse. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "42nd Street Restaurant",
+"address": "518 Bryant St",
+"start": 1979,
+"end": 1994,
+"category": "food",
+"approx": true,
+"source": "report",
+"note": "Restaurant. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "Circadia Restaurant",
+"address": "518 Bryant St",
+"start": 1999,
+"end": 1999,
+"category": "food",
+"approx": true,
+"source": "report",
+"note": "Restaurant. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "Roos Brothers",
+"address": "121 University Ave",
+"start": 1925,
+"end": 1925,
+"category": "retail",
+"approx": true,
+"source": "report",
+"note": "Clothing store. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "Crandall's Store",
+"address": "323 University Ave",
+"start": 1925,
+"end": 1925,
+"category": "retail",
+"approx": true,
+"source": "report",
+"note": "Retail store. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "Wilson Ellis Hardware",
+"address": "423 University Ave",
+"start": 1927,
+"end": 1927,
+"category": "retail",
+"approx": true,
+"source": "report",
+"note": "Hardware store. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "Gold Seal Creamery",
+"address": "423 University Ave",
+"start": 1927,
+"end": 1927,
+"category": "food",
+"approx": true,
+"source": "report",
+"note": "Creamery. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "Palo Alto Medical Clinic",
+"address": "300 Homer Ave",
+"start": 1932,
+"end": 1932,
+"category": "services",
+"approx": true,
+"source": "report",
+"note": "Medical clinic. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "Durlin B. Hackett General Motors Dealership",
+"address": "790 High St",
+"start": 1936,
+"end": 1936,
+"category": "retail",
+"approx": true,
+"source": "report",
+"note": "Auto dealership. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "B.P. Lausten & Son Tailors",
+"address": "522 Bryant St",
+"start": 1930,
+"end": 1935,
+"category": "services",
+"approx": true,
+"source": "report",
+"note": "Tailor shop. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "E.J. Donaldson Grocery",
+"address": "524 Bryant St",
+"start": 1930,
+"end": 1935,
+"category": "food",
+"approx": true,
+"source": "report",
+"note": "Grocery store. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "Duca & Hanley Meats",
+"address": "520 Bryant St",
+"start": 1940,
+"end": 1940,
+"category": "food",
+"approx": true,
+"source": "report",
+"note": "Meat market. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "D.A. Hanley's Meat Market",
+"address": "520 Bryant St",
+"start": 1959,
+"end": 1965,
+"category": "food",
+"approx": true,
+"source": "report",
+"note": "Meat market. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "Women's Exchange Bakery",
+"address": "522 Bryant St",
+"start": 1940,
+"end": 1940,
+"category": "food",
+"approx": true,
+"source": "report",
+"note": "Bakery. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "Piers Dairy",
+"address": "524 Bryant St",
+"start": 1940,
+"end": 1940,
+"category": "food",
+"approx": true,
+"source": "report",
+"note": "Dairy store. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "BRO Sewing Center",
+"address": "524 Bryant St",
+"start": 1959,
+"end": 1965,
+"category": "retail",
+"approx": true,
+"source": "report",
+"note": "Sewing center. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "Dumas Coiffures",
+"address": "520 Bryant St",
+"start": 1970,
+"end": 1970,
+"category": "services",
+"approx": true,
+"source": "report",
+"note": "Hair salon. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "Elsie Wolfe & Roland Photography and Framing",
+"address": "522 Bryant St",
+"start": 1970,
+"end": 1970,
+"category": "services",
+"approx": true,
+"source": "report",
+"note": "Photography and framing. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "Harry Nelsen Barber",
+"address": "524 Bryant St",
+"start": 1970,
+"end": 1970,
+"category": "services",
+"approx": true,
+"source": "report",
+"note": "Barber shop. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "Megabooks",
+"address": "520 Bryant St",
+"start": 1976,
+"end": 1976,
+"category": "retail",
+"approx": true,
+"source": "report",
+"note": "Used bookstore. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "Hydrant Club",
+"address": "522 Bryant St",
+"start": 1976,
+"end": 1976,
+"category": "services",
+"approx": true,
+"source": "report",
+"note": "Pet grooming. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "Antiquarian Shop",
+"address": "524 Bryant St",
+"start": 1976,
+"end": 1976,
+"category": "retail",
+"approx": true,
+"source": "report",
+"note": "Antique shop. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "42nd Street Restaurant",
+"address": "518 Bryant St",
+"start": 1979,
+"end": 1995,
+"category": "food",
+"approx": true,
+"source": "report",
+"note": "Restaurant. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "O'Connell's Restaurant/Bar",
+"address": "518 Bryant St",
+"start": 1994,
+"end": 1999,
+"category": "food",
+"approx": true,
+"source": "report",
+"note": "Restaurant and bar. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "Circadia Restaurant",
+"address": "518 Bryant St",
+"start": 1999,
+"end": 2007,
+"category": "food",
+"approx": true,
+"source": "report",
+"note": "Restaurant. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "Three Seasons Restaurant",
+"address": "518 Bryant St",
+"start": 2007,
+"end": 2007,
+"category": "food",
+"approx": true,
+"source": "report",
+"note": "Restaurant. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "Palo Alto Hardware Co.",
+"address": "282 University Ave",
+"start": 1903,
+"end": 1903,
+"category": "retail",
+"approx": true,
+"source": "report",
+"note": "Hardware store. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "J.W. Roller, Undertaker and Embalmer",
+"address": "420 Cowper St",
+"start": 1900,
+"end": 1912,
+"category": "services",
+"approx": true,
+"source": "report",
+"note": "Mortuary chapel, warerooms. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "Roller & Hapgood",
+"address": "420 Cowper St",
+"start": 1912,
+"end": 1912,
+"category": "services",
+"approx": true,
+"source": "report",
+"note": "Funeral home. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "Roller & Hapgood",
+"address": "481 University Ave",
+"start": 1924,
+"end": 1951,
+"category": "services",
+"approx": true,
+"source": "report",
+"note": "Funeral home mortuary. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "J.C. Penney",
+"address": "300 University Ave",
+"start": 1948,
+"end": 1948,
+"category": "retail",
+"approx": true,
+"source": "report",
+"note": "Department store. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "Palo Alto Office Center",
+"address": "525 University Ave",
+"start": 1966,
+"end": 1966,
+"category": "landmark",
+"approx": true,
+"source": "report",
+"note": "High-rise office tower. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "United California Bank",
+"address": "525 University Ave",
+"start": 1966,
+"end": 1981,
+"category": "services",
+"approx": true,
+"source": "report",
+"note": "Bank branch. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "First Interstate Bank",
+"address": "525 University Ave",
+"start": 1981,
+"end": 1981,
+"category": "services",
+"approx": true,
+"source": "report",
+"note": "Bank branch. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "Shell Oil Company Data Division",
+"address": "525 University Ave",
+"start": 1966,
+"end": 1966,
+"category": "tech",
+"approx": true,
+"source": "report",
+"note": "Corporate data center. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "Cupples Company",
+"address": "525 University Ave",
+"start": 1966,
+"end": 1969,
+"category": "services",
+"approx": true,
+"source": "report",
+"note": "Paper products rep. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "Golden Shears Barber Shop",
+"address": "525 University Ave",
+"start": 1969,
+"end": 1969,
+"category": "services",
+"approx": true,
+"source": "report",
+"note": "Barber shop. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "Tower Gourmet",
+"address": "525 University Ave",
+"start": 1969,
+"end": 1969,
+"category": "food",
+"approx": true,
+"source": "report",
+"note": "Restaurant. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "Berlitz Schools of Languages",
+"address": "525 University Ave",
+"start": 1969,
+"end": 1969,
+"category": "services",
+"approx": true,
+"source": "report",
+"note": "Language school. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "Center Club",
+"address": "525 University Ave",
+"start": 1969,
+"end": 1969,
+"category": "entertainment",
+"approx": true,
+"source": "report",
+"note": "Men's club. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "Peddler Press",
+"address": "525 University Ave",
+"start": 1969,
+"end": 1969,
+"category": "services",
+"approx": true,
+"source": "report",
+"note": "Publisher. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "Elevator Electric",
+"address": "525 University Ave",
+"start": 1969,
+"end": 1969,
+"category": "services",
+"approx": true,
+"source": "report",
+"note": "Elevator company. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "Executive Suite",
+"address": "525 University Ave",
+"start": 1969,
+"end": 1969,
+"category": "services",
+"approx": true,
+"source": "report",
+"note": "Telephone answering service. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "La Tour",
+"address": "525 University Ave",
+"start": 1978,
+"end": 1978,
+"category": "food",
+"approx": true,
+"source": "report",
+"note": "Restaurant. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "Monterey Savings & Loan",
+"address": "525 University Ave",
+"start": 1978,
+"end": 1978,
+"category": "services",
+"approx": true,
+"source": "report",
+"note": "Savings and loan. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "Home Savings",
+"address": "525 University Ave",
+"start": 1981,
+"end": 1985,
+"category": "services",
+"approx": true,
+"source": "report",
+"note": "Savings bank. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "Home Savings of America",
+"address": "525 University Ave",
+"start": 1985,
+"end": 1985,
+"category": "services",
+"approx": true,
+"source": "report",
+"note": "Savings bank. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "Hambrecht & Quist",
+"address": "525 University Ave",
+"start": 1988,
+"end": 1988,
+"category": "services",
+"approx": true,
+"source": "report",
+"note": "Investment bank. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "Imperial Savings",
+"address": "525 University Ave",
+"start": 1989,
+"end": 1989,
+"category": "services",
+"approx": true,
+"source": "report",
+"note": "Savings bank. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "California Bank & Trust",
+"address": "525 University Ave",
+"start": 2014,
+"end": 2014,
+"category": "services",
+"approx": true,
+"source": "report",
+"note": "Bank branch. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "Stanford Federal Credit Union",
+"address": "525 University Ave",
+"start": 2014,
+"end": 2014,
+"category": "services",
+"approx": true,
+"source": "report",
+"note": "Credit union. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "United California Bank",
+"address": "525 University Ave",
+"start": 1966,
+"end": 1976,
+"category": "services",
+"approx": true,
+"source": "report",
+"note": "Bank branch. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "Alza Corporation",
+"address": "525 University Ave",
+"start": 1969,
+"end": 1969,
+"category": "tech",
+"approx": true,
+"source": "report",
+"note": "Pharmaceutical research. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "Golden Shears Barber Shop",
+"address": "525 University Ave",
+"start": 1972,
+"end": 1976,
+"category": "services",
+"approx": true,
+"source": "report",
+"note": "Barber shop. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "Guckenheimer Fine Foods",
+"address": "525 University Ave",
+"start": 1972,
+"end": 1974,
+"category": "food",
+"approx": true,
+"source": "report",
+"note": "Restaurant. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "Berlitz School of Languages",
+"address": "525 University Ave",
+"start": 1972,
+"end": 1976,
+"category": "services",
+"approx": true,
+"source": "report",
+"note": "Language school. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "Center Club",
+"address": "525 University Ave",
+"start": 1972,
+"end": 1976,
+"category": "food",
+"approx": true,
+"source": "report",
+"note": "Private dining club. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "H&R Block Executive Tax Service",
+"address": "525 University Ave",
+"start": 1972,
+"end": 1972,
+"category": "services",
+"approx": true,
+"source": "report",
+"note": "Tax preparation. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "Executive Suite",
+"address": "525 University Ave",
+"start": 1972,
+"end": 1974,
+"category": "services",
+"approx": true,
+"source": "report",
+"note": "Telephone answering service. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "Testdata Systems Corp",
+"address": "525 University Ave",
+"start": 1972,
+"end": 1972,
+"category": "tech",
+"approx": true,
+"source": "report",
+"note": "Test systems company. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "F L Smith Machines",
+"address": "525 University Ave",
+"start": 1972,
+"end": 1974,
+"category": "services",
+"approx": true,
+"source": "report",
+"note": "Envelope machinery. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "Transcontinental Communications Corp",
+"address": "525 University Ave",
+"start": 1972,
+"end": 1972,
+"category": "tech",
+"approx": true,
+"source": "report",
+"note": "Communications company. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "United Travel Service",
+"address": "525 University Ave",
+"start": 1974,
+"end": 1974,
+"category": "services",
+"approx": true,
+"source": "report",
+"note": "Travel agency. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "Microband",
+"address": "525 University Ave",
+"start": 1976,
+"end": 1976,
+"category": "tech",
+"approx": true,
+"source": "report",
+"note": "Communications company. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "McGhie & Jones Physical Therapy",
+"address": "680 University Ave",
+"start": 1965,
+"end": 1972,
+"category": "services",
+"approx": true,
+"source": "report",
+"note": "Physical therapy clinic. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "Blockley Medical Laboratory",
+"address": "680 University Ave",
+"start": 1967,
+"end": 1969,
+"category": "services",
+"approx": true,
+"source": "report",
+"note": "Medical laboratory. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "Peninsula Medical Laboratory",
+"address": "680 University Ave",
+"start": 1972,
+"end": 1972,
+"category": "services",
+"approx": true,
+"source": "report",
+"note": "Medical laboratory. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "Palo Alto Dental Group",
+"address": "680 University Ave",
+"start": 1972,
+"end": 1972,
+"category": "services",
+"approx": true,
+"source": "report",
+"note": "Dental group practice. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "Palo Alto Hardware Co.",
+"address": "522 Bryant St",
+"start": 1929,
+"end": 1929,
+"category": "retail",
+"approx": true,
+"source": "report",
+"note": "Hardware store. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "42nd Street Restaurant",
+"address": "518 Bryant St",
+"start": 1979,
+"end": 1994,
+"category": "food",
+"approx": true,
+"source": "report",
+"note": "Restaurant. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "Circadia Restaurant",
+"address": "518 Bryant St",
+"start": 1999,
+"end": 1999,
+"category": "food",
+"approx": true,
+"source": "report",
+"note": "Restaurant. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "Roos Brothers",
+"address": "121 University Ave",
+"start": 1925,
+"end": 1925,
+"category": "retail",
+"approx": true,
+"source": "report",
+"note": "Clothing store. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "Crandall's Store",
+"address": "323 University Ave",
+"start": 1925,
+"end": 1925,
+"category": "retail",
+"approx": true,
+"source": "report",
+"note": "Retail store. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "Wilson Ellis Hardware",
+"address": "423 University Ave",
+"start": 1927,
+"end": 1927,
+"category": "retail",
+"approx": true,
+"source": "report",
+"note": "Hardware store. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "Gold Seal Creamery",
+"address": "423 University Ave",
+"start": 1927,
+"end": 1927,
+"category": "food",
+"approx": true,
+"source": "report",
+"note": "Creamery. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "Palo Alto Medical Clinic",
+"address": "300 Homer Ave",
+"start": 1932,
+"end": 1932,
+"category": "services",
+"approx": true,
+"source": "report",
+"note": "Medical clinic. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "Durlin B. Hackett General Motors Dealership",
+"address": "790 High St",
+"start": 1936,
+"end": 1936,
+"category": "services",
+"approx": true,
+"source": "report",
+"note": "Auto dealership. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "B.P. Lausten & Son Tailors",
+"address": "522 Bryant St",
+"start": 1930,
+"end": 1935,
+"category": "services",
+"approx": true,
+"source": "report",
+"note": "Tailor shop. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "E.J. Donaldson Grocery",
+"address": "524 Bryant St",
+"start": 1930,
+"end": 1935,
+"category": "food",
+"approx": true,
+"source": "report",
+"note": "Grocery store. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "Duca & Hanley Meats",
+"address": "520 Bryant St",
+"start": 1940,
+"end": 1940,
+"category": "food",
+"approx": true,
+"source": "report",
+"note": "Meat market. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "D.A. Hanley's Meat Market",
+"address": "520 Bryant St",
+"start": 1959,
+"end": 1965,
+"category": "food",
+"approx": true,
+"source": "report",
+"note": "Meat market. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "Women's Exchange Bakery",
+"address": "522 Bryant St",
+"start": 1940,
+"end": 1940,
+"category": "food",
+"approx": true,
+"source": "report",
+"note": "Bakery. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "Piers Dairy",
+"address": "524 Bryant St",
+"start": 1940,
+"end": 1940,
+"category": "food",
+"approx": true,
+"source": "report",
+"note": "Dairy store. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "BRO Sewing Center",
+"address": "524 Bryant St",
+"start": 1959,
+"end": 1965,
+"category": "retail",
+"approx": true,
+"source": "report",
+"note": "Sewing supply store. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "Dumas Coiffures",
+"address": "520 Bryant St",
+"start": 1970,
+"end": 1970,
+"category": "services",
+"approx": true,
+"source": "report",
+"note": "Hair salon. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "Elsie Wolfe & Roland Photography and Framing",
+"address": "522 Bryant St",
+"start": 1970,
+"end": 1970,
+"category": "services",
+"approx": true,
+"source": "report",
+"note": "Photography and framing. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "Harry Nelsen, Barber",
+"address": "524 Bryant St",
+"start": 1970,
+"end": 1970,
+"category": "services",
+"approx": true,
+"source": "report",
+"note": "Barber shop. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "Megabooks",
+"address": "520 Bryant St",
+"start": 1976,
+"end": 1976,
+"category": "retail",
+"approx": true,
+"source": "report",
+"note": "Used bookstore. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "Hydrant Club",
+"address": "522 Bryant St",
+"start": 1976,
+"end": 1976,
+"category": "services",
+"approx": true,
+"source": "report",
+"note": "Pet grooming. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "Antiquarian Shop",
+"address": "524 Bryant St",
+"start": 1976,
+"end": 1976,
+"category": "retail",
+"approx": true,
+"source": "report",
+"note": "Antique shop. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "42nd Street Restaurant",
+"address": "518 Bryant St",
+"start": 1979,
+"end": 1995,
+"category": "food",
+"approx": true,
+"source": "report",
+"note": "Restaurant. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "O'Connell's Restaurant/Bar",
+"address": "518 Bryant St",
+"start": 1994,
+"end": 1999,
+"category": "food",
+"approx": true,
+"source": "report",
+"note": "Restaurant and bar. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "Circadia Restaurant",
+"address": "518 Bryant St",
+"start": 1999,
+"end": 2007,
+"category": "food",
+"approx": true,
+"source": "report",
+"note": "Restaurant. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "Three Seasons Restaurant",
+"address": "518 Bryant St",
+"start": 2007,
+"end": 2007,
+"category": "food",
+"approx": true,
+"source": "report",
+"note": "Restaurant. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "Palo Alto Hardware Co.",
+"address": "282 University Ave",
+"start": 1903,
+"end": 1903,
+"category": "retail",
+"approx": true,
+"source": "report",
+"note": "Hardware store. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "University Stables",
+"address": "525 Alma St",
+"start": 1895,
+"end": 1901,
+"category": "services",
+"approx": true,
+"source": "report",
+"note": "Livery stable. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "Vandervoort Stable",
+"address": "525 Alma St",
+"start": 1901,
+"end": 1914,
+"category": "services",
+"approx": true,
+"source": "report",
+"note": "Livery stable. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "Fuller & Vandervoort Ford Agency",
+"address": "525 Alma St",
+"start": 1914,
+"end": 1919,
+"category": "retail",
+"approx": true,
+"source": "report",
+"note": "Ford auto dealership. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "Bernthal Auto Agency",
+"address": "525 Alma St",
+"start": 1919,
+"end": 1919,
+"category": "retail",
+"approx": true,
+"source": "report",
+"note": "Auto dealership. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "Bracchi & Sons Dodge Brothers Agency",
+"address": "529 Alma St",
+"start": 1916,
+"end": 1918,
+"category": "retail",
+"approx": true,
+"source": "report",
+"note": "Dodge auto dealership. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "Johnson and Sund",
+"address": "529 Alma St",
+"start": 1918,
+"end": 1918,
+"category": "retail",
+"approx": true,
+"source": "report",
+"note": "Dodge auto dealership. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "Students Guild Hospital",
+"address": "489 Lytton Ave",
+"start": 1903,
+"end": 1913,
+"category": "services",
+"approx": true,
+"source": "report",
+"note": "Community hospital. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "Pennebaker's Furniture Store",
+"address": "540 Emerson St",
+"start": 1910,
+"end": 1914,
+"category": "retail",
+"approx": true,
+"source": "report",
+"note": "Furniture store. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "Bourquin Print Shop",
+"address": "540 Emerson St",
+"start": 1948,
+"end": 1980,
+"category": "services",
+"approx": true,
+"source": "report",
+"note": "Printing shop. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "Bake-Rite Bakery",
+"address": "543 Emerson St",
+"start": 1922,
+"end": 1922,
+"category": "food",
+"approx": true,
+"source": "report",
+"note": "Bakery. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "Palo Alto Sheet Metal Works",
+"address": "543 Emerson St",
+"start": 1922,
+"end": 1922,
+"category": "services",
+"approx": true,
+"source": "report",
+"note": "Sheet metal shop. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "F.W. Stuart, Printer",
+"address": "543 Emerson St",
+"start": 1922,
+"end": 1922,
+"category": "services",
+"approx": true,
+"source": "report",
+"note": "Printing shop. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "Alan's Shoe Store",
+"address": "543 Emerson St",
+"start": 1970,
+"end": 1970,
+"category": "retail",
+"approx": true,
+"source": "report",
+"note": "Shoe store. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "Market of the Flea",
+"address": "543 Emerson St",
+"start": 1970,
+"end": 1970,
+"category": "retail",
+"approx": true,
+"source": "report",
+"note": "Flea market shop. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "Mandarin Cafe",
+"address": "544 Emerson St",
+"start": 1926,
+"end": 1979,
+"category": "food",
+"approx": true,
+"source": "report",
+"note": "Chinese restaurant. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "Sherman Awning Company",
+"address": "624 Emerson St",
+"start": 1924,
+"end": 1969,
+"category": "services",
+"approx": true,
+"source": "report",
+"note": "Awning maker. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "William A. Courtney Autos",
+"address": "624 Emerson St",
+"start": 1924,
+"end": 1924,
+"category": "services",
+"approx": true,
+"source": "report",
+"note": "Auto shop. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "Neilson & Son",
+"address": "624 Emerson St",
+"start": 1935,
+"end": 1935,
+"category": "services",
+"approx": true,
+"source": "report",
+"note": "Printing shop. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "Premier Photo Engraving",
+"address": "624 Emerson St",
+"start": 1955,
+"end": 1965,
+"category": "services",
+"approx": true,
+"source": "report",
+"note": "Photo engraving shop. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "Jasmin Photo Studio",
+"address": "624 Emerson St",
+"start": 1955,
+"end": 1965,
+"category": "services",
+"approx": true,
+"source": "report",
+"note": "Photo studio. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "Bijou Theatre",
+"address": "640 Emerson St",
+"start": 1965,
+"end": 1965,
+"category": "entertainment",
+"approx": true,
+"source": "report",
+"note": "Theater. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "Metro Home Furnishing",
+"address": "624 Emerson St",
+"start": 1970,
+"end": 1983,
+"category": "retail",
+"approx": true,
+"source": "report",
+"note": "Home furnishings store. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "The Leather Works",
+"address": "624 Emerson St",
+"start": 1970,
+"end": 1983,
+"category": "retail",
+"approx": true,
+"source": "report",
+"note": "Leather goods shop. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "Willman-Carrie Carpet Cleaning",
+"address": "800 Emerson St",
+"start": 1944,
+"end": 1982,
+"category": "services",
+"approx": true,
+"source": "report",
+"note": "Carpet cleaners. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "St. Michael's Alley",
+"address": "800 Emerson St",
+"start": 1975,
+"end": 1975,
+"category": "food",
+"approx": true,
+"source": "report",
+"note": "Restaurant/coffeehouse. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "Alfred Werry Electrical Shop",
+"address": "420 Florence St",
+"start": 1916,
+"end": 1916,
+"category": "services",
+"approx": true,
+"source": "report",
+"note": "Electrical shop. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "Reed Electric",
+"address": "621 High St",
+"start": 1935,
+"end": 1935,
+"category": "services",
+"approx": true,
+"source": "report",
+"note": "Electrical shop. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "Durlin B. Hackett",
+"address": "790 High St",
+"start": 1936,
+"end": 1936,
+"category": "retail",
+"approx": true,
+"source": "report",
+"note": "Gm auto dealer. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "Exclusive French Laundry",
+"address": "865 High St",
+"start": 1931,
+"end": 1975,
+"category": "services",
+"approx": true,
+"source": "report",
+"note": "French laundry. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "Cashel Brothers",
+"address": "200 Homer Ave",
+"start": 1905,
+"end": 1939,
+"category": "services",
+"approx": true,
+"source": "report",
+"note": "Plumbing shop. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "Oak Home Bakery (Thompson Bakery)",
+"address": "206 Homer Ave",
+"start": 1897,
+"end": 1937,
+"category": "food",
+"approx": true,
+"source": "report",
+"note": "Bakery sales outlet. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "Thompson Bakery",
+"address": "212 Homer Ave",
+"start": 1925,
+"end": 1938,
+"category": "food",
+"approx": true,
+"source": "report",
+"note": "Commercial bakery plant. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "Richco",
+"address": "212 Homer Ave",
+"start": 1962,
+"end": 1962,
+"category": "services",
+"approx": true,
+"source": "report",
+"note": "Company facility. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "City of Paris",
+"address": "248 Homer Ave",
+"start": 1925,
+"end": 1925,
+"category": "services",
+"approx": true,
+"source": "report",
+"note": "Cleaning establishment. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "S.R. Kellner",
+"address": "230 Homer Ave",
+"start": 1930,
+"end": 1930,
+"category": "services",
+"approx": true,
+"source": "report",
+"note": "Clothes cleaning firm. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "Frank Brown and A.W. Miller",
+"address": "232 Homer Ave",
+"start": 1932,
+"end": 1932,
+"category": "retail",
+"approx": true,
+"source": "report",
+"note": "Meat and groceries. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "Whitten Electro Plating",
+"address": "232 Homer Ave",
+"start": 1939,
+"end": 1939,
+"category": "services",
+"approx": true,
+"source": "report",
+"note": "Electroplating shop. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "City of Paris Cleaning and Dyeing Works",
+"address": "625 Ramona St",
+"start": 1922,
+"end": 1985,
+"category": "services",
+"approx": true,
+"source": "report",
+"note": "Dry cleaning works. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "William P. Wreden Rare Books",
+"address": "405 Kipling St",
+"start": 1955,
+"end": 1955,
+"category": "retail",
+"approx": true,
+"source": "report",
+"note": "Rare book dealer. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "Shade Shop",
+"address": "431 Kipling St",
+"start": 1938,
+"end": 1938,
+"category": "retail",
+"approx": true,
+"source": "report",
+"note": "Window shade shop. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "Tinney & Sons Mortuary",
+"address": "255 Lytton Ave",
+"start": 1926,
+"end": 1957,
+"category": "services",
+"approx": true,
+"source": "report",
+"note": "Funeral home. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "Gatehouse Restaurant",
+"address": "255 Lytton Ave",
+"start": 1975,
+"end": 1975,
+"category": "food",
+"approx": true,
+"source": "report",
+"note": "Restaurant. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "Students Guild Hospital",
+"address": "489 Lytton Ave",
+"start": 1903,
+"end": 1913,
+"category": "services",
+"approx": true,
+"source": "report",
+"note": "Community hospital. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "Elise and Roland Wolfe Photography Studio",
+"address": "347 Ramona St",
+"start": 1948,
+"end": 1948,
+"category": "services",
+"approx": true,
+"source": "report",
+"note": "Photography studio. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "Homeware Store",
+"address": "541 Ramona St",
+"start": 1928,
+"end": 1928,
+"category": "retail",
+"approx": true,
+"source": "report",
+"note": "Housewares store. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "Home Foundation Savings and Loan",
+"address": "545 Ramona St",
+"start": 1928,
+"end": 1928,
+"category": "services",
+"approx": true,
+"source": "report",
+"note": "Savings and loan. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "Grant Ritscher Auto Repair",
+"address": "735 Emerson St",
+"start": 1929,
+"end": 1945,
+"category": "services",
+"approx": true,
+"source": "report",
+"note": "Auto repair shop. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "Warren May Auto Repair",
+"address": "734 Ramona St",
+"start": 1945,
+"end": 1945,
+"category": "services",
+"approx": true,
+"source": "report",
+"note": "Auto repair shop. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "Indian Bowl",
+"address": "735 Emerson St",
+"start": 1941,
+"end": 1975,
+"category": "entertainment",
+"approx": true,
+"source": "report",
+"note": "Bowling alley. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "Baker Graphics",
+"address": "735 Emerson St",
+"start": 1975,
+"end": 1975,
+"category": "services",
+"approx": true,
+"source": "report",
+"note": "Graphics and printing. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "Montgomery Ward",
+"address": "180 University Ave",
+"start": 1937,
+"end": 1962,
+"category": "retail",
+"approx": true,
+"source": "report",
+"note": "Department store. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "Lytton Savings and Loan Association",
+"address": "180 University Ave",
+"start": 1962,
+"end": 1962,
+"category": "services",
+"approx": true,
+"source": "report",
+"note": "Savings and loan. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "Marquee Theater",
+"address": "223 University Ave",
+"start": 1914,
+"end": 1924,
+"category": "entertainment",
+"approx": true,
+"source": "report",
+"note": "Movie theater. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "Stanford Theatre",
+"address": "223 University Ave",
+"start": 1924,
+"end": 1924,
+"category": "entertainment",
+"approx": true,
+"source": "report",
+"note": "Movie palace. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "First National Bank of Palo Alto",
+"address": "251 University Ave",
+"start": 1906,
+"end": 1928,
+"category": "services",
+"approx": true,
+"source": "report",
+"note": "Bank. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "Bank of America",
+"address": "251 University Ave",
+"start": 1928,
+"end": 1976,
+"category": "services",
+"approx": true,
+"source": "report",
+"note": "Bank branch. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "Donnell's Women's Shop",
+"address": "271 University Ave",
+"start": 1929,
+"end": 1929,
+"category": "retail",
+"approx": true,
+"source": "report",
+"note": "Women's clothing store. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "J. Magnin",
+"address": "271 University Ave",
+"start": 1940,
+"end": 1940,
+"category": "retail",
+"approx": true,
+"source": "report",
+"note": "Women's clothing store. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "Crandall Photographic Supply",
+"address": "323 University Ave",
+"start": 1925,
+"end": 1925,
+"category": "retail",
+"approx": true,
+"source": "report",
+"note": "Photo supply shop. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "Sunshine Company",
+"address": "367 University Ave",
+"start": 1922,
+"end": 1931,
+"category": "food",
+"approx": true,
+"source": "report",
+"note": "Dairy. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "Millbrae Creamery",
+"address": "367 University Ave",
+"start": 1931,
+"end": 1944,
+"category": "food",
+"approx": true,
+"source": "report",
+"note": "Creamery restaurant. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "Olden's Creamery",
+"address": "367 University Ave",
+"start": 1931,
+"end": 1944,
+"category": "food",
+"approx": true,
+"source": "report",
+"note": "Creamery restaurant. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "Hage Music Shop",
+"address": "367 University Ave",
+"start": 1944,
+"end": 1954,
+"category": "retail",
+"approx": true,
+"source": "report",
+"note": "Music store. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "Rapp's",
+"address": "367 University Ave",
+"start": 1955,
+"end": 1962,
+"category": "retail",
+"approx": true,
+"source": "report",
+"note": "Shop. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "Hostess House",
+"address": "27 University Ave",
+"start": 1919,
+"end": 1919,
+"category": "landmark",
+"approx": true,
+"source": "report",
+"note": "Community center. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "Palo Alto Southern Pacific Depot",
+"address": "95 University Ave",
+"start": 1941,
+"end": 1941,
+"category": "landmark",
+"approx": true,
+"source": "report",
+"note": "Railroad station. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "Wilson Ellis Hardware",
+"address": "415 University Ave",
+"start": 1927,
+"end": 1930,
+"category": "retail",
+"approx": true,
+"source": "report",
+"note": "Hardware store. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "Gold Seal Creamery",
+"address": "415 University Ave",
+"start": 1930,
+"end": 1930,
+"category": "food",
+"approx": true,
+"source": "report",
+"note": "Creamery. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "Peninsula Optical",
+"address": "415 University Ave",
+"start": 1978,
+"end": 1978,
+"category": "retail",
+"approx": true,
+"source": "report",
+"note": "Optical shop. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "McMillan's Coffee",
+"address": "415 University Ave",
+"start": 1978,
+"end": 1978,
+"category": "food",
+"approx": true,
+"source": "report",
+"note": "Coffee house. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "Freeman Gallery",
+"address": "415 University Ave",
+"start": 1985,
+"end": 1985,
+"category": "retail",
+"approx": true,
+"source": "report",
+"note": "Art gallery. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "Donnell's",
+"address": "271 University Ave",
+"start": 1930,
+"end": 1935,
+"category": "retail",
+"approx": true,
+"source": "report",
+"note": "Women's clothing store. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "Mrs. N.M. Agnew's Beauty Shop",
+"address": "271 University Ave",
+"start": 1935,
+"end": 1935,
+"category": "services",
+"approx": true,
+"source": "report",
+"note": "Beauty shop. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "Joseph Magnin",
+"address": "271 University Ave",
+"start": 1935,
+"end": 1945,
+"category": "retail",
+"approx": true,
+"source": "report",
+"note": "Women's clothing store. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "L A Cramer Beauty Shop",
+"address": "271 University Ave",
+"start": 1940,
+"end": 1940,
+"category": "services",
+"approx": true,
+"source": "report",
+"note": "Beauty shop. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "Bryant's",
+"address": "271 University Ave",
+"start": 1942,
+"end": 1942,
+"category": "retail",
+"approx": true,
+"source": "report",
+"note": "Clothing store. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "Mary Woods Limited",
+"address": "271 University Ave",
+"start": 1946,
+"end": 1946,
+"category": "retail",
+"approx": true,
+"source": "report",
+"note": "Shop. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "The Colony",
+"address": "271 University Ave",
+"start": 1937,
+"end": 1953,
+"category": "retail",
+"approx": true,
+"source": "report",
+"note": "Women's clothing store. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "Mann's",
+"address": "271 University Ave",
+"start": 1956,
+"end": 1957,
+"category": "retail",
+"approx": true,
+"source": "report",
+"note": "Women's clothing store. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "Mission Pak Co.",
+"address": "271 University Ave",
+"start": 1958,
+"end": 1960,
+"category": "retail",
+"approx": true,
+"source": "report",
+"note": "Fruit packing company. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "Breuer's Donut and Coffee Shop",
+"address": "271 University Ave",
+"start": 1965,
+"end": 1970,
+"category": "food",
+"approx": true,
+"source": "report",
+"note": "Donut coffee shop. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "Congdon and Crome",
+"address": "271 University Ave",
+"start": 1966,
+"end": 1966,
+"category": "retail",
+"approx": true,
+"source": "report",
+"note": "Stationers. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "Sergio's Restaurant",
+"address": "271 University Ave",
+"start": 1971,
+"end": 1975,
+"category": "food",
+"approx": true,
+"source": "report",
+"note": "Restaurant. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "Le Normandie Restaurant",
+"address": "271 University Ave",
+"start": 1986,
+"end": 1986,
+"category": "food",
+"approx": true,
+"source": "report",
+"note": "Restaurant. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "Macheesmo Mouse",
+"address": "271 University Ave",
+"start": 1987,
+"end": 1988,
+"category": "food",
+"approx": true,
+"source": "report",
+"note": "Mexican fast food. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "SF Coffee Roasting Co. (University Coffee Café)",
+"address": "271 University Ave",
+"start": 1994,
+"end": 2003,
+"category": "food",
+"approx": true,
+"source": "report",
+"note": "Coffee shop. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "University Cafe",
+"address": "271 University Ave",
+"start": 2003,
+"end": 2014,
+"category": "food",
+"approx": true,
+"source": "report",
+"note": "Cafe. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "Local Union 271",
+"address": "271 University Ave",
+"start": 2014,
+"end": 2014,
+"category": "food",
+"approx": true,
+"source": "report",
+"note": "Restaurant. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "Donnell's Women's Shop",
+"address": "271 University Ave",
+"start": 1930,
+"end": 1930,
+"category": "retail",
+"approx": true,
+"source": "report",
+"note": "Women's clothing store. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "J. Magnin",
+"address": "271 University Ave",
+"start": 1940,
+"end": 1940,
+"category": "retail",
+"approx": true,
+"source": "report",
+"note": "Women's clothing store. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "United California Bank",
+"address": "525 University Ave",
+"start": 1966,
+"end": 1966,
+"category": "services",
+"approx": true,
+"source": "report",
+"note": "Bank branch. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "Shell Oil Company Data Division",
+"address": "525 University Ave",
+"start": 1966,
+"end": 1966,
+"category": "tech",
+"approx": true,
+"source": "report",
+"note": "Corporate data center. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "Cupples Company",
+"address": "525 University Ave",
+"start": 1966,
+"end": 1966,
+"category": "services",
+"approx": true,
+"source": "report",
+"note": "Paper products rep. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "Palo Alto Office Center",
+"address": "525 University Ave",
+"start": 1966,
+"end": 1966,
+"category": "landmark",
+"approx": true,
+"source": "report",
+"note": "Office tower. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "United California Bank",
+"address": "525 University Ave",
+"start": 1966,
+"end": 1981,
+"category": "services",
+"approx": true,
+"source": "report",
+"note": "Anchor tenant bank. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "Golden Shears Barber Shop",
+"address": "525 University Ave",
+"start": 1969,
+"end": 1976,
+"category": "services",
+"approx": true,
+"source": "report",
+"note": "Barber shop. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "Tower Gourmet",
+"address": "525 University Ave",
+"start": 1969,
+"end": 1969,
+"category": "food",
+"approx": true,
+"source": "report",
+"note": "Restaurant. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "Berlitz School of Languages",
+"address": "525 University Ave",
+"start": 1969,
+"end": 1976,
+"category": "services",
+"approx": true,
+"source": "report",
+"note": "Language school. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "Center Club",
+"address": "525 University Ave",
+"start": 1969,
+"end": 1976,
+"category": "services",
+"approx": true,
+"source": "report",
+"note": "Private club. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "Peddler Press",
+"address": "525 University Ave",
+"start": 1969,
+"end": 1969,
+"category": "services",
+"approx": true,
+"source": "report",
+"note": "Publisher. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "Executive Suite",
+"address": "525 University Ave",
+"start": 1969,
+"end": 1974,
+"category": "services",
+"approx": true,
+"source": "report",
+"note": "Telephone answering service. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "Alza Corporation",
+"address": "525 University Ave",
+"start": 1969,
+"end": 1969,
+"category": "tech",
+"approx": true,
+"source": "report",
+"note": "Pharmaceutical research. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "Guckenheimer Fine Foods",
+"address": "525 University Ave",
+"start": 1972,
+"end": 1974,
+"category": "food",
+"approx": true,
+"source": "report",
+"note": "Restaurant. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "H&R Block Executive Tax Service",
+"address": "525 University Ave",
+"start": 1972,
+"end": 1972,
+"category": "services",
+"approx": true,
+"source": "report",
+"note": "Tax preparation. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "Testdata Systems Corp.",
+"address": "525 University Ave",
+"start": 1972,
+"end": 1972,
+"category": "tech",
+"approx": true,
+"source": "report",
+"note": "Test systems. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "F. L. Smith Machines",
+"address": "525 University Ave",
+"start": 1972,
+"end": 1974,
+"category": "services",
+"approx": true,
+"source": "report",
+"note": "Envelope machines. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "Transcontinental Communications Corp.",
+"address": "525 University Ave",
+"start": 1972,
+"end": 1972,
+"category": "tech",
+"approx": true,
+"source": "report",
+"note": "Communications company. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "Palo Alto Equity & Mortgage Investors Trust",
+"address": "525 University Ave",
+"start": 1974,
+"end": 1974,
+"category": "services",
+"approx": true,
+"source": "report",
+"note": "Mortgage trust. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "United Travel Service",
+"address": "525 University Ave",
+"start": 1974,
+"end": 1974,
+"category": "services",
+"approx": true,
+"source": "report",
+"note": "Travel agency. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "Microband",
+"address": "525 University Ave",
+"start": 1976,
+"end": 1976,
+"category": "tech",
+"approx": true,
+"source": "report",
+"note": "Communications company. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "La Tour",
+"address": "525 University Ave",
+"start": 1978,
+"end": 1978,
+"category": "food",
+"approx": true,
+"source": "report",
+"note": "Restaurant. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "Monterey Savings & Loan",
+"address": "525 University Ave",
+"start": 1978,
+"end": 1978,
+"category": "services",
+"approx": true,
+"source": "report",
+"note": "Savings and loan. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "First Interstate Bank",
+"address": "525 University Ave",
+"start": 1981,
+"end": 1981,
+"category": "services",
+"approx": true,
+"source": "report",
+"note": "Bank. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "Home Savings of America",
+"address": "525 University Ave",
+"start": 1981,
+"end": 1985,
+"category": "services",
+"approx": true,
+"source": "report",
+"note": "Savings bank. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "Hambrecht & Quist",
+"address": "525 University Ave",
+"start": 1988,
+"end": 1988,
+"category": "services",
+"approx": true,
+"source": "report",
+"note": "Investment bank. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "Imperial Savings",
+"address": "525 University Ave",
+"start": 1989,
+"end": 1989,
+"category": "services",
+"approx": true,
+"source": "report",
+"note": "Savings bank. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "California Bank & Trust",
+"address": "525 University Ave",
+"start": 2014,
+"end": 2014,
+"category": "services",
+"approx": true,
+"source": "report",
+"note": "Bank. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "Stanford Federal Credit Union",
+"address": "525 University Ave",
+"start": 2014,
+"end": 2014,
+"category": "services",
+"approx": true,
+"source": "report",
+"note": "Credit union. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "United California Bank",
+"address": "525 University Ave",
+"start": 1966,
+"end": 1966,
+"category": "services",
+"approx": true,
+"source": "report",
+"note": "Bank branch. Occupant history from a City of Palo Alto historic resource report."
+},
+{
+"name": "Palo Alto Office Center",
+"address": "525 University Ave",
+"start": 1966,
+"end": 1966,
+"category": "landmark",
+"approx": true,
+"source": "report",
+"note": "High-rise office tower. Occupant history from a City of Palo Alto historic resource report."
 }
 ],
 "osm_closed": [
