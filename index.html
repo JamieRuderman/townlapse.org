@@ -44,7 +44,6 @@ header{padding:72px 0 40px}
 /* screenshot */
 .shot{position:relative;margin:8px 0 0}
 .shot img{display:block;width:100%;height:auto;border-radius:10px;border:1px solid var(--line)}
-.shot .yr{position:absolute;left:22px;top:16px;font:800 64px/1 var(--display);color:var(--ink);text-shadow:0 2px 14px rgba(0,0,0,.6)}
 
 section{padding:72px 0;border-top:1px solid var(--line)}
 section:first-of-type{border-top:0}
@@ -75,7 +74,6 @@ footer nav{display:flex;gap:18px;flex-wrap:wrap}
   header{padding:48px 0 28px}
   .grid3{grid-template-columns:1fr}
   .town{grid-template-columns:1fr}
-  .shot .yr{font-size:44px}
   section{padding:56px 0}
 }
 </style>
@@ -95,7 +93,6 @@ footer nav{display:flex;gap:18px;flex-wrap:wrap}
 
   <div class="shot">
     <a href="/downtownpaloalto/#1955"><img src="img/palo-alto-1955.jpg" alt="Satellite map of downtown Palo Alto with pins for the businesses open in 1955" width="1200" height="771"></a>
-    <div class="yr" aria-hidden="true">1955</div>
   </div>
 
   <main>
@@ -147,6 +144,8 @@ footer nav{display:flex;gap:18px;flex-wrap:wrap}
           <p>On any Townlapse map, press <b>Suggest a place</b> or <b>Suggest a fix</b>. It takes a minute, and it's checked before it's published.</p></div>
         <div class="card"><b class="dot" style="background:var(--yellow)"></b><h3>Find old sources</h3>
           <p>City directories, phone books, newspapers and building histories are where the dates come from. If you know of digitized ones for your town, tell us.</p></div>
+        <div class="card"><b class="dot" style="background:var(--blue)"></b><h3>Donate your AI's spare time</h3>
+          <p>Let your AI assistant research a town's history within a budget you choose, once or every day. <a href="/donate/">Set it up</a>.</p></div>
         <div class="card"><b class="dot" style="background:var(--pink)"></b><h3>Improve the code</h3>
           <p>Townlapse is MIT-licensed on GitHub. Issues and pull requests are welcome, from bug fixes to new data sources.</p></div>
       </div>
@@ -155,7 +154,7 @@ footer nav{display:flex;gap:18px;flex-wrap:wrap}
 
   <footer>
     <div>Townlapse is an <a href="https://unotdys.com/">unotdys</a> project by Ryo Koyama. Code MIT, data ODbL. Map data © OpenStreetMap contributors.</div>
-    <nav><a href="https://github.com/unotdys/townlapse">GitHub</a><a href="https://x.com/ofcourseduh">X</a><a href="https://medium.com/@ofcourseduh">Medium</a></nav>
+    <nav><a href="/ideas/">Ideas</a><a href="/donate/">Donate your AI</a><a href="https://github.com/unotdys/townlapse">GitHub</a><a href="https://x.com/ofcourseduh">X</a><a href="https://medium.com/@ofcourseduh">Medium</a></nav>
   </footer>
 </div>
 <script>

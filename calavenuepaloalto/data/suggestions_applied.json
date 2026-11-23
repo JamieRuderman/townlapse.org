@@ -1,1 +1,47 @@
-{"additions": [], "corrections": []}
+{
+ "additions": [],
+ "corrections": [
+  {
+   "target": "Rara",
+   "target_address": "201 South California Ave",
+   "fields": {
+    "note": "Palo Alto's first Nepalese restaurant, which soft-opened in late 2023 and officially opened in November 2023.",
+    "start": 2023,
+    "approx": false,
+    "links": [
+     "https://verdemagazine.com/rara-restaurant-offers-palo-altos-only-nepali-cuisine",
+     "https://whatnow.com/san-francisco/restaurants/rara-palo-altos-first-nepalese-restaurant-is-slated-to-open-this-fall/",
+     "https://www.opentable.com/r/rara-palo-alto"
+    ]
+   }
+  },
+  {
+   "target": "Homma\u2019s Brown Rice Sushi",
+   "target_address": "address not listed",
+   "fields": {
+    "address": "2363 Birch St",
+    "note": "Masakazu Homma's small sushi shop served only brown-rice sushi for about 30 years. It closed on Aug. 31, 2016 when he retired.",
+    "start": 1986,
+    "end": 2016,
+    "approx": true,
+    "links": [
+     "https://n2v.paloaltoonline.com/blogs/p/2018/02/27/palo-alto-brown-rice-sushi-restaurant-replaces-hommas",
+     "https://www.paloaltoonline.com/blogs/2016/08/25/palo-alto-hommas-brown-rice-sushi-to-close-aug-31/"
+    ]
+   }
+  },
+  {
+   "target": "Palo Alto Sol",
+   "target_address": "408 South California Ave",
+   "fields": {
+    "note": "Family-run Mexican restaurant serving Puebla-style food, opened around 1992 by Hector and Helena Sol. In 2016 the family also took over the space next door at 406 California Ave.",
+    "start": 1992,
+    "approx": true,
+    "links": [
+     "https://www.paloaltoonline.com/morgue/restaurants/1997_Dec_19.CHEF19.html",
+     "https://www.paloaltoonline.com/peninsula-foodist/2016/05/03/sol-family-takes-over-szechwan-cafe-on-california-avenue/"
+    ]
+   }
+  }
+ ]
+}

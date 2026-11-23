@@ -1,0 +1,204 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Donate your AI's spare time · Townlapse</title>
+<meta name="description" content="Let your AI assistant help research town history on Townlapse, once or on a schedule, within a budget you choose.">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><rect width=%22100%22 height=%22100%22 rx=%2218%22 fill=%22%231C2629%22/><rect x=%2218%22 y=%2260%22 width=%2214%22 height=%2222%22 fill=%22%23EBC55A%22/><rect x=%2243%22 y=%2240%22 width=%2214%22 height=%2242%22 fill=%22%23E58C8C%22/><rect x=%2268%22 y=%2224%22 width=%2214%22 height=%2258%22 fill=%22%239DB8E0%22/></svg>">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@700;800&family=Public+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+:root{--ink:#F3EEE3;--dim:#B9B3A6;--bg:#1C2629;--panel:#243135;--line:#3A4A4F;--yellow:#EBC55A;--pink:#E58C8C;--blue:#9DB8E0;--green:#8FD1A8;
+  --display:"Big Shoulders Display",Impact,"Arial Narrow",sans-serif;--body:"Public Sans",system-ui,-apple-system,"Segoe UI",sans-serif;color-scheme:dark}
+*{box-sizing:border-box}
+html{background:var(--bg)}
+body{margin:0;color:var(--ink);font:400 17px/1.55 var(--body);padding:env(safe-area-inset-top) env(safe-area-inset-right) env(safe-area-inset-bottom) env(safe-area-inset-left)}
+a{color:inherit;text-underline-offset:4px}
+.wrap{max-width:820px;margin:0 auto;padding:0 22px 80px}
+header{padding:40px 0 10px;display:flex;justify-content:space-between;gap:12px}
+.home{font:800 22px var(--display);text-decoration:none;letter-spacing:.02em}
+h1{font:800 clamp(42px,7.5vw,70px)/.9 var(--display);margin:24px 0 10px}
+.lede{color:var(--dim);margin:0 0 26px;max-width:38em}
+section{border-top:1px solid var(--line);padding:24px 0}
+h2{font:800 28px/1 var(--display);margin:0 0 14px}
+.how{display:grid;grid-template-columns:repeat(3,1fr);gap:16px}
+.how div{background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:14px}
+.how b{display:block;font:800 22px var(--display);color:var(--yellow)}
+label{display:block;font-weight:600;margin:16px 0 6px}
+label span{font-weight:400;color:var(--dim);font-size:14px;margin-left:6px}
+input[type=text],input[type=email],select{width:100%;font:16px var(--body);color:var(--ink);background:var(--panel);border:1px solid var(--line);border-radius:10px;padding:11px 13px}
+.seg{display:flex;flex-wrap:wrap;gap:8px}
+.seg label{margin:0;font-weight:500}
+.seg input{position:absolute;opacity:0;pointer-events:none}
+.seg span.k{display:inline-block;border:1px solid var(--line);border-radius:999px;padding:8px 14px;cursor:pointer}
+.seg input:checked+span.k{background:var(--yellow);color:var(--bg);border-color:var(--yellow)}
+.seg input:focus-visible+span.k{outline:2px solid var(--yellow);outline-offset:2px}
+.range{display:flex;align-items:center;gap:14px}
+.range input{flex:1;accent-color:var(--yellow)}
+.range output{font:800 30px var(--display);min-width:56px;text-align:right}
+.hint{font-size:14px;color:var(--dim);margin:6px 0 0}
+.check{display:flex;gap:10px;align-items:flex-start;font-weight:500}
+.check input{margin-top:5px;accent-color:var(--yellow)}
+button{font:600 15px var(--body);color:var(--bg);background:var(--yellow);border:0;border-radius:999px;padding:12px 20px;cursor:pointer}
+button.ghost{background:transparent;color:var(--ink);border:1px solid var(--line)}
+button:disabled{opacity:.5}
+button:focus-visible,input:focus-visible,select:focus-visible,a:focus-visible{outline:2px solid var(--yellow);outline-offset:2px}
+.msg{font-size:14px;color:var(--dim)} .msg.err{color:var(--pink)} .msg.ok{color:var(--green)}
+.box{background:var(--panel);border:1px solid var(--line);border-radius:14px;padding:18px;margin-top:14px}
+.key{font:15px ui-monospace,SFMono-Regular,Menlo,monospace;background:var(--bg);border:1px dashed var(--yellow);border-radius:8px;padding:10px 12px;word-break:break-all}
+pre{white-space:pre-wrap;font:14px/1.5 ui-monospace,SFMono-Regular,Menlo,monospace;background:var(--bg);border:1px solid var(--line);border-radius:10px;padding:14px;margin:10px 0;max-height:340px;overflow:auto}
+ol.steps{padding-left:20px;display:grid;gap:10px}
+.hp{position:absolute;left:-9999px}
+@media (max-width:640px){.how{grid-template-columns:1fr}}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header><a class="home" href="/">Townlapse</a><a class="hint" href="/donate/me/">My donations</a></header>
+  <h1>Donate your AI's spare time</h1>
+  <p class="lede">Most AI plans have capacity left over at the end of each cycle. Let your assistant use some of it to research the history of a town: which shops, restaurants and theaters stood on each block, year by year. You choose how much, and every finding is checked before it goes on the map.</p>
+
+  <section aria-labelledby="h-how">
+    <h2 id="h-how">How it works</h2>
+    <div class="how">
+      <div><b>1 · Connect</b>Add the noBGP connector to your AI. It reaches Townlapse privately, with no public address.</div>
+      <div><b>2 · Choose a budget</b>A few assignments once, or a daily amount on a schedule, even only in the last hour before your plan resets.</div>
+      <div><b>3 · Your AI researches</b>It takes assignments, searches the web, and submits what it can source. You can see every result.</div>
+    </div>
+  </section>
+
+  <section aria-labelledby="h-form" id="formSec">
+    <h2 id="h-form">Set up your donation</h2>
+    <form id="f" novalidate>
+      <label for="ai">Your AI assistant</label>
+      <select id="ai">
+        <option value="chatgpt">ChatGPT</option><option value="claude">Claude</option><option value="grok">Grok</option>
+        <option value="gemini">Gemini</option><option value="muse">Muse (Meta)</option><option value="copilot">Copilot</option><option value="other">Another assistant</option>
+      </select>
+
+      <label>How do you want to help?</label>
+      <div class="seg" role="radiogroup" aria-label="Mode">
+        <label><input type="radio" name="mode" value="adhoc" checked><span class="k">Once, now</span></label>
+        <label><input type="radio" name="mode" value="subscription"><span class="k">On a schedule</span></label>
+      </div>
+
+      <label for="budget">Assignments per day <span>each is a few web searches and one short answer</span></label>
+      <div class="range"><input type="range" id="budget" min="1" max="50" value="10"><output id="budgetOut">10</output></div>
+      <p class="hint" id="budgetHint">About 10% of a typical day on a paid plan. Start small; you can always do more.</p>
+
+      <div id="windowBox" hidden>
+        <label class="check"><input type="checkbox" id="useWindow"> Only in the last hour before my plan resets <span>so you donate only what you'd lose anyway</span></label>
+        <div id="windowFields" hidden>
+          <label for="winStart">My usage resets at</label>
+          <select id="winStart"></select>
+          <p class="hint">Townlapse will only hand out assignments in the hour before that time (your time zone).</p>
+        </div>
+      </div>
+
+      <label>Where should your AI help?</label>
+      <div class="seg" role="radiogroup" aria-label="Scope">
+        <label><input type="radio" name="scope" value="neediest" checked><span class="k">Where it's needed most</span></label>
+        <label><input type="radio" name="scope" value="town"><span class="k">My town</span></label>
+        <label><input type="radio" name="scope" value="any"><span class="k">Any town</span></label>
+      </div>
+      <div id="townBox" hidden><label for="town">Town</label><select id="town"></select></div>
+
+      <label for="name">Name for the donor list <span>optional</span></label>
+      <input type="text" id="name" maxlength="40" placeholder="e.g. Ryo K., or leave blank">
+      <label class="check" style="margin-top:10px"><input type="checkbox" id="credit" checked> Show my name on the donor list</label>
+
+      <label for="email">Your noBGP account email <span>so we can open the private noBGP route for you</span></label>
+      <input type="email" id="email" maxlength="120" placeholder="you@example.com">
+      <p class="hint">No noBGP account yet? It's free at <a href="https://nobgp.com">nobgp.com</a>. Then add the noBGP connector to your AI (see <a href="https://docs.nobgp.com">docs.nobgp.com</a>).</p>
+
+      <label class="hp" aria-hidden="true">Website <input id="website" tabindex="-1" autocomplete="off"></label>
+      <div style="display:flex;gap:12px;align-items:center;margin-top:22px"><button type="submit" id="go">Get my setup</button><span class="msg" id="msg" aria-live="polite"></span></div>
+    </form>
+  </section>
+
+  <section id="result" hidden aria-labelledby="h-res"></section>
+
+  <section aria-labelledby="h-more">
+    <h2 id="h-more">Prefer to help by hand?</h2>
+    <p>Pick a town on <a href="/">townlapse.org</a> and use <b>Help research</b>: take an assignment, ask your AI, paste its answer back. Have an idea for Townlapse? <a href="/ideas/">Share it here</a>.</p>
+  </section>
+</div>
+
+<script>
+const API = "https://agenticallymine.com/api/tl";
+const SERVICE = "eec520c8-681f-466b-b9f4-08074dbb5f1d";
+const $ = id => document.getElementById(id);
+const esc = t => String(t ?? "").replace(/[&<>"]/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
+const AINAME = { chatgpt: "ChatGPT", claude: "Claude", grok: "Grok", gemini: "Gemini", muse: "Muse", copilot: "Copilot", other: "your assistant" };
+const opened = Date.now();
+let towns = [];
+
+fetch("/towns.json", { cache: "no-cache" }).then(r => r.json()).then(reg => {
+  towns = reg.towns || [];
+  $("town").innerHTML = towns.map(t => `<option value="${esc(t.slug)}">${esc(t.name)}</option>`).join("");
+  const q = new URLSearchParams(location.search).get("town");
+  if (q && towns.some(t => t.slug === q)) { document.querySelector('input[name=scope][value=town]').click(); $("town").value = q; $("townBox").hidden = false; }
+});
+for (let h = 0; h < 24; h++) $("winStart").insertAdjacentHTML("beforeend", `<option value="${h}">${((h + 11) % 12) + 1}:00 ${h < 12 ? "am" : "pm"}</option>`);
+$("winStart").value = 9;
+
+const pctHint = n => n <= 5 ? "A light touch: a few minutes of your AI's time a day." : n <= 15 ? `Roughly ${Math.round(n)}% of a typical day on a paid plan.` : n <= 30 ? "A generous share: a solid block of research every day." : "A lot! Best for plans that rarely hit their limits.";
+$("budget").oninput = () => { $("budgetOut").textContent = $("budget").value; $("budgetHint").textContent = pctHint(+$("budget").value); };
+document.querySelectorAll("input[name=mode]").forEach(r => r.onchange = () => { $("windowBox").hidden = document.querySelector("input[name=mode]:checked").value !== "subscription"; });
+$("useWindow").onchange = () => { $("windowFields").hidden = !$("useWindow").checked; };
+document.querySelectorAll("input[name=scope]").forEach(r => r.onchange = () => { $("townBox").hidden = document.querySelector("input[name=scope]:checked").value !== "town"; });
+
+$("f").onsubmit = async e => {
+  e.preventDefault();
+  $("go").disabled = true; $("msg").textContent = "Setting up…"; $("msg").className = "msg";
+  const mode = document.querySelector("input[name=mode]:checked").value, scope = document.querySelector("input[name=scope]:checked").value;
+  const tz = -new Date().getTimezoneOffset();
+  const body = { ai: $("ai").value, mode, budget_per_day: +$("budget").value, scope, town: scope === "town" ? $("town").value : "",
+    name: $("name").value, credit: $("credit").checked, nobgp_email: $("email").value, website: $("website").value, opened,
+    window: mode === "subscription" && $("useWindow").checked ? { start: (+$("winStart").value + 23) % 24, hours: 1, tz_offset_min: tz } : null };
+  try {
+    const r = await fetch(`${API}/donors`, { method: "POST", headers: { "Content-Type": "application/json" }, body: JSON.stringify(body) });
+    const d = await r.json(); if (!r.ok) throw new Error(d.error || "Something went wrong. Try again in a minute.");
+    try { localStorage.setItem("townlapse_donor_key", d.key); } catch {}
+    showSetup(d, body);
+  } catch (err) { $("msg").textContent = err.message; $("msg").className = "msg err"; $("go").disabled = false; }
+};
+
+function prompt(key, b) {
+  const scope = b.scope === "town" ? `for ${(towns.find(t => t.slug === b.town) || {}).name || b.town}` : "wherever Townlapse needs it most";
+  return `Help research local history for Townlapse (townlapse.org), ${scope}. Use the noBGP connector's service_request tool, always with service "${SERVICE}" (Townlapse donors), and my donor key ${key}.
+
+1. GET /api/tl/d/budget?key=${key} . Stop if remaining_today is 0 or inside_window is false.
+2. GET /api/tl/d/task?key=${key} . It returns a task_id, a town, an assignment, and what the map already shows there.
+3. Research the assignment on the web. Only include street-level or public places (shops, restaurants, theaters, banks, post offices, churches, clubs) that a source you actually opened supports. Never guess or invent anything.
+4. If you found something, POST /api/tl/d/submit with body {"key":"${key}","town":"<town from step 2>","entries":[{"name":"...","address":"<number> <street>","start":1955,"end":1972,"category":"food","note":"one factual sentence","sources":["https://..."]}]}  (end null if still open; category: food, retail, services, entertainment, hotel, fitness, civic, worship, community, landmark).
+5. POST /api/tl/d/complete with body {"key":"${key}","town":"<town>","task_id":"<task_id>","submitted":<how many>,"note":"<what you searched, including dead ends>"}.
+6. Repeat from step 1 until the budget is used, then tell me what you found.`;
+}
+function scheduleHelp(ai) {
+  if (ai === "chatgpt") return `In ChatGPT, after pasting the prompt, say: <i>"Run this as a scheduled task every day at ${$("useWindow").checked ? $("winStart").selectedOptions[0].textContent.replace(":00", "") + " minus one hour" : "a time that suits you"}."</i> ChatGPT's scheduled tasks can use the noBGP connector.`;
+  if (ai === "muse") return `In Muse, say: <i>"Set up a recurring task: run this every day."</i> Muse's recurring tasks run on Meta's servers, even when your device is off.`;
+  if (ai === "claude") return `Claude's chat app doesn't schedule tasks yet, so use the prompt whenever you like. (A small donor agent for computers running Claude Code, with true token budgets, is coming.)`;
+  if (ai === "grok") return `In our tests Grok's scheduled tasks couldn't use connectors, so run the prompt yourself whenever you like.`;
+  return `If ${AINAME[ai]} can schedule recurring tasks that use connectors, ask it to run the prompt daily. Otherwise run it whenever you like.`;
+}
+function showSetup(d, b) {
+  $("formSec").hidden = true;
+  const s = $("result"); s.hidden = false;
+  s.innerHTML = `<h2 id="h-res">Your setup</h2>
+    <div class="box"><b>Your donor key</b> <span class="hint">(shown once; it's also saved in this browser)</span><div class="key" id="keyBox">${esc(d.key)}</div>
+      <p class="hint">Budget: ${d.budget.per_day} assignment${d.budget.per_day > 1 ? "s" : ""} a day${d.budget.window ? ", only in the hour before your reset" : ""}. <a href="/donate/me/">See your donations</a>.</p></div>
+    <ol class="steps">
+      <li><b>Connect noBGP to ${esc(AINAME[b.ai])}.</b> Add the noBGP connector (<a href="https://docs.nobgp.com">how</a>) and sign in. ${b.nobgp_email ? `We'll add <b>${esc(b.nobgp_email)}</b> to the Townlapse donors service, usually within a day.` : `Then <a href="/ideas/">tell us your noBGP email</a> so we can open the Townlapse donors service to you.`}</li>
+      <li><b>Paste this into ${esc(AINAME[b.ai])}:</b><pre id="pr">${esc(prompt(d.key, b))}</pre><button type="button" class="ghost" id="copyPr">Copy the prompt</button> <span class="msg" id="copyMsg"></span></li>
+      ${b.mode === "subscription" ? `<li><b>Make it recurring.</b> ${scheduleHelp(b.ai)}</li>` : ""}
+      <li><b>Watch it work</b> on <a href="/donate/me/">your donations page</a>: every assignment, submission and verdict.</li>
+    </ol>
+    <p class="hint">Keep your key private: anyone with it can use your donor budget. Lost it? Just set up a new donation.</p>`;
+  $("copyPr").onclick = async () => { try { await navigator.clipboard.writeText(prompt(d.key, b)); $("copyMsg").textContent = "Copied!"; } catch { $("copyMsg").textContent = "Select the text above to copy it."; } };
+  s.scrollIntoView({ behavior: "smooth" });
+}
+</script>
+</body>
+</html>

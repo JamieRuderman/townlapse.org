@@ -1,0 +1,105 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Ideas · Townlapse</title>
+<meta name="description" content="Suggest a feature for Townlapse and vote on others' ideas. No account needed.">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><rect width=%22100%22 height=%22100%22 rx=%2218%22 fill=%22%231C2629%22/><rect x=%2218%22 y=%2260%22 width=%2214%22 height=%2222%22 fill=%22%23EBC55A%22/><rect x=%2243%22 y=%2240%22 width=%2214%22 height=%2242%22 fill=%22%23E58C8C%22/><rect x=%2268%22 y=%2224%22 width=%2214%22 height=%2258%22 fill=%22%239DB8E0%22/></svg>">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@700;800&family=Public+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+:root{--ink:#F3EEE3;--dim:#B9B3A6;--bg:#1C2629;--panel:#243135;--line:#3A4A4F;--yellow:#EBC55A;--pink:#E58C8C;--green:#8FD1A8;--blue:#9DB8E0;
+  --display:"Big Shoulders Display",Impact,"Arial Narrow",sans-serif;--body:"Public Sans",system-ui,-apple-system,"Segoe UI",sans-serif;color-scheme:dark}
+*{box-sizing:border-box} html{background:var(--bg)}
+body{margin:0;color:var(--ink);font:400 17px/1.55 var(--body);padding:env(safe-area-inset-top) env(safe-area-inset-right) env(safe-area-inset-bottom) env(safe-area-inset-left)}
+a{color:inherit;text-underline-offset:4px}
+.wrap{max-width:820px;margin:0 auto;padding:0 22px 80px}
+header{padding:40px 0 10px}
+.home{font:800 22px var(--display);text-decoration:none}
+h1{font:800 clamp(44px,8vw,72px)/.9 var(--display);margin:24px 0 10px}
+.lede{color:var(--dim);margin:0 0 24px;max-width:36em}
+section{border-top:1px solid var(--line);padding:22px 0}
+h2{font:800 28px/1 var(--display);margin:0 0 14px}
+ul.ideas{list-style:none;margin:0;padding:0}
+ul.ideas li{display:grid;grid-template-columns:64px 1fr;gap:14px;padding:14px 0;border-bottom:1px solid var(--line)}
+.vote{display:flex;flex-direction:column;align-items:center;justify-content:center;border:1px solid var(--line);border-radius:12px;padding:8px 0;cursor:pointer;background:none;color:var(--ink);font:inherit}
+.vote b{font:800 26px/1 var(--display)} .vote span{font-size:12px;color:var(--dim)}
+.vote.done{border-color:var(--yellow)} .vote.done b{color:var(--yellow)}
+.t{font-weight:600} .d{color:var(--dim);font-size:15px;margin-top:3px;white-space:pre-wrap}
+.meta{font-size:13px;color:var(--dim);margin-top:6px}
+.badge{display:inline-block;border-radius:999px;padding:1px 8px;font-size:12px;font-weight:600;margin-right:6px}
+.b-planned{background:var(--blue);color:var(--bg)} .b-done{background:var(--green);color:var(--bg)} .b-new{border:1px solid var(--line)}
+label{display:block;font-weight:600;margin:14px 0 6px}
+label span{font-weight:400;color:var(--dim);font-size:14px;margin-left:6px}
+input,textarea,select{width:100%;font:16px var(--body);color:var(--ink);background:var(--panel);border:1px solid var(--line);border-radius:10px;padding:11px 13px}
+textarea{min-height:110px;resize:vertical}
+button.go{font:600 15px var(--body);color:var(--bg);background:var(--yellow);border:0;border-radius:999px;padding:12px 20px;cursor:pointer}
+button:focus-visible,input:focus-visible,textarea:focus-visible,select:focus-visible,a:focus-visible{outline:2px solid var(--yellow);outline-offset:2px}
+.msg{font-size:14px;color:var(--dim)} .msg.err{color:var(--pink)} .msg.ok{color:var(--green)}
+.hp{position:absolute;left:-9999px}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header><a class="home" href="/">Townlapse</a></header>
+  <h1>Ideas</h1>
+  <p class="lede">What should Townlapse do next? Suggest a feature or vote for the ones you want. No account needed. Ideas also go to the open-source project on <a href="https://github.com/unotdys/townlapse/issues?q=label%3Aidea">GitHub</a>, where developers can pick them up.</p>
+
+  <section aria-labelledby="h-list">
+    <h2 id="h-list">Most wanted</h2>
+    <ul class="ideas" id="list"><li class="meta">Loading…</li></ul>
+  </section>
+
+  <section aria-labelledby="h-new">
+    <h2 id="h-new">Suggest an idea</h2>
+    <form id="f" novalidate>
+      <label for="title">Your idea in a sentence</label>
+      <input id="title" maxlength="100" placeholder="e.g. Show old photos on the timeline">
+      <label for="details">Tell us more <span>optional</span></label>
+      <textarea id="details" maxlength="2000" placeholder="What would it do, and who would it help?"></textarea>
+      <label for="town">For a particular town? <span>optional</span></label>
+      <select id="town"><option value="">All towns</option></select>
+      <label class="hp" aria-hidden="true">Website <input id="website" tabindex="-1" autocomplete="off"></label>
+      <div style="display:flex;gap:12px;align-items:center;margin-top:18px"><button type="submit" class="go" id="go">Share my idea</button><span class="msg" id="msg" aria-live="polite"></span></div>
+    </form>
+  </section>
+</div>
+<script>
+const API = "https://agenticallymine.com/api/tl";
+const $ = id => document.getElementById(id);
+const esc = t => String(t ?? "").replace(/[&<>"]/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
+const opened = Date.now();
+let voted = {}; try { voted = JSON.parse(localStorage.getItem("townlapse_votes") || "{}"); } catch {}
+fetch("/towns.json").then(r => r.json()).then(reg => (reg.towns || []).forEach(t => $("town").insertAdjacentHTML("beforeend", `<option value="${esc(t.slug)}">${esc(t.name)}</option>`)));
+async function load() {
+  try {
+    const d = await (await fetch(`${API}/ideas`, { cache: "no-cache" })).json();
+    const xs = d.ideas || [];
+    $("list").innerHTML = xs.length ? xs.map(i => `<li>
+      <button class="vote ${voted[i.id] ? "done" : ""}" data-id="${esc(i.id)}" aria-label="Vote for: ${esc(i.title)}" aria-pressed="${!!voted[i.id]}"><b>${i.votes}</b><span>${voted[i.id] ? "voted" : "vote"}</span></button>
+      <div><div class="t">${esc(i.title)}</div>${i.details ? `<div class="d">${esc(i.details)}</div>` : ""}
+      <div class="meta"><span class="badge b-${esc(i.status)}">${i.status === "new" ? "open" : esc(i.status)}</span>${i.town ? `for ${esc(i.town)} · ` : ""}${esc(i.created)}${i.github ? ` · <a href="${esc(i.github)}">on GitHub</a>` : ""}</div></div></li>`).join("")
+      : `<li class="meta">No ideas yet. Be the first!</li>`;
+    $("list").querySelectorAll(".vote").forEach(b => b.onclick = () => vote(b));
+  } catch { $("list").innerHTML = `<li class="meta">Couldn't load ideas. Try again in a minute.</li>`; }
+}
+async function vote(b) {
+  const id = b.dataset.id; if (voted[id]) return;
+  try { const r = await fetch(`${API}/ideas/vote`, { method: "POST", headers: { "Content-Type": "application/json" }, body: JSON.stringify({ id }) }); const d = await r.json();
+    if (r.ok) { voted[id] = 1; try { localStorage.setItem("townlapse_votes", JSON.stringify(voted)); } catch {} b.classList.add("done"); b.setAttribute("aria-pressed", "true"); b.querySelector("b").textContent = d.votes; b.querySelector("span").textContent = "voted"; } } catch {}
+}
+$("f").onsubmit = async e => {
+  e.preventDefault(); $("go").disabled = true; $("msg").textContent = "Sending…"; $("msg").className = "msg";
+  try {
+    const r = await fetch(`${API}/ideas`, { method: "POST", headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ title: $("title").value, details: $("details").value, town: $("town").value, website: $("website").value, opened }) });
+    const d = await r.json(); if (!r.ok) throw new Error(d.error || "Couldn't send. Try again in a minute.");
+    $("msg").textContent = d.message; $("msg").className = "msg ok"; $("f").reset(); if (d.id) { voted[d.id] = 1; try { localStorage.setItem("townlapse_votes", JSON.stringify(voted)); } catch {} } load();
+  } catch (err) { $("msg").textContent = err.message; $("msg").className = "msg err"; }
+  $("go").disabled = false;
+};
+load();
+</script>
+</body>
+</html>

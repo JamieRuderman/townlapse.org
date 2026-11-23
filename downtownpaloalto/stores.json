@@ -599,14 +599,24 @@
  {
   "name": "Cafe Renaissance",
   "address": "321 Hamilton Ave",
-  "start": 2006,
+  "start": 1991,
   "end": 2011,
   "category": "food",
   "approx": true,
-  "note": "Cozy Mediterranean-leaning cafe and restaurant across Hamilton from the Chase bank, known for dishes like gazpacho and house-made cheesecake. In the Palo Alto Weekly's dining listings from at least 2006 to 2008; Curry Up Now later took over the space. Exact years not yet confirmed.",
+  "note": "Persian and Mediterranean cafe whose owner bought the former Plantation restaurant here in 1991 and turned it toward Persian food, as a 1998 Palo Alto Weekly review described. A downtown lunch spot into the 2010s, it was later replaced by Curry Up Now; its exact closing year is not confirmed.",
   "lat": 37.4455464,
   "lng": -122.1602567,
-  "source": "suggestion"
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://www.paloaltoonline.com/morgue/restaurants/1998_Dec_18.EATS18.html",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/news/2012/10/07/shop-talk-downtown-sushi-restaurant-miyake-closes/",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Good Earth Restaurant and Bakery",
@@ -1760,6 +1770,632 @@
   ]
  },
  {
+  "name": "Chimera Books and Music",
+  "address": "405 Kipling St",
+  "start": 1982,
+  "end": 1990,
+  "category": "retail",
+  "approx": true,
+  "note": "Used bookstore in an 1897 house, listed at this address in 1982. Around 1990 it moved to University Avenue, and in 1999 it left for Redwood City.",
+  "lat": 37.4485553,
+  "lng": -122.1608086,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://www.pastheritage.org/HousePixLists/PixListI.html",
+    "kind": "History"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/morgue/monthly/1999_Oct_27.CHIMERA.html",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.pnreview.co.uk/cgi-bin/scribe?item_id=6986",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
+  "name": "Commuter Shell Service",
+  "address": "355 Alma St",
+  "start": 1968,
+  "end": 2010,
+  "category": "services",
+  "approx": true,
+  "note": "Full-service Shell gas station on the corner of Alma St and Lytton Ave, run by the same operators for 42 years; downtown Palo Alto's only gas station, open around the clock, until Shell pulled out and it closed at the end of June 2010. The site later became the Lytton Gateway building.",
+  "lat": 37.444492,
+  "lng": -122.1654521,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://www.paloaltoonline.com/news/2010/06/10/final-days-for-downtown-palo-alto-gas-station/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/news/2011/03/11/new-five-story-building-proposed-for-downtown-2/",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
+  "name": "YogaSource",
+  "address": "525 Alma St",
+  "start": 1995,
+  "end": 2001,
+  "category": "fitness",
+  "approx": false,
+  "note": "Heated Bikram yoga studio that opened in May 1995, said to be the first outside San Francisco to offer heated yoga. It moved to Hamilton Avenue in 2001.",
+  "lat": 37.4431498,
+  "lng": -122.1629901,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://www.paloaltoonline.com/morgue/monthly/1995_Sep_27.YOGA.html",
+    "kind": "Article"
+   },
+   {
+    "url": "https://yogasource.com/25-years-of-yogasource-palo-alto/",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
+  "name": "Ellison's Body Shop",
+  "address": "705 Alma St",
+  "start": 1929,
+  "end": 2000,
+  "category": "services",
+  "approx": true,
+  "note": "Family-run auto body repair and towing shop founded May 1, 1929 by Earl Ellison Sr.; by 1995 it was one of only two body shops left downtown, and it ceased business in 2000. The building remains as a historical site.",
+  "lat": 37.441831,
+  "lng": -122.1612354,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://www.paloaltoonline.com/morgue/2001/2001_06_20.obits20.html",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/morgue/news/1995_Sep_13.PEOPLE13.html",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
+  "name": "Palo Alto Medical Clinic",
+  "address": "300 Homer Ave",
+  "start": 1932,
+  "end": 1999,
+  "category": "services",
+  "approx": true,
+  "note": "Group medical practice in the Spanish Colonial Revival Roth Building, designed by Birge Clark in 1932. The clinic later moved out, and the city bought the building in 2000 to become the home of the Palo Alto History Museum.",
+  "lat": 37.443576,
+  "lng": -122.157653,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Palo_Alto_Medical_Clinic",
+    "kind": "Article"
+   },
+   {
+    "url": "https://npgallery.nps.gov/GetAsset/08bcebac-3099-49f2-b8d0-e8af547907fd",
+    "kind": "Article"
+   },
+   {
+    "url": "https://sutterhealth.org/research/pamfri/history",
+    "kind": "Article"
+   },
+   {
+    "url": "https://theclio.com/api/v1/entries/184106/export",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/real-estate/2023/07/03/where-to-spot-palo-alto-architect-birge-clarks-iconic-early-california-style/",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
+  "name": "The Photographer's Gallery",
+  "address": "732 Emerson St",
+  "start": 1982,
+  "end": 1995,
+  "category": "retail",
+  "approx": true,
+  "note": "Fine art photography gallery at 732 Emerson St for 13 years; owner Amy Saret moved it to 536 Ramona St on Aug. 1, 1995, and the women's clothing store Virtuelle took over the Emerson space that October.",
+  "lat": 37.4426268,
+  "lng": -122.1598327,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://www.paloaltoonline.com/morgue/news/1995_Jul_12.SHOP12.html",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/morgue/news/1995_Oct_4.SHOP04.html",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
+  "name": "Smith Andersen Gallery",
+  "address": "728 Emerson St",
+  "start": 1969,
+  "end": 1996,
+  "category": "retail",
+  "approx": true,
+  "note": "Fine art gallery run by Paula Kirkeby, opened in October 1969 at 200 Homer St and later at 728 Emerson St. It closed Aug. 1, 1996.",
+  "lat": 37.4426818,
+  "lng": -122.1599186,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Paula_Kirkeby",
+    "kind": "Article"
+   },
+   {
+    "url": "https://sirismm.si.edu/EADpdfs/AAA.smitande.pdf",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/morgue/news/1996_Jun_19.SHOP19.html",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
+  "name": "Florentine Restaurant and Pasta Market",
+  "address": "560 Waverley St",
+  "start": 1994,
+  "end": 1996,
+  "category": "food",
+  "approx": true,
+  "note": "Northern Italian restaurant and fresh pasta market, part of a San Jose-based chain owned by the Del Monaco family. Palo Alto Weekly readers voted it Best Pasta in 1994 and 1996; the years shown are the earliest and latest sources found, and it likely operated longer.",
+  "lat": 37.4463873,
+  "lng": -122.1597748,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://www.paloaltoonline.com/morgue/cover/1994_Oct_12.BESTOF94.html",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/morgue/cover/1996_Jul_31.BESTOF.html",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
+  "name": "The Adventures of Jerusha",
+  "address": "515 Cowper St",
+  "start": 1995,
+  "end": 1995,
+  "category": "retail",
+  "approx": true,
+  "note": "Women's clothing store at 515 Cowper St selling colorful easy-care separates in natural fibers and custom-made outfits; featured in Palo Alto Weekly Shop Talk in June and December 1995. Years shown are the first and last years sources confirm it at this address.",
+  "lat": 37.4482136,
+  "lng": -122.158874,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://www.paloaltoonline.com/morgue/news/1995_Dec_20.SHOP20.html",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/morgue/news/1995_Jun_7.SHOP07.html",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
+  "name": "The Artifactory",
+  "address": "226 Hamilton Ave",
+  "start": 1994,
+  "end": 1996,
+  "category": "retail",
+  "approx": true,
+  "note": "Craft shop and studio that held art workshops such as mask-making, listed in the Palo Alto Weekly in 1994. A craft shop on this block was forced out when a fire destroyed the one-story building at Hamilton and Emerson around 1996.",
+  "lat": 37.444248,
+  "lng": -122.161067,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://www.paloaltoonline.com/morgue/listings/1994_Sep_21.entertainment.html",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/morgue/news/1999_Nov_17.HAMILTON.html",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
+  "name": "La Pastaia Ristorante Italiano",
+  "address": "420 Emerson St",
+  "start": 1993,
+  "end": 1994,
+  "category": "food",
+  "approx": true,
+  "note": "Italian restaurant known for its duck-and-ricotta spinach ravioli. The Palo Alto Weekly reviewed it in 1993 and still listed it in 1994, and Evvia later took over the space.",
+  "lat": 37.4450784,
+  "lng": -122.1638155,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://www.paloaltoonline.com/morgue/restaurants/1994_Sep_7.mini_reviews.html",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.tripadvisor.in/Restaurant_Review-g32849-d364522-Reviews-Evvia-Palo_Alto_California.html",
+    "kind": "Listing"
+   }
+  ]
+ },
+ {
+  "name": "Max's Eatz",
+  "address": "201 University Ave",
+  "start": 1995,
+  "end": 1995,
+  "category": "food",
+  "approx": false,
+  "note": "Upscale deli offshoot of Max's Opera Cafe serving New York deli-style sandwiches, reviewed as new in April 1995. It closed within months, and World Wrapps was planned for the corner space by October 1995.",
+  "lat": 37.444891,
+  "lng": -122.1628987,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://www.paloaltoonline.com/morgue/news/1995_Oct_4.around_town.html",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/morgue/restaurants/1995_Apr_7.EATOUT07.html",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
+  "name": "World Wrapps",
+  "address": "201 University Ave",
+  "start": 1996,
+  "end": 1996,
+  "category": "food",
+  "approx": true,
+  "note": "Wrap and smoothie restaurant, a branch of a San Francisco chain, that was planned for the former Max's Eatz corner space in October 1995. It was listed here in a 1996 local food guide, but its exact opening and closing years are unknown.",
+  "lat": 37.444891,
+  "lng": -122.1628987,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://www.metroactive.com/papers/metro/09.19.96/cover/best-food-9638.html",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/morgue/news/1995_Oct_4.around_town.html",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
+  "name": "Noah's Bagels",
+  "address": "278 University Ave",
+  "start": 1995,
+  "end": 2008,
+  "category": "food",
+  "approx": true,
+  "note": "New York-style bagel shop at the corner of University and Bryant, voted Palo Alto's best bagels in 1995 and for years after; the building that housed Noah's and Starbucks was slated for demolition in August 2008.",
+  "lat": 37.445626,
+  "lng": -122.1615221,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://www.paloaltoonline.com/best-of/1995/11/01/best-of-1995/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/news/2008/08/06/new-building-slated-for-university/",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
+  "name": "Cafe Fino",
+  "address": "544 Emerson St",
+  "start": 1989,
+  "end": 2007,
+  "category": "food",
+  "approx": true,
+  "note": "Fred Maddalena's smaller art-deco nightclub next door to Maddalena's restaurant, sharing its kitchen and menu with live jazz, cabaret acts and tango lessons; it opened in 1989 and closed shortly after Maddalena's shut in May 2007.",
+  "lat": 37.444003,
+  "lng": -122.1620827,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://obituaries.paloaltoonline.com/obituaries/print/freddie-maddalena?o=4658",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/uncategorized/2006/02/24/decidedly-old-school/",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
+  "name": "Pollo's Rotisserie Chicken",
+  "address": "543 Emerson St",
+  "start": 1994,
+  "end": 1994,
+  "category": "food",
+  "approx": true,
+  "note": "Rotisserie chicken restaurant that served chicken burritos, tacos and quesadillas. Palo Alto Weekly readers voted it best burrito in 1994; actual years open may be longer.",
+  "lat": 37.4442394,
+  "lng": -122.1618715,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://www.paloaltoonline.com/best-of/1995/11/01/best-of-1995/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/morgue/cover/1994_Oct_12.BESTOF94.html",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
+  "name": "Chantilly II",
+  "address": "530 Ramona St",
+  "start": 1990,
+  "end": 1999,
+  "category": "food",
+  "approx": true,
+  "note": "French and Northern Italian restaurant with a courtyard setting that opened on Ramona Street as Chantilly in 1974 and was called Chantilly II from about 1990. It was popular with tech-industry diners and moved to Redwood City in 1999.",
+  "lat": 37.4448873,
+  "lng": -122.1617581,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://www.paloaltoonline.com/morgue/restaurants/1994_Dec_14.mini_reviews.html",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/peninsula-foodist/2017/04/06/chantilly-closes-after-43-years/",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
+  "name": "Gallery House",
+  "address": "538 Ramona St",
+  "start": 1962,
+  "end": 2000,
+  "category": "retail",
+  "approx": true,
+  "note": "Artist-run cooperative gallery founded in 1958; after earlier locations it spent 38 years at 538 Ramona St. before moving to California Avenue in 2000.",
+  "lat": 37.4447794,
+  "lng": -122.1615829,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://www.pastheritage.org/inv/invR/ramona538.html",
+    "kind": "History"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/morgue/listings/2000_Jul_14.art.html",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/news/2008/04/04/gallery-house-turns-50/",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
+  "name": "The Photographer's Gallery",
+  "address": "536 Ramona St",
+  "start": 1995,
+  "end": 2000,
+  "category": "retail",
+  "approx": true,
+  "note": "Fine-art photography gallery that moved here from 732 Emerson St. in August 1995. Local exhibit listings place it at 536 Ramona St. through at least mid-2000.",
+  "lat": 37.4447091,
+  "lng": -122.1616956,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://www.paloaltoonline.com/morgue/listings/1995_Oct_27.entertainment.html",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/morgue/listings/2000_Jul_14.art.html",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
+  "name": "Elbe Restaurant",
+  "address": "117 University Ave",
+  "start": 1995,
+  "end": 2010,
+  "category": "food",
+  "approx": true,
+  "note": "German and Middle European restaurant that opened in 1995 in the former Rudyard's space at the top of University Avenue; Palo Alto's only German restaurant, it shared a kitchen with Rudy's Pub and closed in January 2010.",
+  "lat": 37.443874,
+  "lng": -122.1637543,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://www.metroactive.com/papers/metro/05.30.96/elbe-9622.html",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/uncategorized/2010/02/12/shop-talk-66/",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
+  "name": "Nataraja",
+  "address": "117 University Ave",
+  "start": 1994,
+  "end": 1994,
+  "category": "food",
+  "approx": true,
+  "note": "Indian restaurant known for mesquite grilling and Indian breads, listed at this address in the Palo Alto Weekly's 1994 restaurant guides, which called it a local institution. Its actual opening and closing years are unknown and were likely earlier and later.",
+  "lat": 37.443874,
+  "lng": -122.1637543,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://www.paloaltoonline.com/morgue/restaurants/1994_Jan_28.mini_reviews.html",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/morgue/restaurants/1994_Sep_7.mini_reviews.html",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
+  "name": "Celia's",
+  "address": "423 University Ave",
+  "start": 1969,
+  "end": 1994,
+  "category": "food",
+  "approx": true,
+  "note": "Mexican restaurant that served downtown Palo Alto for a quarter-century before closing in the last week of November 1994; All Seasons Chinese Restaurant then moved into its space at 423 University Ave.",
+  "lat": 37.4475638,
+  "lng": -122.1603502,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://www.paloaltoonline.com/morgue/restaurants/1994_Oct_21.tidbits.html",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/morgue/restaurants/1995_Jan_20.EATOUT20.html",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
+  "name": "Nouveau Trattoria",
+  "address": "541 Bryant St",
+  "start": 1993,
+  "end": 2003,
+  "category": "food",
+  "approx": true,
+  "note": "Franco-Italian trattoria run by chef-owner Annie Nunan, a reincarnation of the old Trattoria Romana, with live jazz nightly and family-style Basque dinners; reviewed in April 1993 and still going in 1999, it was renamed Annie's in 2003.",
+  "lat": 37.4454776,
+  "lng": -122.1606971,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://www.paloaltoonline.com/morgue/2003/2003_09_03.verona03mb.html",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/morgue/restaurants/1994_Jun_24.mini_reviews.html",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/morgue/restaurants/1999_Jul_9.EATS9.html",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
+  "name": "Theo's",
+  "address": "546 University Ave",
+  "start": 1984,
+  "end": 1995,
+  "category": "food",
+  "approx": true,
+  "note": "Seafood restaurant, a Palo Alto institution for 11 years and possibly the city's first pink, chrome and cane-back-chair restaurant; owner Michael Aroner closed it in October 1995 and reopened the space as the Mystic Cafe.",
+  "lat": 37.4488318,
+  "lng": -122.1583441,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://www.paloaltoonline.com/morgue/restaurants/1995_Nov_10.EATOUT10.html",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/morgue/restaurants/2000_Jul_28.EATING28.html",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
+  "name": "Mystic Cafe",
+  "address": "546 University Ave",
+  "start": 1995,
+  "end": 1996,
+  "category": "food",
+  "approx": true,
+  "note": "Quirky multicultural restaurant opened in October 1995 by Theo's owner Michael Aroner in the same space, with live rhythm-and-blues guitar on Saturdays; listed at this address through September 1996, and Crescent Park Grill was there by 1997.",
+  "lat": 37.4488318,
+  "lng": -122.1583441,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://www.paloaltoonline.com/morgue/listings/1996_Sep_6.entertainment.html",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/morgue/listings/1997_Jul_25.entertainment.html",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/morgue/restaurants/1995_Nov_10.EATOUT10.html",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
+  "name": "Crescent Park Grill",
+  "address": "546 University Ave",
+  "start": 1997,
+  "end": 2000,
+  "category": "food",
+  "approx": true,
+  "note": "Restaurant at 546 University Ave. with live jazz on Wednesday evenings in 1997; it had departed by July 2000, when Perry's opened in the space.",
+  "lat": 37.4488318,
+  "lng": -122.1583441,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://www.paloaltoonline.com/morgue/listings/1997_Jul_25.entertainment.html",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/morgue/restaurants/2000_Jul_28.EATING28.html",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
+  "name": "Bangkok Cuisine",
+  "address": "407 Lytton Ave",
+  "start": 1993,
+  "end": 2001,
+  "category": "food",
+  "approx": true,
+  "note": "Small Thai restaurant on Lytton Avenue, reviewed by the Palo Alto Weekly in December 1993. It was still in the Weekly's restaurant listings in May 2001, and its actual opening and closing years may differ.",
+  "lat": 37.4481658,
+  "lng": -122.1616802,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://www.paloaltoonline.com/morgue/2001/2001_05_11.minis001.html",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/morgue/restaurants/1996_Feb_7.mini_reviews.html",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Nola's",
   "address": "535 Ramona St",
   "start": 1996,
@@ -2736,20 +3372,14 @@
  {
   "name": "Joe & The Juice",
   "address": "240 Hamilton Ave",
-  "start": 2018,
+  "start": 2019,
   "end": null,
   "category": "food",
-  "approx": false,
+  "approx": true,
   "source": "osm",
-  "note": "Open today (cafe). Listed in OpenStreetMap; first mapped in 2019, which is roughly when it opened. Palo Alto Online's Peninsula Foodist reported it opening in 2018.",
+  "note": "Open today (cafe). Listed in OpenStreetMap; first mapped in 2019, which is roughly when it opened.",
   "lat": 37.4443528,
-  "lng": -122.1609464,
-  "links": [
-   {
-    "url": "https://www.paloaltoonline.com/peninsula-foodist/2017/08/03/joe-the-juice-is-headed-to-palo-alto/",
-    "kind": "Article"
-   }
-  ]
+  "lng": -122.1609464
  },
  {
   "name": "Sephora",
@@ -2996,14 +3626,20 @@
  {
   "name": "Joe & The Juice",
   "address": "508 University Ave",
-  "start": 2019,
+  "start": 2018,
   "end": null,
   "category": "food",
-  "approx": true,
+  "approx": false,
   "source": "osm",
-  "note": "Open today (cafe). Listed in OpenStreetMap; first mapped in 2019, which is roughly when it opened.",
+  "note": "Open today (cafe). Listed in OpenStreetMap; first mapped in 2019, which is roughly when it opened. Palo Alto Online's Peninsula Foodist reported it opening in 2018.",
   "lat": 37.4484574,
-  "lng": -122.1588997
+  "lng": -122.1588997,
+  "links": [
+   {
+    "url": "https://www.paloaltoonline.com/peninsula-foodist/2017/08/03/joe-the-juice-is-headed-to-palo-alto/",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "HSBC",
@@ -3464,14 +4100,20 @@
  {
   "name": "Gong Cha",
   "address": "439 Waverley St",
-  "start": 2017,
+  "start": 2015,
   "end": null,
   "category": "food",
-  "approx": true,
+  "approx": false,
   "source": "osm",
-  "note": "Open today (cafe). Listed in OpenStreetMap; first mapped in 2017, which is roughly when it opened.",
+  "note": "Open today (cafe). Listed in OpenStreetMap; first mapped in 2017, which is roughly when it opened. Palo Alto Online's Peninsula Foodist reported it opening in 2015.",
   "lat": 37.4477131,
-  "lng": -122.1607332
+  "lng": -122.1607332,
+  "links": [
+   {
+    "url": "https://www.paloaltoonline.com/peninsula-foodist/2015/01/06/another-milk-tea-chain-setting-up-shop-in-palo-alto/",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Scotty's",
@@ -25077,12 +25719,22 @@
   "address": "565 Bryant St",
   "lat": 37.4453797,
   "lng": -122.1604191,
-  "start": 2013,
-  "end": 2017,
+  "start": 1992,
+  "end": 2012,
   "approx": true,
   "source": "osm-history",
-  "note": "Restaurant. On OpenStreetMap 2013\u20132017; actual years open may differ.",
-  "category": "food"
+  "note": "Burmese and Chinese restaurant opened in 1992 by chef Mike Wong and his wife. Palo Alto Online described the site as Rangoon's former location by August 2012, so it had closed by then.",
+  "category": "food",
+  "links": [
+   {
+    "url": "http://www.paloaltoonline.com/news/2012/08/18/shop-talk-a-bit-about-asian-box",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/morgue/2004/2004_11_26.rangoon26ja.shtml",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Samba Glow",
@@ -25601,28 +26253,6 @@
   "source": "osm-history",
   "note": "Stationery. On OpenStreetMap 2013\u20132016; actual years open may differ.",
   "category": "retail"
- },
- {
-  "name": "Pasta?",
-  "address": "address not listed",
-  "lat": 37.4462184,
-  "lng": -122.160906,
-  "start": 1998,
-  "end": 2013,
-  "approx": false,
-  "source": "osm-history",
-  "note": "Restaurant. On OpenStreetMap 2013\u20132013; actual years open may differ. Palo Alto Online's Peninsula Foodist reported it opening in 1998 and closing in 2013.",
-  "category": "food",
-  "links": [
-   {
-    "url": "https://www.paloaltoonline.com/peninsula-foodist/2014/05/13/figo-shutters-in-downtown-palo-alto/",
-    "kind": "Article"
-   },
-   {
-    "url": "https://www.paloaltoonline.com/san-carlos/2024/08/05/team-behind-palo-altos-terun-and-italico-debuts-impasto-in-san-carlos/",
-    "kind": "Article"
-   }
-  ]
  },
  {
   "name": "Peninsula Beauty",
@@ -27289,6 +27919,28 @@
   "note": "Restaurant. Palo Alto Online's Peninsula Foodist reported it closing in 2014."
  },
  {
+  "name": "Pasta Q",
+  "address": "326 University Ave",
+  "start": 1998,
+  "end": 2013,
+  "category": "food",
+  "approx": false,
+  "source": "news",
+  "lat": 37.4462046,
+  "lng": -122.1609533,
+  "links": [
+   {
+    "url": "https://www.paloaltoonline.com/peninsula-foodist/2014/05/13/figo-shutters-in-downtown-palo-alto/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/san-carlos/2024/08/05/team-behind-palo-altos-terun-and-italico-debuts-impasto-in-san-carlos/",
+    "kind": "Article"
+   }
+  ],
+  "note": "Restaurant. Palo Alto Online's Peninsula Foodist reported it opening in 1998 and closing in 2013."
+ },
+ {
   "name": "Gelataio",
   "address": "121 Lytton Ave",
   "start": 2014,
@@ -27413,24 +28065,6 @@
    }
   ],
   "note": "Panini and coffee cafe that took over the former Lytton Roasting Company corner in 2012; it closed in January 2015 after three years."
- },
- {
-  "name": "Gong Cha",
-  "address": "429 Waverley St",
-  "start": 2015,
-  "end": 2015,
-  "category": "food",
-  "approx": true,
-  "source": "news",
-  "lat": 37.4476333,
-  "lng": -122.1610727,
-  "links": [
-   {
-    "url": "https://www.paloaltoonline.com/peninsula-foodist/2015/01/06/another-milk-tea-chain-setting-up-shop-in-palo-alto/",
-    "kind": "Article"
-   }
-  ],
-  "note": "Milk tea shop. Palo Alto Online's Peninsula Foodist reported it opening in 2015. Later status unknown."
  },
  {
   "name": "B+B",
@@ -27614,14 +28248,14 @@
  },
  {
   "name": "Coupa Cafe",
-  "address": "Ramona St",
+  "address": "111 Lytton Ave",
   "start": 2004,
   "end": 2004,
   "category": "food",
   "approx": true,
   "source": "news",
-  "lat": 37.4455052,
-  "lng": -122.1625455,
+  "lat": 37.4445426,
+  "lng": -122.1652665,
   "links": [
    {
     "url": "https://www.paloaltoonline.com/peninsula-foodist/2016/01/26/now-open-second-coupa-cafe-in-palo-alto/",

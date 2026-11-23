@@ -1,0 +1,162 @@
+{
+  "title": "Waikiki Honolulu",
+  "description": "Slide through time to see which shops, restaurants and theaters stood in Waikiki Honolulu from 1900 to today.",
+  "startYear": 1900,
+  "geocodeSuffix": "Honolulu, Hawaii",
+  "area": {
+    "polygon": [
+      [
+        21.268434,
+        -157.834212
+      ],
+      [
+        21.268434,
+        -157.818788
+      ],
+      [
+        21.282806,
+        -157.818788
+      ],
+      [
+        21.282806,
+        -157.834212
+      ]
+    ]
+  },
+  "map": {
+    "bearing": 0,
+    "bottom": {
+      "name": "",
+      "point": [
+        21.268434,
+        -157.8265
+      ]
+    },
+    "top": {
+      "name": "",
+      "point": [
+        21.282806,
+        -157.8265
+      ]
+    },
+    "mainStreet": {
+      "name": "Kalākaua Avenue",
+      "point": [
+        21.27562,
+        -157.8265
+      ]
+    },
+    "streetLabels": [
+      [
+        "Kalākaua Avenue",
+        21.27571,
+        -157.82606
+      ],
+      [
+        "Kūhiō Avenue",
+        21.27598,
+        -157.82312
+      ],
+      [
+        "Ala Wai Boulevard",
+        21.27908,
+        -157.82285
+      ],
+      [
+        "Kalia Road",
+        21.27991,
+        -157.83309
+      ],
+      [
+        "Monsarrat Avenue",
+        21.26993,
+        -157.82057
+      ],
+      [
+        "Ohua Avenue",
+        21.27445,
+        -157.82205
+      ],
+      [
+        "Saratoga Road",
+        21.28035,
+        -157.83197
+      ],
+      [
+        "Paoakalani Avenue",
+        21.2743,
+        -157.821
+      ],
+      [
+        "Seaside Avenue",
+        21.2804,
+        -157.82693
+      ],
+      [
+        "Uluniu Avenue",
+        21.27585,
+        -157.82435
+      ]
+    ]
+  },
+  "imagery": {
+    "_note": "Satellite/aerial tiles. Check the provider's terms for your use; swap in another XYZ tile URL if needed.",
+    "url": "https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}",
+    "attribution": "Imagery &copy; Esri, Maxar, Earthstar Geographics",
+    "maxNativeZoom": 19
+  },
+  "api": {
+    "url": "https://agenticallymine.com/api/dpa",
+    "contact": false
+  },
+  "github": {
+    "repo": "unotdys/townlapse.org"
+  },
+  "hub": {
+    "name": "Townlapse",
+    "url": "https://townlapse.org/",
+    "slug": "waikikihonolulu"
+  },
+  "streets": [
+    "Kalākaua Avenue",
+    "Kūhiō Avenue",
+    "Ala Wai Boulevard",
+    "Kalia Road",
+    "Monsarrat Avenue",
+    "Ohua Avenue",
+    "Saratoga Road",
+    "Paoakalani Avenue",
+    "Seaside Avenue",
+    "Uluniu Avenue",
+    "Kaʻiulani Avenue",
+    "Kapahulu Avenue",
+    "Lauula Street",
+    "Liliʻuokalani Avenue",
+    "Lewers Street",
+    "Kanekapolei Street",
+    "Walina Street",
+    "Koa Avenue",
+    "Kealohilani Avenue",
+    "Pualani Way",
+    "Royal Hawaiian Avenue",
+    "Lemon Road",
+    "Prince Edward Street",
+    "Kalaimoku Street",
+    "Launiu Street",
+    "Manukai Street",
+    "Waikolu Way",
+    "Beach Walk",
+    "Nohonani Street",
+    "Ainakea Way",
+    "Aloha Drive",
+    "Nahua Street",
+    "Wai Nani Way",
+    "Kaiolu Street",
+    "Cartwright Road",
+    "Makee Road",
+    "Kāneloa Road"
+  ],
+  "city": "Honolulu",
+  "region": "Hawaii",
+  "country": "United States"
+}
