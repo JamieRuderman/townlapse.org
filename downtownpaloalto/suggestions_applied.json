@@ -497,6 +497,15 @@
     "start": 2005,
     "approx": true
    }
+  },
+  {
+   "target": "Oren's Hummus Shop",
+   "target_address": "261 University Ave",
+   "fields": {
+    "note": "Israeli restaurant opened in 2011 by tech entrepreneur Oren Dobronsky and still open today. This was the first location of what became a small Bay Area chain.",
+    "start": 2011,
+    "approx": false
+   }
   }
  ]
 }
