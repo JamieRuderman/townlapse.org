@@ -1248,6 +1248,28 @@
   ]
  },
  {
+  "name": "St. Michael's Alley",
+  "address": "140 Homer Ave",
+  "start": 2009,
+  "end": null,
+  "category": "food",
+  "approx": true,
+  "note": "Long-running Palo Alto restaurant founded as a coffeehouse in 1959. After years at 806 Emerson St, the owners expanded into this larger dining space on Homer Ave in 2009; the 2011 Palo Alto Weekly Best Of lists the Homer Ave address for lunch and dinner, and the restaurant still operates there.",
+  "lat": 37.4414707,
+  "lng": -122.1597604,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://www.opentable.com/r/st-michaels-alley-palo-alto?corrid=6e9b242a-d08f-479f-8f7f-db5508db88bd&avt=eyJ2IjoyLCJtIjoxLCJwIjowLCJzIjowLCJuIjowfQ",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/cover-story/2011/08/19/and-the-winners-are-2/",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Nola's",
   "address": "535 Ramona St",
   "start": 1996,
@@ -2895,14 +2917,20 @@
  {
   "name": "Gong Cha",
   "address": "439 Waverley St",
-  "start": 2017,
+  "start": 2015,
   "end": null,
   "category": "food",
-  "approx": true,
+  "approx": false,
   "source": "osm",
-  "note": "Open today (cafe). Listed in OpenStreetMap; first mapped in 2017, which is roughly when it opened.",
+  "note": "Open today (cafe). Listed in OpenStreetMap; first mapped in 2017, which is roughly when it opened. Palo Alto Online's Peninsula Foodist reported it opening in 2015.",
   "lat": 37.4477131,
-  "lng": -122.1607332
+  "lng": -122.1607332,
+  "links": [
+   {
+    "url": "https://www.paloaltoonline.com/peninsula-foodist/2015/01/06/another-milk-tea-chain-setting-up-shop-in-palo-alto/",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Scotty's",
@@ -26846,24 +26874,6 @@
   "note": "Panini and coffee cafe that took over the former Lytton Roasting Company corner in 2012; it closed in January 2015 after three years."
  },
  {
-  "name": "Gong Cha",
-  "address": "429 Waverley St",
-  "start": 2015,
-  "end": 2015,
-  "category": "food",
-  "approx": true,
-  "source": "news",
-  "lat": 37.4476333,
-  "lng": -122.1610727,
-  "links": [
-   {
-    "url": "https://www.paloaltoonline.com/peninsula-foodist/2015/01/06/another-milk-tea-chain-setting-up-shop-in-palo-alto/",
-    "kind": "Article"
-   }
-  ],
-  "note": "Milk tea shop. Palo Alto Online's Peninsula Foodist reported it opening in 2015. Later status unknown."
- },
- {
   "name": "B+B",
   "address": "420 Ramona St",
   "start": 2015,
@@ -27045,14 +27055,14 @@
  },
  {
   "name": "Coupa Cafe",
-  "address": "111 Lytton Ave",
+  "address": "Ramona St",
   "start": 2004,
   "end": 2004,
   "category": "food",
   "approx": true,
   "source": "news",
-  "lat": 37.4445426,
-  "lng": -122.1652665,
+  "lat": 37.4455052,
+  "lng": -122.1625455,
   "links": [
    {
     "url": "https://www.paloaltoonline.com/peninsula-foodist/2016/01/26/now-open-second-coupa-cafe-in-palo-alto/",

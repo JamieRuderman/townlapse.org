@@ -414,6 +414,19 @@
     "https://www.mv-voice.com/uncategorized/2006/08/04/academic-achievement/",
     "https://www.mv-voice.com/wp-content/uploads/2009/03/2009_03_13.mvv_.section2.pdf"
    ]
+  },
+  {
+   "name": "St. Michael's Alley",
+   "address": "140 Homer Ave",
+   "note": "Long-running Palo Alto restaurant founded as a coffeehouse in 1959. After years at 806 Emerson St, the owners expanded into this larger dining space on Homer Ave in 2009; the 2011 Palo Alto Weekly Best Of lists the Homer Ave address for lunch and dinner, and the restaurant still operates there.",
+   "start": 2009,
+   "end": null,
+   "category": "food",
+   "approx": true,
+   "links": [
+    "https://www.opentable.com/r/st-michaels-alley-palo-alto?corrid=6e9b242a-d08f-479f-8f7f-db5508db88bd&avt=eyJ2IjoyLCJtIjoxLCJwIjowLCJzIjowLCJuIjowfQ",
+    "https://www.paloaltoonline.com/cover-story/2011/08/19/and-the-winners-are-2/"
+   ]
   }
  ],
  "corrections": [
