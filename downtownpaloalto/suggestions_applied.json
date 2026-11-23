@@ -787,6 +787,19 @@
     "https://sirismm.si.edu/EADpdfs/AAA.smitande.pdf",
     "https://www.paloaltoonline.com/morgue/news/1996_Jun_19.SHOP19.html"
    ]
+  },
+  {
+   "name": "Florentine Restaurant and Pasta Market",
+   "address": "560 Waverley St",
+   "note": "Northern Italian restaurant and fresh pasta market, part of a San Jose-based chain owned by the Del Monaco family. Palo Alto Weekly readers voted it Best Pasta in 1994 and 1996; the years shown are the earliest and latest sources found, and it likely operated longer.",
+   "start": 1994,
+   "end": 1996,
+   "category": "food",
+   "approx": true,
+   "links": [
+    "https://www.paloaltoonline.com/morgue/cover/1994_Oct_12.BESTOF94.html",
+    "https://www.paloaltoonline.com/morgue/cover/1996_Jul_31.BESTOF.html"
+   ]
   }
  ],
  "corrections": [
