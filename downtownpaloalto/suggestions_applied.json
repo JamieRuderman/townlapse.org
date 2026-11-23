@@ -904,6 +904,19 @@
     "https://www.paloaltoonline.com/best-of/1995/11/01/best-of-1995/",
     "https://www.paloaltoonline.com/morgue/cover/1994_Oct_12.BESTOF94.html"
    ]
+  },
+  {
+   "name": "Chantilly II",
+   "address": "530 Ramona St",
+   "note": "French and Northern Italian restaurant with a courtyard setting that opened on Ramona Street as Chantilly in 1974 and was called Chantilly II from about 1990. It was popular with tech-industry diners and moved to Redwood City in 1999.",
+   "start": 1990,
+   "end": 1999,
+   "category": "food",
+   "approx": true,
+   "links": [
+    "https://www.paloaltoonline.com/morgue/restaurants/1994_Dec_14.mini_reviews.html",
+    "https://www.paloaltoonline.com/peninsula-foodist/2017/04/06/chantilly-closes-after-43-years/"
+   ]
   }
  ],
  "corrections": [
