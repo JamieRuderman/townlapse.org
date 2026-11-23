@@ -1,1 +1,19 @@
-{"additions": [], "corrections": []}
+{
+ "additions": [],
+ "corrections": [
+  {
+   "target": "Rara",
+   "target_address": "201 South California Ave",
+   "fields": {
+    "note": "Palo Alto's first Nepalese restaurant, which soft-opened in late 2023 and officially opened in November 2023.",
+    "start": 2023,
+    "approx": false,
+    "links": [
+     "https://verdemagazine.com/rara-restaurant-offers-palo-altos-only-nepali-cuisine",
+     "https://whatnow.com/san-francisco/restaurants/rara-palo-altos-first-nepalese-restaurant-is-slated-to-open-this-fall/",
+     "https://www.opentable.com/r/rara-palo-alto"
+    ]
+   }
+  }
+ ]
+}
