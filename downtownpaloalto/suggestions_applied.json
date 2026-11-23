@@ -1578,6 +1578,22 @@
      "https://www.paloaltoonline.com/morgue/page4/1999_Apr_7.TOWN07.html"
     ]
    }
+  },
+  {
+   "target": "Garden Court Hotel",
+   "target_address": "520 Cowper St",
+   "fields": {
+    "note": "62-room Spanish-style boutique hotel that opened in 1986 on the former site of the Cowper Court Apartments. After 35 years as the Garden Court, it was renamed el Prado Hotel in 2021.",
+    "start": 1986,
+    "end": 2021,
+    "approx": false,
+    "links": [
+     "https://pcad.lib.washington.edu/building/24903",
+     "https://www.hotelexecutive.com/newswire/33049",
+     "https://www.paloaltoonline.com/news/2005/11/22/garden-court-hotel-up-for-sale/",
+     "https://www.paloaltoonline.com/news/2021/03/07/end-of-an-era-garden-court-hotel-now-el-prado-hotel/"
+    ]
+   }
   }
  ]
 }
