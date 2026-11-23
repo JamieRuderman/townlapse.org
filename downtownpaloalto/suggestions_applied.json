@@ -1447,6 +1447,19 @@
      "https://www.paloaltoonline.com/blogs/2015/11/04/shoji-sushi-replaces-sushi-tomo-in-downtown-palo-alto/"
     ]
    }
+  },
+  {
+   "target": "The Wine Room",
+   "target_address": "520 Ramona St",
+   "fields": {
+    "note": "Wine bar that opened in November 2007 in the 1925 Pedro de Lemos building first used by the Gotham Shop, taking over the former BayLeaf Cafe space. Its sign is an updated version of the Gotham Shop's original design.",
+    "start": 2007,
+    "approx": false,
+    "links": [
+     "https://www.paloaltoonline.com/news/2008/01/30/shop-talk-38/",
+     "https://www.paloaltoonline.com/uncategorized/2008/03/07/the-jewel-of-ramona-street/"
+    ]
+   }
   }
  ]
 }
