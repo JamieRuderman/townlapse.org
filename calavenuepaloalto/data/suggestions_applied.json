@@ -14,6 +14,21 @@
      "https://www.opentable.com/r/rara-palo-alto"
     ]
    }
+  },
+  {
+   "target": "Homma\u2019s Brown Rice Sushi",
+   "target_address": "address not listed",
+   "fields": {
+    "address": "2363 Birch St",
+    "note": "Masakazu Homma's small sushi shop served only brown-rice sushi for about 30 years. It closed on Aug. 31, 2016 when he retired.",
+    "start": 1986,
+    "end": 2016,
+    "approx": true,
+    "links": [
+     "https://n2v.paloaltoonline.com/blogs/p/2018/02/27/palo-alto-brown-rice-sushi-restaurant-replaces-hommas",
+     "https://www.paloaltoonline.com/blogs/2016/08/25/palo-alto-hommas-brown-rice-sushi-to-close-aug-31/"
+    ]
+   }
   }
  ]
 }
