@@ -820,6 +820,16 @@
     "end": 1969,
     "approx": true
    }
+  },
+  {
+   "target": "The Cowper Inn",
+   "target_address": "701 Cowper St",
+   "fields": {
+    "address": "705 Cowper St",
+    "note": "Bed and breakfast in two restored 1890s houses at 705 and 711 Cowper St, at Forest Ave, opened around 1986 and still operating. The same owners ran it for about 20 years and put it up for sale in 2006.",
+    "start": 1986,
+    "approx": true
+   }
   }
  ]
 }
