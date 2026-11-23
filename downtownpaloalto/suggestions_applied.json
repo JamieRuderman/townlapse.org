@@ -1256,6 +1256,19 @@
      "https://www.patagonia.com/stores/ca/palo-alto/525-alma-street/store_paloalto.html"
     ]
    }
+  },
+  {
+   "target": "NY Pizza",
+   "target_address": "325 Hamilton Ave",
+   "fields": {
+    "note": "Small New York-style pizzeria selling slices and whole pies, open since about 1990. A 2003 Palo Alto Weekly review described the shop as barely 15 feet wide, and it is still open at the same address.",
+    "start": 1990,
+    "approx": true,
+    "links": [
+     "https://www.paloaltoonline.com/morgue/2003/2003_05_16.pizza16.html",
+     "https://www.restaurantji.com/ca/palo-alto/new-york-pizza-/"
+    ]
+   }
   }
  ]
 }
