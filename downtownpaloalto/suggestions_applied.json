@@ -479,6 +479,15 @@
     "end": 2026,
     "approx": true
    }
+  },
+  {
+   "target": "Bank of America",
+   "target_address": "530 Lytton Ave",
+   "fields": {
+    "note": "Bank branch in a building put up for Bank of America around 1974. The bank moved here in 1976 from 251 University Ave, where its predecessor, First National Bank, had merged with the Bank of Italy in 1928.",
+    "start": 1976,
+    "approx": false
+   }
   }
  ]
 }

@@ -1794,12 +1794,12 @@
  {
   "name": "Bank of America",
   "address": "530 Lytton Ave",
-  "start": 2013,
+  "start": 1976,
   "end": null,
   "category": "services",
-  "approx": true,
+  "approx": false,
   "source": "osm",
-  "note": "Open today (bank). Listed in OpenStreetMap; on the map since at least 2013; it may be much older.",
+  "note": "Bank branch in a building put up for Bank of America around 1974. The bank moved here in 1976 from 251 University Ave, where its predecessor, First National Bank, had merged with the Bank of Italy in 1928.",
   "lat": 37.4492706,
   "lng": -122.1599215
  },
