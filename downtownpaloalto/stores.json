@@ -1941,12 +1941,12 @@
  {
   "name": "Gong Cha",
   "address": "439 Waverley St",
-  "start": 2017,
+  "start": 2015,
   "end": null,
   "category": "food",
-  "approx": true,
+  "approx": false,
   "source": "osm",
-  "note": "Open today (cafe). Listed in OpenStreetMap; first mapped in 2017, which is roughly when it opened.",
+  "note": "Open today (cafe). Listed in OpenStreetMap; first mapped in 2017, which is roughly when it opened. Palo Alto Online's Peninsula Foodist reported it opening in 2015.",
   "lat": 37.4477131,
   "lng": -122.1607332
  },
@@ -2972,12 +2972,12 @@
  {
   "name": "Whole Foods Market",
   "address": "774 Emerson St",
-  "start": 2019,
+  "start": 1989,
   "end": null,
   "category": "retail",
-  "approx": true,
+  "approx": false,
   "source": "osm",
-  "note": "Open today (supermarket). Listed in OpenStreetMap; first mapped in 2019, which is roughly when it opened.",
+  "note": "Natural foods supermarket that opened in 1989 in a remodeled existing building. It was the chain's first store on the West Coast and is still open.",
   "lat": 37.442385,
   "lng": -122.1596011
  },
@@ -25446,18 +25446,6 @@
   "note": "Panini cafe. Palo Alto Online's Peninsula Foodist reported it opening in 2011 and closing in 2018."
  },
  {
-  "name": "Gong Cha",
-  "address": "429 Waverley St",
-  "start": 2015,
-  "end": 2015,
-  "category": "food",
-  "approx": true,
-  "source": "news",
-  "lat": 37.4476333,
-  "lng": -122.1610727,
-  "note": "Milk tea shop. Palo Alto Online's Peninsula Foodist reported it opening in 2015. Later status unknown."
- },
- {
   "name": "B+B",
   "address": "420 Ramona St",
   "start": 2015,
@@ -25579,14 +25567,14 @@
  },
  {
   "name": "Coupa Cafe",
-  "address": "111 Lytton Ave",
+  "address": "Ramona St",
   "start": 2004,
   "end": 2004,
   "category": "food",
   "approx": true,
   "source": "news",
-  "lat": 37.4445426,
-  "lng": -122.1652665,
+  "lat": 37.4455052,
+  "lng": -122.1625455,
   "note": "Cafe. Palo Alto Online's Peninsula Foodist reported it opening in 2004. Later status unknown."
  },
  {

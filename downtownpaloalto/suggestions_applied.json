@@ -160,6 +160,15 @@
     "end": 1994,
     "approx": true
    }
+  },
+  {
+   "target": "Whole Foods Market",
+   "target_address": "774 Emerson St",
+   "fields": {
+    "note": "Natural foods supermarket that opened in 1989 in a remodeled existing building. It was the chain's first store on the West Coast and is still open.",
+    "start": 1989,
+    "approx": false
+   }
   }
  ]
 }
