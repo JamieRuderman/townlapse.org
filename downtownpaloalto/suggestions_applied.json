@@ -983,6 +983,20 @@
     "https://www.paloaltoonline.com/morgue/restaurants/1994_Oct_21.tidbits.html",
     "https://www.paloaltoonline.com/morgue/restaurants/1995_Jan_20.EATOUT20.html"
    ]
+  },
+  {
+   "name": "Nouveau Trattoria",
+   "address": "541 Bryant St",
+   "note": "Franco-Italian trattoria run by chef-owner Annie Nunan, a reincarnation of the old Trattoria Romana, with live jazz nightly and family-style Basque dinners; reviewed in April 1993 and still going in 1999, it was renamed Annie's in 2003.",
+   "start": 1993,
+   "end": 2003,
+   "category": "food",
+   "approx": true,
+   "links": [
+    "https://www.paloaltoonline.com/morgue/2003/2003_09_03.verona03mb.html",
+    "https://www.paloaltoonline.com/morgue/restaurants/1994_Jun_24.mini_reviews.html",
+    "https://www.paloaltoonline.com/morgue/restaurants/1999_Jul_9.EATS9.html"
+   ]
   }
  ],
  "corrections": [
