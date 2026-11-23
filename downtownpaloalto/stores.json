@@ -2131,14 +2131,14 @@
   "lng": -122.161288
  },
  {
-  "name": "Speedometer",
+  "name": "Palo Alto Speedometer",
   "address": "718 Emerson St",
-  "start": 2013,
+  "start": 1957,
   "end": null,
-  "category": "retail",
+  "category": "services",
   "approx": true,
   "source": "osm",
-  "note": "Open today (car repair). Listed in OpenStreetMap; on the map since at least 2013; it may be much older.",
+  "note": "Repair and restoration shop for car speedometers, tachometers, gauges and clocks, still open today. The business says it has been on Emerson Street since 1957.",
   "lat": 37.4426876,
   "lng": -122.1600623
  },
@@ -25266,14 +25266,14 @@
  },
  {
   "name": "Coupa Cafe",
-  "address": "Ramona St",
+  "address": "111 Lytton Ave",
   "start": 2004,
   "end": 2004,
   "category": "food",
   "approx": true,
   "source": "news",
-  "lat": 37.4455052,
-  "lng": -122.1625455,
+  "lat": 37.4445426,
+  "lng": -122.1652665,
   "note": "Cafe. Palo Alto Online's Peninsula Foodist reported it opening in 2004. Later status unknown."
  },
  {

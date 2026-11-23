@@ -543,6 +543,17 @@
     "start": 2005,
     "approx": true
    }
+  },
+  {
+   "target": "Speedometer",
+   "target_address": "718 Emerson St",
+   "fields": {
+    "name": "Palo Alto Speedometer",
+    "note": "Repair and restoration shop for car speedometers, tachometers, gauges and clocks, still open today. The business says it has been on Emerson Street since 1957.",
+    "start": 1957,
+    "category": "services",
+    "approx": true
+   }
   }
  ]
 }
