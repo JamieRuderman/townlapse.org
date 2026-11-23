@@ -164,6 +164,15 @@
    "end": 1965,
    "category": "landmark",
    "approx": true
+  },
+  {
+   "name": "Vivre",
+   "address": "611 Emerson St",
+   "note": "Fitness and wellness studio on Emerson Street that offered yoga, cardio, Pilates, childcare and massage. It opened in May 2003 and closed around 2018; the street number is reported but not confirmed.",
+   "start": 2003,
+   "end": 2018,
+   "category": "fitness",
+   "approx": true
   }
  ],
  "corrections": [
