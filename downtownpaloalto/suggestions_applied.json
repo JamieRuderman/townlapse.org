@@ -77,7 +77,7 @@
   {
    "name": "Fran's Market",
    "address": "499 Lytton Ave",
-   "note": "Longtime neighborhood market at Lytton and Gilman; the space became Mademoiselle Colette bakery in 2016\u201317. Opening year unknown; Fran's Smoke Shop was listed next door at 497 Lytton in the 1950s.",
+   "note": "Longtime neighborhood market at Lytton and Gilman; the space became Mademoiselle Colette bakery in 2016–17. Opening year unknown; Fran's Smoke Shop was listed next door at 497 Lytton in the 1950s.",
    "start": null,
    "end": 2016,
    "category": "retail",
@@ -86,37 +86,10 @@
   {
    "name": "The Victorian on Lytton",
    "address": "555 Lytton Ave",
-   "note": "Bed-and-breakfast inn in the 1896 Queen Anne-style Hannah Clapp House, which was converted to an inn in 1985\u201386. It closed around 2006 after water damage, and the house later held a women's resource center.",
+   "note": "Bed-and-breakfast inn in the 1896 Queen Anne-style Hannah Clapp House, which was converted to an inn in 1985–86. It closed around 2006 after water damage, and the house later held a women's resource center.",
    "start": 1986,
    "end": 2006,
    "category": "hotel",
-   "approx": true
-  },
-  {
-   "name": "Teknekron Software Systems",
-   "address": "530 Lytton Ave",
-   "note": "Software company that built the Teknekron Information Bus, trading-room middleware that later became the basis of TIBCO. Its offices were in Suite 301 in the early 1990s, before Reuters bought it and it moved to Porter Drive.",
-   "start": 1990,
-   "end": 1993,
-   "category": "tech",
-   "approx": true
-  },
-  {
-   "name": "Voyant International Corporation",
-   "address": "530 Lytton Ave",
-   "note": "Media and technology holding company, formerly called Zeros & Ones, Inc., that took the name Voyant International in 2007. SEC filings list its offices on the second floor here until it moved to Mountain View in spring 2008.",
-   "start": 2007,
-   "end": 2008,
-   "category": "tech",
-   "approx": true
-  },
-  {
-   "name": "Berggi",
-   "address": "530 Lytton Ave",
-   "note": "Mobile email and messaging startup founded in 2004 that moved its headquarters from Houston to Palo Alto in February 2008. Its offices were on the second floor of this building.",
-   "start": 2008,
-   "end": 2009,
-   "category": "tech",
    "approx": true
   }
  ],
@@ -128,7 +101,7 @@
     "start": 2008,
     "end": 2023,
     "approx": true,
-    "note": "Starbucks at 374\u2013376 University Ave, open here from about 2008 until April 30, 2023, when it moved to 151 University."
+    "note": "Starbucks at 374–376 University Ave, open here from about 2008 until April 30, 2023, when it moved to 151 University."
    }
   },
   {
