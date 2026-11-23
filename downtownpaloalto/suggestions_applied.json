@@ -272,6 +272,16 @@
     "note": "Bowling alley, described as Palo Alto's longest-lasting, in a 1926 building that runs through to 734 Ramona St, entered from Emerson Street. It opened in the early 1940s after a 1940 remodel and closed in 1975, when Baker Graphics took over the space.",
     "approx": true
    }
+  },
+  {
+   "target": "Nola's",
+   "target_address": "near Ramona St",
+   "fields": {
+    "address": "535 Ramona St",
+    "note": "New Orleans-themed restaurant and bar in a Spanish-style courtyard building on Ramona Street, open since June 1996 and still operating.",
+    "start": 1996,
+    "approx": false
+   }
   }
  ]
 }
