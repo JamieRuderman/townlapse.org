@@ -1513,12 +1513,12 @@
  {
   "name": "Joe & The Juice",
   "address": "240 Hamilton Ave",
-  "start": 2018,
+  "start": 2019,
   "end": null,
   "category": "food",
-  "approx": false,
+  "approx": true,
   "source": "osm",
-  "note": "Open today (cafe). Listed in OpenStreetMap; first mapped in 2019, which is roughly when it opened. Palo Alto Online's Peninsula Foodist reported it opening in 2018.",
+  "note": "Open today (cafe). Listed in OpenStreetMap; first mapped in 2019, which is roughly when it opened.",
   "lat": 37.4443528,
   "lng": -122.1609464
  },
@@ -1719,12 +1719,12 @@
  {
   "name": "Joe & The Juice",
   "address": "508 University Ave",
-  "start": 2019,
+  "start": 2018,
   "end": null,
   "category": "food",
-  "approx": true,
+  "approx": false,
   "source": "osm",
-  "note": "Open today (cafe). Listed in OpenStreetMap; first mapped in 2019, which is roughly when it opened.",
+  "note": "Open today (cafe). Listed in OpenStreetMap; first mapped in 2019, which is roughly when it opened. Palo Alto Online's Peninsula Foodist reported it opening in 2018.",
   "lat": 37.4484574,
   "lng": -122.1588997
  },
@@ -2060,12 +2060,12 @@
  {
   "name": "Gong Cha",
   "address": "439 Waverley St",
-  "start": 2017,
+  "start": 2015,
   "end": null,
   "category": "food",
-  "approx": true,
+  "approx": false,
   "source": "osm",
-  "note": "Open today (cafe). Listed in OpenStreetMap; first mapped in 2017, which is roughly when it opened.",
+  "note": "Open today (cafe). Listed in OpenStreetMap; first mapped in 2017, which is roughly when it opened. Palo Alto Online's Peninsula Foodist reported it opening in 2015.",
   "lat": 37.4477131,
   "lng": -122.1607332
  },
@@ -25145,18 +25145,6 @@
   "note": "Panini and coffee cafe that took over the former Lytton Roasting Company corner in 2012; it closed in January 2015 after three years."
  },
  {
-  "name": "Gong Cha",
-  "address": "429 Waverley St",
-  "start": 2015,
-  "end": 2015,
-  "category": "food",
-  "approx": true,
-  "source": "news",
-  "lat": 37.4476333,
-  "lng": -122.1610727,
-  "note": "Milk tea shop. Palo Alto Online's Peninsula Foodist reported it opening in 2015. Later status unknown."
- },
- {
   "name": "B+B",
   "address": "420 Ramona St",
   "start": 2015,
@@ -25303,14 +25291,14 @@
  {
   "name": "Selix Formal Wear",
   "address": "164 University Ave",
-  "start": 2016,
-  "end": 2016,
-  "category": "food",
+  "start": 2015,
+  "end": 2015,
+  "category": "retail",
   "approx": true,
   "source": "news",
   "lat": 37.4442704,
   "lng": -122.1630543,
-  "note": "Restaurant. Palo Alto Online's Peninsula Foodist reported it closing in 2016."
+  "note": "Tuxedo and formal wear shop, a few doors from its 1959\u20131963 location at 158 University Ave. It closed in February 2015 when the Selix chain went bankrupt and shut all six stores; when it moved here is unknown."
  },
  {
   "name": "Les Bizous",

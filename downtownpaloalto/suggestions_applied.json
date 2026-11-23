@@ -755,6 +755,17 @@
     "end": 2006,
     "approx": false
    }
+  },
+  {
+   "target": "Selix Formal Wear",
+   "target_address": "164 University Ave",
+   "fields": {
+    "note": "Tuxedo and formal wear shop, a few doors from its 1959\u20131963 location at 158 University Ave. It closed in February 2015 when the Selix chain went bankrupt and shut all six stores; when it moved here is unknown.",
+    "start": 2015,
+    "end": 2015,
+    "category": "retail",
+    "approx": true
+   }
   }
  ]
 }
