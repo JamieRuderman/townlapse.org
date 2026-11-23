@@ -25621,12 +25621,22 @@
   "address": "565 Bryant St",
   "lat": 37.4453797,
   "lng": -122.1604191,
-  "start": 2013,
-  "end": 2017,
+  "start": 1992,
+  "end": 2012,
   "approx": true,
   "source": "osm-history",
-  "note": "Restaurant. On OpenStreetMap 2013\u20132017; actual years open may differ.",
-  "category": "food"
+  "note": "Burmese and Chinese restaurant opened in 1992 by chef Mike Wong and his wife. Palo Alto Online described the site as Rangoon's former location by August 2012, so it had closed by then.",
+  "category": "food",
+  "links": [
+   {
+    "url": "http://www.paloaltoonline.com/news/2012/08/18/shop-talk-a-bit-about-asian-box",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/morgue/2004/2004_11_26.rangoon26ja.shtml",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Samba Glow",
@@ -28158,14 +28168,14 @@
  },
  {
   "name": "Coupa Cafe",
-  "address": "Ramona St",
+  "address": "111 Lytton Ave",
   "start": 2004,
   "end": 2004,
   "category": "food",
   "approx": true,
   "source": "news",
-  "lat": 37.4455052,
-  "lng": -122.1625455,
+  "lat": 37.4445426,
+  "lng": -122.1652665,
   "links": [
    {
     "url": "https://www.paloaltoonline.com/peninsula-foodist/2016/01/26/now-open-second-coupa-cafe-in-palo-alto/",

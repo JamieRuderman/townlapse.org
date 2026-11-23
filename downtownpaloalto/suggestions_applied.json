@@ -1987,6 +1987,20 @@
      "https://www.paloaltoonline.com/news/2012/10/07/shop-talk-downtown-sushi-restaurant-miyake-closes/"
     ]
    }
+  },
+  {
+   "target": "Rangoon",
+   "target_address": "565 Bryant St",
+   "fields": {
+    "note": "Burmese and Chinese restaurant opened in 1992 by chef Mike Wong and his wife. Palo Alto Online described the site as Rangoon's former location by August 2012, so it had closed by then.",
+    "start": 1992,
+    "end": 2012,
+    "approx": true,
+    "links": [
+     "http://www.paloaltoonline.com/news/2012/08/18/shop-talk-a-bit-about-asian-box",
+     "https://www.paloaltoonline.com/morgue/2004/2004_11_26.rangoon26ja.shtml"
+    ]
+   }
   }
  ]
 }
