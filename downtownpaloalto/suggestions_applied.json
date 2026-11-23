@@ -690,6 +690,15 @@
     "start": 2009,
     "approx": false
    }
+  },
+  {
+   "target": "Reed Electric Co",
+   "target_address": "621 High St",
+   "fields": {
+    "note": "Family-run electrical shop in the 1897 house at 621 High St, the Reed family's home and shop from about the 1930s. It was listed in city directories from 1939, and the city's historic buildings inventory notes it was still an electric company in 1985.",
+    "end": 1985,
+    "approx": true
+   }
   }
  ]
 }
