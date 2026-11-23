@@ -10,12 +10,6 @@
    "repo": "https://github.com/unotdys/townlapse.org",
    "image": "/img/map.jpg",
    "blurb": "1900 to today. More than 2,000 places, from the 1904 city directory and decades of phone books to today's shops, plus the ones neighbors remembered."
-  },
-  {
-   "slug": "routertest",
-   "name": "Router test",
-   "url": "https://example.com/townmap/",
-   "blurb": "temporary"
   }
  ]
 }
