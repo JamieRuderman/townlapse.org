@@ -661,6 +661,22 @@
     "https://www.paloaltoonline.com/news/2014/07/21/shoptalk-cpk-palo-alto-grill-close-longtime-florist-loses-lease/",
     "https://www.paloaltoonline.com/uncategorized/2014/08/22/letters-to-the-editor-44/"
    ]
+  },
+  {
+   "name": "Avenidas",
+   "address": "450 Bryant St",
+   "note": "Senior services center in the city-owned 1927 Birge Clark former police and fire station, opened around 1977\u201378 by the Senior Coordinating Council, which later took the name Avenidas. The building was renovated and expanded, reopening in 2019.",
+   "start": 1977,
+   "end": null,
+   "category": "services",
+   "approx": true,
+   "links": [
+    "https://www.avenidas.org/about/history/",
+    "https://www.cityofpaloalto.org/files/assets/public/agendas-minutes-reports/reports/city-manager-reports-cmrs/year-archive/2018/8780.pdf",
+    "https://www.paloalto.gov/files/assets/public/v/1/agendas-minutes-reports/reports/city-manager-reports-cmrs/year-archive/2014/id-5352-erin.pdf",
+    "https://www.paloaltoonline.com/morgue/news/1995_Aug_16.SENIOR.html",
+    "https://www.paloaltoonline.com/news/2019/03/01/senior-services-nonprofit-avenidas-debuts-new-center/"
+   ]
   }
  ],
  "corrections": [
