@@ -726,6 +726,15 @@
     "end": 1995,
     "approx": true
    }
+  },
+  {
+   "target": "Elite Cleaners and Tailors",
+   "target_address": "468 University Ave",
+   "fields": {
+    "note": "Dry cleaner in the 460-468 University Ave building, a tenant there by 1997 that returned after that year's renovation and is still open. A dry cleaner with the same name was listed at 464 University Ave from 1944 to 1963 and may be the same business.",
+    "start": 1997,
+    "approx": true
+   }
   }
  ]
 }
