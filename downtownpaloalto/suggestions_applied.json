@@ -1362,6 +1362,20 @@
      "https://www.paloaltoonline.com/morgue/listings/1994_Jan_21.entertainment.html"
     ]
    }
+  },
+  {
+   "target": "Campo 185",
+   "target_address": "185 University Ave",
+   "fields": {
+    "note": "Farm-to-table Italian restaurant, also called Campo Pizzeria, that opened in December 2012 in the former Lavanda space at University and Emerson. It closed in 2013 after about nine months, and its owners then opened Sam's Chowder House in the space.",
+    "start": 2012,
+    "end": 2013,
+    "approx": false,
+    "links": [
+     "https://palyvoice.com/51643/reviews/review-campo-pizzeria-adheres-to-italian-style-segue-corso-giusto/",
+     "https://www.paloaltoonline.com/news/2014/09/12/key-ingredient-for-opening-a-restaurant-in-palo-alto-patience-2/"
+    ]
+   }
   }
  ]
 }
