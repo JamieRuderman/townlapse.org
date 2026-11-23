@@ -94,6 +94,15 @@
     "approx": false,
     "note": "Starbucks at University & High, opened in 2023 in the former Lemonade space after moving from 376 University."
    }
+  },
+  {
+   "target": "Wells Fargo",
+   "target_address": "400 Hamilton Ave",
+   "fields": {
+    "note": "Bank branch, still open today. It was open by the mid-1990s and took in customers from First Interstate's closing 525 University Ave branch in 1996; it may be older.",
+    "start": 1995,
+    "approx": true
+   }
   }
  ]
 }
