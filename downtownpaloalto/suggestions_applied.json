@@ -699,6 +699,15 @@
     "end": 1985,
     "approx": true
    }
+  },
+  {
+   "target": "Rita on Ramona",
+   "target_address": "536 Ramona St",
+   "fields": {
+    "note": "Specialty shop in the arcade building at 532-536 Ramona. It appears in city directories from 1951 to 1963 and was still listed as a tenant in the building's 1985 historic inventory.",
+    "end": 1985,
+    "approx": true
+   }
   }
  ]
 }
