@@ -1308,6 +1308,21 @@
      "https://www.restaurantji.com/ca/palo-alto/new-york-pizza-/"
     ]
    }
+  },
+  {
+   "target": "Empire Grill & Tap Room",
+   "target_address": "address not listed",
+   "fields": {
+    "address": "651 Emerson St",
+    "note": "Restaurant and bar that was a downtown fixture for about 21 years before closing in April 2013. Pizzeria Delfina later moved into the space.",
+    "start": 1992,
+    "end": 2013,
+    "approx": true,
+    "links": [
+     "https://www.paloaltoonline.com/news/2013/04/12/after-two-decades-empire-taps-out/",
+     "https://www.paloaltoonline.com/uncategorized/2013/06/07/shop-talk-134/"
+    ]
+   }
   }
  ]
 }
