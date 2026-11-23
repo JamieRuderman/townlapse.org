@@ -441,6 +441,15 @@
     "start": 2004,
     "approx": true
    }
+  },
+  {
+   "target": "President Barber Shop",
+   "target_address": "490 University Ave",
+   "fields": {
+    "note": "Long-running barbershop in the Hotel President building, still open today. A 2004 Palo Alto Weekly profile traced its University Avenue roots to the late 1920s, and one co-owner ran it from 1960 to 2004.",
+    "start": 1960,
+    "approx": true
+   }
   }
  ]
 }

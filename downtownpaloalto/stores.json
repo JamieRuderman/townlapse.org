@@ -1622,12 +1622,12 @@
  {
   "name": "President Barber Shop",
   "address": "490 University Ave",
-  "start": 2013,
+  "start": 1960,
   "end": null,
   "category": "services",
   "approx": true,
   "source": "osm",
-  "note": "Open today (hairdresser). Listed in OpenStreetMap; on the map since at least 2013; it may be much older.",
+  "note": "Long-running barbershop in the Hotel President building, still open today. A 2004 Palo Alto Weekly profile traced its University Avenue roots to the late 1920s, and one co-owner ran it from 1960 to 2004.",
   "lat": 37.4480832,
   "lng": -122.1592967
  },
@@ -25266,14 +25266,14 @@
  },
  {
   "name": "Coupa Cafe",
-  "address": "Ramona St",
+  "address": "111 Lytton Ave",
   "start": 2004,
   "end": 2004,
   "category": "food",
   "approx": true,
   "source": "news",
-  "lat": 37.4455052,
-  "lng": -122.1625455,
+  "lat": 37.4445426,
+  "lng": -122.1652665,
   "note": "Cafe. Palo Alto Online's Peninsula Foodist reported it opening in 2004. Later status unknown."
  },
  {
