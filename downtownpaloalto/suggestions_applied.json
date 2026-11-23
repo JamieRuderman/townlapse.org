@@ -957,6 +957,19 @@
     "https://www.metroactive.com/papers/metro/05.30.96/elbe-9622.html",
     "https://www.paloaltoonline.com/uncategorized/2010/02/12/shop-talk-66/"
    ]
+  },
+  {
+   "name": "Nataraja",
+   "address": "117 University Ave",
+   "note": "Indian restaurant known for mesquite grilling and Indian breads, listed at this address in the Palo Alto Weekly's 1994 restaurant guides, which called it a local institution. Its actual opening and closing years are unknown and were likely earlier and later.",
+   "start": 1994,
+   "end": 1994,
+   "category": "food",
+   "approx": true,
+   "links": [
+    "https://www.paloaltoonline.com/morgue/restaurants/1994_Jan_28.mini_reviews.html",
+    "https://www.paloaltoonline.com/morgue/restaurants/1994_Sep_7.mini_reviews.html"
+   ]
   }
  ],
  "corrections": [
