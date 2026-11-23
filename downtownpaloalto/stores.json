@@ -795,6 +795,18 @@
   "source": "suggestion"
  },
  {
+  "name": "FORM Fitness",
+  "address": "445 Bryant St",
+  "start": 2005,
+  "end": 2022,
+  "category": "fitness",
+  "approx": true,
+  "note": "Downtown gym founded in 2003 on Forest Ave; won the city lease for the new building at 445 Bryant St in 2004 and moved there in 2005, operating for nearly two decades until it was evicted in 2022 after falling behind on rent.",
+  "lat": 37.44651,
+  "lng": -122.16203,
+  "source": "suggestion"
+ },
+ {
   "name": "Nola's",
   "address": "535 Ramona St",
   "start": 1996,
@@ -2072,12 +2084,12 @@
  {
   "name": "Gong Cha",
   "address": "439 Waverley St",
-  "start": 2017,
+  "start": 2015,
   "end": null,
   "category": "food",
-  "approx": true,
+  "approx": false,
   "source": "osm",
-  "note": "Open today (cafe). Listed in OpenStreetMap; first mapped in 2017, which is roughly when it opened.",
+  "note": "Open today (cafe). Listed in OpenStreetMap; first mapped in 2017, which is roughly when it opened. Palo Alto Online's Peninsula Foodist reported it opening in 2015.",
   "lat": 37.4477131,
   "lng": -122.1607332
  },
@@ -25155,18 +25167,6 @@
   "lat": 37.4480623,
   "lng": -122.1612484,
   "note": "Panini and coffee cafe that took over the former Lytton Roasting Company corner in 2012; it closed in January 2015 after three years."
- },
- {
-  "name": "Gong Cha",
-  "address": "429 Waverley St",
-  "start": 2015,
-  "end": 2015,
-  "category": "food",
-  "approx": true,
-  "source": "news",
-  "lat": 37.4476333,
-  "lng": -122.1610727,
-  "note": "Milk tea shop. Palo Alto Online's Peninsula Foodist reported it opening in 2015. Later status unknown."
  },
  {
   "name": "B+B",

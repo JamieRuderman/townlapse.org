@@ -218,6 +218,15 @@
    "end": null,
    "category": "fitness",
    "approx": true
+  },
+  {
+   "name": "FORM Fitness",
+   "address": "445 Bryant St",
+   "note": "Downtown gym founded in 2003 on Forest Ave; won the city lease for the new building at 445 Bryant St in 2004 and moved there in 2005, operating for nearly two decades until it was evicted in 2022 after falling behind on rent.",
+   "start": 2005,
+   "end": 2022,
+   "category": "fitness",
+   "approx": true
   }
  ],
  "corrections": [
