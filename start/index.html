@@ -153,6 +153,7 @@ function choose(c, li) {
     map = L.map("map", { zoomControl: true, attributionControl: true });
     L.tileLayer("https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}", { maxZoom: 19, attribution: "Imagery © Esri, Maxar, Earthstar Geographics" }).addTo(map);
   }
+  map.setView(place.center, 15);   // Leaflet needs a view before shapes can be added
   if (marker) marker.remove(); if (circle) circle.remove();
   marker = L.marker(place.center, { draggable: true, title: "Middle of the area" }).addTo(map);
   circle = L.circle(place.center, { radius: +$("radius").value * 1000, color: "#EBC55A", weight: 2, fillOpacity: .08 }).addTo(map);
