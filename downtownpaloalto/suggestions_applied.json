@@ -399,6 +399,21 @@
     "https://www.pastheritage.org/Articles/WomansClubMF.html",
     "https://www.womansclubofpaloalto.org/"
    ]
+  },
+  {
+   "name": "California Yoga Center",
+   "address": "541 Cowper St",
+   "note": "Yoga studio with classes from beginner to advanced, listed at this address in local guides from 2006 and 2011. The studio later moved to Mountain View, and its years at this address may have been longer.",
+   "start": 2006,
+   "end": 2011,
+   "category": "fitness",
+   "approx": true,
+   "links": [
+    "https://bayareaolderadults.org/yoga/palo-alto/california-yoga-center-pa",
+    "https://www.mv-voice.com/news/2011/03/11/academic-achievement-8/",
+    "https://www.mv-voice.com/uncategorized/2006/08/04/academic-achievement/",
+    "https://www.mv-voice.com/wp-content/uploads/2009/03/2009_03_13.mvv_.section2.pdf"
+   ]
   }
  ],
  "corrections": [
