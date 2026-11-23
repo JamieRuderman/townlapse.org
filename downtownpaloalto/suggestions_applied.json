@@ -572,6 +572,15 @@
     "start": 2003,
     "approx": true
    }
+  },
+  {
+   "target": "The Core",
+   "target_address": "644 Emerson St",
+   "fields": {
+    "note": "Shoe store run by Footwear Etc., open today. It is documented here by April 2011, when it hosted MBT shoe events, and may be older.",
+    "start": 2011,
+    "approx": true
+   }
   }
  ]
 }
