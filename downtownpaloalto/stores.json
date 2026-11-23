@@ -856,6 +856,18 @@
   "source": "suggestion"
  },
  {
+  "name": "Dragon Theatre",
+  "address": "535 Alma St",
+  "start": 2006,
+  "end": 2012,
+  "category": "entertainment",
+  "approx": false,
+  "note": "Small black-box theater with about 40 seats at the corner of Alma and Hamilton, run by Dragon Productions Theatre Company. It opened in February 2006 with The Heidi Chronicles and moved to a larger space in Redwood City in 2012.",
+  "lat": 37.4430497,
+  "lng": -122.1628754,
+  "source": "suggestion"
+ },
+ {
   "name": "Nola's",
   "address": "535 Ramona St",
   "start": 1996,
@@ -25003,14 +25015,14 @@
  },
  {
   "name": "La Comida",
-  "address": "429 Bryant St",
+  "address": "450 Bryant St",
   "start": 2026,
   "end": 2026,
   "category": "food",
   "approx": false,
   "source": "news",
-  "lat": 37.4465596,
-  "lng": -122.162491,
+  "lat": 37.4461771,
+  "lng": -122.1624215,
   "note": "Senior meal nonprofit. Palo Alto Online's Peninsula Foodist reported it opening in 2026 and closing in 2026."
  },
  {
@@ -25725,13 +25737,13 @@
   "name": "The Redwood by Chef Julien",
   "address": "450 Bryant St",
   "start": 2022,
-  "end": 2022,
+  "end": 2026,
   "category": "food",
-  "approx": true,
+  "approx": false,
   "source": "news",
   "lat": 37.4461771,
   "lng": -122.1624215,
-  "note": "French cafe. Palo Alto Online's Peninsula Foodist reported it opening in 2022. Later status unknown."
+  "note": "French cafe. Palo Alto Online's Peninsula Foodist reported it opening in 2022."
  },
  {
   "name": "Lima Ruby",

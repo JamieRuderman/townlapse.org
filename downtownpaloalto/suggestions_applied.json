@@ -263,6 +263,15 @@
    "end": 2004,
    "category": "entertainment",
    "approx": false
+  },
+  {
+   "name": "Dragon Theatre",
+   "address": "535 Alma St",
+   "note": "Small black-box theater with about 40 seats at the corner of Alma and Hamilton, run by Dragon Productions Theatre Company. It opened in February 2006 with The Heidi Chronicles and moved to a larger space in Redwood City in 2012.",
+   "start": 2006,
+   "end": 2012,
+   "category": "entertainment",
+   "approx": false
   }
  ],
  "corrections": [
