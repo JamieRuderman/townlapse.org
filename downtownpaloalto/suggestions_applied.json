@@ -450,6 +450,16 @@
     "start": 1960,
     "approx": true
    }
+  },
+  {
+   "target": "Charmelle 28",
+   "target_address": "547 Bryant St",
+   "fields": {
+    "note": "Fine lingerie boutique that opened downtown in late 1993 as Gitti's Fine Lingerie and later took the name Charmelle 28. It was absorbed by Lingerie R\u00e9publique around 2019.",
+    "start": 1993,
+    "end": 2019,
+    "approx": true
+   }
   }
  ]
 }
