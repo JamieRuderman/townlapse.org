@@ -1010,6 +1010,20 @@
     "https://www.paloaltoonline.com/morgue/restaurants/1995_Nov_10.EATOUT10.html",
     "https://www.paloaltoonline.com/morgue/restaurants/2000_Jul_28.EATING28.html"
    ]
+  },
+  {
+   "name": "Mystic Cafe",
+   "address": "546 University Ave",
+   "note": "Quirky multicultural restaurant opened in October 1995 by Theo's owner Michael Aroner in the same space, with live rhythm-and-blues guitar on Saturdays; listed at this address through September 1996, and Crescent Park Grill was there by 1997.",
+   "start": 1995,
+   "end": 1996,
+   "category": "food",
+   "approx": true,
+   "links": [
+    "https://www.paloaltoonline.com/morgue/listings/1996_Sep_6.entertainment.html",
+    "https://www.paloaltoonline.com/morgue/listings/1997_Jul_25.entertainment.html",
+    "https://www.paloaltoonline.com/morgue/restaurants/1995_Nov_10.EATOUT10.html"
+   ]
   }
  ],
  "corrections": [
