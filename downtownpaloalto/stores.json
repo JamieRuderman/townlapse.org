@@ -699,6 +699,18 @@
   "source": "suggestion"
  },
  {
+  "name": "Blue Chalk Cafe",
+  "address": "630 Ramona St",
+  "start": 1992,
+  "end": 2010,
+  "category": "food",
+  "approx": true,
+  "note": "Southern restaurant and bar across from City Hall, with blue felt pool tables and shuffleboard. It opened around 1992 and closed in early 2010.",
+  "lat": 37.4440083,
+  "lng": -122.1605623,
+  "source": "suggestion"
+ },
+ {
   "name": "Nola's",
   "address": "near Ramona St",
   "start": 2013,
@@ -1429,12 +1441,12 @@
  {
   "name": "Joe & The Juice",
   "address": "240 Hamilton Ave",
-  "start": 2018,
+  "start": 2019,
   "end": null,
   "category": "food",
-  "approx": false,
+  "approx": true,
   "source": "osm",
-  "note": "Open today (cafe). Listed in OpenStreetMap; first mapped in 2019, which is roughly when it opened. Palo Alto Online's Peninsula Foodist reported it opening in 2018.",
+  "note": "Open today (cafe). Listed in OpenStreetMap; first mapped in 2019, which is roughly when it opened.",
   "lat": 37.4443528,
   "lng": -122.1609464
  },
@@ -1635,12 +1647,12 @@
  {
   "name": "Joe & The Juice",
   "address": "508 University Ave",
-  "start": 2019,
+  "start": 2018,
   "end": null,
   "category": "food",
-  "approx": true,
+  "approx": false,
   "source": "osm",
-  "note": "Open today (cafe). Listed in OpenStreetMap; first mapped in 2019, which is roughly when it opened.",
+  "note": "Open today (cafe). Listed in OpenStreetMap; first mapped in 2019, which is roughly when it opened. Palo Alto Online's Peninsula Foodist reported it opening in 2018.",
   "lat": 37.4484574,
   "lng": -122.1588997
  },
@@ -1976,12 +1988,12 @@
  {
   "name": "Gong Cha",
   "address": "439 Waverley St",
-  "start": 2017,
+  "start": 2015,
   "end": null,
   "category": "food",
-  "approx": true,
+  "approx": false,
   "source": "osm",
-  "note": "Open today (cafe). Listed in OpenStreetMap; first mapped in 2017, which is roughly when it opened.",
+  "note": "Open today (cafe). Listed in OpenStreetMap; first mapped in 2017, which is roughly when it opened. Palo Alto Online's Peninsula Foodist reported it opening in 2015.",
   "lat": 37.4477131,
   "lng": -122.1607332
  },
@@ -24906,14 +24918,14 @@
  },
  {
   "name": "La Comida",
-  "address": "429 Bryant St",
+  "address": "450 Bryant St",
   "start": 2026,
   "end": 2026,
   "category": "food",
   "approx": false,
   "source": "news",
-  "lat": 37.4465596,
-  "lng": -122.162491,
+  "lat": 37.4461771,
+  "lng": -122.1624215,
   "note": "Senior meal nonprofit. Palo Alto Online's Peninsula Foodist reported it opening in 2026 and closing in 2026."
  },
  {
@@ -25109,18 +25121,6 @@
   "note": "Panini and coffee cafe that took over the former Lytton Roasting Company corner in 2012; it closed in January 2015 after three years."
  },
  {
-  "name": "Gong Cha",
-  "address": "429 Waverley St",
-  "start": 2015,
-  "end": 2015,
-  "category": "food",
-  "approx": true,
-  "source": "news",
-  "lat": 37.4476333,
-  "lng": -122.1610727,
-  "note": "Milk tea shop. Palo Alto Online's Peninsula Foodist reported it opening in 2015. Later status unknown."
- },
- {
   "name": "B+B",
   "address": "420 Ramona St",
   "start": 2015,
@@ -25242,14 +25242,14 @@
  },
  {
   "name": "Coupa Cafe",
-  "address": "Ramona St",
+  "address": "111 Lytton Ave",
   "start": 2004,
   "end": 2004,
   "category": "food",
   "approx": true,
   "source": "news",
-  "lat": 37.4455052,
-  "lng": -122.1625455,
+  "lat": 37.4445426,
+  "lng": -122.1652665,
   "note": "Cafe. Palo Alto Online's Peninsula Foodist reported it opening in 2004. Later status unknown."
  },
  {
@@ -25628,13 +25628,13 @@
   "name": "The Redwood by Chef Julien",
   "address": "450 Bryant St",
   "start": 2022,
-  "end": 2022,
+  "end": 2026,
   "category": "food",
-  "approx": true,
+  "approx": false,
   "source": "news",
   "lat": 37.4461771,
   "lng": -122.1624215,
-  "note": "French cafe. Palo Alto Online's Peninsula Foodist reported it opening in 2022. Later status unknown."
+  "note": "French cafe. Palo Alto Online's Peninsula Foodist reported it opening in 2022."
  },
  {
   "name": "Lima Ruby",

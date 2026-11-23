@@ -146,6 +146,15 @@
    "end": 2014,
    "category": "food",
    "approx": true
+  },
+  {
+   "name": "Blue Chalk Cafe",
+   "address": "630 Ramona St",
+   "note": "Southern restaurant and bar across from City Hall, with blue felt pool tables and shuffleboard. It opened around 1992 and closed in early 2010.",
+   "start": 1992,
+   "end": 2010,
+   "category": "food",
+   "approx": true
   }
  ],
  "corrections": [
