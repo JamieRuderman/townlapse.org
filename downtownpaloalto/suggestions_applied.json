@@ -404,6 +404,15 @@
     "start": 1925,
     "approx": true
    }
+  },
+  {
+   "target": "Lee Optometrics",
+   "target_address": "231 Hamilton Ave",
+   "fields": {
+    "note": "Family optometry office and eyewear shop, still open. The practice says it has been in downtown Palo Alto since 2006, and federal provider records list it at this address from January 2007.",
+    "start": 2006,
+    "approx": false
+   }
   }
  ]
 }
