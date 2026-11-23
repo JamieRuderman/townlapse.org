@@ -101,6 +101,9 @@ import math, re
 OSM = os.path.join(os.path.dirname(os.path.abspath(__file__)), "osm_current.json")
 FOOD = {"restaurant","cafe","bar","pub","fast_food","ice_cream","bakery","pastry","chocolate","confectionery","tea","food_court","biergarten","coffee","deli","wine","alcohol"}
 ENT = {"cinema","theatre","nightclub"}
+CIV = {"police","fire_station","post_office","library","townhall","courthouse"}
+WOR = {"place_of_worship"}
+COM = {"community_centre","arts_centre","social_facility","museum"}
 HOTEL = {"hotel","motel","guest_house"}
 FIT = {"fitness_centre","sports_centre","dance","climbing","yoga","pilates","fitness","boxing"}
 SERV = {"bank","hairdresser","beauty","hairdresser;beauty","dry_cleaning","optician","massage","copyshop","laundry","tailor","mobile_phone","pharmacy","chemist","glaziery","travel_agency"}
@@ -167,7 +170,7 @@ if os.path.exists(OSM):
         if any(n == norm(name) and math.hypot(px - x, py - y) < 40 for n, px, py in seen): continue
         seen.append((norm(name), x, y))
         kind = t.get("amenity") or t.get("tourism") or t.get("leisure") or t.get("shop") or (t.get("sport","").split(";")[0] if t.get("sport") else "")
-        cat = "fitness" if kind in FIT else "food" if kind in FOOD else "entertainment" if kind in ENT else "hotel" if kind in HOTEL else "services" if kind in SERV else "retail"
+        cat = "civic" if kind in CIV else "worship" if kind in WOR else "community" if kind in COM else "fitness" if kind in FIT else "food" if kind in FOOD else "entertainment" if kind in ENT else "hotel" if kind in HOTEL else "services" if kind in SERV else "retail"
         label = kind.replace("_", " ").replace(";", ", ")
         out.append({"name": name, "address": addr, "start": CUR, "end": None, "category": cat, "approx": False,
                     "start_unknown": True, "source": "osm",
@@ -220,7 +223,7 @@ if os.path.exists(HS):
         ne = norm(e["name"])
         if any((norm(x["name"]) == ne or (len(ne) >= 5 and (ne in norm(x["name"]) or norm(x["name"]) in ne)))
                and abs(x["lat"] - e["lat"]) < 0.0012 and abs(x["lng"] - e["lng"]) < 0.0012 for x in out): continue
-        k = e.pop("kind", ""); cat = "fitness" if k in FIT else "food" if k in FOOD else "entertainment" if k in ENT else "hotel" if k in HOTEL else "services" if k in SERV else "retail"
+        k = e.pop("kind", ""); cat = "civic" if k in CIV else "worship" if k in WOR else "community" if k in COM else "fitness" if k in FIT else "food" if k in FOOD else "entertainment" if k in ENT else "hotel" if k in HOTEL else "services" if k in SERV else "retail"
         out.append(dict(e, category=cat)); closed += 1
     # ---- News: openings/closings reported by Palo Alto Online's Peninsula Foodist (most precise source for 2014+)
     def yr(dt):
@@ -288,6 +291,16 @@ for c in sug.get("corrections", []):
             ll = geocode(c["fields"]["address"])
             if ll: x["address"], x["lat"], x["lng"] = c["fields"]["address"], ll[0], ll[1]
         fixed += 1
+CIVIC = re.compile(r"\b(fire (station|department|dept)|police|post office|city hall|public library|library|courthouse|town hall|civic center|fire house|firehouse|hospital)\b", re.I)
+WORSHIP = re.compile(r"\b(church|chapel|temple|synagogue|congregation|mission|cathedral|parish|mosque|ministr(y|ies)|zion|baptist|methodist|presbyterian|lutheran|episcopal|catholic|christian science|buddhist)\b", re.I)
+COMMUNITY = re.compile(r"\b(club|lodge|museum|association|society|ymca|ywca|community center|grange|legion|elks|masonic|odd fellows|veterans|union hall|guild)\b", re.I)
+for x in out:
+    if x.get("category") in ("landmark", "services", "retail", "other", None):
+        if CIVIC.search(x["name"]): x["category"] = "civic"
+        elif WORSHIP.search(x["name"]): x["category"] = "worship"
+        elif COMMUNITY.search(x["name"]) and not re.search(r"night ?club|club sandwich|health club|fitness|golf club|loan|savings|bank|automobile|insurance|realty|title", x["name"], re.I): x["category"] = "community"
+    if x["name"] == "Palo Alto Police Department" and x["address"] == "450 Bryant St":
+        x["name"] = "Palo Alto Police & Fire Station"
 for x in out:
     if x.get("links"): x["links"] = clean_links(x["links"])
     elif "links" in x: del x["links"]
