@@ -731,6 +731,19 @@
     "https://www.paloaltoonline.com/morgue/monthly/1995_Sep_27.YOGA.html",
     "https://yogasource.com/25-years-of-yogasource-palo-alto/"
    ]
+  },
+  {
+   "name": "Ellison's Body Shop",
+   "address": "705 Alma St",
+   "note": "Family-run auto body repair and towing shop founded May 1, 1929 by Earl Ellison Sr.; by 1995 it was one of only two body shops left downtown, and it ceased business in 2000. The building remains as a historical site.",
+   "start": 1929,
+   "end": 2000,
+   "category": "services",
+   "approx": true,
+   "links": [
+    "https://www.paloaltoonline.com/morgue/2001/2001_06_20.obits20.html",
+    "https://www.paloaltoonline.com/morgue/news/1995_Sep_13.PEOPLE13.html"
+   ]
   }
  ],
  "corrections": [
