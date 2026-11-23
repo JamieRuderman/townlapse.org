@@ -377,6 +377,15 @@
     "start": 1996,
     "approx": true
    }
+  },
+  {
+   "target": "Arnoldi Jewelers",
+   "target_address": "255 University Ave",
+   "fields": {
+    "note": "Family-owned fine jewelry store started by a goldsmith from Italy who came to the Bay Area in 1978, the year the business gives as its founding. It is open today at this address; how long it has been here is not confirmed.",
+    "start": 1978,
+    "approx": true
+   }
   }
  ]
 }
