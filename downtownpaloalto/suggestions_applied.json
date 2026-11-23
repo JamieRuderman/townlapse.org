@@ -563,6 +563,15 @@
     "start": 2007,
     "approx": true
    }
+  },
+  {
+   "target": "Buca di Beppo",
+   "target_address": "643 Emerson St",
+   "fields": {
+    "note": "Italian chain restaurant, open on Emerson Street by early 2003 and still open today; it may have opened around 2002.",
+    "start": 2003,
+    "approx": true
+   }
   }
  ]
 }
