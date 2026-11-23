@@ -339,6 +339,16 @@
     "start": 2008,
     "approx": false
    }
+  },
+  {
+   "target": "Garden Fresh Vegan",
+   "target_address": "460 Ramona St",
+   "fields": {
+    "note": "Vegan Chinese restaurant, a second branch of a Mountain View favorite, that opened on Ramona Street in spring 2010. It was reported permanently closed in 2023, while the Mountain View restaurant stayed open.",
+    "start": 2010,
+    "end": 2023,
+    "approx": false
+   }
   }
  ]
 }
