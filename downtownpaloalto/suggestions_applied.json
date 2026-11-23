@@ -554,6 +554,15 @@
     "category": "services",
     "approx": true
    }
+  },
+  {
+   "target": "Yoga Source",
+   "target_address": "158 Hamilton Ave",
+   "fields": {
+    "note": "Yoga studio, still open. Listed at this address in local yoga-studio guides from 2007 and 2009; the studio says it has been in Palo Alto about 30 years, so it may have been here earlier.",
+    "start": 2007,
+    "approx": true
+   }
   }
  ]
 }
