@@ -705,6 +705,19 @@
     "https://www.pastheritage.org/HousePixLists/PixListI.html",
     "https://www.pnreview.co.uk/cgi-bin/scribe?item_id=6986"
    ]
+  },
+  {
+   "name": "Commuter Shell Service",
+   "address": "355 Alma St",
+   "note": "Full-service Shell gas station on the corner of Alma St and Lytton Ave, run by the same operators for 42 years; downtown Palo Alto's only gas station, open around the clock, until Shell pulled out and it closed at the end of June 2010. The site later became the Lytton Gateway building.",
+   "start": 1968,
+   "end": 2010,
+   "category": "services",
+   "approx": true,
+   "links": [
+    "https://www.paloaltoonline.com/news/2010/06/10/final-days-for-downtown-palo-alto-gas-station/",
+    "https://www.paloaltoonline.com/news/2011/03/11/new-five-story-building-proposed-for-downtown-2/"
+   ]
   }
  ],
  "corrections": [
