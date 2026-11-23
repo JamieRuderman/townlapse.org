@@ -617,6 +617,15 @@
     "start": 1993,
     "approx": true
    }
+  },
+  {
+   "target": "Wells Fargo",
+   "target_address": "301 University Ave",
+   "fields": {
+    "note": "Bank branch, still open today. Federal banking records list this branch as established in July 2002.",
+    "start": 2002,
+    "approx": true
+   }
   }
  ]
 }
