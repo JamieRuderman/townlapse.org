@@ -300,6 +300,17 @@
     "start": 1973,
     "approx": false
    }
+  },
+  {
+   "target": "Peet's Coffee",
+   "target_address": "near High St",
+   "fields": {
+    "address": "153 Homer Ave",
+    "note": "Peet's cafe on Homer Avenue next to Whole Foods, opened in 1992. It closed in January 2026 during company-wide closures, and the landlord was negotiating a reopening.",
+    "start": 1992,
+    "end": 2026,
+    "approx": false
+   }
   }
  ]
 }
