@@ -917,6 +917,20 @@
     "https://www.paloaltoonline.com/morgue/restaurants/1994_Dec_14.mini_reviews.html",
     "https://www.paloaltoonline.com/peninsula-foodist/2017/04/06/chantilly-closes-after-43-years/"
    ]
+  },
+  {
+   "name": "Gallery House",
+   "address": "538 Ramona St",
+   "note": "Artist-run cooperative gallery founded in 1958; after earlier locations it spent 38 years at 538 Ramona St. before moving to California Avenue in 2000.",
+   "start": 1962,
+   "end": 2000,
+   "category": "retail",
+   "approx": true,
+   "links": [
+    "https://www.paloaltoonline.com/morgue/listings/2000_Jul_14.art.html",
+    "https://www.paloaltoonline.com/news/2008/04/04/gallery-house-turns-50/",
+    "https://www.pastheritage.org/inv/invR/ramona538.html"
+   ]
   }
  ],
  "corrections": [
