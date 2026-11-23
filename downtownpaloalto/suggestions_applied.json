@@ -826,6 +826,19 @@
     "https://www.paloaltoonline.com/morgue/listings/1994_Sep_21.entertainment.html",
     "https://www.paloaltoonline.com/morgue/news/1999_Nov_17.HAMILTON.html"
    ]
+  },
+  {
+   "name": "La Pastaia Ristorante Italiano",
+   "address": "420 Emerson St",
+   "note": "Italian restaurant known for its duck-and-ricotta spinach ravioli. The Palo Alto Weekly reviewed it in 1993 and still listed it in 1994, and Evvia later took over the space.",
+   "start": 1993,
+   "end": 1994,
+   "category": "food",
+   "approx": true,
+   "links": [
+    "https://www.paloaltoonline.com/morgue/restaurants/1994_Sep_7.mini_reviews.html",
+    "https://www.tripadvisor.in/Restaurant_Review-g32849-d364522-Reviews-Evvia-Palo_Alto_California.html"
+   ]
   }
  ],
  "corrections": [
