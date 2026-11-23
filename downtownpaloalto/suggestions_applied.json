@@ -562,6 +562,21 @@
     "https://www.paloaltoonline.com/morgue/2003/2003_02_28.bayleaf28ja.html",
     "https://www.paloaltoonline.com/news/2008/01/30/shop-talk-38/"
    ]
+  },
+  {
+   "name": "L'Amie Donia",
+   "address": "530 Bryant St",
+   "note": "French bistro run by chef-owner Donia Bijan, opened in 1994 and rated Palo Alto's top restaurant by Zagat in 2004. It closed in early June 2004, and the new owner planned to reopen it as a French bistro called La Cheminee.",
+   "start": 1994,
+   "end": 2004,
+   "category": "food",
+   "approx": false,
+   "links": [
+    "https://www.gayot.com/restaurants/lamie-donia-palo-alto-ca-94301_3sf00723.html",
+    "https://www.hachettebookgroup.com/titles/donia-bijan/the-last-days-of-caf%C3%A9-leila/9781616208035/",
+    "https://www.metrosiliconvalley.com/papers/metro/03.26.98/dining-9812.html",
+    "https://www.paloaltoonline.com/morgue/2004/2004_05_14.donia14ja.shtml"
+   ]
   }
  ],
  "corrections": [

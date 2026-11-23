@@ -1510,6 +1510,36 @@
   ]
  },
  {
+  "name": "L'Amie Donia",
+  "address": "530 Bryant St",
+  "start": 1994,
+  "end": 2004,
+  "category": "food",
+  "approx": false,
+  "note": "French bistro run by chef-owner Donia Bijan, opened in 1994 and rated Palo Alto's top restaurant by Zagat in 2004. It closed in early June 2004, and the new owner planned to reopen it as a French bistro called La Cheminee.",
+  "lat": 37.4453242,
+  "lng": -122.1612535,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://www.gayot.com/restaurants/lamie-donia-palo-alto-ca-94301_3sf00723.html",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.hachettebookgroup.com/titles/donia-bijan/the-last-days-of-caf%C3%A9-leila/9781616208035/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.metrosiliconvalley.com/papers/metro/03.26.98/dining-9812.html",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/morgue/2004/2004_05_14.donia14ja.shtml",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Nola's",
   "address": "535 Ramona St",
   "start": 1996,
@@ -2468,20 +2498,14 @@
  {
   "name": "Joe & The Juice",
   "address": "240 Hamilton Ave",
-  "start": 2018,
+  "start": 2019,
   "end": null,
   "category": "food",
-  "approx": false,
+  "approx": true,
   "source": "osm",
-  "note": "Open today (cafe). Listed in OpenStreetMap; first mapped in 2019, which is roughly when it opened. Palo Alto Online's Peninsula Foodist reported it opening in 2018.",
+  "note": "Open today (cafe). Listed in OpenStreetMap; first mapped in 2019, which is roughly when it opened.",
   "lat": 37.4443528,
-  "lng": -122.1609464,
-  "links": [
-   {
-    "url": "https://www.paloaltoonline.com/peninsula-foodist/2017/08/03/joe-the-juice-is-headed-to-palo-alto/",
-    "kind": "Article"
-   }
-  ]
+  "lng": -122.1609464
  },
  {
   "name": "Sephora",
@@ -2728,14 +2752,20 @@
  {
   "name": "Joe & The Juice",
   "address": "508 University Ave",
-  "start": 2019,
+  "start": 2018,
   "end": null,
   "category": "food",
-  "approx": true,
+  "approx": false,
   "source": "osm",
-  "note": "Open today (cafe). Listed in OpenStreetMap; first mapped in 2019, which is roughly when it opened.",
+  "note": "Open today (cafe). Listed in OpenStreetMap; first mapped in 2019, which is roughly when it opened. Palo Alto Online's Peninsula Foodist reported it opening in 2018.",
   "lat": 37.4484574,
-  "lng": -122.1588997
+  "lng": -122.1588997,
+  "links": [
+   {
+    "url": "https://www.paloaltoonline.com/peninsula-foodist/2017/08/03/joe-the-juice-is-headed-to-palo-alto/",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "HSBC",
@@ -27282,14 +27312,14 @@
  },
  {
   "name": "Coupa Cafe",
-  "address": "111 Lytton Ave",
+  "address": "Ramona St",
   "start": 2004,
   "end": 2004,
   "category": "food",
   "approx": true,
   "source": "news",
-  "lat": 37.4445426,
-  "lng": -122.1652665,
+  "lat": 37.4455052,
+  "lng": -122.1625455,
   "links": [
    {
     "url": "https://www.paloaltoonline.com/peninsula-foodist/2016/01/26/now-open-second-coupa-cafe-in-palo-alto/",
