@@ -831,6 +831,19 @@
   "source": "suggestion"
  },
  {
+  "name": "Palo Alto Fire Station 1",
+  "address": "301 Alma St",
+  "start": 2026,
+  "end": null,
+  "category": "landmark",
+  "approx": true,
+  "note": "Downtown Palo Alto's main fire station, still in service, housing a fire engine and a paramedic ambulance. The year it opened is not confirmed.",
+  "lat": 37.4451014,
+  "lng": -122.1660665,
+  "source": "suggestion",
+  "start_unknown": true
+ },
+ {
   "name": "Nola's",
   "address": "535 Ramona St",
   "start": 1996,
@@ -1561,12 +1574,12 @@
  {
   "name": "Joe & The Juice",
   "address": "240 Hamilton Ave",
-  "start": 2018,
+  "start": 2019,
   "end": null,
   "category": "food",
-  "approx": false,
+  "approx": true,
   "source": "osm",
-  "note": "Open today (cafe). Listed in OpenStreetMap; first mapped in 2019, which is roughly when it opened. Palo Alto Online's Peninsula Foodist reported it opening in 2018.",
+  "note": "Open today (cafe). Listed in OpenStreetMap; first mapped in 2019, which is roughly when it opened.",
   "lat": 37.4443528,
   "lng": -122.1609464
  },
@@ -1767,12 +1780,12 @@
  {
   "name": "Joe & The Juice",
   "address": "508 University Ave",
-  "start": 2019,
+  "start": 2018,
   "end": null,
   "category": "food",
-  "approx": true,
+  "approx": false,
   "source": "osm",
-  "note": "Open today (cafe). Listed in OpenStreetMap; first mapped in 2019, which is roughly when it opened.",
+  "note": "Open today (cafe). Listed in OpenStreetMap; first mapped in 2019, which is roughly when it opened. Palo Alto Online's Peninsula Foodist reported it opening in 2018.",
   "lat": 37.4484574,
   "lng": -122.1588997
  },
@@ -25314,14 +25327,14 @@
  },
  {
   "name": "Coupa Cafe",
-  "address": "Ramona St",
+  "address": "111 Lytton Ave",
   "start": 2004,
   "end": 2004,
   "category": "food",
   "approx": true,
   "source": "news",
-  "lat": 37.4455052,
-  "lng": -122.1625455,
+  "lat": 37.4445426,
+  "lng": -122.1652665,
   "note": "Cafe. Palo Alto Online's Peninsula Foodist reported it opening in 2004. Later status unknown."
  },
  {

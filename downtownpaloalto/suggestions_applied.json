@@ -245,6 +245,15 @@
    "end": null,
    "category": "food",
    "approx": false
+  },
+  {
+   "name": "Palo Alto Fire Station 1",
+   "address": "301 Alma St",
+   "note": "Downtown Palo Alto's main fire station, still in service, housing a fire engine and a paramedic ambulance. The year it opened is not confirmed.",
+   "start": null,
+   "end": null,
+   "category": "landmark",
+   "approx": true
   }
  ],
  "corrections": [
