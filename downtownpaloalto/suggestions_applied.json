@@ -515,6 +515,16 @@
     "start": 2010,
     "approx": true
    }
+  },
+  {
+   "target": "Union Bank",
+   "target_address": "400 University Ave",
+   "fields": {
+    "note": "Bank branch, earlier the main office of The Stanford Bank (founded 1964), which merged into Union Bank in 1971. Later known as MUFG Union Bank, it became a U.S. Bank branch in 2023 after U.S. Bancorp bought Union Bank.",
+    "start": 1971,
+    "end": 2023,
+    "approx": true
+   }
   }
  ]
 }
