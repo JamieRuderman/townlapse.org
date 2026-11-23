@@ -89,7 +89,7 @@ for a in sug.get("additions", []):
     if not ll: missing.append(a["address"]); continue
     rec = {"name": a["name"], "address": a["address"], "start": a.get("start") or CUR, "end": a.get("end"),
            "category": a.get("category", "retail"), "approx": bool(a.get("approx")), "note": a.get("note", ""),
-           "lat": ll[0], "lng": ll[1], "source": "suggestion"}
+           "lat": ll[0], "lng": ll[1], "source": "suggestion", "links": a.get("links", [])}
     if not a.get("start"): rec["start_unknown"] = True
     out.append(rec)
 
@@ -109,6 +109,23 @@ SKIP_NAMES = {"Stanford Theater": "Stanford Theatre", "Palo Alto Creamery": "Pen
 ABBR = [(" Avenue"," Ave"),(" Street"," St"),(" Road"," Rd")]
 
 def norm(t): return re.sub(r"[^a-z0-9]", "", t.lower())
+# ---------- links shown on each pin: photos, ads, history pages, articles (junk filtered out)
+LINK_SKIP = re.compile(r"giftly\.|sec\.gov|secdatabase|patentimages|trademark|cbinsights|aventure\.vc|telecompaper|occ\.treas|cs\.cornell|linkedin\.|bizapedia|opencorporates|dnb\.com|zoominfo", re.I)
+def link_kind(u):
+    if re.search(r"flickr\.|calisphere|instagram\.|pcad\.lib|/photos?/|\.(jpe?g|png|gif|tiff?)(\?|$)|images?\.", u, re.I): return "Photo"
+    if re.search(r"morguepdf|wp-content/uploads/.*paw|cdnc\.|newspapers\.com|newspaperarchive|distarch\.|archive\.org/(download|details)/.*(news|paar|1[89]\d\d)|_text\.pdf", u, re.I): return "Ad / newspaper"
+    if re.search(r"pastheritage|pahistory|localwiki|homeravenue|historic|hrb-|paloalto\.gov|cityofpaloalto|recordsportal|stanford\.edu", u, re.I): return "History"
+    if re.search(r"yelp\.|foursquare|tripadvisor|mapquest|yellowpages", u, re.I): return "Listing"
+    return "Article"
+def clean_links(urls):
+    out, seen = [], set()
+    order = {"Photo": 0, "Ad / newspaper": 1, "History": 2, "Article": 3, "Listing": 4}
+    for u in urls or []:
+        u = u.strip().rstrip(".,);")
+        if not u.startswith("http") or LINK_SKIP.search(u) or "facebook.com" in u or u in seen: continue
+        seen.add(u); out.append({"url": u, "kind": link_kind(u)})
+    return sorted(out, key=lambda l: order[l["kind"]])[:8]
+
 def short(a):
     for x, y in ABBR: a = a.replace(x, y)
     return a
@@ -238,6 +255,7 @@ if os.path.exists(HS):
                     x["start"] = o; x.pop("start_unknown", None); x["approx"] = False
                 if c and (x.get("end") is None or x.get("approx")): x["end"] = c
                 if "Peninsula Foodist" not in x["note"]: x["note"] = (x["note"] + " " + src).strip()
+                if g.get("url"): x["links"] = list(x.get("links", [])) + [g["url"]]
                 news_fixed += 1
             continue
         if not addr or not (o or c) or g.get("prev_only"): continue
@@ -250,7 +268,7 @@ if os.path.exists(HS):
         start = o or c; end = c if c else (None if o and o >= CUR - 3 else o)
         cat = "food"
         out.append({"name": g["name"], "address": addr, "start": start, "end": end, "category": cat, "approx": not (o and (c or end is None)),
-                    "source": "news", "lat": ll[0], "lng": ll[1],
+                    "source": "news", "lat": ll[0], "lng": ll[1], "links": [g["url"]] if g.get("url") else [],
                     "note": f"{(g['kind'] or 'Restaurant').capitalize()}. {src}" + ("" if c or end is None else " Later status unknown.")})
         news_added += 1
     print(f"News: {news_fixed} entries dated, {news_added} places added from Peninsula Foodist")
@@ -264,12 +282,15 @@ for c in sug.get("corrections", []):
     for x in hits:
         for k in ("name", "start", "end", "category", "note", "approx"):
             if k in c.get("fields", {}): x[k] = c["fields"][k]
+        if c.get("fields", {}).get("links"): x["links"] = list(x.get("links", [])) + c["fields"]["links"]
         if "start" in c.get("fields", {}) and c["fields"]["start"]: x.pop("start_unknown", None)
         if c.get("fields", {}).get("address") and c["fields"]["address"] != x["address"]:
             ll = geocode(c["fields"]["address"])
             if ll: x["address"], x["lat"], x["lng"] = c["fields"]["address"], ll[0], ll[1]
         fixed += 1
 for x in out:
+    if x.get("links"): x["links"] = clean_links(x["links"])
+    elif "links" in x: del x["links"]
     if x.get("end") is not None and x["end"] < x["start"]:
         x["start"] = x["end"]; x["approx"] = True; x.pop("start_unknown", None)
 json.dump(out, open(os.path.join(os.path.dirname(os.path.abspath(__file__)), "stores.json"), "w"), indent=1)

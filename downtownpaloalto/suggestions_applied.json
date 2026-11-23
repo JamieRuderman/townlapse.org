@@ -53,7 +53,12 @@
    "category": "food",
    "approx": false,
    "note": "Health-food restaurant and bakery from a national chain. It opened in March 1976 in the former House of Pies building and closed in 2001 when the owner retired.",
-   "submitted_by": "chatgpt"
+   "submitted_by": "chatgpt",
+   "links": [
+    "https://distarch.fhda.edu/files/original/f49d6d328a54734f263c618be44ff3017a39a7f5.pdf",
+    "https://en.localwiki.org/paloalto/Good_Earth_Restaurant_and_Bakery",
+    "https://www.paloaltoonline.com/best-of/1997/08/20/best-of-1997/"
+   ]
   },
   {
    "name": "Tallman's House of Foam",
@@ -63,7 +68,11 @@
    "category": "retail",
    "approx": true,
    "note": "A longtime downtown foam shop that sold foam and made custom cases. Owner Bob Tallman took it over in the 1970s, and it quietly closed in early January 2020.",
-   "submitted_by": "chatgpt"
+   "submitted_by": "chatgpt",
+   "links": [
+    "https://www.cityofpaloalto.org/files/assets/public/agendas-minutes-reports/reports/city-manager-reports-cmrs/year-archive/2014/id5293full.pdf",
+    "https://www.paloaltoonline.com/wp-content/uploads/2020/01/2020_01_17.paw_.section1.pdf"
+   ]
   },
   {
    "name": "Mango Cafe",
@@ -72,21 +81,28 @@
    "start": 1995,
    "end": 1998,
    "category": "food",
-   "approx": true
+   "approx": true,
+   "links": [
+    "https://www.paloaltoonline.com/morgue/restaurants/1995_May_5.EATOUT05.html",
+    "https://www.paloaltoonline.com/morgue/restaurants/1998_Oct_2.EATS02.html"
+   ]
   },
   {
    "name": "Fran's Market",
    "address": "499 Lytton Ave",
-   "note": "Longtime neighborhood market at Lytton and Gilman; the space became Mademoiselle Colette bakery in 2016\u201317. Opening year unknown; Fran's Smoke Shop was listed next door at 497 Lytton in the 1950s.",
+   "note": "Longtime neighborhood market at Lytton and Gilman; the space became Mademoiselle Colette bakery in 2016–17. Opening year unknown; Fran's Smoke Shop was listed next door at 497 Lytton in the 1950s.",
    "start": 1987,
    "end": 2016,
    "category": "retail",
-   "approx": true
+   "approx": true,
+   "links": [
+    "https://www.instagram.com/p/DCuLM68Oto2/"
+   ]
   },
   {
    "name": "The Victorian on Lytton",
    "address": "555 Lytton Ave",
-   "note": "Bed-and-breakfast inn in the 1896 Queen Anne-style Hannah Clapp House, which was converted to an inn in 1985\u201386. It closed around 2006 after water damage, and the house later held a women's resource center.",
+   "note": "Bed-and-breakfast inn in the 1896 Queen Anne-style Hannah Clapp House, which was converted to an inn in 1985–86. It closed around 2006 after water damage, and the house later held a women's resource center.",
    "start": 1986,
    "end": 2006,
    "category": "hotel",
@@ -109,7 +125,11 @@
    "start": 1973,
    "end": 1994,
    "category": "food",
-   "approx": true
+   "approx": true,
+   "links": [
+    "http://homeravenue.org/Walk_Tour.htm",
+    "https://www.pastheritage.org/inv/invE/Emerson800.html"
+   ]
   },
   {
    "name": "St. Michael's Waiting Room",
@@ -118,7 +138,11 @@
    "start": 1980,
    "end": 1994,
    "category": "entertainment",
-   "approx": true
+   "approx": true,
+   "links": [
+    "http://homeravenue.org/Walk_Tour.htm",
+    "https://www.pastheritage.org/inv/invE/Emerson800.html"
+   ]
   },
   {
    "name": "La Morenita",
@@ -127,7 +151,10 @@
    "start": 1994,
    "end": 2017,
    "category": "food",
-   "approx": false
+   "approx": false,
+   "links": [
+    "https://www.paloaltoonline.com/blogs/2017/12/20/palo-altos-longtime-la-morenita-to-shutter/"
+   ]
   },
   {
    "name": "St. Michael's Alley",
@@ -136,7 +163,11 @@
    "start": 1994,
    "end": 2019,
    "category": "food",
-   "approx": true
+   "approx": true,
+   "links": [
+    "http://homeravenue.org/Walk_Tour.htm",
+    "https://www.paloaltoonline.com/cover-story/2011/08/19/and-the-winners-are-2/"
+   ]
   },
   {
    "name": "Mandarin Gourmet",
@@ -145,7 +176,11 @@
    "start": 1990,
    "end": 2014,
    "category": "food",
-   "approx": true
+   "approx": true,
+   "links": [
+    "https://www.paloaltoonline.com/ae/2014/10/17/shop-talk-16/",
+    "https://www.paloaltoonline.com/best-of/2004/08/24/best-of-2004/"
+   ]
   },
   {
    "name": "Blue Chalk Cafe",
@@ -154,7 +189,11 @@
    "start": 1992,
    "end": 2010,
    "category": "food",
-   "approx": true
+   "approx": true,
+   "links": [
+    "https://www.paloaltoonline.com/morgue/restaurants/1998_Dec_4.EATS04.html",
+    "https://www.paloaltoonline.com/uncategorized/2010/02/12/shop-talk-66/"
+   ]
   },
   {
    "name": "University AME Zion Church",
@@ -163,7 +202,11 @@
    "start": 1925,
    "end": 1965,
    "category": "landmark",
-   "approx": true
+   "approx": true,
+   "links": [
+    "http://paloalto.gov/files/assets/public/v/1/agendas-minutes-reports/agendas-minutes/historic-resources-board/2020/hrb-2.25-819-ramona.pdf",
+    "https://www.pastheritage.org/Articles/AMEZionMF.html"
+   ]
   },
   {
    "name": "Vivre",
@@ -172,7 +215,11 @@
    "start": 2003,
    "end": 2018,
    "category": "fitness",
-   "approx": true
+   "approx": true,
+   "links": [
+    "https://www.paloaltoonline.com/ae/2018/03/08/shop-talk-gym-to-close-brown-rice-sushi-returns-2/",
+    "https://www.paloaltoonline.com/morgue/2003/2003_04_23.fitness23ja.html"
+   ]
   },
   {
    "name": "Barker Hotel",
@@ -181,7 +228,11 @@
    "start": 1928,
    "end": null,
    "category": "hotel",
-   "approx": false
+   "approx": false,
+   "links": [
+    "https://www.paloaltoonline.com/morgue/2001/2001_04_25.pahc1mb.html",
+    "https://www.paloaltoonline.com/news/2023/12/01/housing-or-parking-palo-alto-considers-new-proposals-for-downtown-parking-lots/"
+   ]
   },
   {
    "name": "The Camera Shop",
@@ -199,7 +250,11 @@
    "start": 1950,
    "end": 1965,
    "category": "food",
-   "approx": true
+   "approx": true,
+   "links": [
+    "https://recordsportal.paloalto.gov/WebLink/DocView.aspx?id=55897&dbid=0&repo=PaloAlto",
+    "https://www.groceteria.com/place/california/san-jose/palo-altomenlo-park-chain-grocerssupermarket-locations-1925-1979/"
+   ]
   },
   {
    "name": "Palo Alto Police Department",
@@ -208,7 +263,11 @@
    "start": 1927,
    "end": 1970,
    "category": "services",
-   "approx": true
+   "approx": true,
+   "links": [
+    "https://www.cityofpaloalto.org/files/assets/public/v/1/planning-amp-development-services/new-development-projects/450-bryant/450-bryant-hre_-arg-14-april-2016-opt.pdf",
+    "https://www.paloaltoonline.com/morgue/news/1997_Apr_11.POLICE.html"
+   ]
   },
   {
    "name": "Uforia Studios",
@@ -217,7 +276,11 @@
    "start": 2011,
    "end": null,
    "category": "fitness",
-   "approx": true
+   "approx": true,
+   "links": [
+    "https://www.paloaltoonline.com/cover-story/2011/08/19/men-at-work-services-2/",
+    "https://www.paloaltoonline.com/news/2013/08/09/gyms-ditch-big-box-mindset-for-community-feel/"
+   ]
   },
   {
    "name": "FORM Fitness",
@@ -226,7 +289,11 @@
    "start": 2005,
    "end": 2022,
    "category": "fitness",
-   "approx": true
+   "approx": true,
+   "links": [
+    "https://www.paloaltoonline.com/news/2004/09/14/gym-awarded-downtown-lease/",
+    "https://www.paloaltoonline.com/news/2022/11/25/form-fitness-told-to-leave-after-failing-to-pay-rent/"
+   ]
   },
   {
    "name": "Zibibbo",
@@ -235,7 +302,11 @@
    "start": 1997,
    "end": 2014,
    "category": "food",
-   "approx": true
+   "approx": true,
+   "links": [
+    "https://gastronomyblog.com/2007/07/19/zibibbo/",
+    "https://www.paloaltoonline.com/news/2014/04/09/zibibbo-restaurant-shutters-after-17-years/"
+   ]
   },
   {
    "name": "Vino Locale",
@@ -244,7 +315,11 @@
    "start": 2005,
    "end": null,
    "category": "food",
-   "approx": false
+   "approx": false,
+   "links": [
+    "https://ediblemontereybay.com/blog/vino-locale-brings-it-to-santa-cruz/",
+    "https://www.paloaltoonline.com/uncategorized/2012/11/16/local-ingredients-local-wine/"
+   ]
   },
   {
    "name": "Palo Alto Fire Station 1",
@@ -262,7 +337,11 @@
    "start": 1994,
    "end": 2004,
    "category": "entertainment",
-   "approx": false
+   "approx": false,
+   "links": [
+    "https://www.metroactive.com/papers/metro/06.16.04/bars-0425-palo.html",
+    "https://www.paloaltoonline.com/news/2004/07/20/q-cafe-closing/"
+   ]
   },
   {
    "name": "Dragon Theatre",
@@ -271,7 +350,11 @@
    "start": 2006,
    "end": 2012,
    "category": "entertainment",
-   "approx": false
+   "approx": false,
+   "links": [
+    "https://www.broadwayworld.com/san-francisco/article/Dragon-Productions-Theatre-Company-Announces-Final-Year-for-Founder-20180103",
+    "https://www.paloaltoonline.com/cover-story/2007/02/09/on-with-the-show/"
+   ]
   }
  ],
  "corrections": [
@@ -282,7 +365,7 @@
     "start": 2008,
     "end": 2023,
     "approx": true,
-    "note": "Starbucks at 374\u2013376 University Ave, open here from about 2008 until April 30, 2023, when it moved to 151 University."
+    "note": "Starbucks at 374–376 University Ave, open here from about 2008 until April 30, 2023, when it moved to 151 University."
    }
   },
   {
@@ -300,7 +383,11 @@
    "fields": {
     "note": "Bank branch, still open today. It was open by the mid-1990s and took in customers from First Interstate's closing 525 University Ave branch in 1996; it may be older.",
     "start": 1995,
-    "approx": true
+    "approx": true,
+    "links": [
+     "https://www.crediohub.com/bank-branches/l/18126/palo-alto-pcs-branch",
+     "https://www.wheresmybank.com/branch-422544-wells-fargo-bank"
+    ]
    }
   },
   {
@@ -321,7 +408,12 @@
    "fields": {
     "note": "Natural foods supermarket that opened in 1989 in a remodeled existing building. It was the chain's first store on the West Coast and is still open.",
     "start": 1989,
-    "approx": false
+    "approx": false,
+    "links": [
+     "https://pcad.lib.washington.edu/building/12658/",
+     "https://www.paloaltoonline.com/cover-story/2013/08/30/best-of-2013/",
+     "https://www.referenceforbusiness.com/history2/11/Whole-Foods-Market-Inc.html"
+    ]
    }
   },
   {
@@ -330,7 +422,11 @@
    "fields": {
     "note": "Commercial printing firm that moved into the former Indian Bowl bowling alley after it closed in 1975, later expanding through the building from Emerson St to Ramona St. It is recorded in the city's historic buildings inventory, revised in 1985.",
     "end": 1985,
-    "approx": true
+    "approx": true,
+    "links": [
+     "https://archive.org/download/PAARAgraphs_1979-11/PAARAgraphs_1979-11_text.pdf",
+     "https://www.pastheritage.org/inv/invR/Ramona734.html"
+    ]
    }
   },
   {
@@ -360,7 +456,10 @@
    "fields": {
     "note": "Indian restaurant serving north and south Indian dishes, with a weekday lunch buffet. A 2007 review says the owner opened his Palo Alto storefront in 1995, and it was at this address by 2007; still open today.",
     "start": 1995,
-    "approx": true
+    "approx": true,
+    "links": [
+     "https://www.paloaltoonline.com/uncategorized/2007/08/31/mid-priced-passage-to-india/"
+    ]
    }
   },
   {
@@ -378,7 +477,10 @@
    "target_address": "735 Emerson St",
    "fields": {
     "note": "Bowling alley, described as Palo Alto's longest-lasting, in a 1926 building that runs through to 734 Ramona St, entered from Emerson Street. It opened in the early 1940s after a 1940 remodel and closed in 1975, when Baker Graphics took over the space.",
-    "approx": true
+    "approx": true,
+    "links": [
+     "https://www.pastheritage.org/inv/invR/Ramona734.html"
+    ]
    }
   },
   {
@@ -388,16 +490,24 @@
     "address": "535 Ramona St",
     "note": "New Orleans-themed restaurant and bar in a Spanish-style courtyard building on Ramona Street, open since June 1996 and still operating.",
     "start": 1996,
-    "approx": false
+    "approx": false,
+    "links": [
+     "https://www.paloaltoonline.com/morgue/2004/2004_06_04.nolas04.shtml",
+     "https://www.yellowbot.com/nola-palo-alto-palo-alto-ca.html"
+    ]
    }
   },
   {
    "target": "Palo Alto Bicycles",
    "target_address": "171 University Ave",
    "fields": {
-    "note": "Family-owned bike shop that grew out of the Palo Alto Sport Shop's bicycle department and was renamed Palo Alto Bicycles when it moved here in 1973. It briefly operated across the street at 170 University in 1997\u201398 while this building was seismically rebuilt.",
+    "note": "Family-owned bike shop that grew out of the Palo Alto Sport Shop's bicycle department and was renamed Palo Alto Bicycles when it moved here in 1973. It briefly operated across the street at 170 University in 1997–98 while this building was seismically rebuilt.",
     "start": 1973,
-    "approx": false
+    "approx": false,
+    "links": [
+     "https://www.bicycleretailer.com/north-america/2009/12/13/retail-icon-hoffacker-passes-away",
+     "https://www.paloaltoonline.com/morgue/news/1997_May_30.ATOWN30.html"
+    ]
    }
   },
   {
@@ -408,7 +518,11 @@
     "note": "Peet's cafe on Homer Avenue next to Whole Foods, opened in 1992. It closed in January 2026 during company-wide closures, and the landlord was negotiating a reopening.",
     "start": 1992,
     "end": 2026,
-    "approx": false
+    "approx": false,
+    "links": [
+     "https://www.paloaltoonline.com/business/2026/01/28/downtown-palo-alto-peets-store-to-close-this-week/",
+     "https://www.peets.com/pages/store/palo-alto"
+    ]
    }
   },
   {
@@ -416,7 +530,10 @@
    "target_address": "near Lytton Ave",
    "fields": {
     "address": "489 Lytton Ave",
-    "note": "Dry cleaner at 489 Lytton Ave, still open today. It has been on the map since at least 2013 and may be much older."
+    "note": "Dry cleaner at 489 Lytton Ave, still open today. It has been on the map since at least 2013 and may be much older.",
+    "links": [
+     "https://www.bbb.org/us/ca/palo-alto/profile/dry-cleaners/lytton-cleaners-1216-217061"
+    ]
    }
   },
   {
@@ -427,7 +544,11 @@
     "note": "Local commercial bank, called The Private Bank of the Peninsula until 2011, with its main office here from December 2008. The office closed in fall 2017 when the headquarters moved to San Jose and the Palo Alto branch moved to 437 Lytton Ave.",
     "start": 2008,
     "end": 2017,
-    "approx": false
+    "approx": false,
+    "links": [
+     "https://www.bankbranchlocator.com/avidbank/",
+     "https://www.paloaltoonline.com/news/2017/08/21/shop-talk-bank-relocates-guideboat-to-open/"
+    ]
    }
   },
   {
@@ -436,7 +557,11 @@
    "fields": {
     "note": "Build-your-own salad cafe that opened in late August 2008 in the former Windy's Chinese restaurant space. Still open today.",
     "start": 2008,
-    "approx": false
+    "approx": false,
+    "links": [
+     "https://www.doordash.com/en-CA/store/sprout-cafe-palo-alto-8/",
+     "https://www.paloaltoonline.com/uncategorized/2008/11/07/university-greens/"
+    ]
    }
   },
   {
@@ -446,7 +571,11 @@
     "note": "Vegan Chinese restaurant, a second branch of a Mountain View favorite, that opened on Ramona Street in spring 2010. It was reported permanently closed in 2023, while the Mountain View restaurant stayed open.",
     "start": 2010,
     "end": 2023,
-    "approx": false
+    "approx": false,
+    "links": [
+     "http://www.bayareaveg.org/blog/tag/new-restaurant/",
+     "https://www.paloaltoonline.com/uncategorized/2022/08/12/vegan-variety-10-peninsula-plant-based-restaurants-to-try-now-2/"
+    ]
    }
   },
   {
@@ -455,7 +584,11 @@
    "fields": {
     "note": "Tea room serving afternoon tea and loose-leaf teas, still open today. A tea directory lists it as established in 1995, and it changed hands in early 2006.",
     "start": 1995,
-    "approx": true
+    "approx": true,
+    "links": [
+     "https://www.paloaltoonline.com/uncategorized/2008/06/20/ancient-tradition-modern-application/",
+     "https://www.teatravellerssocietea.com/2015/05/tea-time.html"
+    ]
    }
   },
   {
@@ -465,7 +598,11 @@
     "note": "Sports bar, the downtown branch of a Palo Alto bar that started on El Camino Real in 1964. It opened on Ramona Street around 2003, became the main location after the El Camino bar closed in 2007, and closed in June 2022.",
     "start": 2003,
     "end": 2022,
-    "approx": false
+    "approx": false,
+    "links": [
+     "https://www.paloaltoonline.com/morgue/2004/2004_04_28.atown28ja.shtml",
+     "https://www.paloaltoonline.com/palo-alto/2022/06/09/last-call-at-the-old-pro-in-palo-alto/"
+    ]
    }
   },
   {
@@ -474,7 +611,10 @@
    "fields": {
     "note": "Fidelity investor center, open today. Fidelity fund reports filed with the SEC listed this walk-in office by mid-1996, and it may be older.",
     "start": 1996,
-    "approx": true
+    "approx": true,
+    "links": [
+     "https://www.sec.gov/Archives/edgar/data/278001/0000225323-96-000042.txt"
+    ]
    }
   },
   {
@@ -483,7 +623,11 @@
    "fields": {
     "note": "Family-owned fine jewelry store started by a goldsmith from Italy who came to the Bay Area in 1978, the year the business gives as its founding. It is open today at this address; how long it has been here is not confirmed.",
     "start": 1978,
-    "approx": true
+    "approx": true,
+    "links": [
+     "http://arnoldijewelers.com/",
+     "https://www.giftly.com/gift-card/arnoldi-jewelers-palo-alto"
+    ]
    }
   },
   {
@@ -492,7 +636,11 @@
    "fields": {
     "note": "French crepe cafe serving sweet and savory crepes, salads and sandwiches. Palo Alto Online reported it opening in June 2006, and it is still open.",
     "start": 2006,
-    "approx": false
+    "approx": false,
+    "links": [
+     "https://outside-eats.com/restaurants/bistro-maxine",
+     "https://www.paloaltoonline.com/uncategorized/2006/06/23/tidbits/"
+    ]
    }
   },
   {
@@ -501,7 +649,11 @@
    "fields": {
     "note": "Traditional barbershop in the Cardinal Hotel building, reached through the hotel lobby and part of the building since about 1925. Its current barber has worked there since 1982.",
     "start": 1925,
-    "approx": true
+    "approx": true,
+    "links": [
+     "https://cardinalhotel.com/discover/",
+     "https://www.paloaltoonline.com/news/2007/09/04/old-fashioned-but-not-outdated/"
+    ]
    }
   },
   {
@@ -510,7 +662,11 @@
    "fields": {
     "note": "Family optometry office and eyewear shop, still open. The practice says it has been in downtown Palo Alto since 2006, and federal provider records list it at this address from January 2007.",
     "start": 2006,
-    "approx": false
+    "approx": false,
+    "links": [
+     "https://leeoptometrics.com/",
+     "https://npiprofile.com/npi/1609924810"
+    ]
    }
   },
   {
@@ -519,7 +675,11 @@
    "fields": {
     "note": "Medical spa (facials, injectables and laser treatments) founded in downtown Palo Alto in 2003, with its flagship clinic at 701 Emerson St. It is still open and has grown into a multi-state chain.",
     "start": 2003,
-    "approx": true
+    "approx": true,
+    "links": [
+     "https://www.paloaltoonline.com/ae/2023/09/21/artist-who-painted-butterfly-mural-for-taylor-swift-debuts-new-work-in-palo-alto/",
+     "https://www.paloaltoonline.com/news_features/2014/best_of/hall-of-fame.php"
+    ]
    }
   },
   {
@@ -529,7 +689,11 @@
     "address": "384 University Ave",
     "note": "Fine stationery and gift shop, open today. Business listings say it has been independently owned and operated since 1982; it may not have been at this address the whole time.",
     "start": 1982,
-    "approx": true
+    "approx": true,
+    "links": [
+     "https://www.giftly.com/gift-card/letter-perfect-fine-stationery-and-gifts-palo-alto",
+     "https://www.paloaltoonline.com/best-of/2026/07/31/best-of-2026-retail/"
+    ]
    }
   },
   {
@@ -538,7 +702,11 @@
    "fields": {
     "note": "Women's clothing store, open today. A 2004 charity auction offered a shopping party at this store, so it was open by then; the exact opening year is unknown.",
     "start": 2004,
-    "approx": true
+    "approx": true,
+    "links": [
+     "https://www.biddingforgood.com/auction/item/item.action?id=46778851",
+     "https://www.chicos.com/locations/us/ca/palo-alto/396-university-ave/"
+    ]
    }
   },
   {
@@ -547,17 +715,25 @@
    "fields": {
     "note": "Long-running barbershop in the Hotel President building, still open today. A 2004 Palo Alto Weekly profile traced its University Avenue roots to the late 1920s, and one co-owner ran it from 1960 to 2004.",
     "start": 1960,
-    "approx": true
+    "approx": true,
+    "links": [
+     "http://www.pahistory.org/talltree/TT-2021-07.pdf",
+     "https://www.paloaltoonline.com/news_features/2004_02_04.barber/index.shtml"
+    ]
    }
   },
   {
    "target": "Charmelle 28",
    "target_address": "547 Bryant St",
    "fields": {
-    "note": "Fine lingerie boutique that opened downtown in late 1993 as Gitti's Fine Lingerie and later took the name Charmelle 28. It was absorbed by Lingerie R\u00e9publique around 2019.",
+    "note": "Fine lingerie boutique that opened downtown in late 1993 as Gitti's Fine Lingerie and later took the name Charmelle 28. It was absorbed by Lingerie République around 2019.",
     "start": 1993,
     "end": 2019,
-    "approx": true
+    "approx": true,
+    "links": [
+     "https://www.lingeriepedia.com/charmelle28/",
+     "https://www.shoppaloalto.com/charmelle28"
+    ]
    }
   },
   {
@@ -566,7 +742,11 @@
    "fields": {
     "note": "Bank branch on the ground floor of the Palo Alto Office Center at University Ave and Cowper St; the bank leased the space from late 2001 and opened around 2002. Bridge Bank became part of Western Alliance Bank in 2015.",
     "start": 2002,
-    "approx": true
+    "approx": true,
+    "links": [
+     "http://pdf.secdatabase.com/318/0001092306-06-000537.pdf",
+     "https://occ.treas.gov/static/cra/craeval/Oct04/24129.pdf"
+    ]
    }
   },
   {
@@ -576,7 +756,12 @@
     "note": "Optometry practice and optical shop that has served Palo Alto since 1983, though it's not documented when it first opened at this address. It moved to 220 Hamilton Ave in 2026.",
     "start": 1983,
     "end": 2026,
-    "approx": true
+    "approx": true,
+    "links": [
+     "https://www.instagram.com/p/Dd61O_tCTNW/",
+     "https://www.paloaltoeyes.net/index.html",
+     "https://www.yelp.com/biz/palo-alto-eyes-optometry-palo-alto"
+    ]
    }
   },
   {
@@ -585,7 +770,11 @@
    "fields": {
     "note": "Bank branch in a building put up for Bank of America around 1974. The bank moved here in 1976 from 251 University Ave, where its predecessor, First National Bank, had merged with the Bank of Italy in 1928.",
     "start": 1976,
-    "approx": false
+    "approx": false,
+    "links": [
+     "https://www.connectcre.com/stories/blox-ventures-law-assoc-make-palo-alto-splash/",
+     "https://www.pastheritage.org/inv/invU/Univ251.html"
+    ]
    }
   },
   {
@@ -594,7 +783,11 @@
    "fields": {
     "note": "Hong Kong-style Cantonese restaurant, open since about 2005 according to business listings and a 2006 local review. Still open in 2026.",
     "start": 2005,
-    "approx": true
+    "approx": true,
+    "links": [
+     "https://outside-eats.com/restaurants/tai-pan",
+     "https://www.giftly.com/gift-card/tai-pan-palo-alto-3"
+    ]
    }
   },
   {
@@ -603,7 +796,12 @@
    "fields": {
     "note": "Israeli restaurant opened in 2011 by tech entrepreneur Oren Dobronsky and still open today. This was the first location of what became a small Bay Area chain.",
     "start": 2011,
-    "approx": false
+    "approx": false,
+    "links": [
+     "https://sf.eater.com/2018/7/9/17549230/orens-hummus-opens-sf-palo-alto-soma",
+     "https://www.linkedin.com/company/oren's-hummus-shop",
+     "https://www.paloaltoonline.com/uncategorized/2012/10/19/the-hummus-among-us/"
+    ]
    }
   },
   {
@@ -612,7 +810,11 @@
    "fields": {
     "note": "Parasol Beauty Atelier is a skin care, brow and permanent makeup studio. Business listings say it opened around November 2010, and it is still open.",
     "start": 2010,
-    "approx": true
+    "approx": true,
+    "links": [
+     "https://unilocal.net/united-states/palo-alto/parasol-beauty-atelier",
+     "https://www.yelp.com/biz/parasol-beauty-atelier-palo-alto"
+    ]
    }
   },
   {
@@ -622,7 +824,11 @@
     "note": "Bank branch, earlier the main office of The Stanford Bank (founded 1964), which merged into Union Bank in 1971. Later known as MUFG Union Bank, it became a U.S. Bank branch in 2023 after U.S. Bancorp bought Union Bank.",
     "start": 1971,
     "end": 2023,
-    "approx": true
+    "approx": true,
+    "links": [
+     "https://branchwatch.com/closing/mufg-union-bank-national-association-palo-alto-ca-2023-05-11",
+     "https://n2v.paloaltoonline.com/weekly/morguepdf/2005/2005_12_07.paw.section1.pdf"
+    ]
    }
   },
   {
@@ -631,7 +837,11 @@
    "fields": {
     "note": "Neighborhood bar and grill opened in 2009 by a longtime Empire Tap Room bartender, in space formerly used by Maddalena's and Cafe Fino. Still open.",
     "start": 2009,
-    "approx": false
+    "approx": false,
+    "links": [
+     "https://www.mercurynews.com/2013/06/28/cocktail-chronicles-scottys-bar-in-palo-alto/",
+     "https://www.scottysbarpa.com"
+    ]
    }
   },
   {
@@ -640,7 +850,11 @@
    "fields": {
     "note": "Women's clothing boutique, open today. The boutique says it was founded in 2005; it has been listed at this address since at least 2013.",
     "start": 2005,
-    "approx": true
+    "approx": true,
+    "links": [
+     "https://www.romiboutique.com/pages/about-us",
+     "https://www.yelp.com/biz/romi-boutique-palo-alto"
+    ]
    }
   },
   {
@@ -651,7 +865,11 @@
     "note": "Repair and restoration shop for car speedometers, tachometers, gauges and clocks, still open today. The business says it has been on Emerson Street since 1957.",
     "start": 1957,
     "category": "services",
-    "approx": true
+    "approx": true,
+    "links": [
+     "https://paspeedo.com/",
+     "https://www.hotrod.com/features/musclecar-restoration-parts-guide-august-1985-982-1252-55-1"
+    ]
    }
   },
   {
@@ -660,7 +878,12 @@
    "fields": {
     "note": "Yoga studio, still open. Listed at this address in local yoga-studio guides from 2007 and 2009; the studio says it has been in Palo Alto about 30 years, so it may have been here earlier.",
     "start": 2007,
-    "approx": true
+    "approx": true,
+    "links": [
+     "https://sabrinahuang.com/2007/11/07/the-top-40-sili/",
+     "https://www.metrosiliconvalley.com/the-yin-crowd/",
+     "https://yogasource.com/contact/"
+    ]
    }
   },
   {
@@ -669,7 +892,12 @@
    "fields": {
     "note": "Italian chain restaurant, open on Emerson Street by early 2003 and still open today; it may have opened around 2002.",
     "start": 2003,
-    "approx": true
+    "approx": true,
+    "links": [
+     "https://dineatbuca.com/locations/palo-alto/",
+     "https://opengovus.com/california-liquor/00383715",
+     "https://www.metroactive.com/papers/metro/02.20.03/dining-0308.html"
+    ]
    }
   },
   {
@@ -678,7 +906,10 @@
    "fields": {
     "note": "Shoe store run by Footwear Etc., open today. It is documented here by April 2011, when it hosted MBT shoe events, and may be older.",
     "start": 2011,
-    "approx": true
+    "approx": true,
+    "links": [
+     "https://tangodiva.com/2011/04/palo-alto-come-join-other-divas-and-win-some-mbt-shoes/"
+    ]
    }
   },
   {
@@ -687,7 +918,12 @@
    "fields": {
     "note": "Open today (bank). A photo shows Chase here by August 2010; the branch was a Washington Mutual in 2006 and probably became Chase after JPMorgan Chase took over that bank in 2008.",
     "start": 2010,
-    "approx": true
+    "approx": true,
+    "links": [
+     "https://banrox.com/banks/ca/palo-alto",
+     "https://www.almanacnews.com/cover-story/2006/04/19/almanacs-readers-choice-2006-picking-the-winners/",
+     "https://www.flickr.com/photos/sheenachi/4953045638/"
+    ]
    }
   },
   {
@@ -696,7 +932,11 @@
    "fields": {
     "note": "Boutique hotel that opened in May 2010 after a renovation of the former Palo Alto Hotel, a low-income residential hotel bought by new owners in 2008. Still open today.",
     "start": 2010,
-    "approx": false
+    "approx": false,
+    "links": [
+     "https://www.hotelexecutive.com/newswire/32397/hotel-keen-opens-may-2010-in-palo-alto-the-cutting-edge-of-comfort",
+     "https://www.paloaltoonline.com/news/2010/05/14/new-palo-alto-hotel-keen-on-hip-young-guests/"
+    ]
    }
   },
   {
@@ -705,7 +945,11 @@
    "fields": {
     "note": "Art gallery and frame shop, still open. It celebrated its 25th anniversary in 2025, so it opened around 2000.",
     "start": 2000,
-    "approx": true
+    "approx": true,
+    "links": [
+     "https://unilocal.co.uk/united-states/palo-alto/bryant-street-gallery",
+     "https://www.almanacnews.com/ae/2025/12/11/bryant-street-gallery-celebrates-a-silver-anniversary/"
+    ]
    }
   },
   {
@@ -714,7 +958,13 @@
    "fields": {
     "note": "Bed showroom, open today. State home-furnishings license records place it at 534 Bryant St from 1993.",
     "start": 1993,
-    "approx": true
+    "approx": true,
+    "links": [
+     "https://newfillmore.com/wp-content/uploads/2011/10/2011_11.pdf",
+     "https://www.buildzoom.com/contractor/dan-thomas-construction-ca",
+     "https://www.californialicensing.org/duxiana-of-palo-alto",
+     "https://www.duxiana.com/stores/1255/duxiana-california-palo-alto/"
+    ]
    }
   },
   {
@@ -723,7 +973,11 @@
    "fields": {
     "note": "Bank branch, still open today. Federal banking records list this branch as established in July 2002.",
     "start": 2002,
-    "approx": true
+    "approx": true,
+    "links": [
+     "https://www.crediohub.com/bank-branches/l/18126/palo-alto-pcs-branch",
+     "https://www.wheresmybank.com/branch-422544-wells-fargo-bank"
+    ]
    }
   },
   {
@@ -733,7 +987,11 @@
     "address": "453 Waverley St",
     "note": "Florist in a narrow pink building on Waverley Street, named Palo Alto's best florist in the Palo Alto Weekly's Best of 1994. It may be older, and the shop at this address and phone number is now also listed as Michaela's Flower Shop.",
     "start": 1994,
-    "approx": true
+    "approx": true,
+    "links": [
+     "https://www.paloaltoonline.com/morgue/cover/1994_Oct_12.BESTOF94.html",
+     "https://www.sanjose.com/florists/business-directory/south-bay/palo-alto"
+    ]
    }
   },
   {
@@ -742,7 +1000,11 @@
    "fields": {
     "note": "British pub that earlier ran under other tavern names and took the name The Rose & Crown in 1990; its painted trompe l'oeil facade dates to 1991. Still open.",
     "start": 1990,
-    "approx": false
+    "approx": false,
+    "links": [
+     "https://evendo.com/locations/california/menlo-park/attraction/the-rose-crown",
+     "https://nicolailarsen.com/resume1.html"
+    ]
    }
   },
   {
@@ -751,7 +1013,11 @@
    "fields": {
     "note": "Upscale Mexican restaurant that opened in early January 2009 in the former Caffe Verona space. It is still operating and opened a second location in San Mateo in 2026.",
     "start": 2009,
-    "approx": false
+    "approx": false,
+    "links": [
+     "https://www.casscaldersmith.com/restaurants/reposado",
+     "https://www.downtownpaloaltorestaurants.com/Rants+Raves/Entries/2008/12/31_Reposado_to_open_Monday_1_5"
+    ]
    }
   },
   {
@@ -760,7 +1026,11 @@
    "fields": {
     "note": "Family-run electrical shop in the 1897 house at 621 High St, the Reed family's home and shop from about the 1930s. It was listed in city directories from 1939, and the city's historic buildings inventory notes it was still an electric company in 1985.",
     "end": 1985,
-    "approx": true
+    "approx": true,
+    "links": [
+     "https://recordsportal.paloalto.gov/WebLink/DocView.aspx?id=62257&dbid=0&repo=PaloAlto",
+     "https://www.pastheritage.org/inv/invH/High621.html"
+    ]
    }
   },
   {
@@ -769,7 +1039,11 @@
    "fields": {
     "note": "Specialty shop in the arcade building at 532-536 Ramona. It appears in city directories from 1951 to 1963 and was still listed as a tenant in the building's 1985 historic inventory.",
     "end": 1985,
-    "approx": true
+    "approx": true,
+    "links": [
+     "https://www.paloaltoonline.com/uncategorized/2008/12/05/deaths-144/",
+     "https://www.pastheritage.org/inv/invR/Ramona532.html"
+    ]
    }
   },
   {
@@ -778,7 +1052,11 @@
    "fields": {
     "note": "Family jewelry store, listed here in city directories from 1951, which had earlier been at other University Ave addresses. The downtown store closed in early summer 2009 when the business consolidated into its Stanford Shopping Center and Los Altos stores.",
     "end": 2009,
-    "approx": true
+    "approx": true,
+    "links": [
+     "http://www.pahistory.org/talltree/TT-2020-07.pdf",
+     "https://www.paloaltoonline.com/news/2009/05/08/around-town-164/"
+    ]
    }
   },
   {
@@ -787,7 +1065,10 @@
    "fields": {
     "note": "Plumbing, heating and air conditioning shop, founded in 1895 on University Ave and later on Alma St. It was still there in 1995, its 100th year; directory listings since then appear under Palo Alto Plumbing and Dahl Plumbing.",
     "end": 1995,
-    "approx": true
+    "approx": true,
+    "links": [
+     "https://www.paloaltoonline.com/morgue/news/1995_Jul_26.PLUMBING.html"
+    ]
    }
   },
   {
@@ -805,7 +1086,11 @@
    "fields": {
     "note": "Coffee shop listed in Palo Alto city directories from 1946 to 1963. A 2013 obituary says a local owner ran the business downtown for 15 years from about 1980, so it likely lasted until about 1995.",
     "end": 1995,
-    "approx": true
+    "approx": true,
+    "links": [
+     "https://scarc.library.oregonstate.edu/coll/pauling/calendar/1956/05/index.html",
+     "https://www.paloaltoonline.com/uncategorized/2013/07/26/deaths-324/"
+    ]
    }
   },
   {
@@ -816,18 +1101,26 @@
     "note": "Mission Revival church designed by Elmer Grey, built in 1916 and dedicated in 1917; it held services until the congregation merged in 2006. The city named it a historic structure in 1978, and the building was later turned into offices.",
     "start": 1916,
     "end": 2006,
-    "approx": false
+    "approx": false,
+    "links": [
+     "https://www.paloaltoonline.com/news/2008/11/11/historic-palo-alto-church-will-become-offices/",
+     "https://www.pastheritage.org/inv/invB/Bryant/661bryant.html"
+    ]
    }
   },
   {
    "target": "Selix Formal Wear",
    "target_address": "164 University Ave",
    "fields": {
-    "note": "Tuxedo and formal wear shop, a few doors from its 1959\u20131963 location at 158 University Ave. It closed in February 2015 when the Selix chain went bankrupt and shut all six stores; when it moved here is unknown.",
+    "note": "Tuxedo and formal wear shop, a few doors from its 1959–1963 location at 158 University Ave. It closed in February 2015 when the Selix chain went bankrupt and shut all six stores; when it moved here is unknown.",
     "start": 2015,
     "end": 2015,
     "category": "retail",
-    "approx": true
+    "approx": true,
+    "links": [
+     "https://www.paloaltoonline.com/ae/2015/02/26/shop-talk-goodbye-selix-formal-wear-welcome-back-papa-murphys/",
+     "https://www.paloaltoonline.com/blogs/2016/09/13/opening-alert-creamistry-in-downtown-palo-alto/"
+    ]
    }
   },
   {
@@ -836,7 +1129,10 @@
    "fields": {
     "note": "Hardware and appliance store, listed at this address in city directories from 1954. It began on University Ave about 1947, later moved here, and closed in 1980, according to Palo Alto Online.",
     "end": 1980,
-    "approx": true
+    "approx": true,
+    "links": [
+     "https://www.paloaltoonline.com/weekly/morgue/news/1995_Dec_22.COUNCIL0.html"
+    ]
    }
   },
   {
@@ -845,7 +1141,11 @@
    "fields": {
     "note": "Pizza parlor and deli with an upstairs folk-music room, the Top of the Tangent, which opened in January 1963. It was still serving food and hosting live music in 1969; its closing date is unknown.",
     "end": 1969,
-    "approx": true
+    "approx": true,
+    "links": [
+     "https://lostlivedead.blogspot.com/2010/02/117-university-avenue-palo-alto-ca-top.html",
+     "https://rockprosopography101.blogspot.com/2020/07/palo-alto-psychedelic-rock-shows-1969.html"
+    ]
    }
   },
   {
@@ -862,9 +1162,13 @@
    "target": "Patagonia",
    "target_address": "525 Alma St",
    "fields": {
-    "note": "Outdoor clothing and gear store, still open, in a brick building that housed auto dealerships in the 1920s\u20131950s. A local news column places it on Alma St by early 2008, and it may have opened earlier.",
+    "note": "Outdoor clothing and gear store, still open, in a brick building that housed auto dealerships in the 1920s–1950s. A local news column places it on Alma St by early 2008, and it may have opened earlier.",
     "start": 2008,
-    "approx": true
+    "approx": true,
+    "links": [
+     "https://www.paloaltoonline.com/news/2008/01/16/shop-talk-37/",
+     "https://www.patagonia.com/stores/ca/palo-alto/525-alma-street/store_paloalto.html"
+    ]
    }
   }
  ]
