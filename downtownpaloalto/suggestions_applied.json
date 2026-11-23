@@ -878,6 +878,19 @@
     "https://www.paloaltoonline.com/best-of/1995/11/01/best-of-1995/",
     "https://www.paloaltoonline.com/news/2008/08/06/new-building-slated-for-university/"
    ]
+  },
+  {
+   "name": "Cafe Fino",
+   "address": "544 Emerson St",
+   "note": "Fred Maddalena's smaller art-deco nightclub next door to Maddalena's restaurant, sharing its kitchen and menu with live jazz, cabaret acts and tango lessons; it opened in 1989 and closed shortly after Maddalena's shut in May 2007.",
+   "start": 1989,
+   "end": 2007,
+   "category": "food",
+   "approx": true,
+   "links": [
+    "https://obituaries.paloaltoonline.com/obituaries/print/freddie-maddalena?o=4658",
+    "https://www.paloaltoonline.com/uncategorized/2006/02/24/decidedly-old-school/"
+   ]
   }
  ],
  "corrections": [

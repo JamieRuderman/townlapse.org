@@ -43,6 +43,9 @@ textarea{min-height:70px;resize:vertical}
 .msg{font-size:14px;color:var(--dim)}
 .msg.err{color:var(--pink)} .msg.ok{color:var(--green)}
 .hint{font-size:14px;color:var(--dim)}
+.aibox{margin-top:16px;border-top:1px solid var(--line);padding-top:14px}
+.aibox ol{margin:8px 0 0;padding-left:20px;display:grid;gap:10px}
+.aibox textarea{margin:8px 0;min-height:90px;background:var(--bg)}
 @media (max-width:600px){.grid2{grid-template-columns:1fr}}
 </style>
 </head>
@@ -117,9 +120,39 @@ function searchLinks(t) {
 }
 
 function aiPrompt(t) {
-  return `Help me research local history for Townlapse (townlapse.org), a map of ${town.name}${town.region ? ", " + town.region : ""}.
+  return `Help me research local history for Townlapse (townlapse.org), a free map of ${town.name}${town.region ? ", " + town.region : ""} that shows which places stood on each block, year by year.
+
 Assignment: ${t.assignment}
-Find street-level businesses or public places (shops, restaurants, theaters, banks, post offices, churches, clubs). For each one give: name, street address (number and street), the year it opened (or first year a source shows it), the year it closed (or last year a source shows it, or "still open"), and a link to a source you actually opened that supports it. Never guess or invent anything; if you can't find a source, say so.`;
+
+Look for street-level businesses or public places (shops, restaurants, theaters, banks, post offices, churches, clubs). Search the web and only include what a source you actually opened supports. Never guess or invent a place, address, year or link.
+
+First, briefly explain what you found. Then end your answer with a JSON block in exactly this format (an empty list [] if you found nothing you can source):
+
+\`\`\`json
+[{"name": "Place name", "address": "123 Main St", "start": 1955, "end": 1972, "category": "food", "source": "https://link-you-opened", "note": "One factual sentence."}]
+\`\`\`
+
+Use "end": null if it's still open. category is one of: food, retail, services, entertainment, hotel, fitness, civic, worship, community, landmark.`;
+}
+
+// read an AI assistant's answer (JSON block, or a bare JSON list) into the form
+function fillFromAi(text) {
+  const blocks = [...text.matchAll(/```(?:json)?\s*([\s\S]*?)```/gi)].map(m => m[1]);
+  const cand = blocks.length ? blocks : [(text.match(/\[[\s\S]*\]/) || [""])[0]];
+  let items = null;
+  for (const c of cand.reverse()) { try { const v = JSON.parse(c.trim()); if (Array.isArray(v)) { items = v; break; } } catch {} }
+  if (!items) return { ok: false, msg: "Couldn't find the JSON list in that answer. Ask your assistant to end with the JSON block." };
+  items = items.filter(x => x && x.name).slice(0, 5);
+  if (!items.length) return { ok: true, n: 0, msg: "Your assistant didn't find anything it could source. That's useful too: note what it searched and finish the assignment." };
+  $("entries").innerHTML = "";
+  items.forEach(() => addRow());
+  [...$("entries").querySelectorAll(".entry")].forEach((d, i) => {
+    const x = items[i], set = (k, v) => { const e = d.querySelector(`[name=${k}]`); if (e && v != null && v !== "") e.value = v; };
+    set("name", x.name); set("address", x.address); set("start", x.start); set("end", x.end);
+    if (CATS.some(([v]) => v === x.category)) set("category", x.category);
+    set("source", Array.isArray(x.sources) ? x.sources[0] : x.source); set("note", x.note);
+  });
+  return { ok: true, n: items.length, msg: `Filled ${items.length} place${items.length > 1 ? "s" : ""} from your assistant's answer. Check each one (open the source!), then submit.` };
 }
 
 $("getTask").onclick = getTask;
@@ -137,9 +170,16 @@ function renderTask() {
   $("assign").innerHTML = `<div class="card"><p class="task">${esc(task.assignment)}</p>
     <div class="chips">${searchLinks(task).map(([l, u]) => `<a href="${esc(u)}" target="_blank" rel="noopener">${esc(l)} ↗</a>`).join("")}</div>
     ${known.length ? `<p class="known"><b>Already on the map:</b> ${known.map(k => esc(k.name)).join(", ")}${(task.already_on_map || []).length > 12 ? "…" : ""}</p>` : `<p class="known">Nothing on the map here yet.</p>`}
-    <div class="row"><button type="button" class="ghost" id="copyAi">Copy as a prompt for your AI assistant</button><span class="msg" id="copyMsg"></span></div>
+    <div class="aibox"><b>Use your AI assistant</b>
+      <ol><li><button type="button" class="ghost" id="copyAi">Copy the assignment as a prompt</button> <span class="msg" id="copyMsg"></span></li>
+      <li>Paste it into ChatGPT, Claude, Grok, Gemini or another assistant with web search.</li>
+      <li>Paste its whole answer here, and the form fills itself in:
+        <textarea id="aiAnswer" placeholder="Paste your assistant's answer…" aria-label="Your AI assistant's answer"></textarea>
+        <button type="button" id="aiFill">Fill the form</button> <span class="msg" id="aiMsg" aria-live="polite"></span></li></ol></div>
     <p class="hint" style="margin:10px 0 0">Reserved for you for ${task.lease_hours || 3} hours.</p></div>`;
-  $("copyAi").onclick = async () => { try { await navigator.clipboard.writeText(aiPrompt(task)); $("copyMsg").textContent = "Copied. Paste it into ChatGPT, Claude, Grok or another assistant, then add what checks out below."; } catch { $("copyMsg").textContent = "Couldn't copy; select the assignment text instead."; } };
+  $("copyAi").onclick = async () => { try { await navigator.clipboard.writeText(aiPrompt(task)); $("copyMsg").textContent = "Copied!"; } catch { $("copyMsg").textContent = "Couldn't copy here; select the assignment text instead."; } };
+  $("aiFill").onclick = () => { const r = fillFromAi($("aiAnswer").value); $("aiMsg").textContent = r.msg; $("aiMsg").className = "msg " + (r.ok ? "ok" : "err");
+    if (r.n) $("addSec").scrollIntoView({ behavior: "smooth", block: "start" }); };
   $("entries").innerHTML = ""; addRow(); $("addSec").hidden = false; $("doneSec").hidden = false; $("doneNote").value = "";
   if (task.kind === "back" || task.kind === "fwd") { const f = $("entries").querySelector(".entry"); f.querySelector("[name=name]").value = task.place.name; f.querySelector("[name=address]").value = /^\d/.test(task.place.address) ? task.place.address : ""; }
 }
