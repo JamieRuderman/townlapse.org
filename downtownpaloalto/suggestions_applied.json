@@ -760,6 +760,19 @@
     "https://theclio.com/api/v1/entries/184106/export",
     "https://www.paloaltoonline.com/real-estate/2023/07/03/where-to-spot-palo-alto-architect-birge-clarks-iconic-early-california-style/"
    ]
+  },
+  {
+   "name": "The Photographer's Gallery",
+   "address": "732 Emerson St",
+   "note": "Fine art photography gallery at 732 Emerson St for 13 years; owner Amy Saret moved it to 536 Ramona St on Aug. 1, 1995, and the women's clothing store Virtuelle took over the Emerson space that October.",
+   "start": 1982,
+   "end": 1995,
+   "category": "retail",
+   "approx": true,
+   "links": [
+    "https://www.paloaltoonline.com/morgue/news/1995_Jul_12.SHOP12.html",
+    "https://www.paloaltoonline.com/morgue/news/1995_Oct_4.SHOP04.html"
+   ]
   }
  ],
  "corrections": [
