@@ -121,7 +121,8 @@ footer nav{display:flex;gap:18px;flex-wrap:wrap}
           <a class="btn" href="/downtownpaloalto/">Open the map</a>
         </div>
       </div>
-      <div class="yours">Your town could be next. <a href="#start">Start one</a>, then <a href="https://github.com/unotdys/townlapse/issues/new?title=Add%20my%20town%3A%20&labels=new-town">tell us about it</a> and we'll list it here.</div>
+      <div id="moreTowns"></div>
+      <div class="yours">Your town could be next. <a href="#start">Start one</a>, then add it to <a href="https://github.com/unotdys/townlapse.org/blob/main/towns.json">towns.json</a> with a pull request (or <a href="https://github.com/unotdys/townlapse.org/issues/new?title=Add%20my%20town%3A%20">tell us about it</a>), and it gets its own address: townlapse.org/<i>yourtown</i>.</div>
     </section>
 
     <section aria-labelledby="start" id="start">
@@ -157,6 +158,14 @@ footer nav{display:flex;gap:18px;flex-wrap:wrap}
   </footer>
 </div>
 <script>
+// other towns from the registry (towns.json); Palo Alto is featured above
+fetch("/towns.json",{cache:"no-cache"}).then(r=>r.json()).then(reg=>{
+  const esc=t=>String(t||"").replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+  const others=(reg.towns||[]).filter(t=>t.slug!=="downtownpaloalto");
+  document.getElementById("moreTowns").innerHTML=others.map(t=>`<div class="town" style="margin-top:16px;grid-template-columns:1fr">
+    <div><h3>${esc(t.name)}${t.region?", "+esc(t.region):""}</h3><p>${esc(t.blurb||"")}</p>
+    <a class="btn" href="/${esc(t.slug)}/">Open the map</a> <span style="color:var(--dim);font-size:14px;margin-left:10px">townlapse.org/${esc(t.slug)}</span></div></div>`).join("");
+}).catch(()=>{});
 // decade ticks with a little bar chart, echoing the map's timeline
 (function(){
   const r=document.getElementById("ruler"), start=1900, end=new Date().getFullYear();

@@ -1,0 +1,21 @@
+{
+ "_readme": "Townlapse town registry. Add one entry per town (a pull request is welcome). 'slug' becomes townlapse.org/<slug>; 'url' is where the town's map lives (here, or on its own domain).",
+ "towns": [
+  {
+   "slug": "downtownpaloalto",
+   "name": "Downtown Palo Alto",
+   "region": "California",
+   "url": "https://townlapse.org/downtownpaloalto/",
+   "since": 1900,
+   "repo": "https://github.com/unotdys/townlapse.org",
+   "image": "/img/map.jpg",
+   "blurb": "1900 to today. More than 2,000 places, from the 1904 city directory and decades of phone books to today's shops, plus the ones neighbors remembered."
+  },
+  {
+   "slug": "routertest",
+   "name": "Router test",
+   "url": "https://example.com/townmap/",
+   "blurb": "temporary"
+  }
+ ]
+}

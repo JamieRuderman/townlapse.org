@@ -1,0 +1,20 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Townlapse</title>
+<style>body{margin:0;background:#1C2629;color:#F3EEE3;font:17px/1.6 system-ui,sans-serif;display:grid;place-items:center;min-height:100vh;padding:24px;text-align:center}a{color:#EBC55A}</style>
+</head><body><div id="m">Finding that town…</div>
+<script>
+// townlapse.org/<slug>[/...][#year] -> the town's own site, from towns.json. Unknown slug -> a friendly not-found.
+(async () => {
+  const slug = location.pathname.split("/").filter(Boolean)[0] || "";
+  try {
+    const reg = await (await fetch("/towns.json", {cache: "no-cache"})).json();
+    const t = (reg.towns || []).find(x => x.slug.toLowerCase() === slug.toLowerCase());
+    if (t && !t.url.startsWith(location.origin + "/" + t.slug)) {
+      const rest = location.pathname.split("/").slice(2).join("/");
+      location.replace(t.url.replace(/\/?$/, "/") + rest + location.search + location.hash); return;
+    }
+  } catch (e) {}
+  document.getElementById("m").innerHTML = 'No town lives at <b>/' + slug.replace(/[<>&"]/g, "") + '</b> yet. <a href="/">See all towns</a>, or <a href="/#start">start one</a>.';
+})();
+</script></body></html>
