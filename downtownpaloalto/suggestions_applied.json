@@ -386,6 +386,15 @@
     "start": 1978,
     "approx": true
    }
+  },
+  {
+   "target": "Bistro Maxine",
+   "target_address": "548 Ramona St",
+   "fields": {
+    "note": "French crepe cafe serving sweet and savory crepes, salads and sandwiches. Palo Alto Online reported it opening in June 2006, and it is still open.",
+    "start": 2006,
+    "approx": false
+   }
   }
  ]
 }
