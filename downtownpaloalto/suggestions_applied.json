@@ -155,6 +155,15 @@
    "end": 2010,
    "category": "food",
    "approx": true
+  },
+  {
+   "name": "University AME Zion Church",
+   "address": "819 Ramona St",
+   "note": "Palo Alto's oldest Black church, founded in 1918, worshipped in this building from its dedication in 1925 until moving to Middlefield Road around 1965. The preserved building later became part of a commercial development.",
+   "start": 1925,
+   "end": 1965,
+   "category": "landmark",
+   "approx": true
   }
  ],
  "corrections": [
