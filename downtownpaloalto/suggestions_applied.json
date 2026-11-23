@@ -422,6 +422,16 @@
     "start": 2003,
     "approx": true
    }
+  },
+  {
+   "target": "Letter Perfect",
+   "target_address": "394 University Ave",
+   "fields": {
+    "address": "384 University Ave",
+    "note": "Fine stationery and gift shop, open today. Business listings say it has been independently owned and operated since 1982; it may not have been at this address the whole time.",
+    "start": 1982,
+    "approx": true
+   }
   }
  ]
 }
