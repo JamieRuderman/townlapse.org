@@ -427,6 +427,20 @@
     "https://www.opentable.com/r/st-michaels-alley-palo-alto?corrid=6e9b242a-d08f-479f-8f7f-db5508db88bd&avt=eyJ2IjoyLCJtIjoxLCJwIjowLCJzIjowLCJuIjowfQ",
     "https://www.paloaltoonline.com/cover-story/2011/08/19/and-the-winners-are-2/"
    ]
+  },
+  {
+   "name": "House of Bagels",
+   "address": "526 University Ave",
+   "note": "A bagel shop on University Avenue that appeared in Palo Alto Weekly's Best Of winners lists. In late January 2015, after 27 years in business, its owner moved it to Edgewood Plaza on Embarcadero Road.",
+   "start": 2004,
+   "end": 2015,
+   "category": "food",
+   "approx": true,
+   "links": [
+    "https://www.paloaltoonline.com/cover-story/2012/08/17/best-of-palo-alto-2012-winners-list/",
+    "https://www.paloaltoonline.com/neighborhoods/2015/02/27/a-gathering-place-again-formerly-derelict-edgewood-plaza-shopping-center-finds-new-life-2/",
+    "https://www.paloaltoonline.com/wp-content/uploads/2024/03/2004_07_28.paw_.section2.pdf"
+   ]
   }
  ],
  "corrections": [

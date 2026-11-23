@@ -1270,6 +1270,36 @@
   ]
  },
  {
+  "name": "House of Bagels",
+  "address": "526 University Ave",
+  "start": 2004,
+  "end": 2015,
+  "category": "food",
+  "approx": true,
+  "note": "A bagel shop on University Avenue that appeared in Palo Alto Weekly's Best Of winners lists. In late January 2015, after 27 years in business, its owner moved it to Edgewood Plaza on Embarcadero Road. Palo Alto Online's Peninsula Foodist reported it closing in 2015.",
+  "lat": 37.4486197,
+  "lng": -122.1587603,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://www.paloaltoonline.com/wp-content/uploads/2024/03/2004_07_28.paw_.section2.pdf",
+    "kind": "Ad / newspaper"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/cover-story/2012/08/17/best-of-palo-alto-2012-winners-list/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/neighborhoods/2015/02/27/a-gathering-place-again-formerly-derelict-edgewood-plaza-shopping-center-finds-new-life-2/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/peninsula-foodist/2015/12/07/chinese-restaurant-to-open-at-edgewood-plaza-in-palo-alto/",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Nola's",
   "address": "535 Ramona St",
   "start": 1996,
@@ -2221,14 +2251,20 @@
  {
   "name": "Joe & The Juice",
   "address": "240 Hamilton Ave",
-  "start": 2019,
+  "start": 2018,
   "end": null,
   "category": "food",
-  "approx": true,
+  "approx": false,
   "source": "osm",
-  "note": "Open today (cafe). Listed in OpenStreetMap; first mapped in 2019, which is roughly when it opened.",
+  "note": "Open today (cafe). Listed in OpenStreetMap; first mapped in 2019, which is roughly when it opened. Palo Alto Online's Peninsula Foodist reported it opening in 2018.",
   "lat": 37.4443528,
-  "lng": -122.1609464
+  "lng": -122.1609464,
+  "links": [
+   {
+    "url": "https://www.paloaltoonline.com/peninsula-foodist/2017/08/03/joe-the-juice-is-headed-to-palo-alto/",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Sephora",
@@ -2475,20 +2511,14 @@
  {
   "name": "Joe & The Juice",
   "address": "508 University Ave",
-  "start": 2018,
+  "start": 2019,
   "end": null,
   "category": "food",
-  "approx": false,
+  "approx": true,
   "source": "osm",
-  "note": "Open today (cafe). Listed in OpenStreetMap; first mapped in 2019, which is roughly when it opened. Palo Alto Online's Peninsula Foodist reported it opening in 2018.",
+  "note": "Open today (cafe). Listed in OpenStreetMap; first mapped in 2019, which is roughly when it opened.",
   "lat": 37.4484574,
-  "lng": -122.1588997,
-  "links": [
-   {
-    "url": "https://www.paloaltoonline.com/peninsula-foodist/2017/08/03/joe-the-juice-is-headed-to-palo-alto/",
-    "kind": "Article"
-   }
-  ]
+  "lng": -122.1588997
  },
  {
   "name": "HSBC",
@@ -24686,24 +24716,6 @@
   "category": "food"
  },
  {
-  "name": "House Of Bagels",
-  "address": "526 University Ave",
-  "lat": 37.4484744,
-  "lng": -122.1586759,
-  "start": 2013,
-  "end": 2015,
-  "approx": true,
-  "source": "osm-history",
-  "note": "Restaurant. On OpenStreetMap 2013\u20132017; actual years open may differ. Palo Alto Online's Peninsula Foodist reported it closing in 2015.",
-  "category": "food",
-  "links": [
-   {
-    "url": "https://www.paloaltoonline.com/peninsula-foodist/2015/12/07/chinese-restaurant-to-open-at-edgewood-plaza-in-palo-alto/",
-    "kind": "Article"
-   }
-  ]
- },
- {
   "name": "Krung Siam",
   "address": "address not listed",
   "lat": 37.4475531,
@@ -27055,14 +27067,14 @@
  },
  {
   "name": "Coupa Cafe",
-  "address": "Ramona St",
+  "address": "111 Lytton Ave",
   "start": 2004,
   "end": 2004,
   "category": "food",
   "approx": true,
   "source": "news",
-  "lat": 37.4455052,
-  "lng": -122.1625455,
+  "lat": 37.4445426,
+  "lng": -122.1652665,
   "links": [
    {
     "url": "https://www.paloaltoonline.com/peninsula-foodist/2016/01/26/now-open-second-coupa-cafe-in-palo-alto/",
