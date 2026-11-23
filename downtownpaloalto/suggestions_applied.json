@@ -1562,6 +1562,22 @@
      "https://www.paloaltoonline.com/uncategorized/2011/07/22/shop-talk-92/"
     ]
    }
+  },
+  {
+   "target": "Sam's Barber Shop",
+   "target_address": "495 Lytton Ave",
+   "fields": {
+    "name": "Sam's Barber Styling Shop",
+    "note": "Neighborhood barbershop on the 400 block of Lytton Ave near Cowper St, opened by barber Sam Sanchez on July 13, 1967. It was still operating at the same address decades later.",
+    "start": 1967,
+    "approx": false,
+    "links": [
+     "https://n2v.paloaltoonline.com/square/2006/06/26/whos-the-best-barber",
+     "https://startpage.mapquest.com/us/california/sams-barber-styling-shop-11802180",
+     "https://www.groupon.com/biz/palo-alto-ca/sams-barber-styling-shop",
+     "https://www.paloaltoonline.com/morgue/page4/1999_Apr_7.TOWN07.html"
+    ]
+   }
   }
  ]
 }

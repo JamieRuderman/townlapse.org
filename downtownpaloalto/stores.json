@@ -3332,16 +3332,34 @@
   ]
  },
  {
-  "name": "Sam's Barber Shop",
+  "name": "Sam's Barber Styling Shop",
   "address": "495 Lytton Ave",
-  "start": 2013,
+  "start": 1967,
   "end": null,
   "category": "services",
-  "approx": true,
+  "approx": false,
   "source": "osm",
-  "note": "Open today (hairdresser). Listed in OpenStreetMap; on the map since at least 2013; it may be much older.",
+  "note": "Neighborhood barbershop on the 400 block of Lytton Ave near Cowper St, opened by barber Sam Sanchez on July 13, 1967. It was still operating at the same address decades later.",
   "lat": 37.4490636,
-  "lng": -122.1607465
+  "lng": -122.1607465,
+  "links": [
+   {
+    "url": "https://n2v.paloaltoonline.com/square/2006/06/26/whos-the-best-barber",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.groupon.com/biz/palo-alto-ca/sams-barber-styling-shop",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/morgue/page4/1999_Apr_7.TOWN07.html",
+    "kind": "Article"
+   },
+   {
+    "url": "https://startpage.mapquest.com/us/california/sams-barber-styling-shop-11802180",
+    "kind": "Listing"
+   }
+  ]
  },
  {
   "name": "Gong Cha",
