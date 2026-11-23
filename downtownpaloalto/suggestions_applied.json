@@ -1624,6 +1624,20 @@
      "https://www.paloaltoonline.com/news/2021/03/07/end-of-an-era-garden-court-hotel-now-el-prado-hotel/"
     ]
    }
+  },
+  {
+   "target": "Pizza My Heart",
+   "target_address": "220 University Ave",
+   "fields": {
+    "note": "Slice shop from the Santa Cruz-area chain that took over the former Pizza A Go-Go spot on University Ave; members of local history groups remember it there by 2011, and it may be older. Still open at this address.",
+    "start": 2011,
+    "approx": true,
+    "links": [
+     "https://compulsivemasticator.blogspot.com/2009/07/pizza-my-heart-slice-of-life.html",
+     "https://www.pizzamyheart.com/location/-pizza-my-heart-palo-alto/",
+     "https://www.sfgate.com/restaurants/diningout/article/DINING-Pizz-a-Chicago-s-offerings-rise-above-2865471.php"
+    ]
+   }
   }
  ]
 }

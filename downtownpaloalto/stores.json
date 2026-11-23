@@ -3154,14 +3154,28 @@
  {
   "name": "Pizza My Heart",
   "address": "220 University Ave",
-  "start": 2013,
+  "start": 2011,
   "end": null,
   "category": "food",
   "approx": true,
   "source": "osm",
-  "note": "Open today (restaurant). Listed in OpenStreetMap; on the map since at least 2013; it may be much older.",
+  "note": "Slice shop from the Santa Cruz-area chain that took over the former Pizza A Go-Go spot on University Ave; members of local history groups remember it there by 2011, and it may be older. Still open at this address.",
   "lat": 37.444827,
-  "lng": -122.1623118
+  "lng": -122.1623118,
+  "links": [
+   {
+    "url": "https://compulsivemasticator.blogspot.com/2009/07/pizza-my-heart-slice-of-life.html",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.pizzamyheart.com/location/-pizza-my-heart-palo-alto/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.sfgate.com/restaurants/diningout/article/DINING-Pizz-a-Chicago-s-offerings-rise-above-2865471.php",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "7-Eleven",
@@ -27560,14 +27574,14 @@
  },
  {
   "name": "Coupa Cafe",
-  "address": "Ramona St",
+  "address": "111 Lytton Ave",
   "start": 2004,
   "end": 2004,
   "category": "food",
   "approx": true,
   "source": "news",
-  "lat": 37.4455052,
-  "lng": -122.1625455,
+  "lat": 37.4445426,
+  "lng": -122.1652665,
   "links": [
    {
     "url": "https://www.paloaltoonline.com/peninsula-foodist/2016/01/26/now-open-second-coupa-cafe-in-palo-alto/",
