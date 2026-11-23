@@ -200,6 +200,15 @@
     "approx": false,
     "note": "Bay Area sandwich chain. Its owner took over the former John's Cafe lease in 2015, but city approvals delayed the opening until November 27, 2018."
    }
+  },
+  {
+   "target": "Darbar Indian Cuisine",
+   "target_address": "129 Lytton Ave",
+   "fields": {
+    "note": "Indian restaurant serving north and south Indian dishes, with a weekday lunch buffet. A 2007 review says the owner opened his Palo Alto storefront in 1995, and it was at this address by 2007; still open today.",
+    "start": 1995,
+    "approx": true
+   }
   }
  ]
 }
