@@ -852,6 +852,19 @@
     "https://www.paloaltoonline.com/morgue/news/1995_Oct_4.around_town.html",
     "https://www.paloaltoonline.com/morgue/restaurants/1995_Apr_7.EATOUT07.html"
    ]
+  },
+  {
+   "name": "World Wrapps",
+   "address": "201 University Ave",
+   "note": "Wrap and smoothie restaurant, a branch of a San Francisco chain, that was planned for the former Max's Eatz corner space in October 1995. It was listed here in a 1996 local food guide, but its exact opening and closing years are unknown.",
+   "start": 1996,
+   "end": 1996,
+   "category": "food",
+   "approx": true,
+   "links": [
+    "https://www.metroactive.com/papers/metro/09.19.96/cover/best-food-9638.html",
+    "https://www.paloaltoonline.com/morgue/news/1995_Oct_4.around_town.html"
+   ]
   }
  ],
  "corrections": [

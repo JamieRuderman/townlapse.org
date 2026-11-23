@@ -2054,6 +2054,28 @@
   ]
  },
  {
+  "name": "World Wrapps",
+  "address": "201 University Ave",
+  "start": 1996,
+  "end": 1996,
+  "category": "food",
+  "approx": true,
+  "note": "Wrap and smoothie restaurant, a branch of a San Francisco chain, that was planned for the former Max's Eatz corner space in October 1995. It was listed here in a 1996 local food guide, but its exact opening and closing years are unknown.",
+  "lat": 37.444891,
+  "lng": -122.1628987,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://www.metroactive.com/papers/metro/09.19.96/cover/best-food-9638.html",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/morgue/news/1995_Oct_4.around_town.html",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Nola's",
   "address": "535 Ramona St",
   "start": 1996,
@@ -3758,20 +3780,14 @@
  {
   "name": "Gong Cha",
   "address": "439 Waverley St",
-  "start": 2015,
+  "start": 2017,
   "end": null,
   "category": "food",
-  "approx": false,
+  "approx": true,
   "source": "osm",
-  "note": "Open today (cafe). Listed in OpenStreetMap; first mapped in 2017, which is roughly when it opened. Palo Alto Online's Peninsula Foodist reported it opening in 2015.",
+  "note": "Open today (cafe). Listed in OpenStreetMap; first mapped in 2017, which is roughly when it opened.",
   "lat": 37.4477131,
-  "lng": -122.1607332,
-  "links": [
-   {
-    "url": "https://www.paloaltoonline.com/peninsula-foodist/2015/01/06/another-milk-tea-chain-setting-up-shop-in-palo-alto/",
-    "kind": "Article"
-   }
-  ]
+  "lng": -122.1607332
  },
  {
   "name": "Scotty's",
@@ -27713,6 +27729,24 @@
    }
   ],
   "note": "Panini and coffee cafe that took over the former Lytton Roasting Company corner in 2012; it closed in January 2015 after three years."
+ },
+ {
+  "name": "Gong Cha",
+  "address": "429 Waverley St",
+  "start": 2015,
+  "end": 2015,
+  "category": "food",
+  "approx": true,
+  "source": "news",
+  "lat": 37.4476333,
+  "lng": -122.1610727,
+  "links": [
+   {
+    "url": "https://www.paloaltoonline.com/peninsula-foodist/2015/01/06/another-milk-tea-chain-setting-up-shop-in-palo-alto/",
+    "kind": "Article"
+   }
+  ],
+  "note": "Milk tea shop. Palo Alto Online's Peninsula Foodist reported it opening in 2015. Later status unknown."
  },
  {
   "name": "B+B",
