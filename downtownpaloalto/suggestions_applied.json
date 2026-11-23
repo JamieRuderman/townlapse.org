@@ -46,13 +46,13 @@
    "note": "Cozy Mediterranean-leaning cafe and restaurant across Hamilton from the Chase bank, known for dishes like gazpacho and house-made cheesecake. In the Palo Alto Weekly's dining listings from at least 2006 to 2008; Curry Up Now later took over the space. Exact years not yet confirmed."
   },
   {
-   "name": "Good Earth Restaurant and Bakery",
-   "address": "185 University Ave",
-   "note": "Health-food restaurant and bakery from a national chain. It opened in March 1976 in the former House of Pies building and closed in 2001 when the owner retired.",
-   "start": 1976,
-   "end": 2001,
-   "category": "food",
-   "approx": false
+   "name": "Tallman's House of Foam",
+   "address": "150 Hamilton Ave",
+   "note": "A longtime downtown foam shop that sold foam and made custom cases. Owner Bob Tallman took it over in the 1970s, and it quietly closed in early January 2020.",
+   "start": 1970,
+   "end": 2020,
+   "category": "retail",
+   "approx": true
   }
  ],
  "corrections": [
