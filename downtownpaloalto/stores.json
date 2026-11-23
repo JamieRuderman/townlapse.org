@@ -1322,6 +1322,28 @@
   ]
  },
  {
+  "name": "Maddalena's",
+  "address": "544 Emerson St",
+  "start": 1976,
+  "end": 2007,
+  "category": "food",
+  "approx": true,
+  "note": "Elegant white-tablecloth Continental restaurant at 544 Emerson St. Fred Maddalena took over the former Golden Dragon space in 1976 and ran it for 31 years; it served its last meal on May 19, 2007 after the landlord did not renew the lease.",
+  "lat": 37.444003,
+  "lng": -122.1620827,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://obituaries.paloaltoonline.com/obituaries/memorials/freddie-maddalena?o=4658",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/news/2007/05/09/shop-talk-19/",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Nola's",
   "address": "535 Ramona St",
   "start": 1996,
@@ -2978,20 +3000,14 @@
  {
   "name": "Gong Cha",
   "address": "439 Waverley St",
-  "start": 2015,
+  "start": 2017,
   "end": null,
   "category": "food",
-  "approx": false,
+  "approx": true,
   "source": "osm",
-  "note": "Open today (cafe). Listed in OpenStreetMap; first mapped in 2017, which is roughly when it opened. Palo Alto Online's Peninsula Foodist reported it opening in 2015.",
+  "note": "Open today (cafe). Listed in OpenStreetMap; first mapped in 2017, which is roughly when it opened.",
   "lat": 37.4477131,
-  "lng": -122.1607332,
-  "links": [
-   {
-    "url": "https://www.paloaltoonline.com/peninsula-foodist/2015/01/06/another-milk-tea-chain-setting-up-shop-in-palo-alto/",
-    "kind": "Article"
-   }
-  ]
+  "lng": -122.1607332
  },
  {
   "name": "Scotty's",
@@ -26917,6 +26933,24 @@
   "note": "Panini and coffee cafe that took over the former Lytton Roasting Company corner in 2012; it closed in January 2015 after three years."
  },
  {
+  "name": "Gong Cha",
+  "address": "429 Waverley St",
+  "start": 2015,
+  "end": 2015,
+  "category": "food",
+  "approx": true,
+  "source": "news",
+  "lat": 37.4476333,
+  "lng": -122.1610727,
+  "links": [
+   {
+    "url": "https://www.paloaltoonline.com/peninsula-foodist/2015/01/06/another-milk-tea-chain-setting-up-shop-in-palo-alto/",
+    "kind": "Article"
+   }
+  ],
+  "note": "Milk tea shop. Palo Alto Online's Peninsula Foodist reported it opening in 2015. Later status unknown."
+ },
+ {
   "name": "B+B",
   "address": "420 Ramona St",
   "start": 2015,
@@ -27098,14 +27132,14 @@
  },
  {
   "name": "Coupa Cafe",
-  "address": "Ramona St",
+  "address": "111 Lytton Ave",
   "start": 2004,
   "end": 2004,
   "category": "food",
   "approx": true,
   "source": "news",
-  "lat": 37.4455052,
-  "lng": -122.1625455,
+  "lat": 37.4445426,
+  "lng": -122.1652665,
   "links": [
    {
     "url": "https://www.paloaltoonline.com/peninsula-foodist/2016/01/26/now-open-second-coupa-cafe-in-palo-alto/",

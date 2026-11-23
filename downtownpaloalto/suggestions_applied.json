@@ -454,6 +454,19 @@
     "https://www.paloaltoonline.com/morgue/restaurants/1998_Dec_18.EATS18.html",
     "https://www.paloaltoonline.com/uncategorized/2010/05/14/shop-talk-71/"
    ]
+  },
+  {
+   "name": "Maddalena's",
+   "address": "544 Emerson St",
+   "note": "Elegant white-tablecloth Continental restaurant at 544 Emerson St. Fred Maddalena took over the former Golden Dragon space in 1976 and ran it for 31 years; it served its last meal on May 19, 2007 after the landlord did not renew the lease.",
+   "start": 1976,
+   "end": 2007,
+   "category": "food",
+   "approx": true,
+   "links": [
+    "https://obituaries.paloaltoonline.com/obituaries/memorials/freddie-maddalena?o=4658",
+    "https://www.paloaltoonline.com/news/2007/05/09/shop-talk-19/"
+   ]
   }
  ],
  "corrections": [
