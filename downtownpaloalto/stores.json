@@ -2374,6 +2374,28 @@
   ]
  },
  {
+  "name": "Bangkok Cuisine",
+  "address": "407 Lytton Ave",
+  "start": 1993,
+  "end": 2001,
+  "category": "food",
+  "approx": true,
+  "note": "Small Thai restaurant on Lytton Avenue, reviewed by the Palo Alto Weekly in December 1993. It was still in the Weekly's restaurant listings in May 2001, and its actual opening and closing years may differ.",
+  "lat": 37.4481658,
+  "lng": -122.1616802,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://www.paloaltoonline.com/morgue/2001/2001_05_11.minis001.html",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/morgue/restaurants/1996_Feb_7.mini_reviews.html",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Nola's",
   "address": "535 Ramona St",
   "start": 1996,
