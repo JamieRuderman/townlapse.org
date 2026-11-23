@@ -311,6 +311,14 @@
     "end": 2026,
     "approx": false
    }
+  },
+  {
+   "target": "Lytton Cleaners",
+   "target_address": "near Lytton Ave",
+   "fields": {
+    "address": "489 Lytton Ave",
+    "note": "Dry cleaner at 489 Lytton Ave, still open today. It has been on the map since at least 2013 and may be much older."
+   }
   }
  ]
 }
