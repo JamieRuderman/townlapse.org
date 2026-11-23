@@ -599,6 +599,15 @@
     "start": 2010,
     "approx": false
    }
+  },
+  {
+   "target": "Bryant Street Gallery",
+   "target_address": "532 Bryant St",
+   "fields": {
+    "note": "Art gallery and frame shop, still open. It celebrated its 25th anniversary in 2025, so it opened around 2000.",
+    "start": 2000,
+    "approx": true
+   }
   }
  ]
 }
