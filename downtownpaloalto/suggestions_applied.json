@@ -488,6 +488,15 @@
     "start": 1976,
     "approx": false
    }
+  },
+  {
+   "target": "Tai Pan",
+   "target_address": "560 Waverley St",
+   "fields": {
+    "note": "Hong Kong-style Cantonese restaurant, open since about 2005 according to business listings and a 2006 local review. Still open in 2026.",
+    "start": 2005,
+    "approx": true
+   }
   }
  ]
 }
