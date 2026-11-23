@@ -691,6 +691,20 @@
     "https://pcad.lib.washington.edu/building/2956/",
     "https://www.paloaltoonline.com/news/2011/07/08/palo-altos-first-public-library/"
    ]
+  },
+  {
+   "name": "Chimera Books and Music",
+   "address": "405 Kipling St",
+   "note": "Used bookstore in an 1897 house, listed at this address in 1982. Around 1990 it moved to University Avenue, and in 1999 it left for Redwood City.",
+   "start": 1982,
+   "end": 1990,
+   "category": "retail",
+   "approx": true,
+   "links": [
+    "https://www.paloaltoonline.com/morgue/monthly/1999_Oct_27.CHIMERA.html",
+    "https://www.pastheritage.org/HousePixLists/PixListI.html",
+    "https://www.pnreview.co.uk/cgi-bin/scribe?item_id=6986"
+   ]
   }
  ],
  "corrections": [
