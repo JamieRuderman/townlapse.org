@@ -2784,15 +2784,15 @@
  },
  {
   "name": "Stapleton Florist",
-  "address": "near Lane 30",
-  "start": 2013,
+  "address": "453 Waverley St",
+  "start": 1994,
   "end": null,
   "category": "retail",
   "approx": true,
   "source": "osm",
-  "note": "Open today (florist). Listed in OpenStreetMap; on the map since at least 2013; it may be much older.",
-  "lat": 37.4474748,
-  "lng": -122.160702
+  "note": "Florist in a narrow pink building on Waverley Street, named Palo Alto's best florist in the Palo Alto Weekly's Best of 1994. It may be older, and the shop at this address and phone number is now also listed as Michaela's Flower Shop.",
+  "lat": 37.447371,
+  "lng": -122.160647
  },
  {
   "name": "Tamarine",
@@ -25266,14 +25266,14 @@
  },
  {
   "name": "Coupa Cafe",
-  "address": "Ramona St",
+  "address": "111 Lytton Ave",
   "start": 2004,
   "end": 2004,
   "category": "food",
   "approx": true,
   "source": "news",
-  "lat": 37.4455052,
-  "lng": -122.1625455,
+  "lat": 37.4445426,
+  "lng": -122.1652665,
   "note": "Cafe. Palo Alto Online's Peninsula Foodist reported it opening in 2004. Later status unknown."
  },
  {

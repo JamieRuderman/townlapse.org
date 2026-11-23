@@ -626,6 +626,16 @@
     "start": 2002,
     "approx": true
    }
+  },
+  {
+   "target": "Stapleton Florist",
+   "target_address": "near Lane 30",
+   "fields": {
+    "address": "453 Waverley St",
+    "note": "Florist in a narrow pink building on Waverley Street, named Palo Alto's best florist in the Palo Alto Weekly's Best of 1994. It may be older, and the shop at this address and phone number is now also listed as Michaela's Flower Shop.",
+    "start": 1994,
+    "approx": true
+   }
   }
  ]
 }
