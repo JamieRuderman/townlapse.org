@@ -603,6 +603,19 @@
   "source": "suggestion"
  },
  {
+  "name": "Fran's Market",
+  "address": "499 Lytton Ave",
+  "start": 2026,
+  "end": 2016,
+  "category": "retail",
+  "approx": true,
+  "note": "Longtime neighborhood market at Lytton and Gilman; the space became Mademoiselle Colette bakery in 2016\u201317. Opening year unknown; Fran's Smoke Shop was listed next door at 497 Lytton in the 1950s.",
+  "lat": 37.4491029,
+  "lng": -122.1607072,
+  "source": "suggestion",
+  "start_unknown": true
+ },
+ {
   "name": "Nola's",
   "address": "near Ramona St",
   "start": 2013,
@@ -1333,12 +1346,12 @@
  {
   "name": "Joe & The Juice",
   "address": "240 Hamilton Ave",
-  "start": 2019,
+  "start": 2018,
   "end": null,
   "category": "food",
-  "approx": true,
+  "approx": false,
   "source": "osm",
-  "note": "Open today (cafe). Listed in OpenStreetMap; first mapped in 2019, which is roughly when it opened.",
+  "note": "Open today (cafe). Listed in OpenStreetMap; first mapped in 2019, which is roughly when it opened. Palo Alto Online's Peninsula Foodist reported it opening in 2018.",
   "lat": 37.4443528,
   "lng": -122.1609464
  },
@@ -1539,12 +1552,12 @@
  {
   "name": "Joe & The Juice",
   "address": "508 University Ave",
-  "start": 2018,
+  "start": 2019,
   "end": null,
   "category": "food",
-  "approx": false,
+  "approx": true,
   "source": "osm",
-  "note": "Open today (cafe). Listed in OpenStreetMap; first mapped in 2019, which is roughly when it opened. Palo Alto Online's Peninsula Foodist reported it opening in 2018.",
+  "note": "Open today (cafe). Listed in OpenStreetMap; first mapped in 2019, which is roughly when it opened.",
   "lat": 37.4484574,
   "lng": -122.1588997
  },
@@ -22719,18 +22732,6 @@
   "source": "osm-history",
   "note": "Restaurant. On OpenStreetMap 2013\u20132022; actual years open may differ. Palo Alto Online's Peninsula Foodist reported it closing in 2015.",
   "category": "food"
- },
- {
-  "name": "Fran's Market",
-  "address": "address not listed",
-  "lat": 37.449089,
-  "lng": -122.1606955,
-  "start": 2013,
-  "end": 2017,
-  "approx": true,
-  "source": "osm-history",
-  "note": "Convenience. On OpenStreetMap 2013\u20132017; actual years open may differ. Palo Alto Online's Peninsula Foodist reported it closing in 2017.",
-  "category": "retail"
  },
  {
   "name": "Sancho's",

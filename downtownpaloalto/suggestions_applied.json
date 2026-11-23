@@ -73,6 +73,15 @@
    "end": 1998,
    "category": "food",
    "approx": true
+  },
+  {
+   "name": "Fran's Market",
+   "address": "499 Lytton Ave",
+   "note": "Longtime neighborhood market at Lytton and Gilman; the space became Mademoiselle Colette bakery in 2016\u201317. Opening year unknown; Fran's Smoke Shop was listed next door at 497 Lytton in the 1950s.",
+   "start": null,
+   "end": 2016,
+   "category": "retail",
+   "approx": true
   }
  ],
  "corrections": [
