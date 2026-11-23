@@ -1674,6 +1674,32 @@
   ]
  },
  {
+  "name": "California Pizza Kitchen",
+  "address": "531 Cowper St",
+  "start": 1994,
+  "end": 2014,
+  "category": "food",
+  "approx": true,
+  "note": "Downtown branch of the California Pizza Kitchen chain, described in a 2005 review as 11 years old. It closed in mid-August 2014, while the chain's Stanford Shopping Center location stayed open.",
+  "lat": 37.4481138,
+  "lng": -122.1587053,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://www.paloaltoonline.com/morgue/2005/2005_03_18.cpk18ja.shtml",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/news/2014/07/21/shoptalk-cpk-palo-alto-grill-close-longtime-florist-loses-lease/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/uncategorized/2014/08/22/letters-to-the-editor-44/",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Nola's",
   "address": "535 Ramona St",
   "start": 1996,
@@ -2650,14 +2676,20 @@
  {
   "name": "Joe & The Juice",
   "address": "240 Hamilton Ave",
-  "start": 2019,
+  "start": 2018,
   "end": null,
   "category": "food",
-  "approx": true,
+  "approx": false,
   "source": "osm",
-  "note": "Open today (cafe). Listed in OpenStreetMap; first mapped in 2019, which is roughly when it opened.",
+  "note": "Open today (cafe). Listed in OpenStreetMap; first mapped in 2019, which is roughly when it opened. Palo Alto Online's Peninsula Foodist reported it opening in 2018.",
   "lat": 37.4443528,
-  "lng": -122.1609464
+  "lng": -122.1609464,
+  "links": [
+   {
+    "url": "https://www.paloaltoonline.com/peninsula-foodist/2017/08/03/joe-the-juice-is-headed-to-palo-alto/",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Sephora",
@@ -2904,20 +2936,14 @@
  {
   "name": "Joe & The Juice",
   "address": "508 University Ave",
-  "start": 2018,
+  "start": 2019,
   "end": null,
   "category": "food",
-  "approx": false,
+  "approx": true,
   "source": "osm",
-  "note": "Open today (cafe). Listed in OpenStreetMap; first mapped in 2019, which is roughly when it opened. Palo Alto Online's Peninsula Foodist reported it opening in 2018.",
+  "note": "Open today (cafe). Listed in OpenStreetMap; first mapped in 2019, which is roughly when it opened.",
   "lat": 37.4484574,
-  "lng": -122.1588997,
-  "links": [
-   {
-    "url": "https://www.paloaltoonline.com/peninsula-foodist/2017/08/03/joe-the-juice-is-headed-to-palo-alto/",
-    "kind": "Article"
-   }
-  ]
+  "lng": -122.1588997
  },
  {
   "name": "HSBC",
@@ -25417,18 +25443,6 @@
   ]
  },
  {
-  "name": "California Pizza Kitchen",
-  "address": "541 Cowper St",
-  "lat": 37.4481042,
-  "lng": -122.1584158,
-  "start": 2013,
-  "end": 2017,
-  "approx": true,
-  "source": "osm-history",
-  "note": "Restaurant. On OpenStreetMap 2013\u20132017; actual years open may differ.",
-  "category": "food"
- },
- {
   "name": "American Express Travel Services",
   "address": "250 University Ave",
   "lat": 37.4453575,
@@ -27000,14 +27014,14 @@
  },
  {
   "name": "La Comida",
-  "address": "429 Bryant St",
+  "address": "450 Bryant St",
   "start": 2026,
   "end": 2026,
   "category": "food",
   "approx": false,
   "source": "news",
-  "lat": 37.4465596,
-  "lng": -122.162491,
+  "lat": 37.4461771,
+  "lng": -122.1624215,
   "links": [
    {
     "url": "https://www.paloaltoonline.com/palo-alto/2026/08/26/avenidas-and-la-comida-to-host-foodie-fundraiser-to-support-older-adults/",
@@ -27512,14 +27526,14 @@
  },
  {
   "name": "Coupa Cafe",
-  "address": "111 Lytton Ave",
+  "address": "Ramona St",
   "start": 2004,
   "end": 2004,
   "category": "food",
   "approx": true,
   "source": "news",
-  "lat": 37.4445426,
-  "lng": -122.1652665,
+  "lat": 37.4455052,
+  "lng": -122.1625455,
   "links": [
    {
     "url": "https://www.paloaltoonline.com/peninsula-foodist/2016/01/26/now-open-second-coupa-cafe-in-palo-alto/",
@@ -28080,9 +28094,9 @@
   "name": "The Redwood by Chef Julien",
   "address": "450 Bryant St",
   "start": 2022,
-  "end": 2022,
+  "end": 2026,
   "category": "food",
-  "approx": true,
+  "approx": false,
   "source": "news",
   "lat": 37.4461771,
   "lng": -122.1624215,
@@ -28092,7 +28106,7 @@
     "kind": "Article"
    }
   ],
-  "note": "French cafe. Palo Alto Online's Peninsula Foodist reported it opening in 2022. Later status unknown."
+  "note": "French cafe. Palo Alto Online's Peninsula Foodist reported it opening in 2022."
  },
  {
   "name": "Lima Ruby",

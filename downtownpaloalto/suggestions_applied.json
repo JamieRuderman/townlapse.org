@@ -647,6 +647,20 @@
     "https://www.paloaltoonline.com/blogs/2017/11/10/spot-a-pizza-place-closes-in-palo-alto/",
     "https://www.paloaltoonline.com/news/2008/10/17/shop-talk-48/"
    ]
+  },
+  {
+   "name": "California Pizza Kitchen",
+   "address": "531 Cowper St",
+   "note": "Downtown branch of the California Pizza Kitchen chain, described in a 2005 review as 11 years old. It closed in mid-August 2014, while the chain's Stanford Shopping Center location stayed open.",
+   "start": 1994,
+   "end": 2014,
+   "category": "food",
+   "approx": true,
+   "links": [
+    "https://www.paloaltoonline.com/morgue/2005/2005_03_18.cpk18ja.shtml",
+    "https://www.paloaltoonline.com/news/2014/07/21/shoptalk-cpk-palo-alto-grill-close-longtime-florist-loses-lease/",
+    "https://www.paloaltoonline.com/uncategorized/2014/08/22/letters-to-the-editor-44/"
+   ]
   }
  ],
  "corrections": [
