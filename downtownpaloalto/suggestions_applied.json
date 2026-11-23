@@ -395,6 +395,15 @@
     "start": 2006,
     "approx": false
    }
+  },
+  {
+   "target": "Cardinal Barber Shop",
+   "target_address": "552 Ramona St",
+   "fields": {
+    "note": "Traditional barbershop in the Cardinal Hotel building, reached through the hotel lobby and part of the building since about 1925. Its current barber has worked there since 1982.",
+    "start": 1925,
+    "approx": true
+   }
   }
  ]
 }
