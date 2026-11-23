@@ -91,6 +91,15 @@
    "end": 2006,
    "category": "hotel",
    "approx": true
+  },
+  {
+   "name": "Teknekron Software Systems",
+   "address": "530 Lytton Ave",
+   "note": "Software company that built the Teknekron Information Bus, trading-room middleware that later became the basis of TIBCO. Its offices were in Suite 301 in the early 1990s, before Reuters bought it and it moved to Porter Drive.",
+   "start": 1990,
+   "end": 1993,
+   "category": "tech",
+   "approx": true
   }
  ],
  "corrections": [

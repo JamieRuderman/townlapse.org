@@ -628,6 +628,18 @@
   "source": "suggestion"
  },
  {
+  "name": "Teknekron Software Systems",
+  "address": "530 Lytton Ave",
+  "start": 1990,
+  "end": 1993,
+  "category": "tech",
+  "approx": true,
+  "note": "Software company that built the Teknekron Information Bus, trading-room middleware that later became the basis of TIBCO. Its offices were in Suite 301 in the early 1990s, before Reuters bought it and it moved to Porter Drive.",
+  "lat": 37.44927,
+  "lng": -122.1599389,
+  "source": "suggestion"
+ },
+ {
   "name": "Nola's",
   "address": "near Ramona St",
   "start": 2013,
@@ -25531,14 +25543,14 @@
  },
  {
   "name": "Coupa Cafe",
-  "address": "111 Lytton Ave",
+  "address": "Ramona St",
   "start": 2004,
   "end": 2004,
   "category": "food",
   "approx": true,
   "source": "news",
-  "lat": 37.4445426,
-  "lng": -122.1652665,
+  "lat": 37.4455052,
+  "lng": -122.1625455,
   "note": "Cafe. Palo Alto Online's Peninsula Foodist reported it opening in 2004. Later status unknown."
  },
  {
