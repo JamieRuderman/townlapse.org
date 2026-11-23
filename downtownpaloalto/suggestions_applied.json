@@ -413,6 +413,15 @@
     "start": 2006,
     "approx": false
    }
+  },
+  {
+   "target": "Skin Spirit",
+   "target_address": "701 Emerson St",
+   "fields": {
+    "note": "Medical spa (facials, injectables and laser treatments) founded in downtown Palo Alto in 2003, with its flagship clinic at 701 Emerson St. It is still open and has grown into a multi-state chain.",
+    "start": 2003,
+    "approx": true
+   }
   }
  ]
 }
