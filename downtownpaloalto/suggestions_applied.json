@@ -319,6 +319,17 @@
     "address": "489 Lytton Ave",
     "note": "Dry cleaner at 489 Lytton Ave, still open today. It has been on the map since at least 2013 and may be much older."
    }
+  },
+  {
+   "target": "avidbank",
+   "target_address": "400 Emerson St",
+   "fields": {
+    "name": "Avidbank",
+    "note": "Local commercial bank, called The Private Bank of the Peninsula until 2011, with its main office here from December 2008. The office closed in fall 2017 when the headquarters moved to San Jose and the Palo Alto branch moved to 437 Lytton Ave.",
+    "start": 2008,
+    "end": 2017,
+    "approx": false
+   }
   }
  ]
 }

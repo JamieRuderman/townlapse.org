@@ -1258,14 +1258,14 @@
   "lng": -122.1630809
  },
  {
-  "name": "avidbank",
+  "name": "Avidbank",
   "address": "400 Emerson St",
-  "start": 2013,
-  "end": null,
+  "start": 2008,
+  "end": 2017,
   "category": "services",
-  "approx": true,
+  "approx": false,
   "source": "osm",
-  "note": "Open today (bank). Listed in OpenStreetMap; on the map since at least 2013; it may be much older.",
+  "note": "Local commercial bank, called The Private Bank of the Peninsula until 2011, with its main office here from December 2008. The office closed in fall 2017 when the headquarters moved to San Jose and the Palo Alto branch moved to 437 Lytton Ave.",
   "lat": 37.4453156,
   "lng": -122.163983
  },
@@ -24942,14 +24942,14 @@
  },
  {
   "name": "La Comida",
-  "address": "429 Bryant St",
+  "address": "450 Bryant St",
   "start": 2026,
   "end": 2026,
   "category": "food",
   "approx": false,
   "source": "news",
-  "lat": 37.4465596,
-  "lng": -122.162491,
+  "lat": 37.4461771,
+  "lng": -122.1624215,
   "note": "Senior meal nonprofit. Palo Alto Online's Peninsula Foodist reported it opening in 2026 and closing in 2026."
  },
  {
@@ -25652,13 +25652,13 @@
   "name": "The Redwood by Chef Julien",
   "address": "450 Bryant St",
   "start": 2022,
-  "end": 2022,
+  "end": 2026,
   "category": "food",
-  "approx": true,
+  "approx": false,
   "source": "news",
   "lat": 37.4461771,
   "lng": -122.1624215,
-  "note": "French cafe. Palo Alto Online's Peninsula Foodist reported it opening in 2022. Later status unknown."
+  "note": "French cafe. Palo Alto Online's Peninsula Foodist reported it opening in 2022."
  },
  {
   "name": "Lima Ruby",
