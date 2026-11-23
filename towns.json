@@ -1,5 +1,5 @@
 {
- "_readme": "Townlapse town registry. Add one entry per town (a pull request is welcome). 'slug' becomes townlapse.org/<slug>; 'url' is where the town's map lives (here, or on its own domain).",
+ "_readme": "Townlapse town registry. Add one entry per town (a pull request is welcome). 'slug' becomes townlapse.org/<slug>; 'url' is where the town's map lives (here, or on its own domain); 'center' is [lat, lng] of the town's middle and 'radius_km' roughly how far it extends, used by the Townlapse apps to show towns near you.",
  "towns": [
   {
    "slug": "downtownpaloalto",
@@ -9,7 +9,13 @@
    "since": 1900,
    "repo": "https://github.com/unotdys/townlapse.org",
    "image": "/img/map.jpg",
-   "blurb": "1900 to today. More than 2,000 places, from the 1904 city directory and decades of phone books to today's shops, plus the ones neighbors remembered."
+   "blurb": "1900 to today. More than 2,000 places, from the 1904 city directory and decades of phone books to today's shops, plus the ones neighbors remembered.",
+   "center": [
+    37.4465,
+    -122.161
+   ],
+   "radius_km": 1.0,
+   "city": "Palo Alto"
   }
  ]
 }
