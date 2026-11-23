@@ -744,6 +744,17 @@
     "end": 1995,
     "approx": true
    }
+  },
+  {
+   "target": "Church",
+   "target_address": "661 Bryant St",
+   "fields": {
+    "name": "First Church of Christ, Scientist",
+    "note": "Mission Revival church designed by Elmer Grey, built in 1916 and dedicated in 1917; it held services until the congregation merged in 2006. The city named it a historic structure in 1978, and the building was later turned into offices.",
+    "start": 1916,
+    "end": 2006,
+    "approx": false
+   }
   }
  ]
 }
