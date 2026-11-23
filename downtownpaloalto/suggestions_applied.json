@@ -775,6 +775,15 @@
     "end": 1980,
     "approx": true
    }
+  },
+  {
+   "target": "The Tangent",
+   "target_address": "117 University Ave",
+   "fields": {
+    "note": "Pizza parlor and deli with an upstairs folk-music room, the Top of the Tangent, which opened in January 1963. It was still serving food and hosting live music in 1969; its closing date is unknown.",
+    "end": 1969,
+    "approx": true
+   }
   }
  ]
 }
