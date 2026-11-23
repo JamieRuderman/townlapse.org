@@ -1566,6 +1566,32 @@
   ]
  },
  {
+  "name": "Reach Fitness Club",
+  "address": "707 High St",
+  "start": 1982,
+  "end": 2018,
+  "category": "fitness",
+  "approx": true,
+  "note": "Downtown gym that opened in Palo Alto in 1982 and ran its fitness center at 707 High St. (listed there in the 1994 Best of) for 36 years, closing Dec. 15, 2018; its Pilates studio at 833 Emerson St. stayed open.",
+  "lat": 37.4423844,
+  "lng": -122.1602598,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://www.paloaltoonline.com/ae/2018/11/15/shop-talk-reach-fitness-closes-blue-bottle-to-open-2/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/morgue/2003/2003_04_23.fitness23ja.html",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/morgue/cover/1994_Oct_12.BESTOF94.html",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Nola's",
   "address": "535 Ramona St",
   "start": 1996,
