@@ -169,6 +169,15 @@
     "start": 1989,
     "approx": false
    }
+  },
+  {
+   "target": "Baker Graphics",
+   "target_address": "735 Emerson St",
+   "fields": {
+    "note": "Commercial printing firm that moved into the former Indian Bowl bowling alley after it closed in 1975, later expanding through the building from Emerson St to Ramona St. It is recorded in the city's historic buildings inventory, revised in 1985.",
+    "end": 1985,
+    "approx": true
+   }
   }
  ]
 }
