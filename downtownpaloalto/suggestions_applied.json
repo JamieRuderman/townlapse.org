@@ -735,6 +735,15 @@
     "start": 1997,
     "approx": true
    }
+  },
+  {
+   "target": "McMillan Coffee Co",
+   "target_address": "419 University Ave",
+   "fields": {
+    "note": "Coffee shop listed in Palo Alto city directories from 1946 to 1963. A 2013 obituary says a local owner ran the business downtown for 15 years from about 1980, so it likely lasted until about 1995.",
+    "end": 1995,
+    "approx": true
+   }
   }
  ]
 }

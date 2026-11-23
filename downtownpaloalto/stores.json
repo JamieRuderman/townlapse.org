@@ -8768,11 +8768,11 @@
   "name": "McMillan Coffee Co",
   "address": "419 University Ave",
   "start": 1946,
-  "end": 1963,
+  "end": 1995,
   "category": "food",
   "approx": true,
   "source": "directory",
-  "note": "Coffee shop. Listed in Palo Alto city directories and phone books (1946\u20131963); actual years open may be longer.",
+  "note": "Coffee shop listed in Palo Alto city directories from 1946 to 1963. A 2013 obituary says a local owner ran the business downtown for 15 years from about 1980, so it likely lasted until about 1995.",
   "lat": 37.4475032,
   "lng": -122.16041
  },
@@ -24942,14 +24942,14 @@
  },
  {
   "name": "La Comida",
-  "address": "450 Bryant St",
+  "address": "429 Bryant St",
   "start": 2026,
   "end": 2026,
   "category": "food",
   "approx": false,
   "source": "news",
-  "lat": 37.4461771,
-  "lng": -122.1624215,
+  "lat": 37.4465596,
+  "lng": -122.162491,
   "note": "Senior meal nonprofit. Palo Alto Online's Peninsula Foodist reported it opening in 2026 and closing in 2026."
  },
  {
@@ -25652,13 +25652,13 @@
   "name": "The Redwood by Chef Julien",
   "address": "450 Bryant St",
   "start": 2022,
-  "end": 2026,
+  "end": 2022,
   "category": "food",
-  "approx": false,
+  "approx": true,
   "source": "news",
   "lat": 37.4461771,
   "lng": -122.1624215,
-  "note": "French cafe. Palo Alto Online's Peninsula Foodist reported it opening in 2022."
+  "note": "French cafe. Palo Alto Online's Peninsula Foodist reported it opening in 2022. Later status unknown."
  },
  {
   "name": "Lima Ruby",
