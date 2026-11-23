@@ -200,7 +200,9 @@ if os.path.exists(HS):
     closed = 0
     for e in hs.get("osm_closed", []):
         if not in_area(e["lat"], e["lng"]): continue
-        if any(norm(x["name"]) == norm(e["name"]) and abs(x["lat"] - e["lat"]) < 0.0012 and abs(x["lng"] - e["lng"]) < 0.0012 for x in out): continue
+        ne = norm(e["name"])
+        if any((norm(x["name"]) == ne or (len(ne) >= 5 and (ne in norm(x["name"]) or norm(x["name"]) in ne)))
+               and abs(x["lat"] - e["lat"]) < 0.0012 and abs(x["lng"] - e["lng"]) < 0.0012 for x in out): continue
         k = e.pop("kind", ""); cat = "fitness" if k in FIT else "food" if k in FOOD else "entertainment" if k in ENT else "hotel" if k in HOTEL else "services" if k in SERV else "retail"
         out.append(dict(e, category=cat)); closed += 1
     # ---- News: openings/closings reported by Palo Alto Online's Peninsula Foodist (most precise source for 2014+)

@@ -22625,18 +22625,6 @@
   "category": "entertainment"
  },
  {
-  "name": "Bell's Book Store",
-  "address": "536 Emerson St",
-  "lat": 37.4440519,
-  "lng": -122.1622349,
-  "start": 2013,
-  "end": 2024,
-  "approx": true,
-  "source": "osm-history",
-  "note": "Books. On OpenStreetMap 2013\u20132024; actual years open may differ.",
-  "category": "retail"
- },
- {
   "name": "Prolific Oven Palo Alto",
   "address": "550 Waverly St",
   "lat": 37.4464837,
@@ -22745,18 +22733,6 @@
   "category": "food"
  },
  {
-  "name": "Sancho's",
-  "address": "address not listed",
-  "lat": 37.4489935,
-  "lng": -122.1608284,
-  "start": 2013,
-  "end": 2017,
-  "approx": true,
-  "source": "osm-history",
-  "note": "Restaurant. On OpenStreetMap 2013\u20132017; actual years open may differ.",
-  "category": "food"
- },
- {
   "name": "Zibibbo",
   "address": "address not listed",
   "lat": 37.447805,
@@ -22802,18 +22778,6 @@
   "approx": true,
   "source": "osm-history",
   "note": "Restaurant. On OpenStreetMap 2013\u20132019; actual years open may differ. Palo Alto Online's Peninsula Foodist reported it closing in 2026.",
-  "category": "food"
- },
- {
-  "name": "Cheesecake Factory",
-  "address": "375 University Ave",
-  "lat": 37.4470832,
-  "lng": -122.1608878,
-  "start": 2003,
-  "end": 2017,
-  "approx": false,
-  "source": "osm-history",
-  "note": "Restaurant. On OpenStreetMap 2013\u20132017; actual years open may differ. Palo Alto Online's Peninsula Foodist reported it opening in 2003 and closing in 2018.",
   "category": "food"
  },
  {
@@ -22865,18 +22829,6 @@
   "category": "retail"
  },
  {
-  "name": "HSBC Bank",
-  "address": "address not listed",
-  "lat": 37.4493144,
-  "lng": -122.1586051,
-  "start": 2013,
-  "end": 2015,
-  "approx": true,
-  "source": "osm-history",
-  "note": "Bank. On OpenStreetMap 2013\u20132015; actual years open may differ.",
-  "category": "services"
- },
- {
   "name": "Casa Olga",
   "address": "180 Hamilton Ave",
   "lat": 37.4435974,
@@ -22887,18 +22839,6 @@
   "source": "osm-history",
   "note": "Beauty. On OpenStreetMap 2013\u20132017; actual years open may differ. Palo Alto Online's Peninsula Foodist reported it closing in 2014.",
   "category": "services"
- },
- {
-  "name": "Gordon Biersch",
-  "address": "640 Emerson St",
-  "lat": 37.4432865,
-  "lng": -122.1610249,
-  "start": 1988,
-  "end": 2017,
-  "approx": false,
-  "source": "osm-history",
-  "note": "Restaurant. On OpenStreetMap 2013\u20132017; actual years open may differ. Palo Alto Online's Peninsula Foodist reported it opening in 1988 and closing in 2016.",
-  "category": "food"
  },
  {
   "name": "Mantra",
@@ -22935,18 +22875,6 @@
   "source": "osm-history",
   "note": "Beauty. On OpenStreetMap 2013\u20132017; actual years open may differ.",
   "category": "services"
- },
- {
-  "name": "Aquarius",
-  "address": "address not listed",
-  "lat": 37.444952,
-  "lng": -122.1637018,
-  "start": 2013,
-  "end": 2016,
-  "approx": true,
-  "source": "osm-history",
-  "note": "Cinema. On OpenStreetMap 2013\u20132016; actual years open may differ.",
-  "category": "entertainment"
  },
  {
   "name": "Empire Grill & Tap Room",
@@ -23013,18 +22941,6 @@
   "address": "165 University Ave",
   "lat": 37.4445111,
   "lng": -122.1633701,
-  "start": 2013,
-  "end": 2016,
-  "approx": true,
-  "source": "osm-history",
-  "note": "Restaurant. On OpenStreetMap 2013\u20132016; actual years open may differ.",
-  "category": "food"
- },
- {
-  "name": "The Patio at Rudy's",
-  "address": "address not listed",
-  "lat": 37.4451531,
-  "lng": -122.1639177,
   "start": 2013,
   "end": 2016,
   "approx": true,
@@ -23261,18 +23177,6 @@
   "category": "food"
  },
  {
-  "name": "Three Seasons",
-  "address": "address not listed",
-  "lat": 37.445358,
-  "lng": -122.1613447,
-  "start": 2003,
-  "end": 2023,
-  "approx": false,
-  "source": "osm-history",
-  "note": "Restaurant. On OpenStreetMap 2013\u20132023; actual years open may differ. Palo Alto Online's Peninsula Foodist reported it opening in 2003 and closing in 2020.",
-  "category": "food"
- },
- {
   "name": "Vero",
   "address": "530 Bryant St",
   "lat": 37.4453467,
@@ -23501,18 +23405,6 @@
   "category": "food"
  },
  {
-  "name": "President Hotel",
-  "address": "address not listed",
-  "lat": 37.4479635,
-  "lng": -122.1591829,
-  "start": 2013,
-  "end": 2022,
-  "approx": true,
-  "source": "osm-history",
-  "note": "Hotel. On OpenStreetMap 2013\u20132014; actual years open may differ. Palo Alto Online's Peninsula Foodist reported it closing in 2022.",
-  "category": "hotel"
- },
- {
   "name": "Renzo Cafe",
   "address": "address not listed",
   "lat": 37.448119,
@@ -23549,18 +23441,6 @@
   "category": "food"
  },
  {
-  "name": "Simply Be",
-  "address": "528 University Ave",
-  "lat": 37.4485297,
-  "lng": -122.1586208,
-  "start": 2013,
-  "end": 2017,
-  "approx": true,
-  "source": "osm-history",
-  "note": "Hairdresser. On OpenStreetMap 2013\u20132017; actual years open may differ.",
-  "category": "services"
- },
- {
   "name": "Spirit Haloween",
   "address": "address not listed",
   "lat": 37.4468789,
@@ -23595,18 +23475,6 @@
   "source": "osm-history",
   "note": "Furniture. On OpenStreetMap 2013\u20132017; actual years open may differ.",
   "category": "retail"
- },
- {
-  "name": "Walgreens",
-  "address": "300 University Ave",
-  "lat": 37.4459126,
-  "lng": -122.1611963,
-  "start": 2013,
-  "end": 2019,
-  "approx": true,
-  "source": "osm-history",
-  "note": "Pharmacy. On OpenStreetMap 2013\u20132019; actual years open may differ.",
-  "category": "services"
  },
  {
   "name": "Yogurtland",
@@ -23655,18 +23523,6 @@
   "source": "osm-history",
   "note": "Fast food. On OpenStreetMap 2013\u20132016; actual years open may differ.",
   "category": "food"
- },
- {
-  "name": "Cleaners",
-  "address": "486 Hamilton Ave",
-  "lat": 37.4472734,
-  "lng": -122.157933,
-  "start": 2013,
-  "end": 2020,
-  "approx": true,
-  "source": "osm-history",
-  "note": "Dry cleaning. On OpenStreetMap 2013\u20132020; actual years open may differ.",
-  "category": "services"
  },
  {
   "name": "Siam Orchid",
@@ -23751,18 +23607,6 @@
   "source": "osm-history",
   "note": "Hairdresser. On OpenStreetMap 2013\u20132023; actual years open may differ.",
   "category": "services"
- },
- {
-  "name": "New York! New York!",
-  "address": "125 University Ave",
-  "lat": 37.4440397,
-  "lng": -122.1638625,
-  "start": 2013,
-  "end": 2019,
-  "approx": true,
-  "source": "osm-history",
-  "note": "Fast food. On OpenStreetMap 2013\u20132019; actual years open may differ.",
-  "category": "food"
  },
  {
   "name": "Paperwhirl",
@@ -23993,30 +23837,6 @@
   "category": "retail"
  },
  {
-  "name": "University Art Annex",
-  "address": "address not listed",
-  "lat": 37.4446687,
-  "lng": -122.1609881,
-  "start": 2013,
-  "end": 2016,
-  "approx": true,
-  "source": "osm-history",
-  "note": "Gift. On OpenStreetMap 2013\u20132016; actual years open may differ.",
-  "category": "retail"
- },
- {
-  "name": "Whole Foods",
-  "address": "774 Emerson St",
-  "lat": 37.4422663,
-  "lng": -122.1594036,
-  "start": 2013,
-  "end": 2018,
-  "approx": true,
-  "source": "osm-history",
-  "note": "Supermarket. On OpenStreetMap 2013\u20132018; actual years open may differ.",
-  "category": "retail"
- },
- {
   "name": "Keen",
   "address": "address not listed",
   "lat": 37.4457134,
@@ -24197,18 +24017,6 @@
   "category": "food"
  },
  {
-  "name": "Pampas Restaurant",
-  "address": "529 Alma St",
-  "lat": 37.4430435,
-  "lng": -122.1630844,
-  "start": 2015,
-  "end": 2017,
-  "approx": true,
-  "source": "osm-history",
-  "note": "Restaurant. On OpenStreetMap 2015\u20132017; actual years open may differ.",
-  "category": "food"
- },
- {
   "name": "B Human",
   "address": "233 University Ave",
   "lat": 37.4453076,
@@ -24254,18 +24062,6 @@
   "approx": false,
   "source": "osm-history",
   "note": "Restaurant. On OpenStreetMap 2016\u20132017; actual years open may differ. Palo Alto Online's Peninsula Foodist reported it opening in 2015 and closing in 2019.",
-  "category": "food"
- },
- {
-  "name": "Local Union",
-  "address": "271 University Ave",
-  "lat": 37.4457963,
-  "lng": -122.1620976,
-  "start": 2016,
-  "end": 2016,
-  "approx": true,
-  "source": "osm-history",
-  "note": "Restaurant. On OpenStreetMap 2016\u20132016; actual years open may differ.",
   "category": "food"
  },
  {
@@ -24353,18 +24149,6 @@
   "category": "food"
  },
  {
-  "name": "Scoop",
-  "address": "203 University Ave",
-  "lat": 37.4449171,
-  "lng": -122.1628433,
-  "start": 2017,
-  "end": 2022,
-  "approx": true,
-  "source": "osm-history",
-  "note": "Ice cream. On OpenStreetMap 2017\u20132022; actual years open may differ.",
-  "category": "food"
- },
- {
   "name": "Ichimi Sushi",
   "address": "201 University Ave",
   "lat": 37.4448804,
@@ -24410,18 +24194,6 @@
   "approx": true,
   "source": "osm-history",
   "note": "Restaurant. On OpenStreetMap 2017\u20132019; actual years open may differ.",
-  "category": "food"
- },
- {
-  "name": "Cream",
-  "address": "440 University Ave",
-  "lat": 37.4474989,
-  "lng": -122.1596951,
-  "start": 2017,
-  "end": 2022,
-  "approx": true,
-  "source": "osm-history",
-  "note": "Ice cream. On OpenStreetMap 2017\u20132022; actual years open may differ.",
   "category": "food"
  },
  {
@@ -24557,18 +24329,6 @@
   "category": "food"
  },
  {
-  "name": "House of Foam",
-  "address": "150 Hamilton Ave",
-  "lat": 37.4432935,
-  "lng": -122.1619314,
-  "start": 2018,
-  "end": 2023,
-  "approx": true,
-  "source": "osm-history",
-  "note": "Foam. On OpenStreetMap 2018\u20132023; actual years open may differ.",
-  "category": "retail"
- },
- {
   "name": "Wahlburgers",
   "address": "185 University Ave",
   "lat": 37.4447246,
@@ -24653,30 +24413,6 @@
   "category": "retail"
  },
  {
-  "name": "Fraiche",
-  "address": "200 Hamilton Ave",
-  "lat": 37.4438763,
-  "lng": -122.1612681,
-  "start": 2007,
-  "end": 2023,
-  "approx": false,
-  "source": "osm-history",
-  "note": "Ice cream. On OpenStreetMap 2018\u20132023; actual years open may differ. Palo Alto Online's Peninsula Foodist reported it opening in 2007 and closing in 2019.",
-  "category": "food"
- },
- {
-  "name": "McRosky",
-  "address": "220 Hamilton Ave",
-  "lat": 37.4440129,
-  "lng": -122.1611307,
-  "start": 2018,
-  "end": 2023,
-  "approx": true,
-  "source": "osm-history",
-  "note": "Bed. On OpenStreetMap 2018\u20132023; actual years open may differ.",
-  "category": "retail"
- },
- {
   "name": "Shinola",
   "address": "261 Hamilton Ave",
   "lat": 37.4448463,
@@ -24713,18 +24449,6 @@
   "category": "food"
  },
  {
-  "name": "Peet's Coffee",
-  "address": "436 University Ave",
-  "lat": 37.4474568,
-  "lng": -122.1597373,
-  "start": 2007,
-  "end": 2022,
-  "approx": false,
-  "source": "osm-history",
-  "note": "Cafe. On OpenStreetMap 2019\u20132022; actual years open may differ. Palo Alto Online's Peninsula Foodist reported it opening in 2007 and closing in 2019.",
-  "category": "food"
- },
- {
   "name": "Thyme",
   "address": "496 Hamilton Ave",
   "lat": 37.4473239,
@@ -24747,18 +24471,6 @@
   "source": "osm-history",
   "note": "Restaurant. On OpenStreetMap 2021\u20132023; actual years open may differ. Palo Alto Online's Peninsula Foodist reported it opening in 2020.",
   "category": "food"
- },
- {
-  "name": "Vizavoo Salon",
-  "address": "174 University Ave",
-  "lat": 37.444453,
-  "lng": -122.1628188,
-  "start": 2022,
-  "end": 2023,
-  "approx": true,
-  "source": "osm-history",
-  "note": "Beauty. On OpenStreetMap 2022\u20132023; actual years open may differ.",
-  "category": "services"
  },
  {
   "name": "Altin Rugs",
@@ -24809,18 +24521,6 @@
   "category": "retail"
  },
  {
-  "name": "Apple Store",
-  "address": "340 University Ave",
-  "lat": 37.4464451,
-  "lng": -122.160892,
-  "start": 2023,
-  "end": 2023,
-  "approx": true,
-  "source": "osm-history",
-  "note": "Electronics. On OpenStreetMap 2023\u20132023; actual years open may differ.",
-  "category": "retail"
- },
- {
   "name": "Joya",
   "address": "339 University Ave",
   "lat": 37.4465055,
@@ -24867,18 +24567,6 @@
   "source": "osm-history",
   "note": "Restaurant. On OpenStreetMap 2023\u20132023; actual years open may differ.",
   "category": "food"
- },
- {
-  "name": "Verizon Wireless",
-  "address": "219 University Ave",
-  "lat": 37.4450544,
-  "lng": -122.1626304,
-  "start": 2023,
-  "end": 2023,
-  "approx": true,
-  "source": "osm-history",
-  "note": "Mobile phone. On OpenStreetMap 2023\u20132023; actual years open may differ.",
-  "category": "services"
  },
  {
   "name": "Lululemon",
@@ -25181,6 +24869,18 @@
   "note": "Frozen yogurt shop. Palo Alto Online's Peninsula Foodist reported it opening in 2026."
  },
  {
+  "name": "Fraiche",
+  "address": "200 Hamilton Ave",
+  "start": 2007,
+  "end": 2019,
+  "category": "food",
+  "approx": false,
+  "source": "news",
+  "lat": 37.4439219,
+  "lng": -122.1613375,
+  "note": "Frozen yogurt shop. Palo Alto Online's Peninsula Foodist reported it opening in 2007 and closing in 2019."
+ },
+ {
   "name": "Campo 185",
   "address": "185 University Ave",
   "start": 2013,
@@ -25311,6 +25011,18 @@
   "lat": 37.4453663,
   "lng": -122.1613635,
   "note": "Banh mi cart. Palo Alto Online's Peninsula Foodist reported it opening in 2014."
+ },
+ {
+  "name": "Three Seasons",
+  "address": "518 Bryant St",
+  "start": 2003,
+  "end": 2020,
+  "category": "food",
+  "approx": false,
+  "source": "news",
+  "lat": 37.4453663,
+  "lng": -122.1613635,
+  "note": "Vietnamese restaurant. Palo Alto Online's Peninsula Foodist reported it opening in 2003 and closing in 2020."
  },
  {
   "name": "alkymists",
@@ -25470,15 +25182,27 @@
  },
  {
   "name": "Coupa Cafe",
-  "address": "Ramona St",
+  "address": "111 Lytton Ave",
   "start": 2004,
   "end": 2004,
   "category": "food",
   "approx": true,
   "source": "news",
-  "lat": 37.4455052,
-  "lng": -122.1625455,
+  "lat": 37.4445426,
+  "lng": -122.1652665,
   "note": "Cafe. Palo Alto Online's Peninsula Foodist reported it opening in 2004. Later status unknown."
+ },
+ {
+  "name": "Gordon Biersch",
+  "address": "640 Emerson St",
+  "start": 1988,
+  "end": 2016,
+  "category": "food",
+  "approx": false,
+  "source": "news",
+  "lat": 37.443302,
+  "lng": -122.1610435,
+  "note": "Brewery restaurant. Palo Alto Online's Peninsula Foodist reported it opening in 1988 and closing in 2016."
  },
  {
   "name": "Selix Formal Wear",
