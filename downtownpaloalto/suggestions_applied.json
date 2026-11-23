@@ -813,6 +813,19 @@
     "https://www.paloaltoonline.com/morgue/news/1995_Dec_20.SHOP20.html",
     "https://www.paloaltoonline.com/morgue/news/1995_Jun_7.SHOP07.html"
    ]
+  },
+  {
+   "name": "The Artifactory",
+   "address": "226 Hamilton Ave",
+   "note": "Craft shop and studio that held art workshops such as mask-making, listed in the Palo Alto Weekly in 1994. A craft shop on this block was forced out when a fire destroyed the one-story building at Hamilton and Emerson around 1996.",
+   "start": 1994,
+   "end": 1996,
+   "category": "retail",
+   "approx": true,
+   "links": [
+    "https://www.paloaltoonline.com/morgue/listings/1994_Sep_21.entertainment.html",
+    "https://www.paloaltoonline.com/morgue/news/1999_Nov_17.HAMILTON.html"
+   ]
   }
  ],
  "corrections": [
