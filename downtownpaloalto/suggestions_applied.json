@@ -970,6 +970,19 @@
     "https://www.paloaltoonline.com/morgue/restaurants/1994_Jan_28.mini_reviews.html",
     "https://www.paloaltoonline.com/morgue/restaurants/1994_Sep_7.mini_reviews.html"
    ]
+  },
+  {
+   "name": "Celia's",
+   "address": "423 University Ave",
+   "note": "Mexican restaurant that served downtown Palo Alto for a quarter-century before closing in the last week of November 1994; All Seasons Chinese Restaurant then moved into its space at 423 University Ave.",
+   "start": 1969,
+   "end": 1994,
+   "category": "food",
+   "approx": true,
+   "links": [
+    "https://www.paloaltoonline.com/morgue/restaurants/1994_Oct_21.tidbits.html",
+    "https://www.paloaltoonline.com/morgue/restaurants/1995_Jan_20.EATOUT20.html"
+   ]
   }
  ],
  "corrections": [
