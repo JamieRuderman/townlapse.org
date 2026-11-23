@@ -1376,6 +1376,21 @@
      "https://www.paloaltoonline.com/news/2014/09/12/key-ingredient-for-opening-a-restaurant-in-palo-alto-patience-2/"
     ]
    }
+  },
+  {
+   "target": "Sushi Tomo",
+   "target_address": "address not listed",
+   "fields": {
+    "address": "201 University Ave",
+    "note": "Sushi restaurant that opened in 2006, the same year as its sister location on El Camino Way. It closed in fall 2015 and Shoji Sushi took over the space that October.",
+    "start": 2006,
+    "end": 2015,
+    "approx": false,
+    "links": [
+     "https://www.paloaltoonline.com/blogs/2015/07/16/japanese-restaurant-chain-to-move-into-o-sushi-space/",
+     "https://www.paloaltoonline.com/blogs/2015/11/04/shoji-sushi-replaces-sushi-tomo-in-downtown-palo-alto/"
+    ]
+   }
   }
  ]
 }

@@ -24664,18 +24664,26 @@
  },
  {
   "name": "Sushi Tomo",
-  "address": "address not listed",
-  "lat": 37.4448804,
-  "lng": -122.1628809,
+  "address": "201 University Ave",
+  "lat": 37.444891,
+  "lng": -122.1628987,
   "start": 2006,
-  "end": 2016,
+  "end": 2015,
   "approx": false,
   "source": "osm-history",
-  "note": "Restaurant. On OpenStreetMap 2013\u20132016; actual years open may differ. Palo Alto Online's Peninsula Foodist reported it opening in 2006 and closing in 2015.",
+  "note": "Sushi restaurant that opened in 2006, the same year as its sister location on El Camino Way. It closed in fall 2015 and Shoji Sushi took over the space that October.",
   "category": "food",
   "links": [
    {
     "url": "https://www.paloaltoonline.com/peninsula-foodist/2015/11/04/shoji-sushi-replaces-sushi-tomo-in-downtown-palo-alto/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/blogs/2015/07/16/japanese-restaurant-chain-to-move-into-o-sushi-space/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/blogs/2015/11/04/shoji-sushi-replaces-sushi-tomo-in-downtown-palo-alto/",
     "kind": "Article"
    }
   ]
