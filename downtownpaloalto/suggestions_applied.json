@@ -245,6 +245,16 @@
     "start": 1995,
     "approx": true
    }
+  },
+  {
+   "target": "Coconuts-Carribean & Jamican Jerk",
+   "target_address": "642 Ramona St",
+   "fields": {
+    "name": "Coconuts Caribbean Restaurant & Bar",
+    "note": "Jamaican restaurant and bar across from City Hall, opened in September 2008 by chef Robert Simpson of Back A Yard. It is known for jerk dishes and oxtail, with live steel-drum music on weekend evenings.",
+    "start": 2008,
+    "approx": false
+   }
   }
  ]
 }
