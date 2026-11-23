@@ -708,6 +708,15 @@
     "end": 1985,
     "approx": true
    }
+  },
+  {
+   "target": "Gleim the Jeweler",
+   "target_address": "322 University Ave",
+   "fields": {
+    "note": "Family jewelry store, listed here in city directories from 1951, which had earlier been at other University Ave addresses. The downtown store closed in early summer 2009 when the business consolidated into its Stanford Shopping Center and Los Altos stores.",
+    "end": 2009,
+    "approx": true
+   }
   }
  ]
 }
