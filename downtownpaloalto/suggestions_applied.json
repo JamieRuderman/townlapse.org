@@ -432,6 +432,15 @@
     "start": 1982,
     "approx": true
    }
+  },
+  {
+   "target": "Chico's",
+   "target_address": "396 University Ave",
+   "fields": {
+    "note": "Women's clothing store, open today. A 2004 charity auction offered a shopping party at this store, so it was open by then; the exact opening year is unknown.",
+    "start": 2004,
+    "approx": true
+   }
   }
  ]
 }
