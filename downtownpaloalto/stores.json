@@ -1918,6 +1918,32 @@
   ]
  },
  {
+  "name": "Smith Andersen Gallery",
+  "address": "728 Emerson St",
+  "start": 1969,
+  "end": 1996,
+  "category": "retail",
+  "approx": true,
+  "note": "Fine art gallery run by Paula Kirkeby, opened in October 1969 at 200 Homer St and later at 728 Emerson St. It closed Aug. 1, 1996.",
+  "lat": 37.4426818,
+  "lng": -122.1599186,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Paula_Kirkeby",
+    "kind": "Article"
+   },
+   {
+    "url": "https://sirismm.si.edu/EADpdfs/AAA.smitande.pdf",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/morgue/news/1996_Jun_19.SHOP19.html",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Nola's",
   "address": "535 Ramona St",
   "start": 1996,
@@ -27760,14 +27786,14 @@
  },
  {
   "name": "Coupa Cafe",
-  "address": "Ramona St",
+  "address": "111 Lytton Ave",
   "start": 2004,
   "end": 2004,
   "category": "food",
   "approx": true,
   "source": "news",
-  "lat": 37.4455052,
-  "lng": -122.1625455,
+  "lat": 37.4445426,
+  "lng": -122.1652665,
   "links": [
    {
     "url": "https://www.paloaltoonline.com/peninsula-foodist/2016/01/26/now-open-second-coupa-cafe-in-palo-alto/",

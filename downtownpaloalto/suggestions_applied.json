@@ -773,6 +773,20 @@
     "https://www.paloaltoonline.com/morgue/news/1995_Jul_12.SHOP12.html",
     "https://www.paloaltoonline.com/morgue/news/1995_Oct_4.SHOP04.html"
    ]
+  },
+  {
+   "name": "Smith Andersen Gallery",
+   "address": "728 Emerson St",
+   "note": "Fine art gallery run by Paula Kirkeby, opened in October 1969 at 200 Homer St and later at 728 Emerson St. It closed Aug. 1, 1996.",
+   "start": 1969,
+   "end": 1996,
+   "category": "retail",
+   "approx": true,
+   "links": [
+    "https://en.wikipedia.org/wiki/Paula_Kirkeby",
+    "https://sirismm.si.edu/EADpdfs/AAA.smitande.pdf",
+    "https://www.paloaltoonline.com/morgue/news/1996_Jun_19.SHOP19.html"
+   ]
   }
  ],
  "corrections": [
