@@ -534,6 +534,15 @@
     "start": 2009,
     "approx": false
    }
+  },
+  {
+   "target": "Romi Boutique",
+   "target_address": "624 Emerson St",
+   "fields": {
+    "note": "Women's clothing boutique, open today. The boutique says it was founded in 2005; it has been listed at this address since at least 2013.",
+    "start": 2005,
+    "approx": true
+   }
   }
  ]
 }
