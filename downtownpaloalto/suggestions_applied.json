@@ -291,6 +291,15 @@
     "start": 1996,
     "approx": false
    }
+  },
+  {
+   "target": "Palo Alto Bicycles",
+   "target_address": "171 University Ave",
+   "fields": {
+    "note": "Family-owned bike shop that grew out of the Palo Alto Sport Shop's bicycle department and was renamed Palo Alto Bicycles when it moved here in 1973. It briefly operated across the street at 170 University in 1997\u201398 while this building was seismically rebuilt.",
+    "start": 1973,
+    "approx": false
+   }
   }
  ]
 }
