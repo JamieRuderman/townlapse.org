@@ -50,15 +50,24 @@
  {
   "name": "Palo Alto Sol",
   "address": "408 South California Ave",
-  "start": 2026,
+  "start": 1992,
   "end": null,
   "category": "food",
-  "approx": false,
-  "start_unknown": true,
+  "approx": true,
   "source": "osm",
-  "note": "Open today (restaurant). Listed in OpenStreetMap; the year it opened isn't known yet.",
+  "note": "Family-run Mexican restaurant serving Puebla-style food, opened around 1992 by Hector and Helena Sol. In 2016 the family also took over the space next door at 406 California Ave.",
   "lat": 37.426594,
-  "lng": -122.1448665
+  "lng": -122.1448665,
+  "links": [
+   {
+    "url": "https://www.paloaltoonline.com/morgue/restaurants/1997_Dec_19.CHEF19.html",
+    "kind": "Ad / newspaper"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/peninsula-foodist/2016/05/03/sol-family-takes-over-szechwan-cafe-on-california-avenue/",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Ramen Kowa",

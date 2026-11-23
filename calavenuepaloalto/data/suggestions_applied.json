@@ -29,6 +29,19 @@
      "https://www.paloaltoonline.com/blogs/2016/08/25/palo-alto-hommas-brown-rice-sushi-to-close-aug-31/"
     ]
    }
+  },
+  {
+   "target": "Palo Alto Sol",
+   "target_address": "408 South California Ave",
+   "fields": {
+    "note": "Family-run Mexican restaurant serving Puebla-style food, opened around 1992 by Hector and Helena Sol. In 2016 the family also took over the space next door at 406 California Ave.",
+    "start": 1992,
+    "approx": true,
+    "links": [
+     "https://www.paloaltoonline.com/morgue/restaurants/1997_Dec_19.CHEF19.html",
+     "https://www.paloaltoonline.com/peninsula-foodist/2016/05/03/sol-family-takes-over-szechwan-cafe-on-california-avenue/"
+    ]
+   }
   }
  ]
 }
