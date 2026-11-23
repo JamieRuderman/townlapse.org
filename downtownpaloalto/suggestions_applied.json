@@ -90,7 +90,7 @@
   {
    "name": "Fran's Market",
    "address": "499 Lytton Ave",
-   "note": "Longtime neighborhood market at Lytton and Gilman; the space became Mademoiselle Colette bakery in 2016–17. Opening year unknown; Fran's Smoke Shop was listed next door at 497 Lytton in the 1950s.",
+   "note": "Longtime neighborhood market at Lytton and Gilman; the space became Mademoiselle Colette bakery in 2016\u201317. Opening year unknown; Fran's Smoke Shop was listed next door at 497 Lytton in the 1950s.",
    "start": 1987,
    "end": 2016,
    "category": "retail",
@@ -102,7 +102,7 @@
   {
    "name": "The Victorian on Lytton",
    "address": "555 Lytton Ave",
-   "note": "Bed-and-breakfast inn in the 1896 Queen Anne-style Hannah Clapp House, which was converted to an inn in 1985–86. It closed around 2006 after water damage, and the house later held a women's resource center.",
+   "note": "Bed-and-breakfast inn in the 1896 Queen Anne-style Hannah Clapp House, which was converted to an inn in 1985\u201386. It closed around 2006 after water damage, and the house later held a women's resource center.",
    "start": 1986,
    "end": 2006,
    "category": "hotel",
@@ -355,6 +355,19 @@
     "https://www.broadwayworld.com/san-francisco/article/Dragon-Productions-Theatre-Company-Announces-Final-Year-for-Founder-20180103",
     "https://www.paloaltoonline.com/cover-story/2007/02/09/on-with-the-show/"
    ]
+  },
+  {
+   "name": "Antique Interiors West",
+   "address": "212 Homer Ave",
+   "note": "Antique furnishings shop in the former Thompson's Bakery building, mentioned in the Palo Alto Weekly in 1998; actual years open may be longer.",
+   "start": 1998,
+   "end": 1998,
+   "category": "retail",
+   "approx": true,
+   "links": [
+    "https://www.paloaltoonline.com/morgue/news/1998_May_13.HOMER.html",
+    "https://www.paloaltoonline.com/wp-content/uploads/2008/08/2008_08_08.paw_.section2.pdf"
+   ]
   }
  ],
  "corrections": [
@@ -365,7 +378,7 @@
     "start": 2008,
     "end": 2023,
     "approx": true,
-    "note": "Starbucks at 374–376 University Ave, open here from about 2008 until April 30, 2023, when it moved to 151 University."
+    "note": "Starbucks at 374\u2013376 University Ave, open here from about 2008 until April 30, 2023, when it moved to 151 University."
    }
   },
   {
@@ -501,7 +514,7 @@
    "target": "Palo Alto Bicycles",
    "target_address": "171 University Ave",
    "fields": {
-    "note": "Family-owned bike shop that grew out of the Palo Alto Sport Shop's bicycle department and was renamed Palo Alto Bicycles when it moved here in 1973. It briefly operated across the street at 170 University in 1997–98 while this building was seismically rebuilt.",
+    "note": "Family-owned bike shop that grew out of the Palo Alto Sport Shop's bicycle department and was renamed Palo Alto Bicycles when it moved here in 1973. It briefly operated across the street at 170 University in 1997\u201398 while this building was seismically rebuilt.",
     "start": 1973,
     "approx": false,
     "links": [
@@ -726,7 +739,7 @@
    "target": "Charmelle 28",
    "target_address": "547 Bryant St",
    "fields": {
-    "note": "Fine lingerie boutique that opened downtown in late 1993 as Gitti's Fine Lingerie and later took the name Charmelle 28. It was absorbed by Lingerie République around 2019.",
+    "note": "Fine lingerie boutique that opened downtown in late 1993 as Gitti's Fine Lingerie and later took the name Charmelle 28. It was absorbed by Lingerie R\u00e9publique around 2019.",
     "start": 1993,
     "end": 2019,
     "approx": true,
@@ -1112,7 +1125,7 @@
    "target": "Selix Formal Wear",
    "target_address": "164 University Ave",
    "fields": {
-    "note": "Tuxedo and formal wear shop, a few doors from its 1959–1963 location at 158 University Ave. It closed in February 2015 when the Selix chain went bankrupt and shut all six stores; when it moved here is unknown.",
+    "note": "Tuxedo and formal wear shop, a few doors from its 1959\u20131963 location at 158 University Ave. It closed in February 2015 when the Selix chain went bankrupt and shut all six stores; when it moved here is unknown.",
     "start": 2015,
     "end": 2015,
     "category": "retail",
@@ -1162,7 +1175,7 @@
    "target": "Patagonia",
    "target_address": "525 Alma St",
    "fields": {
-    "note": "Outdoor clothing and gear store, still open, in a brick building that housed auto dealerships in the 1920s–1950s. A local news column places it on Alma St by early 2008, and it may have opened earlier.",
+    "note": "Outdoor clothing and gear store, still open, in a brick building that housed auto dealerships in the 1920s\u20131950s. A local news column places it on Alma St by early 2008, and it may have opened earlier.",
     "start": 2008,
     "approx": true,
     "links": [
