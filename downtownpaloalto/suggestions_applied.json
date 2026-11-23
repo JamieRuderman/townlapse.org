@@ -493,6 +493,19 @@
     "https://www.paloaltoonline.com/news/2012/10/07/shop-talk-downtown-sushi-restaurant-miyake-closes/",
     "https://www.paloaltopulse.com/2015/07/30/palo-alto-now-140-university-avenue/"
    ]
+  },
+  {
+   "name": "Lavanda Restaurant and Wine Bar",
+   "address": "185 University Ave",
+   "note": "Mediterranean Italian restaurant and wine bar with a 600-bottle list that took over the former Good Earth space at the corner of University and Emerson in 2002. It closed in summer 2012 and was replaced by Campo 185.",
+   "start": 2002,
+   "end": 2012,
+   "category": "food",
+   "approx": true,
+   "links": [
+    "https://www.paloaltoonline.com/morgue/2002/2002_09_06.lavanda6.html",
+    "https://www.paloaltoonline.com/news/2012/12/16/shop-talk-palo-alto-grill-opening-downtown/"
+   ]
   }
  ],
  "corrections": [
