@@ -236,6 +236,15 @@
    "end": 2014,
    "category": "food",
    "approx": true
+  },
+  {
+   "name": "Vino Locale",
+   "address": "431 Kipling St",
+   "note": "Wine bar and kitchen in a century-old house, opened in January 2005 by Randy Robinson and a partner. Still operating, with live music in its back garden.",
+   "start": 2005,
+   "end": null,
+   "category": "food",
+   "approx": false
   }
  ],
  "corrections": [
