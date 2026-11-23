@@ -747,6 +747,18 @@
   "source": "suggestion"
  },
  {
+  "name": "The Camera Shop",
+  "address": "541 Bryant St",
+  "start": 1961,
+  "end": 1975,
+  "category": "retail",
+  "approx": true,
+  "note": "Downtown camera store that advertised in the 1961 Palo Alto High School yearbook. It is remembered as closing in the mid-1970s, and some of its staff later worked at Keeble & Shuchat; actual years open may be longer.",
+  "lat": 37.4454776,
+  "lng": -122.1606971,
+  "source": "suggestion"
+ },
+ {
   "name": "Nola's",
   "address": "535 Ramona St",
   "start": 1996,
@@ -1477,12 +1489,12 @@
  {
   "name": "Joe & The Juice",
   "address": "240 Hamilton Ave",
-  "start": 2018,
+  "start": 2019,
   "end": null,
   "category": "food",
-  "approx": false,
+  "approx": true,
   "source": "osm",
-  "note": "Open today (cafe). Listed in OpenStreetMap; first mapped in 2019, which is roughly when it opened. Palo Alto Online's Peninsula Foodist reported it opening in 2018.",
+  "note": "Open today (cafe). Listed in OpenStreetMap; first mapped in 2019, which is roughly when it opened.",
   "lat": 37.4443528,
   "lng": -122.1609464
  },
@@ -1683,12 +1695,12 @@
  {
   "name": "Joe & The Juice",
   "address": "508 University Ave",
-  "start": 2019,
+  "start": 2018,
   "end": null,
   "category": "food",
-  "approx": true,
+  "approx": false,
   "source": "osm",
-  "note": "Open today (cafe). Listed in OpenStreetMap; first mapped in 2019, which is roughly when it opened.",
+  "note": "Open today (cafe). Listed in OpenStreetMap; first mapped in 2019, which is roughly when it opened. Palo Alto Online's Peninsula Foodist reported it opening in 2018.",
   "lat": 37.4484574,
   "lng": -122.1588997
  },
@@ -2024,12 +2036,12 @@
  {
   "name": "Gong Cha",
   "address": "439 Waverley St",
-  "start": 2015,
+  "start": 2017,
   "end": null,
   "category": "food",
-  "approx": false,
+  "approx": true,
   "source": "osm",
-  "note": "Open today (cafe). Listed in OpenStreetMap; first mapped in 2017, which is roughly when it opened. Palo Alto Online's Peninsula Foodist reported it opening in 2015.",
+  "note": "Open today (cafe). Listed in OpenStreetMap; first mapped in 2017, which is roughly when it opened.",
   "lat": 37.4477131,
   "lng": -122.1607332
  },
@@ -7467,18 +7479,6 @@
   "note": "Toy store. Listed in Palo Alto city directories and phone books (1951\u20131959); actual years open may be longer.",
   "lat": 37.4472256,
   "lng": -122.1601589
- },
- {
-  "name": "Camera Shop",
-  "address": "541 Bryant St",
-  "start": 1947,
-  "end": 1963,
-  "category": "retail",
-  "approx": true,
-  "source": "directory",
-  "note": "Camera store. Listed in Palo Alto city directories and phone books (1947\u20131963); actual years open may be longer.",
-  "lat": 37.4454776,
-  "lng": -122.1606971
  },
  {
   "name": "Cardinal Garage",
@@ -25143,6 +25143,18 @@
   "lat": 37.4480623,
   "lng": -122.1612484,
   "note": "Panini and coffee cafe that took over the former Lytton Roasting Company corner in 2012; it closed in January 2015 after three years."
+ },
+ {
+  "name": "Gong Cha",
+  "address": "429 Waverley St",
+  "start": 2015,
+  "end": 2015,
+  "category": "food",
+  "approx": true,
+  "source": "news",
+  "lat": 37.4476333,
+  "lng": -122.1610727,
+  "note": "Milk tea shop. Palo Alto Online's Peninsula Foodist reported it opening in 2015. Later status unknown."
  },
  {
   "name": "B+B",

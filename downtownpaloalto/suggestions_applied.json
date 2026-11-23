@@ -182,6 +182,15 @@
    "end": null,
    "category": "hotel",
    "approx": false
+  },
+  {
+   "name": "The Camera Shop",
+   "address": "541 Bryant St",
+   "note": "Downtown camera store that advertised in the 1961 Palo Alto High School yearbook. It is remembered as closing in the mid-1970s, and some of its staff later worked at Keeble & Shuchat; actual years open may be longer.",
+   "start": 1961,
+   "end": 1975,
+   "category": "retail",
+   "approx": true
   }
  ],
  "corrections": [
