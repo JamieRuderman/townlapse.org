@@ -608,6 +608,15 @@
     "start": 2000,
     "approx": true
    }
+  },
+  {
+   "target": "Duxiana",
+   "target_address": "534 Bryant St",
+   "fields": {
+    "note": "Bed showroom, open today. State home-furnishings license records place it at 534 Bryant St from 1993.",
+    "start": 1993,
+    "approx": true
+   }
   }
  ]
 }
