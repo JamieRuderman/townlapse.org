@@ -368,6 +368,21 @@
     "https://www.paloaltoonline.com/morgue/news/1998_May_13.HOMER.html",
     "https://www.paloaltoonline.com/wp-content/uploads/2008/08/2008_08_08.paw_.section2.pdf"
    ]
+  },
+  {
+   "name": "Museum of American Heritage",
+   "address": "351 Homer Ave",
+   "note": "A museum of American technology and everyday life, housed in the restored 1907 Williams House and garden. It opened to the public there in April 1998 and is still open.",
+   "start": 1998,
+   "end": null,
+   "category": "landmark",
+   "approx": false,
+   "links": [
+    "https://en.wikipedia.org/wiki/Museum_of_American_Heritage",
+    "https://www.moah.org/who-we-are",
+    "https://www.paloaltoonline.com/morgue/cover/1998_Apr_10.ARTS10.html",
+    "https://www.paloaltoonline.com/morgue/spectrum/1998_Apr_15.EDIT15.html"
+   ]
   }
  ],
  "corrections": [
