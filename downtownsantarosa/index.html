@@ -334,7 +334,8 @@ function openForm({kind="addition", name=""}={}){
   dlg.showModal(); (kind==="correction" ? form.note : form.name).focus();
 }
 $("suggestBtn").onclick=()=>openForm();
-const ghNew = q => `https://github.com/${SITE.github.repo}/issues/new?template=suggestion.yml&title=${encodeURIComponent(q||"")}`;
+const TOWN = SITE.hub && SITE.hub.slug || "";
+const ghNew = q => `https://github.com/${SITE.github.repo}/issues/new?template=suggestion.yml&title=${encodeURIComponent(q||"")}${TOWN ? "&town="+encodeURIComponent(TOWN) : ""}`;
 if(!API || !SITE.api.contact){ $("contactBtn").hidden=true; }
 if(SITE.hub && SITE.hub.url){ const at = SITE.hub.slug ? `townlapse.org/${esc(SITE.hub.slug)}` : "";
   $("hubline").innerHTML = `Part of <a href="${SITE.hub.url}">${esc(SITE.hub.name)}</a>${at ? ` · <a href="https://${at}/">${at}</a>` : ""}. Make one for your neighborhood.`; }
@@ -344,6 +345,7 @@ document.addEventListener("click",e=>{ const b=e.target.closest(".fix"); if(b){ 
 form.onsubmit=async e=>{
   e.preventDefault();
   const d=Object.fromEntries(new FormData(form));
+  if(TOWN) d.town=TOWN;
   const bad = t => { msg.textContent=t; msg.className="err"; };
   if(!d.name.trim()) return bad("Add the name of the place.");
   if(d.kind==="addition" && !d.address.trim()) return bad("Add an address or nearest corner.");

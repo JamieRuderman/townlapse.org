@@ -16,5 +16,6 @@ Built with the [townlapse](https://github.com/unotdys/townlapse) template's own 
 
 To rebuild after editing data: `python3 fetch_osm.py` (optional, refreshes today's places), then `python3 build.py`.
 
-Suggestions: `config.json` → `api.url` is empty, so "Suggest a place" opens a GitHub issue on this repo. Point it at a
-reviewer endpoint (the page posts to `api.url + "/suggest"`) to give Santa Rosa the same pipeline as Palo Alto.
+Suggestions: `config.json` → `api.url` is empty, so "Suggest a place" opens this repo's suggestion issue form with the
+town (`hub.slug`) filled in. With `api.url` set, the page posts to `api.url + "/suggest"` with `town` in the body.
+`template.html` differs from the template's page only in sending that town.
