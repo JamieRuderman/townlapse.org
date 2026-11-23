@@ -227,6 +227,15 @@
    "end": 2022,
    "category": "fitness",
    "approx": true
+  },
+  {
+   "name": "Zibibbo",
+   "address": "430 Kipling St",
+   "note": "Pan-Mediterranean restaurant in a renovated yellow Victorian house spanning Kipling to Waverley; opened in 1997 and closed in April 2014 after a 17-year run, after which the space became offices.",
+   "start": 1997,
+   "end": 2014,
+   "category": "food",
+   "approx": true
   }
  ],
  "corrections": [

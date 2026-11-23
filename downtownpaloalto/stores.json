@@ -807,6 +807,18 @@
   "source": "suggestion"
  },
  {
+  "name": "Zibibbo",
+  "address": "430 Kipling St",
+  "start": 1997,
+  "end": 2014,
+  "category": "food",
+  "approx": true,
+  "note": "Pan-Mediterranean restaurant in a renovated yellow Victorian house spanning Kipling to Waverley; opened in 1997 and closed in April 2014 after a 17-year run, after which the space became offices.",
+  "lat": 37.4482566,
+  "lng": -122.1608136,
+  "source": "suggestion"
+ },
+ {
   "name": "Nola's",
   "address": "535 Ramona St",
   "start": 1996,
@@ -22853,18 +22865,6 @@
   "category": "services"
  },
  {
-  "name": "Zibibbo",
-  "address": "address not listed",
-  "lat": 37.447805,
-  "lng": -122.1607609,
-  "start": 2013,
-  "end": 2016,
-  "approx": true,
-  "source": "osm-history",
-  "note": "Restaurant. On OpenStreetMap 2013\u20132016; actual years open may differ.",
-  "category": "food"
- },
- {
   "name": "Restoration Hardware",
   "address": "281 University Ave",
   "lat": 37.445903,
@@ -24966,14 +24966,14 @@
  },
  {
   "name": "La Comida",
-  "address": "429 Bryant St",
+  "address": "450 Bryant St",
   "start": 2026,
   "end": 2026,
   "category": "food",
   "approx": false,
   "source": "news",
-  "lat": 37.4465596,
-  "lng": -122.162491,
+  "lat": 37.4461771,
+  "lng": -122.1624215,
   "note": "Senior meal nonprofit. Palo Alto Online's Peninsula Foodist reported it opening in 2026 and closing in 2026."
  },
  {
@@ -25676,13 +25676,13 @@
   "name": "The Redwood by Chef Julien",
   "address": "450 Bryant St",
   "start": 2022,
-  "end": 2022,
+  "end": 2026,
   "category": "food",
-  "approx": true,
+  "approx": false,
   "source": "news",
   "lat": 37.4461771,
   "lng": -122.1624215,
-  "note": "French cafe. Palo Alto Online's Peninsula Foodist reported it opening in 2022. Later status unknown."
+  "note": "French cafe. Palo Alto Online's Peninsula Foodist reported it opening in 2022."
  },
  {
   "name": "Lima Ruby",
