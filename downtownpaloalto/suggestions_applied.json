@@ -891,6 +891,19 @@
     "https://obituaries.paloaltoonline.com/obituaries/print/freddie-maddalena?o=4658",
     "https://www.paloaltoonline.com/uncategorized/2006/02/24/decidedly-old-school/"
    ]
+  },
+  {
+   "name": "Pollo's Rotisserie Chicken",
+   "address": "543 Emerson St",
+   "note": "Rotisserie chicken restaurant that served chicken burritos, tacos and quesadillas. Palo Alto Weekly readers voted it best burrito in 1994; actual years open may be longer.",
+   "start": 1994,
+   "end": 1994,
+   "category": "food",
+   "approx": true,
+   "links": [
+    "https://www.paloaltoonline.com/best-of/1995/11/01/best-of-1995/",
+    "https://www.paloaltoonline.com/morgue/cover/1994_Oct_12.BESTOF94.html"
+   ]
   }
  ],
  "corrections": [
