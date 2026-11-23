@@ -636,6 +636,15 @@
     "start": 1994,
     "approx": true
    }
+  },
+  {
+   "target": "Rose and Crown",
+   "target_address": "547 Emerson St",
+   "fields": {
+    "note": "British pub that earlier ran under other tavern names and took the name The Rose & Crown in 1990; its painted trompe l'oeil facade dates to 1991. Still open.",
+    "start": 1990,
+    "approx": false
+   }
   }
  ]
 }
