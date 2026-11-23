@@ -525,6 +525,15 @@
     "end": 2023,
     "approx": true
    }
+  },
+  {
+   "target": "Scotty's",
+   "target_address": "548 Emerson St",
+   "fields": {
+    "note": "Neighborhood bar and grill opened in 2009 by a longtime Empire Tap Room bartender, in space formerly used by Maddalena's and Cafe Fino. Still open.",
+    "start": 2009,
+    "approx": false
+   }
   }
  ]
 }
