@@ -169,7 +169,8 @@ $("radius").onchange = () => { fit(); nearCheck(); };
 // ---------- step 2: standardized name + nearby check
 function areaName() {
   const k = document.querySelector("input[name=kind]:checked").value;
-  if (k === "custom") { const c = $("custom").value.trim().replace(/\s+/g, " "); return c ? c.split(" ").map(w => w[0].toUpperCase() + w.slice(1)).join(" ") : ""; }
+  if (k === "custom") { const small = new Set(["and","of","the","at","on","in","de","la","del"]);
+    const c = $("custom").value.trim().replace(/\s+/g, " "); return c ? c.split(" ").map((w, i) => i && small.has(w.toLowerCase()) ? w.toLowerCase() : w[0].toUpperCase() + w.slice(1)).join(" ") : ""; }
   return LABEL[k];
 }
 function updateName() {
