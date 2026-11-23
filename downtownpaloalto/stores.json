@@ -1406,6 +1406,28 @@
   ]
  },
  {
+  "name": "Caffe Verona",
+  "address": "236 Hamilton Ave",
+  "start": 1984,
+  "end": 2003,
+  "category": "food",
+  "approx": true,
+  "note": "Beloved downtown coffeehouse and Italian cafe that moved to 236 Hamilton Ave in 1984 and closed August 31, 2003 after 19 years, when its landlord declined to renew the lease. It was a famous meeting spot for entrepreneurs and neighborhood regulars.",
+  "lat": 37.4441547,
+  "lng": -122.160954,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://www.paloaltoonline.com/morgue/2003/2003_07_18.caffe18.html",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/morgue/2003/2003_08_08.verona08.html",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Nola's",
   "address": "535 Ramona St",
   "start": 1996,

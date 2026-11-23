@@ -506,6 +506,19 @@
     "https://www.paloaltoonline.com/morgue/2002/2002_09_06.lavanda6.html",
     "https://www.paloaltoonline.com/news/2012/12/16/shop-talk-palo-alto-grill-opening-downtown/"
    ]
+  },
+  {
+   "name": "Caffe Verona",
+   "address": "236 Hamilton Ave",
+   "note": "Beloved downtown coffeehouse and Italian cafe that moved to 236 Hamilton Ave in 1984 and closed August 31, 2003 after 19 years, when its landlord declined to renew the lease. It was a famous meeting spot for entrepreneurs and neighborhood regulars.",
+   "start": 1984,
+   "end": 2003,
+   "category": "food",
+   "approx": true,
+   "links": [
+    "https://www.paloaltoonline.com/morgue/2003/2003_07_18.caffe18.html",
+    "https://www.paloaltoonline.com/morgue/2003/2003_08_08.verona08.html"
+   ]
   }
  ],
  "corrections": [
