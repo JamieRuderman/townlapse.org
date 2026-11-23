@@ -744,6 +744,22 @@
     "https://www.paloaltoonline.com/morgue/2001/2001_06_20.obits20.html",
     "https://www.paloaltoonline.com/morgue/news/1995_Sep_13.PEOPLE13.html"
    ]
+  },
+  {
+   "name": "Palo Alto Medical Clinic",
+   "address": "300 Homer Ave",
+   "note": "Group medical practice in the Spanish Colonial Revival Roth Building, designed by Birge Clark in 1932. The clinic later moved out, and the city bought the building in 2000 to become the home of the Palo Alto History Museum.",
+   "start": 1932,
+   "end": 1999,
+   "category": "services",
+   "approx": true,
+   "links": [
+    "https://en.wikipedia.org/wiki/Palo_Alto_Medical_Clinic",
+    "https://npgallery.nps.gov/GetAsset/08bcebac-3099-49f2-b8d0-e8af547907fd",
+    "https://sutterhealth.org/research/pamfri/history",
+    "https://theclio.com/api/v1/entries/184106/export",
+    "https://www.paloaltoonline.com/real-estate/2023/07/03/where-to-spot-palo-alto-architect-birge-clarks-iconic-early-california-style/"
+   ]
   }
  ],
  "corrections": [
