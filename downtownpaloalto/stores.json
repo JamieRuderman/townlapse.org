@@ -2710,14 +2710,20 @@
  {
   "name": "Joe & The Juice",
   "address": "240 Hamilton Ave",
-  "start": 2019,
+  "start": 2018,
   "end": null,
   "category": "food",
-  "approx": true,
+  "approx": false,
   "source": "osm",
-  "note": "Open today (cafe). Listed in OpenStreetMap; first mapped in 2019, which is roughly when it opened.",
+  "note": "Open today (cafe). Listed in OpenStreetMap; first mapped in 2019, which is roughly when it opened. Palo Alto Online's Peninsula Foodist reported it opening in 2018.",
   "lat": 37.4443528,
-  "lng": -122.1609464
+  "lng": -122.1609464,
+  "links": [
+   {
+    "url": "https://www.paloaltoonline.com/peninsula-foodist/2017/08/03/joe-the-juice-is-headed-to-palo-alto/",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Sephora",
@@ -2964,20 +2970,14 @@
  {
   "name": "Joe & The Juice",
   "address": "508 University Ave",
-  "start": 2018,
+  "start": 2019,
   "end": null,
   "category": "food",
-  "approx": false,
+  "approx": true,
   "source": "osm",
-  "note": "Open today (cafe). Listed in OpenStreetMap; first mapped in 2019, which is roughly when it opened. Palo Alto Online's Peninsula Foodist reported it opening in 2018.",
+  "note": "Open today (cafe). Listed in OpenStreetMap; first mapped in 2019, which is roughly when it opened.",
   "lat": 37.4484574,
-  "lng": -122.1588997,
-  "links": [
-   {
-    "url": "https://www.paloaltoonline.com/peninsula-foodist/2017/08/03/joe-the-juice-is-headed-to-palo-alto/",
-    "kind": "Article"
-   }
-  ]
+  "lng": -122.1588997
  },
  {
   "name": "HSBC",
@@ -19795,16 +19795,30 @@
   "lng": -122.157704
  },
  {
-  "name": "Saint Thomas Aquinas Church",
+  "name": "St. Thomas Aquinas Church",
   "address": "751 Waverley St",
-  "start": 1929,
-  "end": 1929,
+  "start": 1902,
+  "end": null,
   "category": "worship",
-  "approx": true,
+  "approx": false,
   "source": "directory",
-  "note": "Catholic church. Listed in Palo Alto city directories and phone books (1929); actual years open may be longer.",
+  "note": "Palo Alto's oldest surviving church building, a Carpenter Gothic Catholic church at Waverley and Homer that held its first Mass on June 4, 1902, and still holds services. It was the funeral location in the 1971 film Harold and Maude.",
   "lat": 37.445178,
-  "lng": -122.1571868
+  "lng": -122.1571868,
+  "links": [
+   {
+    "url": "https://www.pastheritage.org/Articles/StThomAquMF.html",
+    "kind": "History"
+   },
+   {
+    "url": "https://catholicmasstime.org/church/st-thomas-aquinas-church/1805",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltocatholic.net/about",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "Ames Paint Store",
@@ -27062,14 +27076,14 @@
  },
  {
   "name": "La Comida",
-  "address": "429 Bryant St",
+  "address": "450 Bryant St",
   "start": 2026,
   "end": 2026,
   "category": "food",
   "approx": false,
   "source": "news",
-  "lat": 37.4465596,
-  "lng": -122.162491,
+  "lat": 37.4461771,
+  "lng": -122.1624215,
   "links": [
    {
     "url": "https://www.paloaltoonline.com/palo-alto/2026/08/26/avenidas-and-la-comida-to-host-foodie-fundraiser-to-support-older-adults/",
@@ -27574,14 +27588,14 @@
  },
  {
   "name": "Coupa Cafe",
-  "address": "111 Lytton Ave",
+  "address": "Ramona St",
   "start": 2004,
   "end": 2004,
   "category": "food",
   "approx": true,
   "source": "news",
-  "lat": 37.4445426,
-  "lng": -122.1652665,
+  "lat": 37.4455052,
+  "lng": -122.1625455,
   "links": [
    {
     "url": "https://www.paloaltoonline.com/peninsula-foodist/2016/01/26/now-open-second-coupa-cafe-in-palo-alto/",
@@ -28142,9 +28156,9 @@
   "name": "The Redwood by Chef Julien",
   "address": "450 Bryant St",
   "start": 2022,
-  "end": 2022,
+  "end": 2026,
   "category": "food",
-  "approx": true,
+  "approx": false,
   "source": "news",
   "lat": 37.4461771,
   "lng": -122.1624215,
@@ -28154,7 +28168,7 @@
     "kind": "Article"
    }
   ],
-  "note": "French cafe. Palo Alto Online's Peninsula Foodist reported it opening in 2022. Later status unknown."
+  "note": "French cafe. Palo Alto Online's Peninsula Foodist reported it opening in 2022."
  },
  {
   "name": "Lima Ruby",

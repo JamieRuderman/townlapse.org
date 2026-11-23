@@ -1638,6 +1638,22 @@
      "https://www.sfgate.com/restaurants/diningout/article/DINING-Pizz-a-Chicago-s-offerings-rise-above-2865471.php"
     ]
    }
+  },
+  {
+   "target": "Saint Thomas Aquinas Church",
+   "target_address": "751 Waverley St",
+   "fields": {
+    "name": "St. Thomas Aquinas Church",
+    "note": "Palo Alto's oldest surviving church building, a Carpenter Gothic Catholic church at Waverley and Homer that held its first Mass on June 4, 1902, and still holds services. It was the funeral location in the 1971 film Harold and Maude.",
+    "start": 1902,
+    "end": null,
+    "approx": false,
+    "links": [
+     "https://catholicmasstime.org/church/st-thomas-aquinas-church/1805",
+     "https://www.paloaltocatholic.net/about",
+     "https://www.pastheritage.org/Articles/StThomAquMF.html"
+    ]
+   }
   }
  ]
 }
