@@ -645,6 +645,15 @@
     "start": 1990,
     "approx": false
    }
+  },
+  {
+   "target": "Reposado",
+   "target_address": "236 Hamilton Ave",
+   "fields": {
+    "note": "Upscale Mexican restaurant that opened in early January 2009 in the former Caffe Verona space. It is still operating and opened a second location in San Mateo in 2026.",
+    "start": 2009,
+    "approx": false
+   }
   }
  ]
 }
