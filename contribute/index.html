@@ -148,7 +148,7 @@ function fillFromAi(text) {
   items.forEach(() => addRow());
   [...$("entries").querySelectorAll(".entry")].forEach((d, i) => {
     const x = items[i], set = (k, v) => { const e = d.querySelector(`[name=${k}]`); if (e && v != null && v !== "") e.value = v; };
-    set("name", x.name); set("address", x.address); set("start", x.start); set("end", x.end);
+    set("name", x.name); set("address", String(x.address || "").split(",")[0].trim());   // "201 Main St, Town, CA 94306" -> "201 Main St" set("start", x.start); set("end", x.end);
     if (CATS.some(([v]) => v === x.category)) set("category", x.category);
     set("source", Array.isArray(x.sources) ? x.sources[0] : x.source); set("note", x.note);
   });
