@@ -84,6 +84,23 @@
    "status": "populating",
    "created": "2026-11-23",
    "blurb": "Started November 2026. Today's places are on the map; neighbors and AI researchers are filling in its history."
+  },
+  {
+   "slug": "waikikihonolulu",
+   "name": "Waikiki Honolulu",
+   "region": "Hawaii",
+   "city": "Honolulu",
+   "country": "United States",
+   "url": "https://townlapse.org/waikikihonolulu/",
+   "since": 1900,
+   "center": [
+    21.27562,
+    -157.8265
+   ],
+   "radius_km": 0.8,
+   "status": "populating",
+   "created": "2026-11-23",
+   "blurb": "Started November 2026. Today's places are on the map; neighbors and AI researchers are filling in its history."
   }
  ]
 }
