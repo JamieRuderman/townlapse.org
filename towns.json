@@ -33,6 +33,23 @@
    "status": "populating",
    "created": "2026-11-23",
    "blurb": "Started November 2026. Today's places are on the map; neighbors and AI researchers are filling in its history."
+  },
+  {
+   "slug": "downtownmenlopark",
+   "name": "Downtown Menlo Park",
+   "region": "California",
+   "city": "Menlo Park",
+   "country": "United States",
+   "url": "https://townlapse.org/downtownmenlopark/",
+   "since": 1900,
+   "center": [
+    37.4528,
+    -122.1823
+   ],
+   "radius_km": 0.6,
+   "status": "populating",
+   "created": "2026-11-23",
+   "blurb": "Started November 2026. Today's places are on the map; neighbors and AI researchers are filling in its history."
   }
  ]
 }
