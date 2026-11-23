@@ -64,6 +64,15 @@
    "approx": true,
    "note": "A longtime downtown foam shop that sold foam and made custom cases. Owner Bob Tallman took it over in the 1970s, and it quietly closed in early January 2020.",
    "submitted_by": "chatgpt"
+  },
+  {
+   "name": "Mango Cafe",
+   "address": "435 Hamilton Ave",
+   "note": "Caribbean restaurant serving Trinidad and Tobago cuisine, which moved here in early 1995 after about five years on University Avenue. Palo Alto Weekly reviewed it in 1995 and 1998; when it closed has not been confirmed.",
+   "start": 1995,
+   "end": 1998,
+   "category": "food",
+   "approx": true
   }
  ],
  "corrections": [
@@ -74,7 +83,7 @@
     "start": 2008,
     "end": 2023,
     "approx": true,
-    "note": "Starbucks at 374–376 University Ave, open here from about 2008 until April 30, 2023, when it moved to 151 University."
+    "note": "Starbucks at 374\u2013376 University Ave, open here from about 2008 until April 30, 2023, when it moved to 151 University."
    }
   },
   {
