@@ -358,6 +358,16 @@
     "start": 1995,
     "approx": true
    }
+  },
+  {
+   "target": "Old Pro",
+   "target_address": "541 Ramona St",
+   "fields": {
+    "note": "Sports bar, the downtown branch of a Palo Alto bar that started on El Camino Real in 1964. It opened on Ramona Street around 2003, became the main location after the El Camino bar closed in 2007, and closed in June 2022.",
+    "start": 2003,
+    "end": 2022,
+    "approx": false
+   }
   }
  ]
 }
