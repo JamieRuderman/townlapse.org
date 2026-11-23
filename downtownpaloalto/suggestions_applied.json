@@ -44,6 +44,15 @@
    "category": "food",
    "approx": true,
    "note": "Cozy Mediterranean-leaning cafe and restaurant across Hamilton from the Chase bank, known for dishes like gazpacho and house-made cheesecake. In the Palo Alto Weekly's dining listings from at least 2006 to 2008; Curry Up Now later took over the space. Exact years not yet confirmed."
+  },
+  {
+   "name": "Good Earth Restaurant and Bakery",
+   "address": "185 University Ave",
+   "note": "Health-food restaurant and bakery from a national chain. It opened in March 1976 in the former House of Pies building and closed in 2001 when the owner retired.",
+   "start": 1976,
+   "end": 2001,
+   "category": "food",
+   "approx": false
   }
  ],
  "corrections": [
@@ -54,7 +63,7 @@
     "start": 2008,
     "end": 2023,
     "approx": true,
-    "note": "Starbucks at 374–376 University Ave, open here from about 2008 until April 30, 2023, when it moved to 151 University."
+    "note": "Starbucks at 374\u2013376 University Ave, open here from about 2008 until April 30, 2023, when it moved to 151 University."
    }
   },
   {
