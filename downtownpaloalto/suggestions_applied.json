@@ -857,6 +857,15 @@
     "start": 1986,
     "approx": true
    }
+  },
+  {
+   "target": "Patagonia",
+   "target_address": "525 Alma St",
+   "fields": {
+    "note": "Outdoor clothing and gear store, still open, in a brick building that housed auto dealerships in the 1920s\u20131950s. A local news column places it on Alma St by early 2008, and it may have opened earlier.",
+    "start": 2008,
+    "approx": true
+   }
   }
  ]
 }
