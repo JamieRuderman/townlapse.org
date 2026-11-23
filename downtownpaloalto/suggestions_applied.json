@@ -1518,6 +1518,23 @@
      "https://www.paloaltoonline.com/uncategorized/2008/03/07/the-jewel-of-ramona-street/"
     ]
    }
+  },
+  {
+   "target": "Philz Coffee",
+   "target_address": "near Forest Ave",
+   "fields": {
+    "address": "101 Forest Ave",
+    "note": "Philz Coffee cafe at Forest Avenue and Alma Street, announced in mid-2011 to open that September and open by early 2012. It still operates there.",
+    "start": 2011,
+    "end": null,
+    "approx": true,
+    "links": [
+     "https://philzcoffee.com/locations/forest-ave",
+     "https://www.paloaltoonline.com/news/2012/04/15/first-person-a-conversation-with-phil-jaber",
+     "https://www.paloaltoonline.com/news/2017/01/24/whimsical-forest-mural-at-philz-coffee-getting-uprooted/",
+     "https://www.paloaltoonline.com/uncategorized/2011/07/22/shop-talk-92/"
+    ]
+   }
   }
  ]
 }
