@@ -865,6 +865,19 @@
     "https://www.metroactive.com/papers/metro/09.19.96/cover/best-food-9638.html",
     "https://www.paloaltoonline.com/morgue/news/1995_Oct_4.around_town.html"
    ]
+  },
+  {
+   "name": "Noah's Bagels",
+   "address": "278 University Ave",
+   "note": "New York-style bagel shop at the corner of University and Bryant, voted Palo Alto's best bagels in 1995 and for years after; the building that housed Noah's and Starbucks was slated for demolition in August 2008.",
+   "start": 1995,
+   "end": 2008,
+   "category": "food",
+   "approx": true,
+   "links": [
+    "https://www.paloaltoonline.com/best-of/1995/11/01/best-of-1995/",
+    "https://www.paloaltoonline.com/news/2008/08/06/new-building-slated-for-university/"
+   ]
   }
  ],
  "corrections": [
