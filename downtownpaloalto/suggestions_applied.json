@@ -255,6 +255,14 @@
     "start": 2008,
     "approx": false
    }
+  },
+  {
+   "target": "Indian Bowl",
+   "target_address": "735 Emerson St",
+   "fields": {
+    "note": "Bowling alley, described as Palo Alto's longest-lasting, in a 1926 building that runs through to 734 Ramona St, entered from Emerson Street. It opened in the early 1940s after a 1940 remodel and closed in 1975, when Baker Graphics took over the space.",
+    "approx": true
+   }
   }
  ]
 }
