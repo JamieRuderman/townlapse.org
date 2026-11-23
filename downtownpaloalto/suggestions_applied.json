@@ -590,6 +590,15 @@
     "start": 2010,
     "approx": true
    }
+  },
+  {
+   "target": "Hotel Keen",
+   "target_address": "425 High St",
+   "fields": {
+    "note": "Boutique hotel that opened in May 2010 after a renovation of the former Palo Alto Hotel, a low-income residential hotel bought by new owners in 2008. Still open today.",
+    "start": 2010,
+    "approx": false
+   }
   }
  ]
 }
