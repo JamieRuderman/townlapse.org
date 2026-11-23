@@ -931,6 +931,19 @@
     "https://www.paloaltoonline.com/news/2008/04/04/gallery-house-turns-50/",
     "https://www.pastheritage.org/inv/invR/ramona538.html"
    ]
+  },
+  {
+   "name": "The Photographer's Gallery",
+   "address": "536 Ramona St",
+   "note": "Fine-art photography gallery that moved here from 732 Emerson St. in August 1995. Local exhibit listings place it at 536 Ramona St. through at least mid-2000.",
+   "start": 1995,
+   "end": 2000,
+   "category": "retail",
+   "approx": true,
+   "links": [
+    "https://www.paloaltoonline.com/morgue/listings/1995_Oct_27.entertainment.html",
+    "https://www.paloaltoonline.com/morgue/listings/2000_Jul_14.art.html"
+   ]
   }
  ],
  "corrections": [
