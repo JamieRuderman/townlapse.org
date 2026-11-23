@@ -735,6 +735,18 @@
   "source": "suggestion"
  },
  {
+  "name": "Barker Hotel",
+  "address": "439 Emerson St",
+  "start": 1928,
+  "end": null,
+  "category": "hotel",
+  "approx": false,
+  "note": "Residential hotel built in 1928 that came to house very low-income residents. The Palo Alto Housing Corporation (now Alta Housing) acquired it in 1994, and it still operates as affordable single-room-occupancy housing.",
+  "lat": 37.4451578,
+  "lng": -122.1633273,
+  "source": "suggestion"
+ },
+ {
   "name": "Nola's",
   "address": "535 Ramona St",
   "start": 1996,
@@ -1465,12 +1477,12 @@
  {
   "name": "Joe & The Juice",
   "address": "240 Hamilton Ave",
-  "start": 2019,
+  "start": 2018,
   "end": null,
   "category": "food",
-  "approx": true,
+  "approx": false,
   "source": "osm",
-  "note": "Open today (cafe). Listed in OpenStreetMap; first mapped in 2019, which is roughly when it opened.",
+  "note": "Open today (cafe). Listed in OpenStreetMap; first mapped in 2019, which is roughly when it opened. Palo Alto Online's Peninsula Foodist reported it opening in 2018.",
   "lat": 37.4443528,
   "lng": -122.1609464
  },
@@ -1671,12 +1683,12 @@
  {
   "name": "Joe & The Juice",
   "address": "508 University Ave",
-  "start": 2018,
+  "start": 2019,
   "end": null,
   "category": "food",
-  "approx": false,
+  "approx": true,
   "source": "osm",
-  "note": "Open today (cafe). Listed in OpenStreetMap; first mapped in 2019, which is roughly when it opened. Palo Alto Online's Peninsula Foodist reported it opening in 2018.",
+  "note": "Open today (cafe). Listed in OpenStreetMap; first mapped in 2019, which is roughly when it opened.",
   "lat": 37.4484574,
   "lng": -122.1588997
  },
@@ -7443,18 +7455,6 @@
   "note": "Sign shop. Listed in Palo Alto city directories and phone books (1941\u20131958); actual years open may be longer.",
   "lat": 37.4452178,
   "lng": -122.1655137
- },
- {
-  "name": "Barker Hotel",
-  "address": "439 Emerson St",
-  "start": 1929,
-  "end": 1963,
-  "category": "hotel",
-  "approx": true,
-  "source": "directory",
-  "note": "Hotel. Listed in Palo Alto city directories and phone books (1929\u20131963); actual years open may be longer.",
-  "lat": 37.4451578,
-  "lng": -122.1633273
  },
  {
   "name": "Burton's Toys",
@@ -24942,14 +24942,14 @@
  },
  {
   "name": "La Comida",
-  "address": "450 Bryant St",
+  "address": "429 Bryant St",
   "start": 2026,
   "end": 2026,
   "category": "food",
   "approx": false,
   "source": "news",
-  "lat": 37.4461771,
-  "lng": -122.1624215,
+  "lat": 37.4465596,
+  "lng": -122.162491,
   "note": "Senior meal nonprofit. Palo Alto Online's Peninsula Foodist reported it opening in 2026 and closing in 2026."
  },
  {
@@ -25652,13 +25652,13 @@
   "name": "The Redwood by Chef Julien",
   "address": "450 Bryant St",
   "start": 2022,
-  "end": 2026,
+  "end": 2022,
   "category": "food",
-  "approx": false,
+  "approx": true,
   "source": "news",
   "lat": 37.4461771,
   "lng": -122.1624215,
-  "note": "French cafe. Palo Alto Online's Peninsula Foodist reported it opening in 2022."
+  "note": "French cafe. Palo Alto Online's Peninsula Foodist reported it opening in 2022. Later status unknown."
  },
  {
   "name": "Lima Ruby",

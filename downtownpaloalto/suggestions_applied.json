@@ -173,6 +173,15 @@
    "end": 2018,
    "category": "fitness",
    "approx": true
+  },
+  {
+   "name": "Barker Hotel",
+   "address": "439 Emerson St",
+   "note": "Residential hotel built in 1928 that came to house very low-income residents. The Palo Alto Housing Corporation (now Alta Housing) acquired it in 1994, and it still operates as affordable single-room-occupancy housing.",
+   "start": 1928,
+   "end": null,
+   "category": "hotel",
+   "approx": false
   }
  ],
  "corrections": [
