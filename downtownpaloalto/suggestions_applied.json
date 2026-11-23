@@ -1737,6 +1737,19 @@
      "https://www.pastheritage.org/Articles/StThomAquMF.html"
     ]
    }
+  },
+  {
+   "target": "Cafe Renaissance",
+   "target_address": "321 Hamilton Ave",
+   "fields": {
+    "note": "Persian and Mediterranean cafe whose owner bought the former Plantation restaurant here in 1991 and turned it toward Persian food, as a 1998 Palo Alto Weekly review described. A downtown lunch spot into the 2010s, it was later replaced by Curry Up Now; its exact closing year is not confirmed.",
+    "start": 1991,
+    "approx": true,
+    "links": [
+     "https://www.paloaltoonline.com/morgue/restaurants/1998_Dec_18.EATS18.html",
+     "https://www.paloaltoonline.com/news/2012/10/07/shop-talk-downtown-sushi-restaurant-miyake-closes/"
+    ]
+   }
   }
  ]
 }
