@@ -519,6 +519,22 @@
     "https://www.paloaltoonline.com/morgue/2003/2003_07_18.caffe18.html",
     "https://www.paloaltoonline.com/morgue/2003/2003_08_08.verona08.html"
    ]
+  },
+  {
+   "name": "Patxi's Chicago Pizza",
+   "address": "441 Emerson St",
+   "note": "Chicago-style deep-dish pizzeria that opened in 2004 as the first restaurant of the Patxi's chain. Listings now show this location as closed, reportedly around 2022.",
+   "start": 2004,
+   "end": 2022,
+   "category": "food",
+   "approx": true,
+   "links": [
+    "https://patxispizza.com/our-story/",
+    "https://www.happycow.net/reviews/patxis-chicago-pizza-palo-alto-palo-alto-26569",
+    "https://www.mv-voice.com/morgue/2004/2004_08_27.dining.shtml",
+    "https://www.paloaltoonline.com/uncategorized/2010/08/27/muscle-pizza-party/",
+    "https://www.yelp.com/biz/patxis-pizza-palo-alto"
+   ]
   }
  ],
  "corrections": [

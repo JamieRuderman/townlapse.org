@@ -1428,6 +1428,40 @@
   ]
  },
  {
+  "name": "Patxi's Chicago Pizza",
+  "address": "441 Emerson St",
+  "start": 2004,
+  "end": 2022,
+  "category": "food",
+  "approx": true,
+  "note": "Chicago-style deep-dish pizzeria that opened in 2004 as the first restaurant of the Patxi's chain. Listings now show this location as closed, reportedly around 2022.",
+  "lat": 37.4451249,
+  "lng": -122.1632736,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://patxispizza.com/our-story/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.happycow.net/reviews/patxis-chicago-pizza-palo-alto-palo-alto-26569",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.mv-voice.com/morgue/2004/2004_08_27.dining.shtml",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/uncategorized/2010/08/27/muscle-pizza-party/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.yelp.com/biz/patxis-pizza-palo-alto",
+    "kind": "Listing"
+   }
+  ]
+ },
+ {
   "name": "Nola's",
   "address": "535 Ramona St",
   "start": 1996,
@@ -24649,18 +24683,6 @@
   "category": "food"
  },
  {
-  "name": "Patxis",
-  "address": "address not listed",
-  "lat": 37.4451887,
-  "lng": -122.1631792,
-  "start": 2013,
-  "end": 2013,
-  "approx": true,
-  "source": "osm-history",
-  "note": "Restaurant. On OpenStreetMap 2013\u20132013; actual years open may differ.",
-  "category": "food"
- },
- {
   "name": "Rangoon",
   "address": "565 Bryant St",
   "lat": 37.4453797,
@@ -27214,14 +27236,14 @@
  },
  {
   "name": "Coupa Cafe",
-  "address": "Ramona St",
+  "address": "111 Lytton Ave",
   "start": 2004,
   "end": 2004,
   "category": "food",
   "approx": true,
   "source": "news",
-  "lat": 37.4455052,
-  "lng": -122.1625455,
+  "lat": 37.4445426,
+  "lng": -122.1652665,
   "links": [
    {
     "url": "https://www.paloaltoonline.com/peninsula-foodist/2016/01/26/now-open-second-coupa-cafe-in-palo-alto/",
