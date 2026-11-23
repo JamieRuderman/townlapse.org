@@ -766,6 +766,15 @@
     "category": "retail",
     "approx": true
    }
+  },
+  {
+   "target": "Eyerly's",
+   "target_address": "550 Waverley St",
+   "fields": {
+    "note": "Hardware and appliance store, listed at this address in city directories from 1954. It began on University Ave about 1947, later moved here, and closed in 1980, according to Palo Alto Online.",
+    "end": 1980,
+    "approx": true
+   }
   }
  ]
 }

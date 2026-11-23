@@ -14132,11 +14132,11 @@
   "name": "Eyerly's",
   "address": "550 Waverley St",
   "start": 1954,
-  "end": 1963,
+  "end": 1980,
   "category": "retail",
   "approx": true,
   "source": "directory",
-  "note": "Appliance store. Listed in Palo Alto city directories and phone books (1954\u20131963); actual years open may be longer.",
+  "note": "Hardware and appliance store, listed at this address in city directories from 1954. It began on University Ave about 1947, later moved here, and closed in 1980, according to Palo Alto Online.",
   "lat": 37.4465391,
   "lng": -122.1596715
  },
@@ -24942,14 +24942,14 @@
  },
  {
   "name": "La Comida",
-  "address": "450 Bryant St",
+  "address": "429 Bryant St",
   "start": 2026,
   "end": 2026,
   "category": "food",
   "approx": false,
   "source": "news",
-  "lat": 37.4461771,
-  "lng": -122.1624215,
+  "lat": 37.4465596,
+  "lng": -122.162491,
   "note": "Senior meal nonprofit. Palo Alto Online's Peninsula Foodist reported it opening in 2026 and closing in 2026."
  },
  {
@@ -25652,13 +25652,13 @@
   "name": "The Redwood by Chef Julien",
   "address": "450 Bryant St",
   "start": 2022,
-  "end": 2026,
+  "end": 2022,
   "category": "food",
-  "approx": false,
+  "approx": true,
   "source": "news",
   "lat": 37.4461771,
   "lng": -122.1624215,
-  "note": "French cafe. Palo Alto Online's Peninsula Foodist reported it opening in 2022."
+  "note": "French cafe. Palo Alto Online's Peninsula Foodist reported it opening in 2022. Later status unknown."
  },
  {
   "name": "Lima Ruby",
