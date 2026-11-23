@@ -577,6 +577,20 @@
     "https://www.metrosiliconvalley.com/papers/metro/03.26.98/dining-9812.html",
     "https://www.paloaltoonline.com/morgue/2004/2004_05_14.donia14ja.shtml"
    ]
+  },
+  {
+   "name": "Darshana Yoga",
+   "address": "654 High St",
+   "note": "Yoga studio founded by Catherine De Los Santos. It opened on this block of High Street in July 2003 and ran until 2012, and it was featured in the Palo Alto Weekly's Best of 2006 yoga category.",
+   "start": 2003,
+   "end": 2012,
+   "category": "fitness",
+   "approx": false,
+   "links": [
+    "https://www.catherinedelossantosyoga.com/about-catherine",
+    "https://www.paloaltoonline.com/best-of/2006/08/30/best-of-2006/",
+    "https://www.paloaltoonline.com/morgue/2003/2003_07_09.yoga09.html"
+   ]
   }
  ],
  "corrections": [
