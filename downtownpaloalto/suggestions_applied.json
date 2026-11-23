@@ -469,6 +469,16 @@
     "start": 2002,
     "approx": true
    }
+  },
+  {
+   "target": "Palo Alto Eyes",
+   "target_address": "540 University Ave",
+   "fields": {
+    "note": "Optometry practice and optical shop that has served Palo Alto since 1983, though it's not documented when it first opened at this address. It moved to 220 Hamilton Ave in 2026.",
+    "start": 1983,
+    "end": 2026,
+    "approx": true
+   }
   }
  ]
 }
