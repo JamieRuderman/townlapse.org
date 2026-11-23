@@ -717,6 +717,15 @@
     "end": 2009,
     "approx": true
    }
+  },
+  {
+   "target": "John F. Dahl Plumbing",
+   "target_address": "329 Alma St",
+   "fields": {
+    "note": "Plumbing, heating and air conditioning shop, founded in 1895 on University Ave and later on Alma St. It was still there in 1995, its 100th year; directory listings since then appear under Palo Alto Plumbing and Dahl Plumbing.",
+    "end": 1995,
+    "approx": true
+   }
   }
  ]
 }

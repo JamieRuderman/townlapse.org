@@ -8396,11 +8396,11 @@
   "name": "John F. Dahl Plumbing",
   "address": "329 Alma St",
   "start": 1939,
-  "end": 1963,
+  "end": 1995,
   "category": "services",
   "approx": true,
   "source": "directory",
-  "note": "Plumbing shop. Listed in Palo Alto city directories and phone books (1939\u20131963); actual years open may be longer.",
+  "note": "Plumbing, heating and air conditioning shop, founded in 1895 on University Ave and later on Alma St. It was still there in 1995, its 100th year; directory listings since then appear under Palo Alto Plumbing and Dahl Plumbing.",
   "lat": 37.44491,
   "lng": -122.1657436
  },
@@ -25278,14 +25278,14 @@
  },
  {
   "name": "Coupa Cafe",
-  "address": "Ramona St",
+  "address": "111 Lytton Ave",
   "start": 2004,
   "end": 2004,
   "category": "food",
   "approx": true,
   "source": "news",
-  "lat": 37.4455052,
-  "lng": -122.1625455,
+  "lat": 37.4445426,
+  "lng": -122.1652665,
   "note": "Cafe. Palo Alto Online's Peninsula Foodist reported it opening in 2004. Later status unknown."
  },
  {
