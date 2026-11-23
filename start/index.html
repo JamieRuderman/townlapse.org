@@ -199,7 +199,8 @@ $("reqForm").onsubmit = async e => {
   if (!place) return; if (kind === "custom" && !$("custom").value.trim()) { $("reqMsg").textContent = "Add the neighborhood name."; $("reqMsg").className = "hint err"; return; }
   $("go").disabled = true; $("reqMsg").textContent = "Setting up…"; $("reqMsg").className = "hint";
   const body = { place, area_kind: kind, custom_area: $("custom").value, radius_km: +$("radius").value, start_year: +$("startYear").value,
-    organizer: $("organizer").value, email: $("email").value, note: $("note").value, website: $("website").value, opened, confirm_nearby: $("confirmNearby").checked };
+    organizer: $("organizer").value, email: $("email").value, note: $("note").value, website: $("website").value, opened, confirm_nearby: $("confirmNearby").checked,
+    dry_run: new URLSearchParams(location.search).has("demo") };
   try {
     const r = await fetch(`${API}/towns`, { method: "POST", headers: { "Content-Type": "application/json" }, body: JSON.stringify(body) });
     const d = await r.json();
@@ -218,6 +219,7 @@ function done(d) {
     <p style="margin-top:16px"><a href="${esc(d.url)}"><b>${esc(d.url.replace("https://", ""))}</b></a></p>
     <p class="hint">Next: share it with neighbors, and use <b>Help research</b> on the map to start filling in its history.</p></div>`;
   s.scrollIntoView({ behavior: "smooth" });
+  if (d.demo) { $("liveMsg").textContent = "Demo mode: every check passed, and nothing was created."; return; }
   const t0 = Date.now();
   const poll = async () => {
     try { const r = await fetch(`/${d.slug}/places.json`, { cache: "no-cache" }); if (r.ok) { $("liveMsg").innerHTML = `It's live! <a href="${esc(d.url)}">Open the map</a> · <a href="/contribute/?town=${esc(d.slug)}">Help research</a>`; return; } } catch {}
