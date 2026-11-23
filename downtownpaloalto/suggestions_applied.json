@@ -349,6 +349,15 @@
     "end": 2023,
     "approx": false
    }
+  },
+  {
+   "target": "Tea Time",
+   "target_address": "542 Ramona St",
+   "fields": {
+    "note": "Tea room serving afternoon tea and loose-leaf teas, still open today. A tea directory lists it as established in 1995, and it changed hands in early 2006.",
+    "start": 1995,
+    "approx": true
+   }
   }
  ]
 }
