@@ -687,6 +687,18 @@
   "source": "suggestion"
  },
  {
+  "name": "Mandarin Gourmet",
+  "address": "420 Ramona St",
+  "start": 1990,
+  "end": 2015,
+  "category": "food",
+  "approx": true,
+  "note": "Chinese restaurant that was at this address for many years, until about 2014. Bird Dog opened in the space in late 2015. Palo Alto Online's Peninsula Foodist reported it closing in 2015.",
+  "lat": 37.4456702,
+  "lng": -122.1632442,
+  "source": "suggestion"
+ },
+ {
   "name": "Nola's",
   "address": "near Ramona St",
   "start": 2013,
@@ -22779,18 +22791,6 @@
   "source": "osm-history",
   "note": "Bank. On OpenStreetMap 2013\u20132024; actual years open may differ.",
   "category": "services"
- },
- {
-  "name": "Mandarin Gourmet",
-  "address": "420 Ramona St",
-  "lat": 37.4456656,
-  "lng": -122.1632331,
-  "start": 2013,
-  "end": 2015,
-  "approx": true,
-  "source": "osm-history",
-  "note": "Restaurant. On OpenStreetMap 2013\u20132022; actual years open may differ. Palo Alto Online's Peninsula Foodist reported it closing in 2015.",
-  "category": "food"
  },
  {
   "name": "Zibibbo",

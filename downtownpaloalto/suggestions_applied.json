@@ -137,6 +137,15 @@
    "end": 2019,
    "category": "food",
    "approx": true
+  },
+  {
+   "name": "Mandarin Gourmet",
+   "address": "420 Ramona St",
+   "note": "Chinese restaurant that was at this address for many years, until about 2014. Bird Dog opened in the space in late 2015.",
+   "start": 1990,
+   "end": 2014,
+   "category": "food",
+   "approx": true
   }
  ],
  "corrections": [
