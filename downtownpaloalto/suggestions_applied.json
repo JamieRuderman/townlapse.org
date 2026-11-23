@@ -103,6 +103,18 @@
     "start": 1995,
     "approx": true
    }
+  },
+  {
+   "target": "Gatehouse Restaurant",
+   "target_address": "255 Lytton Ave",
+   "fields": {
+    "name": "The Gatehouse",
+    "address": "265 Lytton Ave",
+    "note": "Restaurant in the former Tinney & Sons mortuary building, remodeled for it in 1974. It ran about 20 years until Jeremiah Tower bought the site for Stars in 1994.",
+    "start": 1974,
+    "end": 1994,
+    "approx": true
+   }
   }
  ]
 }
