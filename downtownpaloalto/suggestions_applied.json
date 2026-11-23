@@ -548,6 +548,20 @@
     "https://www.paloaltoonline.com/morgue/2003/2003_07_04.reader04.html",
     "https://www.paloaltoonline.com/uncategorized/2014/05/09/obituaries-14/"
    ]
+  },
+  {
+   "name": "BayLeaf Cafe",
+   "address": "520 Ramona St",
+   "note": "Vegan cafe that took over the former Double Rainbow ice cream parlor space; reviewed in February 2003 and closed in October 2006.",
+   "start": 2003,
+   "end": 2006,
+   "category": "food",
+   "approx": true,
+   "links": [
+    "http://frommars.org/labels/travel.html",
+    "https://www.paloaltoonline.com/morgue/2003/2003_02_28.bayleaf28ja.html",
+    "https://www.paloaltoonline.com/news/2008/01/30/shop-talk-38/"
+   ]
   }
  ],
  "corrections": [
