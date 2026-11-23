@@ -581,6 +581,15 @@
     "start": 2011,
     "approx": true
    }
+  },
+  {
+   "target": "Chase",
+   "target_address": "300 Hamilton Ave",
+   "fields": {
+    "note": "Open today (bank). A photo shows Chase here by August 2010; the branch was a Washington Mutual in 2006 and probably became Chase after JPMorgan Chase took over that bank in 2008.",
+    "start": 2010,
+    "approx": true
+   }
   }
  ]
 }
