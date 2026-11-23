@@ -997,6 +997,19 @@
     "https://www.paloaltoonline.com/morgue/restaurants/1994_Jun_24.mini_reviews.html",
     "https://www.paloaltoonline.com/morgue/restaurants/1999_Jul_9.EATS9.html"
    ]
+  },
+  {
+   "name": "Theo's",
+   "address": "546 University Ave",
+   "note": "Seafood restaurant, a Palo Alto institution for 11 years and possibly the city's first pink, chrome and cane-back-chair restaurant; owner Michael Aroner closed it in October 1995 and reopened the space as the Mystic Cafe.",
+   "start": 1984,
+   "end": 1995,
+   "category": "food",
+   "approx": true,
+   "links": [
+    "https://www.paloaltoonline.com/morgue/restaurants/1995_Nov_10.EATOUT10.html",
+    "https://www.paloaltoonline.com/morgue/restaurants/2000_Jul_28.EATING28.html"
+   ]
   }
  ],
  "corrections": [
