@@ -191,6 +191,15 @@
    "end": 1975,
    "category": "retail",
    "approx": true
+  },
+  {
+   "name": "Lucky Store",
+   "address": "248 Lytton Ave",
+   "note": "Lucky supermarket, listed at this address in directories from 1950 through 1965; actual years open may be longer.",
+   "start": 1950,
+   "end": 1965,
+   "category": "food",
+   "approx": true
   }
  ],
  "corrections": [

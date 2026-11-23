@@ -759,6 +759,18 @@
   "source": "suggestion"
  },
  {
+  "name": "Lucky Store",
+  "address": "248 Lytton Ave",
+  "start": 1950,
+  "end": 1965,
+  "category": "food",
+  "approx": true,
+  "note": "Lucky supermarket, listed at this address in directories from 1950 through 1965; actual years open may be longer.",
+  "lat": 37.4459585,
+  "lng": -122.1635131,
+  "source": "suggestion"
+ },
+ {
   "name": "Nola's",
   "address": "535 Ramona St",
   "start": 1996,
@@ -2036,12 +2048,12 @@
  {
   "name": "Gong Cha",
   "address": "439 Waverley St",
-  "start": 2017,
+  "start": 2015,
   "end": null,
   "category": "food",
-  "approx": true,
+  "approx": false,
   "source": "osm",
-  "note": "Open today (cafe). Listed in OpenStreetMap; first mapped in 2017, which is roughly when it opened.",
+  "note": "Open today (cafe). Listed in OpenStreetMap; first mapped in 2017, which is roughly when it opened. Palo Alto Online's Peninsula Foodist reported it opening in 2015.",
   "lat": 37.4477131,
   "lng": -122.1607332
  },
@@ -7647,18 +7659,6 @@
   "note": "Cafeteria. Listed in Palo Alto city directories and phone books (1939\u20131956); actual years open may be longer.",
   "lat": 37.4475069,
   "lng": -122.1601436
- },
- {
-  "name": "Lucky Store",
-  "address": "248 Lytton Ave",
-  "start": 1951,
-  "end": 1963,
-  "category": "food",
-  "approx": true,
-  "source": "directory",
-  "note": "Grocery store. Listed in Palo Alto city directories and phone books (1951\u20131963); actual years open may be longer.",
-  "lat": 37.4459585,
-  "lng": -122.1635131
  },
  {
   "name": "Merle's Jewelry",
@@ -24942,14 +24942,14 @@
  },
  {
   "name": "La Comida",
-  "address": "429 Bryant St",
+  "address": "450 Bryant St",
   "start": 2026,
   "end": 2026,
   "category": "food",
   "approx": false,
   "source": "news",
-  "lat": 37.4465596,
-  "lng": -122.162491,
+  "lat": 37.4461771,
+  "lng": -122.1624215,
   "note": "Senior meal nonprofit. Palo Alto Online's Peninsula Foodist reported it opening in 2026 and closing in 2026."
  },
  {
@@ -25143,18 +25143,6 @@
   "lat": 37.4480623,
   "lng": -122.1612484,
   "note": "Panini and coffee cafe that took over the former Lytton Roasting Company corner in 2012; it closed in January 2015 after three years."
- },
- {
-  "name": "Gong Cha",
-  "address": "429 Waverley St",
-  "start": 2015,
-  "end": 2015,
-  "category": "food",
-  "approx": true,
-  "source": "news",
-  "lat": 37.4476333,
-  "lng": -122.1610727,
-  "note": "Milk tea shop. Palo Alto Online's Peninsula Foodist reported it opening in 2015. Later status unknown."
  },
  {
   "name": "B+B",
@@ -25664,13 +25652,13 @@
   "name": "The Redwood by Chef Julien",
   "address": "450 Bryant St",
   "start": 2022,
-  "end": 2022,
+  "end": 2026,
   "category": "food",
-  "approx": true,
+  "approx": false,
   "source": "news",
   "lat": 37.4461771,
   "lng": -122.1624215,
-  "note": "French cafe. Palo Alto Online's Peninsula Foodist reported it opening in 2022. Later status unknown."
+  "note": "French cafe. Palo Alto Online's Peninsula Foodist reported it opening in 2022."
  },
  {
   "name": "Lima Ruby",
