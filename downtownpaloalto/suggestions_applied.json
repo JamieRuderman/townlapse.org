@@ -441,6 +441,19 @@
     "https://www.paloaltoonline.com/neighborhoods/2015/02/27/a-gathering-place-again-formerly-derelict-edgewood-plaza-shopping-center-finds-new-life-2/",
     "https://www.paloaltoonline.com/wp-content/uploads/2024/03/2004_07_28.paw_.section2.pdf"
    ]
+  },
+  {
+   "name": "Robaii Falafel",
+   "address": "496 Hamilton Ave",
+   "note": "Family-run Persian restaurant at Hamilton Ave and Cowper St, in the former Penny Farthing space. Opened in May 1998 serving falafel, hummus, baba ghanoush and lamb pitas, and closed in April 2010 after 12 years; Siam Orchid later took the space.",
+   "start": 1998,
+   "end": 2010,
+   "category": "food",
+   "approx": true,
+   "links": [
+    "https://www.paloaltoonline.com/morgue/restaurants/1998_Dec_18.EATS18.html",
+    "https://www.paloaltoonline.com/uncategorized/2010/05/14/shop-talk-71/"
+   ]
   }
  ],
  "corrections": [
