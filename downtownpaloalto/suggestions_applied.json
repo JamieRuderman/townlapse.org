@@ -944,6 +944,19 @@
     "https://www.paloaltoonline.com/morgue/listings/1995_Oct_27.entertainment.html",
     "https://www.paloaltoonline.com/morgue/listings/2000_Jul_14.art.html"
    ]
+  },
+  {
+   "name": "Elbe Restaurant",
+   "address": "117 University Ave",
+   "note": "German and Middle European restaurant that opened in 1995 in the former Rudyard's space at the top of University Avenue; Palo Alto's only German restaurant, it shared a kitchen with Rudy's Pub and closed in January 2010.",
+   "start": 1995,
+   "end": 2010,
+   "category": "food",
+   "approx": true,
+   "links": [
+    "https://www.metroactive.com/papers/metro/05.30.96/elbe-9622.html",
+    "https://www.paloaltoonline.com/uncategorized/2010/02/12/shop-talk-66/"
+   ]
   }
  ],
  "corrections": [
