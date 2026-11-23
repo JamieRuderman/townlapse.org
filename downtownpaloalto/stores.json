@@ -675,6 +675,18 @@
   "source": "suggestion"
  },
  {
+  "name": "St. Michael's Alley",
+  "address": "806 Emerson St",
+  "start": 1994,
+  "end": 2019,
+  "category": "food",
+  "approx": true,
+  "note": "California bistro run by the owners who bought St. Michael's Alley in 1994, in the space next door to the 800 Emerson original. The restaurant later moved to Homer Avenue, and the Emerson space served as its Annex until Taverna took it over around 2019.",
+  "lat": 37.4420853,
+  "lng": -122.1589619,
+  "source": "suggestion"
+ },
+ {
   "name": "Nola's",
   "address": "near Ramona St",
   "start": 2013,
@@ -24894,14 +24906,14 @@
  },
  {
   "name": "La Comida",
-  "address": "450 Bryant St",
+  "address": "429 Bryant St",
   "start": 2026,
   "end": 2026,
   "category": "food",
   "approx": false,
   "source": "news",
-  "lat": 37.4461771,
-  "lng": -122.1624215,
+  "lat": 37.4465596,
+  "lng": -122.162491,
   "note": "Senior meal nonprofit. Palo Alto Online's Peninsula Foodist reported it opening in 2026 and closing in 2026."
  },
  {
@@ -25616,13 +25628,13 @@
   "name": "The Redwood by Chef Julien",
   "address": "450 Bryant St",
   "start": 2022,
-  "end": 2026,
+  "end": 2022,
   "category": "food",
-  "approx": false,
+  "approx": true,
   "source": "news",
   "lat": 37.4461771,
   "lng": -122.1624215,
-  "note": "French cafe. Palo Alto Online's Peninsula Foodist reported it opening in 2022."
+  "note": "French cafe. Palo Alto Online's Peninsula Foodist reported it opening in 2022. Later status unknown."
  },
  {
   "name": "Lima Ruby",

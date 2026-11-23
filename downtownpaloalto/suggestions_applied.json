@@ -128,6 +128,15 @@
    "end": 2017,
    "category": "food",
    "approx": false
+  },
+  {
+   "name": "St. Michael's Alley",
+   "address": "806 Emerson St",
+   "note": "California bistro run by the owners who bought St. Michael's Alley in 1994, in the space next door to the 800 Emerson original. The restaurant later moved to Homer Avenue, and the Emerson space served as its Annex until Taverna took it over around 2019.",
+   "start": 1994,
+   "end": 2019,
+   "category": "food",
+   "approx": true
   }
  ],
  "corrections": [
