@@ -460,6 +460,15 @@
     "end": 2019,
     "approx": true
    }
+  },
+  {
+   "target": "Bridge Bank",
+   "target_address": "525-100 Cowper St",
+   "fields": {
+    "note": "Bank branch on the ground floor of the Palo Alto Office Center at University Ave and Cowper St; the bank leased the space from late 2001 and opened around 2002. Bridge Bank became part of Western Alliance Bank in 2015.",
+    "start": 2002,
+    "approx": true
+   }
   }
  ]
 }
