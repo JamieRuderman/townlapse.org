@@ -89,8 +89,7 @@
     "maxNativeZoom": 19
   },
   "api": {
-    "_note": "Suggestion endpoint: SUGGEST_URL = api.url + '/suggest' (contact: api.url + '/contact'). Empty until a reviewer is set up for this town; meanwhile 'Suggest a place' opens a GitHub issue on github.repo.",
-    "url": "",
+    "url": "https://agenticallymine.com/api/dpa",
     "contact": false
   },
   "github": {
@@ -101,5 +100,43 @@
     "url": "https://townlapse.org/",
     "slug": "downtownsantarosa"
   },
-  "credit": ""
+  "streets": [
+    "Prince Memorial Greenway",
+    "3rd Street",
+    "Redwood Highway",
+    "5th Street",
+    "4th Street",
+    "7th Street",
+    "E Street",
+    "Wilson Street",
+    "Davis Street",
+    "B Street",
+    "A Street",
+    "Morgan Street",
+    "6th Street",
+    "Cherry Street",
+    "2nd Street",
+    "1st Street",
+    "D Street",
+    "West 6th Street",
+    "Humboldt Street",
+    "Mendocino Avenue",
+    "West 7th Street",
+    "Orchard Street",
+    "Beaver Street",
+    "Riley Street",
+    "Santa Rosa Avenue",
+    "Old Courthouse Square",
+    "SMART Multi-Use Path",
+    "Railroad Street",
+    "Ross Street",
+    "Comstock Mall",
+    "King Street",
+    "Adams Street",
+    "West 3rd Street"
+  ],
+  "credit": "",
+  "city": "Santa Rosa",
+  "region": "California",
+  "country": "United States"
 }
