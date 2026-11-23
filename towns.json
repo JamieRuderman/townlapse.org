@@ -10,6 +10,15 @@
    "repo": "https://github.com/unotdys/townlapse.org",
    "image": "/img/map.jpg",
    "blurb": "1900 to today. More than 2,000 places, from the 1904 city directory and decades of phone books to today's shops, plus the ones neighbors remembered."
+  },
+  {
+   "slug": "downtownsantarosa",
+   "name": "Downtown Santa Rosa",
+   "region": "California",
+   "url": "https://townlapse.org/downtownsantarosa/",
+   "since": 1900,
+   "repo": "https://github.com/unotdys/townlapse.org",
+   "blurb": "Railroad Square to Courthouse Square, 1900 to today. The stone buildings that survived 1906, the courthouses, theaters and department stores that didn't, and today's shops from OpenStreetMap."
   }
  ]
 }
