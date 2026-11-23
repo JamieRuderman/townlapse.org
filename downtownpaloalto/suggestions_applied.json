@@ -480,6 +480,19 @@
     "https://www.giftly.com/gift-card/united-nations-association-gift-shop-palo-alto?srsltid=AfmBOopLuzxChiZVMTa2e5NRKj0yctpF_bsLjlfPBroVK-wqy4pazW5w",
     "https://www.paloaltoonline.com/blogs/2011/04/19/on-deadline-palo-altos-un-store-struggling-to-survive-in-a-new-world/"
    ]
+  },
+  {
+   "name": "Miyake",
+   "address": "140 University Ave",
+   "note": "Noisy, flashy sushi restaurant in the historic Fraternal Hall building, famous for sake bombs and a loud, crowded bar scene. It ran for about 25 years before closing in September 2012.",
+   "start": 1987,
+   "end": 2012,
+   "category": "food",
+   "approx": true,
+   "links": [
+    "https://www.paloaltoonline.com/news/2012/10/07/shop-talk-downtown-sushi-restaurant-miyake-closes/",
+    "https://www.paloaltopulse.com/2015/07/30/palo-alto-now-140-university-avenue/"
+   ]
   }
  ],
  "corrections": [
