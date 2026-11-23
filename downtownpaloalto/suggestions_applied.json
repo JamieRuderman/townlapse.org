@@ -91,6 +91,16 @@
    "end": 2006,
    "category": "hotel",
    "approx": true
+  },
+  {
+   "name": "Lytton Roasting Company",
+   "address": "401 Lytton Ave",
+   "start": 2007,
+   "end": 2011,
+   "category": "food",
+   "approx": true,
+   "note": "Neighborhood coffee shop and roaster on the corner of Lytton, in business for many years before John's Cafe took over the space in 2012; some regulars remember it as the Palo Alto Roasting Company. Opening year not yet confirmed (open by 2007).",
+   "submitted_by": "grok, confirmed by a neighbor"
   }
  ],
  "corrections": [
@@ -150,6 +160,27 @@
     "note": "Commercial printing firm that moved into the former Indian Bowl bowling alley after it closed in 1975, later expanding through the building from Emerson St to Ramona St. It is recorded in the city's historic buildings inventory, revised in 1985.",
     "end": 1985,
     "approx": true
+   }
+  },
+  {
+   "target": "John's Cafe",
+   "target_address": "401 Lytton Ave",
+   "fields": {
+    "start": 2012,
+    "end": 2015,
+    "approx": false,
+    "note": "Panini and coffee cafe that took over the former Lytton Roasting Company corner in 2012; it closed in January 2015 after three years."
+   }
+  },
+  {
+   "target": "Ike's Place",
+   "target_address": "401 Lytton Ave",
+   "fields": {
+    "name": "Ike's Love & Sandwiches",
+    "start": 2018,
+    "end": null,
+    "approx": false,
+    "note": "Bay Area sandwich chain. Its owner took over the former John's Cafe lease in 2015, but city approvals delayed the opening until November 27, 2018."
    }
   }
  ]
