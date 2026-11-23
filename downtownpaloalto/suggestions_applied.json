@@ -718,6 +718,19 @@
     "https://www.paloaltoonline.com/news/2010/06/10/final-days-for-downtown-palo-alto-gas-station/",
     "https://www.paloaltoonline.com/news/2011/03/11/new-five-story-building-proposed-for-downtown-2/"
    ]
+  },
+  {
+   "name": "YogaSource",
+   "address": "525 Alma St",
+   "note": "Heated Bikram yoga studio that opened in May 1995, said to be the first outside San Francisco to offer heated yoga. It moved to Hamilton Avenue in 2001.",
+   "start": 1995,
+   "end": 2001,
+   "category": "fitness",
+   "approx": false,
+   "links": [
+    "https://www.paloaltoonline.com/morgue/monthly/1995_Sep_27.YOGA.html",
+    "https://yogasource.com/25-years-of-yogasource-palo-alto/"
+   ]
   }
  ],
  "corrections": [
