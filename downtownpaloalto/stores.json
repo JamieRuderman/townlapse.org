@@ -1648,6 +1648,32 @@
   ]
  },
  {
+  "name": "Spot A Pizza Place",
+  "address": "115 Hamilton Ave",
+  "start": 2008,
+  "end": 2018,
+  "category": "food",
+  "approx": true,
+  "note": "Pizza restaurant that moved downtown around late 2008 after five years at Town & Country Village, taking over the former Espresso Bettola coffee house space. It closed abruptly in November 2017. Palo Alto Online's Peninsula Foodist reported it closing in 2018.",
+  "lat": 37.4431019,
+  "lng": -122.1626192,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://www.paloaltoonline.com/blogs/2017/11/10/spot-a-pizza-place-closes-in-palo-alto/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/news/2008/10/17/shop-talk-48/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/peninsula-foodist/2017/11/10/spot-a-pizza-place-closes-in-palo-alto/",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Nola's",
   "address": "535 Ramona St",
   "start": 1996,
@@ -27641,24 +27667,6 @@
    }
   ],
   "note": "Japanese restaurant. Palo Alto Online's Peninsula Foodist reported it opening in 2017. Later status unknown."
- },
- {
-  "name": "Spot A Pizza Place",
-  "address": "115 Hamilton Ave",
-  "start": 2018,
-  "end": 2018,
-  "category": "food",
-  "approx": true,
-  "source": "news",
-  "lat": 37.4431019,
-  "lng": -122.1626192,
-  "links": [
-   {
-    "url": "https://www.paloaltoonline.com/peninsula-foodist/2017/11/10/spot-a-pizza-place-closes-in-palo-alto/",
-    "kind": "Article"
-   }
-  ],
-  "note": "Pizzeria. Palo Alto Online's Peninsula Foodist reported it closing in 2018."
  },
  {
   "name": "Teaquation",

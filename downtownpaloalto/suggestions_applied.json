@@ -634,6 +634,19 @@
     "https://www.metroactive.com/metro/09.26.07/bestofshortlist-0739.html",
     "https://www.paloaltoonline.com/ae/2021/09/16/two-sister-sushi-restaurants-now-housed-under-one-roof/"
    ]
+  },
+  {
+   "name": "Spot A Pizza Place",
+   "address": "115 Hamilton Ave",
+   "note": "Pizza restaurant that moved downtown around late 2008 after five years at Town & Country Village, taking over the former Espresso Bettola coffee house space. It closed abruptly in November 2017.",
+   "start": 2008,
+   "end": 2017,
+   "category": "food",
+   "approx": true,
+   "links": [
+    "https://www.paloaltoonline.com/blogs/2017/11/10/spot-a-pizza-place-closes-in-palo-alto/",
+    "https://www.paloaltoonline.com/news/2008/10/17/shop-talk-48/"
+   ]
   }
  ],
  "corrections": [
