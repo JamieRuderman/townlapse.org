@@ -368,6 +368,15 @@
     "end": 2022,
     "approx": false
    }
+  },
+  {
+   "target": "Fidelity Investments",
+   "target_address": "251 University Ave",
+   "fields": {
+    "note": "Fidelity investor center, open today. Fidelity fund reports filed with the SEC listed this walk-in office by mid-1996, and it may be older.",
+    "start": 1996,
+    "approx": true
+   }
   }
  ]
 }
