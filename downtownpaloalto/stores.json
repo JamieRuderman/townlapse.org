@@ -1184,6 +1184,40 @@
   ]
  },
  {
+  "name": "Woman's Club of Palo Alto",
+  "address": "475 Homer Ave",
+  "start": 1916,
+  "end": null,
+  "category": "landmark",
+  "approx": false,
+  "note": "Clubhouse of the Woman's Club of Palo Alto, a civic and philanthropic group founded in 1894. The Tudor-Craftsman building by Charles Edward Hodges opened in 1916 and is listed on the National Register of Historic Places.",
+  "lat": 37.4459299,
+  "lng": -122.1558617,
+  "source": "suggestion",
+  "links": [
+   {
+    "url": "https://www.pastheritage.org/Articles/WomansClubMF.html",
+    "kind": "History"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Woman%27s_Club_of_Palo_Alto",
+    "kind": "Article"
+   },
+   {
+    "url": "https://npgallery.nps.gov/AssetDetail/dfc837ae-7f24-4fed-8037-d1941df71bf3",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.paloaltoonline.com/news/2016/06/11/celebrating-a-centennial-milestone/",
+    "kind": "Article"
+   },
+   {
+    "url": "https://www.womansclubofpaloalto.org/",
+    "kind": "Article"
+   }
+  ]
+ },
+ {
   "name": "Nola's",
   "address": "535 Ramona St",
   "start": 1996,
@@ -2135,20 +2169,14 @@
  {
   "name": "Joe & The Juice",
   "address": "240 Hamilton Ave",
-  "start": 2018,
+  "start": 2019,
   "end": null,
   "category": "food",
-  "approx": false,
+  "approx": true,
   "source": "osm",
-  "note": "Open today (cafe). Listed in OpenStreetMap; first mapped in 2019, which is roughly when it opened. Palo Alto Online's Peninsula Foodist reported it opening in 2018.",
+  "note": "Open today (cafe). Listed in OpenStreetMap; first mapped in 2019, which is roughly when it opened.",
   "lat": 37.4443528,
-  "lng": -122.1609464,
-  "links": [
-   {
-    "url": "https://www.paloaltoonline.com/peninsula-foodist/2017/08/03/joe-the-juice-is-headed-to-palo-alto/",
-    "kind": "Article"
-   }
-  ]
+  "lng": -122.1609464
  },
  {
   "name": "Sephora",
@@ -2395,14 +2423,20 @@
  {
   "name": "Joe & The Juice",
   "address": "508 University Ave",
-  "start": 2019,
+  "start": 2018,
   "end": null,
   "category": "food",
-  "approx": true,
+  "approx": false,
   "source": "osm",
-  "note": "Open today (cafe). Listed in OpenStreetMap; first mapped in 2019, which is roughly when it opened.",
+  "note": "Open today (cafe). Listed in OpenStreetMap; first mapped in 2019, which is roughly when it opened. Palo Alto Online's Peninsula Foodist reported it opening in 2018.",
   "lat": 37.4484574,
-  "lng": -122.1588997
+  "lng": -122.1588997,
+  "links": [
+   {
+    "url": "https://www.paloaltoonline.com/peninsula-foodist/2017/08/03/joe-the-juice-is-headed-to-palo-alto/",
+    "kind": "Article"
+   }
+  ]
  },
  {
   "name": "HSBC",
@@ -12238,18 +12272,6 @@
   "note": "Ladies' tailor shop. Listed in Palo Alto city directories and phone books (1941\u20131947); actual years open may be longer.",
   "lat": 37.4443798,
   "lng": -122.1626156
- },
- {
-  "name": "Woman's Club of Palo Alto",
-  "address": "475 Homer Ave",
-  "start": 1929,
-  "end": 1947,
-  "category": "landmark",
-  "approx": true,
-  "source": "directory",
-  "note": "Women's clubhouse. Listed in Palo Alto city directories and phone books (1929\u20131947); actual years open may be longer.",
-  "lat": 37.4459299,
-  "lng": -122.1558617
  },
  {
   "name": "Young Drug Co.",

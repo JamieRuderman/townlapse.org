@@ -383,6 +383,22 @@
     "https://www.paloaltoonline.com/morgue/cover/1998_Apr_10.ARTS10.html",
     "https://www.paloaltoonline.com/morgue/spectrum/1998_Apr_15.EDIT15.html"
    ]
+  },
+  {
+   "name": "Woman's Club of Palo Alto",
+   "address": "475 Homer Ave",
+   "note": "Clubhouse of the Woman's Club of Palo Alto, a civic and philanthropic group founded in 1894. The Tudor-Craftsman building by Charles Edward Hodges opened in 1916 and is listed on the National Register of Historic Places.",
+   "start": 1916,
+   "end": null,
+   "category": "landmark",
+   "approx": false,
+   "links": [
+    "https://en.wikipedia.org/wiki/Woman%27s_Club_of_Palo_Alto",
+    "https://npgallery.nps.gov/AssetDetail/dfc837ae-7f24-4fed-8037-d1941df71bf3",
+    "https://www.paloaltoonline.com/news/2016/06/11/celebrating-a-centennial-milestone/",
+    "https://www.pastheritage.org/Articles/WomansClubMF.html",
+    "https://www.womansclubofpaloalto.org/"
+   ]
   }
  ],
  "corrections": [
