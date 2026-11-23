@@ -535,6 +535,19 @@
     "https://www.paloaltoonline.com/uncategorized/2010/08/27/muscle-pizza-party/",
     "https://www.yelp.com/biz/patxis-pizza-palo-alto"
    ]
+  },
+  {
+   "name": "Ramona's Pizza",
+   "address": "541 Ramona St",
+   "note": "Long-running downtown pizzeria and Stanford-student gathering spot; the owner bought it in 1978 and it closed in 2003, after which the Old Pro took over the space.",
+   "start": 1978,
+   "end": 2003,
+   "category": "food",
+   "approx": true,
+   "links": [
+    "https://www.paloaltoonline.com/morgue/2003/2003_07_04.reader04.html",
+    "https://www.paloaltoonline.com/uncategorized/2014/05/09/obituaries-14/"
+   ]
   }
  ],
  "corrections": [
