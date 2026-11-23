@@ -200,6 +200,15 @@
    "end": 1965,
    "category": "food",
    "approx": true
+  },
+  {
+   "name": "Palo Alto Police Department",
+   "address": "450 Bryant St",
+   "note": "Palo Alto's first combined police and fire station, a 1927 Birge Clark building. The police moved to the new City Hall around 1970, and the building later became the Avenidas senior center.",
+   "start": 1927,
+   "end": 1970,
+   "category": "services",
+   "approx": true
   }
  ],
  "corrections": [
