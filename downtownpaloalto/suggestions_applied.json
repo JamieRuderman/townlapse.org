@@ -1024,6 +1024,19 @@
     "https://www.paloaltoonline.com/morgue/listings/1997_Jul_25.entertainment.html",
     "https://www.paloaltoonline.com/morgue/restaurants/1995_Nov_10.EATOUT10.html"
    ]
+  },
+  {
+   "name": "Crescent Park Grill",
+   "address": "546 University Ave",
+   "note": "Restaurant at 546 University Ave. with live jazz on Wednesday evenings in 1997; it had departed by July 2000, when Perry's opened in the space.",
+   "start": 1997,
+   "end": 2000,
+   "category": "food",
+   "approx": true,
+   "links": [
+    "https://www.paloaltoonline.com/morgue/listings/1997_Jul_25.entertainment.html",
+    "https://www.paloaltoonline.com/morgue/restaurants/2000_Jul_28.EATING28.html"
+   ]
   }
  ],
  "corrections": [
