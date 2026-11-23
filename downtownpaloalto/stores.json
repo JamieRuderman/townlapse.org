@@ -605,15 +605,14 @@
  {
   "name": "Fran's Market",
   "address": "499 Lytton Ave",
-  "start": 2026,
-  "end": 2016,
+  "start": 1987,
+  "end": 2017,
   "category": "retail",
   "approx": true,
-  "note": "Longtime neighborhood market at Lytton and Gilman; the space became Mademoiselle Colette bakery in 2016\u201317. Opening year unknown; Fran's Smoke Shop was listed next door at 497 Lytton in the 1950s.",
+  "note": "Longtime neighborhood market at Lytton and Gilman; the space became Mademoiselle Colette bakery in 2016\u201317. Opening year unknown; Fran's Smoke Shop was listed next door at 497 Lytton in the 1950s. Palo Alto Online's Peninsula Foodist reported it closing in 2017.",
   "lat": 37.4491029,
   "lng": -122.1607072,
-  "source": "suggestion",
-  "start_unknown": true
+  "source": "suggestion"
  },
  {
   "name": "The Victorian on Lytton",
@@ -1358,12 +1357,12 @@
  {
   "name": "Joe & The Juice",
   "address": "240 Hamilton Ave",
-  "start": 2019,
+  "start": 2018,
   "end": null,
   "category": "food",
-  "approx": true,
+  "approx": false,
   "source": "osm",
-  "note": "Open today (cafe). Listed in OpenStreetMap; first mapped in 2019, which is roughly when it opened.",
+  "note": "Open today (cafe). Listed in OpenStreetMap; first mapped in 2019, which is roughly when it opened. Palo Alto Online's Peninsula Foodist reported it opening in 2018.",
   "lat": 37.4443528,
   "lng": -122.1609464
  },
@@ -1564,12 +1563,12 @@
  {
   "name": "Joe & The Juice",
   "address": "508 University Ave",
-  "start": 2018,
+  "start": 2019,
   "end": null,
   "category": "food",
-  "approx": false,
+  "approx": true,
   "source": "osm",
-  "note": "Open today (cafe). Listed in OpenStreetMap; first mapped in 2019, which is roughly when it opened. Palo Alto Online's Peninsula Foodist reported it opening in 2018.",
+  "note": "Open today (cafe). Listed in OpenStreetMap; first mapped in 2019, which is roughly when it opened.",
   "lat": 37.4484574,
   "lng": -122.1588997
  },
@@ -1905,12 +1904,12 @@
  {
   "name": "Gong Cha",
   "address": "439 Waverley St",
-  "start": 2015,
+  "start": 2017,
   "end": null,
   "category": "food",
-  "approx": false,
+  "approx": true,
   "source": "osm",
-  "note": "Open today (cafe). Listed in OpenStreetMap; first mapped in 2017, which is roughly when it opened. Palo Alto Online's Peninsula Foodist reported it opening in 2015.",
+  "note": "Open today (cafe). Listed in OpenStreetMap; first mapped in 2017, which is roughly when it opened.",
   "lat": 37.4477131,
   "lng": -122.1607332
  },
@@ -23274,18 +23273,6 @@
   "category": "food"
  },
  {
-  "name": "Verizon",
-  "address": "219 University Ave",
-  "lat": 37.4451284,
-  "lng": -122.1627567,
-  "start": 2013,
-  "end": 2018,
-  "approx": true,
-  "source": "osm-history",
-  "note": "Electronics. On OpenStreetMap 2013\u20132018; actual years open may differ.",
-  "category": "retail"
- },
- {
   "name": "Vero",
   "address": "530 Bryant St",
   "lat": 37.4453467,
@@ -23346,18 +23333,6 @@
   "category": "retail"
  },
  {
-  "name": "Design Within Reach",
-  "address": "447 University Ave",
-  "lat": 37.4477696,
-  "lng": -122.1601054,
-  "start": 2013,
-  "end": 2018,
-  "approx": true,
-  "source": "osm-history",
-  "note": "Furniture. On OpenStreetMap 2013\u20132018; actual years open may differ.",
-  "category": "retail"
- },
- {
   "name": "G.V.",
   "address": "472 University Ave",
   "lat": 37.4477901,
@@ -23380,18 +23355,6 @@
   "source": "osm-history",
   "note": "Jewelry. On OpenStreetMap 2013\u20132022; actual years open may differ.",
   "category": "retail"
- },
- {
-  "name": "Gyros Gyros",
-  "address": "498 University Ave",
-  "lat": 37.4481332,
-  "lng": -122.1591712,
-  "start": 2013,
-  "end": 2020,
-  "approx": true,
-  "source": "osm-history",
-  "note": "Restaurant. On OpenStreetMap 2013\u20132020; actual years open may differ.",
-  "category": "food"
  },
  {
   "name": "Han Fine Korean Cuisine",
@@ -23578,7 +23541,7 @@
   "address": "address not listed",
   "lat": 37.4483568,
   "lng": -122.1587574,
-  "start": 2013,
+  "start": 2012,
   "end": 2012,
   "approx": true,
   "source": "osm-history",
@@ -23595,18 +23558,6 @@
   "approx": true,
   "source": "osm-history",
   "note": "Hairdresser. On OpenStreetMap 2013\u20132017; actual years open may differ.",
-  "category": "services"
- },
- {
-  "name": "Site For Sore Eyes",
-  "address": "479 University Ave",
-  "lat": 37.4482687,
-  "lng": -122.1596395,
-  "start": 2013,
-  "end": 2022,
-  "approx": true,
-  "source": "osm-history",
-  "note": "Optician. On OpenStreetMap 2013\u20132022; actual years open may differ.",
   "category": "services"
  },
  {
@@ -23956,18 +23907,6 @@
   "source": "osm-history",
   "note": "Art. On OpenStreetMap 2013\u20132017; actual years open may differ.",
   "category": "retail"
- },
- {
-  "name": "Kind Nail Care",
-  "address": "546 Ramona St",
-  "lat": 37.4446201,
-  "lng": -122.1614358,
-  "start": 2013,
-  "end": 2023,
-  "approx": true,
-  "source": "osm-history",
-  "note": "Beauty. On OpenStreetMap 2013\u20132023; actual years open may differ.",
-  "category": "services"
  },
  {
   "name": "Manor and Gore Jewelers",
@@ -24675,18 +24614,6 @@
   "approx": false,
   "source": "osm-history",
   "note": "Restaurant. On OpenStreetMap 2018\u20132022; actual years open may differ. Palo Alto Online's Peninsula Foodist reported it opening in 2016.",
-  "category": "food"
- },
- {
-  "name": "Bevri",
-  "address": "530 Bryant St",
-  "lat": 37.4453577,
-  "lng": -122.161217,
-  "start": 2018,
-  "end": 2018,
-  "approx": false,
-  "source": "osm-history",
-  "note": "Restaurant. On OpenStreetMap 2018\u20132018; actual years open may differ. Palo Alto Online's Peninsula Foodist reported it opening in 2018.",
   "category": "food"
  },
  {
@@ -25410,6 +25337,18 @@
   "note": "Panini cafe. Palo Alto Online's Peninsula Foodist reported it opening in 2011 and closing in 2018."
  },
  {
+  "name": "Gong Cha",
+  "address": "429 Waverley St",
+  "start": 2015,
+  "end": 2015,
+  "category": "food",
+  "approx": true,
+  "source": "news",
+  "lat": 37.4476333,
+  "lng": -122.1610727,
+  "note": "Milk tea shop. Palo Alto Online's Peninsula Foodist reported it opening in 2015. Later status unknown."
+ },
+ {
   "name": "B+B",
   "address": "420 Ramona St",
   "start": 2015,
@@ -25696,6 +25635,18 @@
   "lat": 37.447401,
   "lng": -122.1602483,
   "note": "Italian wine bar. Palo Alto Online's Peninsula Foodist reported it opening in 2018. Later status unknown."
+ },
+ {
+  "name": "Bevri",
+  "address": "530 Bryant St",
+  "start": 2018,
+  "end": 2018,
+  "category": "food",
+  "approx": true,
+  "source": "news",
+  "lat": 37.4453242,
+  "lng": -122.1612535,
+  "note": "Georgian restaurant. Palo Alto Online's Peninsula Foodist reported it opening in 2018. Later status unknown."
  },
  {
   "name": "Teaquation Tonic",
