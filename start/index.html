@@ -1,0 +1,228 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Start your town · Townlapse</title>
+<meta name="description" content="Start a Townlapse for your town: a free, open-source map of its shops and places, year by year. No account needed.">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><rect width=%22100%22 height=%22100%22 rx=%2218%22 fill=%22%231C2629%22/><rect x=%2218%22 y=%2260%22 width=%2214%22 height=%2222%22 fill=%22%23EBC55A%22/><rect x=%2243%22 y=%2240%22 width=%2214%22 height=%2242%22 fill=%22%23E58C8C%22/><rect x=%2268%22 y=%2224%22 width=%2214%22 height=%2258%22 fill=%22%239DB8E0%22/></svg>">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@700;800&family=Public+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css">
+<style>
+:root{--ink:#F3EEE3;--dim:#B9B3A6;--bg:#1C2629;--panel:#243135;--line:#3A4A4F;--yellow:#EBC55A;--pink:#E58C8C;--blue:#9DB8E0;--green:#8FD1A8;
+  --display:"Big Shoulders Display",Impact,"Arial Narrow",sans-serif;--body:"Public Sans",system-ui,-apple-system,"Segoe UI",sans-serif;color-scheme:dark}
+*{box-sizing:border-box}
+html{background:var(--bg)}
+body{margin:0;color:var(--ink);font:400 17px/1.55 var(--body);padding:env(safe-area-inset-top) env(safe-area-inset-right) env(safe-area-inset-bottom) env(safe-area-inset-left)}
+a{color:inherit;text-underline-offset:4px}
+.wrap{max-width:820px;margin:0 auto;padding:0 22px 80px}
+header{padding:40px 0 10px}
+.home{font:800 22px var(--display);text-decoration:none;letter-spacing:.02em}
+h1{font:800 clamp(44px,8vw,72px)/.9 var(--display);margin:26px 0 10px}
+.lede{color:var(--dim);margin:0 0 30px;max-width:36em}
+.step{border-top:1px solid var(--line);padding:26px 0}
+.step h2{font:800 30px/1 var(--display);margin:0 0 14px;display:flex;gap:12px;align-items:baseline}
+.step h2 b{color:var(--yellow)}
+.step.off{opacity:.45;pointer-events:none}
+label{display:block;font-weight:600;margin:14px 0 6px}
+label span{font-weight:400;color:var(--dim);font-size:14px;margin-left:6px}
+input[type=text],input[type=email],input[type=number],input[type=search],textarea{width:100%;font:16px var(--body);color:var(--ink);background:var(--panel);border:1px solid var(--line);border-radius:10px;padding:12px 14px}
+textarea{min-height:80px;resize:vertical}
+input:focus-visible,textarea:focus-visible,button:focus-visible,a:focus-visible{outline:2px solid var(--yellow);outline-offset:2px}
+.row{display:flex;gap:10px}
+button{font:600 15px var(--body);color:var(--bg);background:var(--yellow);border:0;border-radius:999px;padding:12px 20px;cursor:pointer}
+button.ghost{background:transparent;color:var(--ink);border:1px solid var(--line)}
+button:disabled{opacity:.5;cursor:default}
+.hint{font-size:14px;color:var(--dim);margin:8px 0 0}
+.err{color:var(--pink)}
+ul.cands{list-style:none;margin:14px 0 0;padding:0}
+ul.cands li{border:1px solid var(--line);border-radius:12px;padding:12px 14px;margin-bottom:8px;cursor:pointer;background:var(--panel)}
+ul.cands li:hover,ul.cands li.on{border-color:var(--yellow)}
+ul.cands .c{font-weight:600}
+ul.cands .s{color:var(--dim);font-size:14px}
+.near{margin-top:6px;font-size:14px;color:var(--yellow)}
+.near a{color:var(--yellow)}
+.kinds{display:flex;flex-wrap:wrap;gap:8px;margin-top:6px}
+.kinds label{margin:0;font-weight:500}
+.kinds input{position:absolute;opacity:0;pointer-events:none}
+.kinds span.k{display:inline-block;border:1px solid var(--line);border-radius:999px;padding:8px 14px;cursor:pointer}
+.kinds input:checked+span.k{background:var(--yellow);color:var(--bg);border-color:var(--yellow)}
+.kinds input:focus-visible+span.k{outline:2px solid var(--yellow);outline-offset:2px}
+.preview{margin:18px 0 0;padding:14px 16px;border-radius:12px;background:var(--panel);border:1px solid var(--line)}
+.preview .n{font:800 30px/1 var(--display)}
+.preview .u{color:var(--yellow);font-size:15px;margin-top:4px;word-break:break-all}
+#map{height:320px;border-radius:12px;border:1px solid var(--line);margin-top:14px;background:#2c3a3e}
+.range{display:flex;align-items:center;gap:12px;margin-top:10px}
+.range input{flex:1;accent-color:var(--yellow)}
+.hp{position:absolute;left:-9999px}
+.done{border:1px solid var(--green);border-radius:14px;padding:22px;background:var(--panel)}
+.done h2{font:800 34px/1 var(--display);margin:0 0 10px;color:var(--green)}
+.leaflet-container{font:13px var(--body)}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header><a class="home" href="/">Townlapse</a></header>
+  <h1>Start your town</h1>
+  <p class="lede">Give your town a Townlapse: a free map of its shops, restaurants and places, year by year. No account needed. Today's places appear right away, then neighbors and AI researchers fill in the history.</p>
+
+  <section class="step" id="s1">
+    <h2><b>1</b> Find your town</h2>
+    <form id="findForm" class="row" role="search">
+      <input type="search" id="q" placeholder="e.g. Petaluma, California" aria-label="Town or city" autocomplete="off" required>
+      <button type="submit" id="findBtn">Search</button>
+    </form>
+    <p class="hint" id="findMsg" aria-live="polite"></p>
+    <ul class="cands" id="cands"></ul>
+  </section>
+
+  <section class="step off" id="s2">
+    <h2><b>2</b> Choose the area</h2>
+    <div class="kinds" role="radiogroup" aria-label="Part of town" id="kinds">
+      <label><input type="radio" name="kind" value="downtown" checked><span class="k">Downtown</span></label>
+      <label><input type="radio" name="kind" value="main-street"><span class="k">Main Street</span></label>
+      <label><input type="radio" name="kind" value="old-town"><span class="k">Old Town</span></label>
+      <label><input type="radio" name="kind" value="town-center"><span class="k">Town Center</span></label>
+      <label><input type="radio" name="kind" value="village"><span class="k">Village</span></label>
+      <label><input type="radio" name="kind" value="custom"><span class="k">A neighborhood…</span></label>
+    </div>
+    <div id="customBox" hidden><label for="custom">Neighborhood name <span>letters only</span></label><input type="text" id="custom" maxlength="30" placeholder="e.g. Mission District"></div>
+    <div class="preview"><div class="n" id="pvName">—</div><div class="u" id="pvUrl"></div></div>
+    <div id="map" aria-label="Map of the area"></div>
+    <div class="range"><span class="hint" style="margin:0">Area size</span><input type="range" id="radius" min="0.3" max="2" step="0.1" value="0.8" aria-label="Area size in kilometers"><span id="radiusLbl" class="hint" style="margin:0">0.8 km</span></div>
+    <p class="hint">Drag the pin to the middle of the area. Most downtowns fit in 0.5 to 1 km.</p>
+    <p class="hint" id="nearMsg" aria-live="polite"></p>
+  </section>
+
+  <section class="step off" id="s3">
+    <h2><b>3</b> A few details</h2>
+    <form id="reqForm" novalidate>
+      <label for="startYear">Start the timeline in <span>the year your downtown's history begins</span></label>
+      <input type="number" id="startYear" min="1800" max="1990" value="1900">
+      <label for="organizer">Your name <span>optional</span></label>
+      <input type="text" id="organizer" maxlength="60" autocomplete="name">
+      <label for="email">Email <span>optional, never shown</span></label>
+      <input type="email" id="email" maxlength="120" autocomplete="email">
+      <label for="note">Anything we should know? <span>optional</span></label>
+      <textarea id="note" maxlength="500" placeholder="e.g. I'm with the historical society; old phone books are at the library"></textarea>
+      <label class="hp" aria-hidden="true">Website <input name="website" id="website" tabindex="-1" autocomplete="off"></label>
+      <div id="confirmBox" hidden style="margin-top:14px"><label style="font-weight:500"><input type="checkbox" id="confirmNearby"> This is a different area from the nearby Townlapse above.</label></div>
+      <div class="row" style="margin-top:20px;align-items:center"><button type="submit" id="go">Start my town</button><span id="reqMsg" class="hint" style="margin:0" aria-live="polite"></span></div>
+    </form>
+  </section>
+
+  <section id="s4" hidden></section>
+  <p class="hint" style="margin-top:30px">Technical? You can also run your own copy from the <a href="https://github.com/unotdys/townlapse">open-source template</a> and still join Townlapse.</p>
+</div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
+<script>
+const API = "https://agenticallymine.com/api/tl";
+const $ = id => document.getElementById(id);
+const esc = t => String(t ?? "").replace(/[&<>"]/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
+const slugify = t => t.toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "").replace(/&/g, "and").replace(/[^a-z0-9]/g, "");
+const LABEL = { "downtown": "Downtown", "main-street": "Main Street", "old-town": "Old Town", "town-center": "Town Center", "village": "Village" };
+let place = null, map = null, marker = null, circle = null, opened = 0, lastNearby = [];
+
+// ---------- step 1: find the town (OpenStreetMap's place search, via our server)
+$("findForm").onsubmit = async e => {
+  e.preventDefault();
+  const q = $("q").value.trim(); if (q.length < 2) return;
+  $("findBtn").disabled = true; $("findMsg").textContent = "Searching…"; $("findMsg").className = "hint"; $("cands").innerHTML = "";
+  try {
+    const r = await fetch(`${API}/towns/check?q=${encodeURIComponent(q)}`); const d = await r.json();
+    if (!r.ok) throw new Error(d.error || "Search failed.");
+    const cs = d.candidates || [];
+    $("findMsg").textContent = cs.length ? "Pick your town:" : "No towns found. Try adding the state or country.";
+    $("cands").innerHTML = cs.map((c, i) => `<li tabindex="0" role="button" data-i="${i}"><div class="c">${esc(c.city)}</div>
+      <div class="s">${esc([c.region, c.country].filter(Boolean).join(", "))}</div>
+      ${c.nearby.length ? `<div class="near">Already on Townlapse nearby: ${c.nearby.map(n => `<a href="${esc(n.url)}">${esc(n.name)}</a> (${n.km} km${n.state === "requested" ? ", being set up" : ""})`).join(", ")}</div>` : ""}</li>`).join("");
+    $("cands").querySelectorAll("li").forEach(li => {
+      const pick = () => choose(cs[+li.dataset.i], li); li.onclick = pick; li.onkeydown = ev => { if (ev.key === "Enter" || ev.key === " ") { ev.preventDefault(); pick(); } };
+    });
+  } catch (err) { $("findMsg").textContent = err.message; $("findMsg").className = "hint err"; }
+  $("findBtn").disabled = false;
+};
+
+function choose(c, li) {
+  place = JSON.parse(JSON.stringify(c));
+  $("cands").querySelectorAll("li").forEach(x => x.classList.toggle("on", x === li));
+  $("s2").classList.remove("off"); $("s3").classList.remove("off"); opened = Date.now();
+  if (!map) {
+    map = L.map("map", { zoomControl: true, attributionControl: true });
+    L.tileLayer("https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}", { maxZoom: 19, attribution: "Imagery © Esri, Maxar, Earthstar Geographics" }).addTo(map);
+  }
+  if (marker) marker.remove(); if (circle) circle.remove();
+  marker = L.marker(place.center, { draggable: true, title: "Middle of the area" }).addTo(map);
+  circle = L.circle(place.center, { radius: +$("radius").value * 1000, color: "#EBC55A", weight: 2, fillOpacity: .08 }).addTo(map);
+  marker.on("drag", () => { const p = marker.getLatLng(); circle.setLatLng(p); place.center = [+p.lat.toFixed(5), +p.lng.toFixed(5)]; });
+  marker.on("dragend", nearCheck);
+  fit(); updateName(); nearCheck();
+  $("s2").scrollIntoView({ behavior: "smooth", block: "start" });
+}
+function fit() { if (circle) map.fitBounds(circle.getBounds(), { padding: [20, 20] }); setTimeout(() => map.invalidateSize(), 50); }
+$("radius").oninput = () => { $("radiusLbl").textContent = (+$("radius").value).toFixed(1) + " km"; if (circle) { circle.setRadius(+$("radius").value * 1000); } };
+$("radius").onchange = () => { fit(); nearCheck(); };
+
+// ---------- step 2: standardized name + nearby check
+function areaName() {
+  const k = document.querySelector("input[name=kind]:checked").value;
+  if (k === "custom") { const c = $("custom").value.trim().replace(/\s+/g, " "); return c ? c.split(" ").map(w => w[0].toUpperCase() + w.slice(1)).join(" ") : ""; }
+  return LABEL[k];
+}
+function updateName() {
+  if (!place) return;
+  const a = areaName(); const name = a ? (place.city.toLowerCase().includes(a.toLowerCase()) ? place.city : `${a} ${place.city}`) : "—";
+  $("pvName").textContent = name; $("pvUrl").textContent = a ? `townlapse.org/${slugify(name)}` : "";
+}
+document.querySelectorAll("input[name=kind]").forEach(r => r.onchange = () => { $("customBox").hidden = r.value !== "custom" || !r.checked; if (r.value === "custom" && r.checked) $("custom").focus(); updateName(); });
+$("custom").oninput = updateName;
+function km(a, b) { const R = 6371, r = x => x * Math.PI / 180; const h = Math.sin(r(b[0] - a[0]) / 2) ** 2 + Math.cos(r(a[0])) * Math.cos(r(b[0])) * Math.sin(r(b[1] - a[1]) / 2) ** 2; return 2 * R * Math.asin(Math.sqrt(h)); }
+async function nearCheck() {
+  try {
+    const reg = await (await fetch("/towns.json", { cache: "no-cache" })).json();
+    const rad = +$("radius").value;
+    lastNearby = (reg.towns || []).filter(t => t.center && km(place.center, t.center) < rad + (t.radius_km || 1));
+    $("nearMsg").innerHTML = lastNearby.length ? `Heads up: <a href="${esc(lastNearby[0].url)}">${esc(lastNearby[0].name)}</a> already covers part of this area. If it's the same place, please <a href="/contribute/?town=${esc(lastNearby[0].slug)}">help there</a> instead.` : "";
+    $("nearMsg").className = lastNearby.length ? "hint err" : "hint";
+    $("confirmBox").hidden = !lastNearby.length;
+  } catch {}
+}
+
+// ---------- step 3: request
+$("reqForm").onsubmit = async e => {
+  e.preventDefault();
+  const kind = document.querySelector("input[name=kind]:checked").value;
+  if (!place) return; if (kind === "custom" && !$("custom").value.trim()) { $("reqMsg").textContent = "Add the neighborhood name."; $("reqMsg").className = "hint err"; return; }
+  $("go").disabled = true; $("reqMsg").textContent = "Setting up…"; $("reqMsg").className = "hint";
+  const body = { place, area_kind: kind, custom_area: $("custom").value, radius_km: +$("radius").value, start_year: +$("startYear").value,
+    organizer: $("organizer").value, email: $("email").value, note: $("note").value, website: $("website").value, opened, confirm_nearby: $("confirmNearby").checked };
+  try {
+    const r = await fetch(`${API}/towns`, { method: "POST", headers: { "Content-Type": "application/json" }, body: JSON.stringify(body) });
+    const d = await r.json();
+    if (r.status === 409 && d.url) { $("reqMsg").innerHTML = `${esc(d.error)} <a href="${esc(d.url)}">Open it</a> or <a href="/contribute/?town=${esc(d.url.split("/").filter(Boolean).pop())}">help research it</a>.`; $("reqMsg").className = "hint err"; $("go").disabled = false; return; }
+    if (r.status === 409 && d.nearby) { $("confirmBox").hidden = false; $("reqMsg").textContent = d.error + " Tick the box if this is a different area."; $("reqMsg").className = "hint err"; $("go").disabled = false; return; }
+    if (!r.ok) throw new Error(d.error || "Something went wrong. Try again in a minute.");
+    done(d);
+  } catch (err) { $("reqMsg").textContent = err.message; $("reqMsg").className = "hint err"; $("go").disabled = false; }
+};
+function done(d) {
+  ["s1", "s2", "s3"].forEach(id => $(id).hidden = true);
+  const s = $("s4"); s.hidden = false;
+  s.innerHTML = `<div class="done"><h2>${esc(d.name)} is on its way</h2>
+    <p>We're loading today's places from OpenStreetMap and building the map. It usually takes about 10 minutes.</p>
+    <p class="hint" id="liveMsg" aria-live="polite">Waiting for the map…</p>
+    <p style="margin-top:16px"><a href="${esc(d.url)}"><b>${esc(d.url.replace("https://", ""))}</b></a></p>
+    <p class="hint">Next: share it with neighbors, and use <b>Help research</b> on the map to start filling in its history.</p></div>`;
+  s.scrollIntoView({ behavior: "smooth" });
+  const t0 = Date.now();
+  const poll = async () => {
+    try { const r = await fetch(`/${d.slug}/places.json`, { cache: "no-cache" }); if (r.ok) { $("liveMsg").innerHTML = `It's live! <a href="${esc(d.url)}">Open the map</a> · <a href="/contribute/?town=${esc(d.slug)}">Help research</a>`; return; } } catch {}
+    $("liveMsg").textContent = `Building… (${Math.round((Date.now() - t0) / 60000)} min)`; setTimeout(poll, 20000);
+  };
+  setTimeout(poll, 20000);
+}
+</script>
+</body>
+</html>
