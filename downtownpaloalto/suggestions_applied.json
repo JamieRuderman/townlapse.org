@@ -209,6 +209,15 @@
    "end": 1970,
    "category": "services",
    "approx": true
+  },
+  {
+   "name": "Uforia Studios",
+   "address": "819 Ramona St",
+   "note": "Boutique fitness studio with dance-based, cycling and strength classes, housed in the restored former University AME Zion Church building. It was listed at this address by 2011 and featured in a 2013 Palo Alto Weekly story on downtown boutique gyms.",
+   "start": 2011,
+   "end": null,
+   "category": "fitness",
+   "approx": true
   }
  ],
  "corrections": [
