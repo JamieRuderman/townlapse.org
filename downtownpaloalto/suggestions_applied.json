@@ -109,6 +109,15 @@
    "end": 2008,
    "category": "tech",
    "approx": true
+  },
+  {
+   "name": "Berggi",
+   "address": "530 Lytton Ave",
+   "note": "Mobile email and messaging startup founded in 2004 that moved its headquarters from Houston to Palo Alto in February 2008. Its offices were on the second floor of this building.",
+   "start": 2008,
+   "end": 2009,
+   "category": "tech",
+   "approx": true
   }
  ],
  "corrections": [
