@@ -663,6 +663,18 @@
   "source": "suggestion"
  },
  {
+  "name": "La Morenita",
+  "address": "800 Emerson St",
+  "start": 1994,
+  "end": 2017,
+  "category": "food",
+  "approx": false,
+  "note": "Family-run Mexican restaurant at Emerson and Homer that opened in May 1994 and closed in December 2017 when the owners retired. The Greek restaurant Taverna later took over the space. Palo Alto Online's Peninsula Foodist reported it opening in 1994 and closing in 2017.",
+  "lat": 37.4421417,
+  "lng": -122.1590527,
+  "source": "suggestion"
+ },
+ {
   "name": "Nola's",
   "address": "near Ramona St",
   "start": 2013,
@@ -1393,12 +1405,12 @@
  {
   "name": "Joe & The Juice",
   "address": "240 Hamilton Ave",
-  "start": 2019,
+  "start": 2018,
   "end": null,
   "category": "food",
-  "approx": true,
+  "approx": false,
   "source": "osm",
-  "note": "Open today (cafe). Listed in OpenStreetMap; first mapped in 2019, which is roughly when it opened.",
+  "note": "Open today (cafe). Listed in OpenStreetMap; first mapped in 2019, which is roughly when it opened. Palo Alto Online's Peninsula Foodist reported it opening in 2018.",
   "lat": 37.4443528,
   "lng": -122.1609464
  },
@@ -1599,12 +1611,12 @@
  {
   "name": "Joe & The Juice",
   "address": "508 University Ave",
-  "start": 2018,
+  "start": 2019,
   "end": null,
   "category": "food",
-  "approx": false,
+  "approx": true,
   "source": "osm",
-  "note": "Open today (cafe). Listed in OpenStreetMap; first mapped in 2019, which is roughly when it opened. Palo Alto Online's Peninsula Foodist reported it opening in 2018.",
+  "note": "Open today (cafe). Listed in OpenStreetMap; first mapped in 2019, which is roughly when it opened.",
   "lat": 37.4484574,
   "lng": -122.1588997
  },

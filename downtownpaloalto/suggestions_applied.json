@@ -119,6 +119,15 @@
    "end": 1994,
    "category": "entertainment",
    "approx": true
+  },
+  {
+   "name": "La Morenita",
+   "address": "800 Emerson St",
+   "note": "Family-run Mexican restaurant at Emerson and Homer that opened in May 1994 and closed in December 2017 when the owners retired. The Greek restaurant Taverna later took over the space.",
+   "start": 1994,
+   "end": 2017,
+   "category": "food",
+   "approx": false
   }
  ],
  "corrections": [
