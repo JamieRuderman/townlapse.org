@@ -506,6 +506,15 @@
     "start": 2011,
     "approx": false
    }
+  },
+  {
+   "target": "Parasol",
+   "target_address": "470 Hamilton Ave",
+   "fields": {
+    "note": "Parasol Beauty Atelier is a skin care, brow and permanent makeup studio. Business listings say it opened around November 2010, and it is still open.",
+    "start": 2010,
+    "approx": true
+   }
   }
  ]
 }
