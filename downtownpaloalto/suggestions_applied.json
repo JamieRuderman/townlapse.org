@@ -254,6 +254,15 @@
    "end": null,
    "category": "landmark",
    "approx": true
+  },
+  {
+   "name": "Q Cafe & Billiards",
+   "address": "529 Alma St",
+   "note": "Restaurant, nightclub and pool hall in a warehouse-style building on Alma Street, with billiards, live music and DJ nights. It opened in 1994 on a 10-year lease and was set to close at the end of July 2004, when the lease ran out.",
+   "start": 1994,
+   "end": 2004,
+   "category": "entertainment",
+   "approx": false
   }
  ],
  "corrections": [
