@@ -110,6 +110,15 @@
    "end": 1994,
    "category": "food",
    "approx": true
+  },
+  {
+   "name": "St. Michael's Waiting Room",
+   "address": "806 Emerson St",
+   "note": "Small venue next door to St. Michael's Alley that held weekly poetry readings and open-mic nights, in the spirit of the original 1959 coffeehouse. It closed around the time the restaurant was sold in 1994; its opening year is uncertain.",
+   "start": 1980,
+   "end": 1994,
+   "category": "entertainment",
+   "approx": true
   }
  ],
  "corrections": [
