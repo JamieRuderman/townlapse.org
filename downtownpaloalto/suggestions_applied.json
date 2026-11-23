@@ -839,6 +839,19 @@
     "https://www.paloaltoonline.com/morgue/restaurants/1994_Sep_7.mini_reviews.html",
     "https://www.tripadvisor.in/Restaurant_Review-g32849-d364522-Reviews-Evvia-Palo_Alto_California.html"
    ]
+  },
+  {
+   "name": "Max's Eatz",
+   "address": "201 University Ave",
+   "note": "Upscale deli offshoot of Max's Opera Cafe serving New York deli-style sandwiches, reviewed as new in April 1995. It closed within months, and World Wrapps was planned for the corner space by October 1995.",
+   "start": 1995,
+   "end": 1995,
+   "category": "food",
+   "approx": false,
+   "links": [
+    "https://www.paloaltoonline.com/morgue/news/1995_Oct_4.around_town.html",
+    "https://www.paloaltoonline.com/morgue/restaurants/1995_Apr_7.EATOUT07.html"
+   ]
   }
  ],
  "corrections": [
