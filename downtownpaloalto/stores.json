@@ -639,6 +639,18 @@
   "source": "suggestion"
  },
  {
+  "name": "St. Michael's Alley",
+  "address": "800 Emerson St",
+  "start": 1973,
+  "end": 1994,
+  "category": "food",
+  "approx": true,
+  "note": "Revival of the 1959 University Avenue coffeehouse, opened in 1973 in the 1923 Cashel building at Emerson and Homer. The founding owner sold it in 1994.",
+  "lat": 37.4421417,
+  "lng": -122.1590527,
+  "source": "suggestion"
+ },
+ {
   "name": "Nola's",
   "address": "near Ramona St",
   "start": 2013,
@@ -1369,12 +1381,12 @@
  {
   "name": "Joe & The Juice",
   "address": "240 Hamilton Ave",
-  "start": 2018,
+  "start": 2019,
   "end": null,
   "category": "food",
-  "approx": false,
+  "approx": true,
   "source": "osm",
-  "note": "Open today (cafe). Listed in OpenStreetMap; first mapped in 2019, which is roughly when it opened. Palo Alto Online's Peninsula Foodist reported it opening in 2018.",
+  "note": "Open today (cafe). Listed in OpenStreetMap; first mapped in 2019, which is roughly when it opened.",
   "lat": 37.4443528,
   "lng": -122.1609464
  },
@@ -1575,12 +1587,12 @@
  {
   "name": "Joe & The Juice",
   "address": "508 University Ave",
-  "start": 2019,
+  "start": 2018,
   "end": null,
   "category": "food",
-  "approx": true,
+  "approx": false,
   "source": "osm",
-  "note": "Open today (cafe). Listed in OpenStreetMap; first mapped in 2019, which is roughly when it opened.",
+  "note": "Open today (cafe). Listed in OpenStreetMap; first mapped in 2019, which is roughly when it opened. Palo Alto Online's Peninsula Foodist reported it opening in 2018.",
   "lat": 37.4484574,
   "lng": -122.1588997
  },
@@ -25194,14 +25206,14 @@
  },
  {
   "name": "Coupa Cafe",
-  "address": "Ramona St",
+  "address": "111 Lytton Ave",
   "start": 2004,
   "end": 2004,
   "category": "food",
   "approx": true,
   "source": "news",
-  "lat": 37.4455052,
-  "lng": -122.1625455,
+  "lat": 37.4445426,
+  "lng": -122.1652665,
   "note": "Cafe. Palo Alto Online's Peninsula Foodist reported it opening in 2004. Later status unknown."
  },
  {
