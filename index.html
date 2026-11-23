@@ -88,7 +88,7 @@ footer nav{display:flex;gap:18px;flex-wrap:wrap}
     <p class="lede">A free, open-source map with a timeline from 1900 to today. Drag the slider and see which shops, restaurants and theaters stood on each block. Neighbors add the places they remember, and every one is checked against old directories and newspapers before it goes on the map.</p>
     <div class="cta">
       <a class="btn" href="/downtownpaloalto/">Explore downtown Palo Alto</a>
-      <a class="btn ghost" href="#start">Make one for your town</a>
+      <a class="btn ghost" href="/start/">Start your town</a>
     </div>
     <div class="ruler" aria-hidden="true" id="ruler"></div>
   </header>
@@ -118,16 +118,17 @@ footer nav{display:flex;gap:18px;flex-wrap:wrap}
         <div>
           <h3>Downtown Palo Alto, California</h3>
           <p>1900 to today. Nearly 2,000 places, from the 1904 city directory and decades of phone books to today's shops, plus the ones neighbors remembered.</p>
-          <a class="btn" href="/downtownpaloalto/">Open the map</a>
+          <a class="btn" href="/downtownpaloalto/">Open the map</a> <a class="btn ghost" href="/contribute/?town=downtownpaloalto">Help research</a>
         </div>
       </div>
       <div id="moreTowns"></div>
-      <div class="yours">Your town could be next. <a href="#start">Start one</a>, then add it to <a href="https://github.com/unotdys/townlapse.org/blob/main/towns.json">towns.json</a> with a pull request (or <a href="https://github.com/unotdys/townlapse.org/issues/new?title=Add%20my%20town%3A%20">tell us about it</a>), and it gets its own address: townlapse.org/<i>yourtown</i>.</div>
+      <div class="yours">Your town could be next. <a href="/start/"><b>Start one in a few minutes</b></a>, no account needed. Running your own copy? then add it to <a href="https://github.com/unotdys/townlapse.org/blob/main/towns.json">towns.json</a> with a pull request (or <a href="https://github.com/unotdys/townlapse.org/issues/new?title=Add%20my%20town%3A%20">tell us about it</a>), and it gets its own address: townlapse.org/<i>yourtown</i>.</div>
     </section>
 
     <section aria-labelledby="start" id="start">
       <h2>Start a Townlapse for your town</h2>
-      <p class="note" style="margin:0 0 26px">You need a free GitHub account and about 15 minutes. No coding, just editing two files. Everything runs on free services.</p>
+      <p style="margin:0 0 18px"><a class="btn" href="/start/">Start your town</a></p>
+      <p class="note" style="margin:0 0 26px"><b>No account needed:</b> find your town, choose the area, and its map goes live in about 10 minutes, with today's places already on it. Then neighbors help fill in the history.<br><br>Technical, and want your own copy? You need a free GitHub account and about 15 minutes:</p>
       <ol class="steps">
         <li><div><b>Copy the template</b><span>Open <a href="https://github.com/unotdys/townlapse">github.com/unotdys/townlapse</a> and click <b style="display:inline">Use this template</b>.</span></div></li>
         <li><div><b>Describe your neighborhood</b><span>In <code>config.json</code>: its name, a few corner points of its boundary, and which way should point up on screen.</span></div></li>
@@ -164,7 +165,7 @@ fetch("/towns.json",{cache:"no-cache"}).then(r=>r.json()).then(reg=>{
   const others=(reg.towns||[]).filter(t=>t.slug!=="downtownpaloalto");
   document.getElementById("moreTowns").innerHTML=others.map(t=>`<div class="town" style="margin-top:16px;grid-template-columns:1fr">
     <div><h3>${esc(t.name)}${t.region?", "+esc(t.region):""}</h3><p>${esc(t.blurb||"")}</p>
-    <a class="btn" href="/${esc(t.slug)}/">Open the map</a> <span style="color:var(--dim);font-size:14px;margin-left:10px">townlapse.org/${esc(t.slug)}</span></div></div>`).join("");
+    <a class="btn" href="/${esc(t.slug)}/">Open the map</a> <a class="btn ghost" href="/contribute/?town=${esc(t.slug)}">Help research</a>${t.status==="populating"?` <span style="color:var(--green);font-size:14px;margin-left:8px">New: history being filled in</span>`:""}</div></div>`).join("");
 }).catch(()=>{});
 // decade ticks with a little bar chart, echoing the map's timeline
 (function(){

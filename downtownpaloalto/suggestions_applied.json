@@ -677,6 +677,20 @@
     "https://www.paloaltoonline.com/morgue/news/1995_Aug_16.SENIOR.html",
     "https://www.paloaltoonline.com/news/2019/03/01/senior-services-nonprofit-avenidas-debuts-new-center/"
    ]
+  },
+  {
+   "name": "Downtown Library",
+   "address": "270 Forest Ave",
+   "note": "The Downtown Branch of the Palo Alto Public Library opened here on March 8, 1971, across from the new Civic Center. It replaced the Carnegie library, which was demolished in 1967. The branch was renovated in 2011 and is still open.",
+   "start": 1971,
+   "end": null,
+   "category": "civic",
+   "approx": false,
+   "links": [
+    "https://library.cityofpaloalto.org/locations/d/",
+    "https://pcad.lib.washington.edu/building/2956/",
+    "https://www.paloaltoonline.com/news/2011/07/08/palo-altos-first-public-library/"
+   ]
   }
  ],
  "corrections": [

@@ -1,5 +1,5 @@
 {
- "_readme": "Townlapse town registry. Add one entry per town (a pull request is welcome). 'slug' becomes townlapse.org/<slug>; 'url' is where the town's map lives (here, or on its own domain).",
+ "_readme": "Townlapse town registry. Add one entry per town (a pull request is welcome). 'slug' becomes townlapse.org/<slug>; 'url' is where the town's map lives (here, or on its own domain); 'center' is [lat, lng] of the town's middle and 'radius_km' roughly how far it extends, used by the Townlapse apps to show towns near you.",
  "towns": [
   {
    "slug": "downtownpaloalto",
@@ -9,7 +9,64 @@
    "since": 1900,
    "repo": "https://github.com/unotdys/townlapse.org",
    "image": "/img/map.jpg",
-   "blurb": "1900 to today. More than 2,000 places, from the 1904 city directory and decades of phone books to today's shops, plus the ones neighbors remembered."
+   "blurb": "1900 to today. More than 2,000 places, from the 1904 city directory and decades of phone books to today's shops, plus the ones neighbors remembered.",
+   "center": [
+    37.4465,
+    -122.161
+   ],
+   "radius_km": 1.0,
+   "city": "Palo Alto"
+  },
+  {
+   "slug": "calavenuepaloalto",
+   "name": "Cal Avenue Palo Alto",
+   "region": "California",
+   "city": "Palo Alto",
+   "country": "United States",
+   "url": "https://townlapse.org/calavenuepaloalto/",
+   "since": 1900,
+   "center": [
+    37.4268,
+    -122.1442
+   ],
+   "radius_km": 0.5,
+   "status": "populating",
+   "created": "2026-11-23",
+   "blurb": "Started November 2026. Today's places are on the map; neighbors and AI researchers are filling in its history."
+  },
+  {
+   "slug": "downtownmenlopark",
+   "name": "Downtown Menlo Park",
+   "region": "California",
+   "city": "Menlo Park",
+   "country": "United States",
+   "url": "https://townlapse.org/downtownmenlopark/",
+   "since": 1900,
+   "center": [
+    37.4528,
+    -122.1823
+   ],
+   "radius_km": 0.6,
+   "status": "populating",
+   "created": "2026-11-23",
+   "blurb": "Started November 2026. Today's places are on the map; neighbors and AI researchers are filling in its history."
+  },
+  {
+   "slug": "townandcountrypaloalto",
+   "name": "Town and Country Palo Alto",
+   "region": "California",
+   "city": "Palo Alto",
+   "country": "United States",
+   "url": "https://townlapse.org/townandcountrypaloalto/",
+   "since": 1950,
+   "center": [
+    37.4391,
+    -122.1592
+   ],
+   "radius_km": 0.3,
+   "status": "populating",
+   "created": "2026-11-23",
+   "blurb": "Started November 2026. Today's places are on the map; neighbors and AI researchers are filling in its history."
   },
   {
    "slug": "downtownsantarosa",
@@ -18,7 +75,14 @@
    "url": "https://townlapse.org/downtownsantarosa/",
    "since": 1900,
    "repo": "https://github.com/unotdys/townlapse.org",
-   "blurb": "Railroad Square to Courthouse Square, 1900 to today. The stone buildings that survived 1906, the courthouses, theaters and department stores that didn't, and today's shops from OpenStreetMap."
+   "blurb": "Railroad Square to Courthouse Square, 1900 to today. The stone buildings that survived 1906, the courthouses, theaters and department stores that didn't, and today's shops from OpenStreetMap.",
+   "center": [
+    38.4395,
+    -122.716
+   ],
+   "radius_km": 0.7,
+   "city": "Santa Rosa",
+   "country": "United States"
   }
  ]
 }
