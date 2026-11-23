@@ -330,6 +330,15 @@
     "end": 2017,
     "approx": false
    }
+  },
+  {
+   "target": "Sprout",
+   "target_address": "168 University Ave",
+   "fields": {
+    "note": "Build-your-own salad cafe that opened in late August 2008 in the former Windy's Chinese restaurant space. Still open today.",
+    "start": 2008,
+    "approx": false
+   }
   }
  ]
 }

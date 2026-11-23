@@ -1150,12 +1150,12 @@
  {
   "name": "Sprout",
   "address": "168 University Ave",
-  "start": 2013,
+  "start": 2008,
   "end": null,
   "category": "food",
-  "approx": true,
+  "approx": false,
   "source": "osm",
-  "note": "Open today (restaurant). Listed in OpenStreetMap; on the map since at least 2013; it may be much older.",
+  "note": "Build-your-own salad cafe that opened in late August 2008 in the former Windy's Chinese restaurant space. Still open today.",
   "lat": 37.4443206,
   "lng": -122.1630033
  },
@@ -2012,12 +2012,12 @@
  {
   "name": "Gong Cha",
   "address": "439 Waverley St",
-  "start": 2015,
+  "start": 2017,
   "end": null,
   "category": "food",
-  "approx": false,
+  "approx": true,
   "source": "osm",
-  "note": "Open today (cafe). Listed in OpenStreetMap; first mapped in 2017, which is roughly when it opened. Palo Alto Online's Peninsula Foodist reported it opening in 2015.",
+  "note": "Open today (cafe). Listed in OpenStreetMap; first mapped in 2017, which is roughly when it opened.",
   "lat": 37.4477131,
   "lng": -122.1607332
  },
@@ -25143,6 +25143,18 @@
   "lat": 37.4480623,
   "lng": -122.1612484,
   "note": "Panini and coffee cafe that took over the former Lytton Roasting Company corner in 2012; it closed in January 2015 after three years."
+ },
+ {
+  "name": "Gong Cha",
+  "address": "429 Waverley St",
+  "start": 2015,
+  "end": 2015,
+  "category": "food",
+  "approx": true,
+  "source": "news",
+  "lat": 37.4476333,
+  "lng": -122.1610727,
+  "note": "Milk tea shop. Palo Alto Online's Peninsula Foodist reported it opening in 2015. Later status unknown."
  },
  {
   "name": "B+B",
