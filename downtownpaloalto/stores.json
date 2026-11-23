@@ -640,6 +640,18 @@
   "source": "suggestion"
  },
  {
+  "name": "Voyant International Corporation",
+  "address": "530 Lytton Ave",
+  "start": 2007,
+  "end": 2008,
+  "category": "tech",
+  "approx": true,
+  "note": "Media and technology holding company, formerly called Zeros & Ones, Inc., that took the name Voyant International in 2007. SEC filings list its offices on the second floor here until it moved to Mountain View in spring 2008.",
+  "lat": 37.44927,
+  "lng": -122.1599389,
+  "source": "suggestion"
+ },
+ {
   "name": "Nola's",
   "address": "near Ramona St",
   "start": 2013,
@@ -25543,14 +25555,14 @@
  },
  {
   "name": "Coupa Cafe",
-  "address": "Ramona St",
+  "address": "111 Lytton Ave",
   "start": 2004,
   "end": 2004,
   "category": "food",
   "approx": true,
   "source": "news",
-  "lat": 37.4455052,
-  "lng": -122.1625455,
+  "lat": 37.4445426,
+  "lng": -122.1652665,
   "note": "Cafe. Palo Alto Online's Peninsula Foodist reported it opening in 2004. Later status unknown."
  },
  {

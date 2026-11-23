@@ -100,6 +100,15 @@
    "end": 1993,
    "category": "tech",
    "approx": true
+  },
+  {
+   "name": "Voyant International Corporation",
+   "address": "530 Lytton Ave",
+   "note": "Media and technology holding company, formerly called Zeros & Ones, Inc., that took the name Voyant International in 2007. SEC filings list its offices on the second floor here until it moved to Mountain View in spring 2008.",
+   "start": 2007,
+   "end": 2008,
+   "category": "tech",
+   "approx": true
   }
  ],
  "corrections": [
