@@ -616,6 +616,18 @@
   "start_unknown": true
  },
  {
+  "name": "The Victorian on Lytton",
+  "address": "555 Lytton Ave",
+  "start": 1986,
+  "end": 2006,
+  "category": "hotel",
+  "approx": true,
+  "note": "Bed-and-breakfast inn in the 1896 Queen Anne-style Hannah Clapp House, which was converted to an inn in 1985\u201386. It closed around 2006 after water damage, and the house later held a women's resource center.",
+  "lat": 37.450069,
+  "lng": -122.1601145,
+  "source": "suggestion"
+ },
+ {
   "name": "Nola's",
   "address": "near Ramona St",
   "start": 2013,
@@ -25219,14 +25231,14 @@
  },
  {
   "name": "La Comida",
-  "address": "429 Bryant St",
+  "address": "450 Bryant St",
   "start": 2026,
   "end": 2026,
   "category": "food",
   "approx": false,
   "source": "news",
-  "lat": 37.4465596,
-  "lng": -122.162491,
+  "lat": 37.4461771,
+  "lng": -122.1624215,
   "note": "Senior meal nonprofit. Palo Alto Online's Peninsula Foodist reported it opening in 2026 and closing in 2026."
  },
  {
@@ -25881,13 +25893,13 @@
   "name": "The Redwood by Chef Julien",
   "address": "450 Bryant St",
   "start": 2022,
-  "end": 2022,
+  "end": 2026,
   "category": "food",
-  "approx": true,
+  "approx": false,
   "source": "news",
   "lat": 37.4461771,
   "lng": -122.1624215,
-  "note": "French cafe. Palo Alto Online's Peninsula Foodist reported it opening in 2022. Later status unknown."
+  "note": "French cafe. Palo Alto Online's Peninsula Foodist reported it opening in 2022."
  },
  {
   "name": "Lima Ruby",

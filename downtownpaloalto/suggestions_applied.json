@@ -82,6 +82,15 @@
    "end": 2016,
    "category": "retail",
    "approx": true
+  },
+  {
+   "name": "The Victorian on Lytton",
+   "address": "555 Lytton Ave",
+   "note": "Bed-and-breakfast inn in the 1896 Queen Anne-style Hannah Clapp House, which was converted to an inn in 1985\u201386. It closed around 2006 after water damage, and the house later held a women's resource center.",
+   "start": 1986,
+   "end": 2006,
+   "category": "hotel",
+   "approx": true
   }
  ],
  "corrections": [
